@@ -574,5 +574,37 @@
             },
             "link": "https://i.imgur.com/S0aWW9O.mp4"
         }
+    },
+    "CURIOUS_LIPSTICK": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 57.0,
+                    "COST": 700.0,
+                    "AREA": 81.0
+                }
+            },
+            "link": "https://i.imgur.com/FGgNvXh.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 57.0,
+                    "AREA": 81.0,
+                    "COST": 700.0
+                }
+            },
+            "link": "https://i.imgur.com/FGgNvXh.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 57.0,
+                    "COST": 700.0,
+                    "AREA": 81.0
+                }
+            },
+            "link": "https://i.imgur.com/FGgNvXh.mp4"
+        }
     }
 }
