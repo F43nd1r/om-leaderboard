@@ -670,5 +670,37 @@
             },
             "link": "https://i.imgur.com/Jn4jcPj.mp4"
         }
+    },
+    "ALCHEMICAL_JEWEL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "COST": 220.0,
+                    "AREA": 56.0
+                }
+            },
+            "link": "https://i.imgur.com/eVA35X0.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "AREA": 56.0,
+                    "COST": 220.0
+                }
+            },
+            "link": "https://i.imgur.com/eVA35X0.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "COST": 220.0,
+                    "AREA": 56.0
+                }
+            },
+            "link": "https://i.imgur.com/eVA35X0.mp4"
+        }
     }
 }
