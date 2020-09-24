@@ -766,5 +766,37 @@
             },
             "link": "https://i.imgur.com/iAxkkZv.mp4"
         }
+    },
+    "WATER_PURIFIER": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "COST": 485.0,
+                    "AREA": 118.0
+                }
+            },
+            "link": "https://i.imgur.com/jqSsoJd.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "AREA": 118.0,
+                    "COST": 485.0
+                }
+            },
+            "link": "https://i.imgur.com/jqSsoJd.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "COST": 485.0,
+                    "AREA": 118.0
+                }
+            },
+            "link": "https://i.imgur.com/jqSsoJd.mp4"
+        }
     }
 }
