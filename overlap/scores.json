@@ -638,5 +638,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758556043063066664/Opus_Magnum_-_Universal_Solvent_885G_22_186_2020-09-24-09-08-36.gif"
         }
+    },
+    "SWORD_ALLOY": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 50.0,
+                    "COST": 300.0,
+                    "AREA": 51.0
+                }
+            },
+            "link": "https://i.imgur.com/Jn4jcPj.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 50.0,
+                    "AREA": 51.0,
+                    "COST": 300.0
+                }
+            },
+            "link": "https://i.imgur.com/Jn4jcPj.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 50.0,
+                    "COST": 300.0,
+                    "AREA": 51.0
+                }
+            },
+            "link": "https://i.imgur.com/Jn4jcPj.mp4"
+        }
     }
 }
