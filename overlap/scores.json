@@ -222,5 +222,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758544981337702410/Opus_Magnum_-_Health_Tonic_60G_8_16_2020-09-24-08-24-53.gif"
         }
+    },
+    "STAMINA_POTION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 395.0,
+                    "AREA": 124.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758545771179409468/Opus_Magnum_-_Stamina_Potion_395G_13_124_2020-09-24-08-27-28.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "AREA": 124.0,
+                    "COST": 395.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758545771179409468/Opus_Magnum_-_Stamina_Potion_395G_13_124_2020-09-24-08-27-28.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 395.0,
+                    "AREA": 124.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758545771179409468/Opus_Magnum_-_Stamina_Potion_395G_13_124_2020-09-24-08-27-28.gif"
+        }
     }
 }
