@@ -702,5 +702,37 @@
             },
             "link": "https://i.imgur.com/eVA35X0.mp4"
         }
+    },
+    "STAIN_REMOVER": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 855.0,
+                    "AREA": 201.0
+                }
+            },
+            "link": "https://i.imgur.com/MCh9P43.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "AREA": 201.0,
+                    "COST": 855.0
+                }
+            },
+            "link": "https://i.imgur.com/MCh9P43.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 855.0,
+                    "AREA": 201.0
+                }
+            },
+            "link": "https://i.imgur.com/MCh9P43.mp4"
+        }
     }
 }
