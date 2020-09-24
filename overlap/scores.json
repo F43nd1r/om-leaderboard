@@ -62,5 +62,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758510023201521674/Opus_Magnum_-_Hair_Product_70G_25_10_2020-09-24-06-02-47.gif"
         }
+    },
+    "AIRSHIP_FUEL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 9.0,
+                    "COST": 100.0,
+                    "AREA": 23.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758511126915842058/Opus_Magnum_-_Airship_Fuel_100G_9_23_2020-09-24-06-10-18.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 9.0,
+                    "AREA": 23.0,
+                    "COST": 100.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758511126915842058/Opus_Magnum_-_Airship_Fuel_100G_9_23_2020-09-24-06-10-18.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 9.0,
+                    "COST": 100.0,
+                    "AREA": 23.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758511126915842058/Opus_Magnum_-_Airship_Fuel_100G_9_23_2020-09-24-06-10-18.gif"
+        }
     }
 }
