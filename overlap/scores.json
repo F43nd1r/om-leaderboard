@@ -286,5 +286,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548768193904690/Opus_Magnum_-_Rocket_Propellant_215G_16_29_2020-09-24-08-38-19.gif"
         }
+    },
+    "MIST_OF_INCAPACITATION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 8.0,
+                    "COST": 80.0,
+                    "AREA": 6.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548980433944596/Opus_Magnum_-_Mist_of_Incapacitation_80G_8_6_2020-09-24-08-40-41.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 8.0,
+                    "AREA": 6.0,
+                    "COST": 80.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548980433944596/Opus_Magnum_-_Mist_of_Incapacitation_80G_8_6_2020-09-24-08-40-41.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 8.0,
+                    "COST": 80.0,
+                    "AREA": 6.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548980433944596/Opus_Magnum_-_Mist_of_Incapacitation_80G_8_6_2020-09-24-08-40-41.gif"
+        }
     }
 }
