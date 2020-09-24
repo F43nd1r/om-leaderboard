@@ -1022,5 +1022,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758565462442508288/Opus_Magnum_-_Very_Dark_Thread_260G_14_50_2020-09-23-22-47-39.gif"
         }
+    },
+    "VOLTAIC_COIL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 525.0,
+                    "AREA": 84.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758566158437449748/Opus_Magnum_-_Voltaic_Coil_525G_24_84_2020-09-23-22-50-29.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "AREA": 84.0,
+                    "COST": 525.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758566158437449748/Opus_Magnum_-_Voltaic_Coil_525G_24_84_2020-09-23-22-50-29.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 525.0,
+                    "AREA": 84.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758566158437449748/Opus_Magnum_-_Voltaic_Coil_525G_24_84_2020-09-23-22-50-29.gif"
+        }
     }
 }
