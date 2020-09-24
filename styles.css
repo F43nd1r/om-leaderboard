@@ -19,7 +19,8 @@ tr:nth-child(even) {
 .tables {
     width:max-content;
     max-width: 100%;
-    display: block;
+    display: flex;
+    flex-direction: column;
 }
 
 h1, h2, p {
@@ -68,4 +69,12 @@ code {
 
 .center {
     text-align: center;
+}
+
+html {
+   scroll-behavior: smooth;
+}
+
+.right {
+    align-self: end;
 }
