@@ -926,5 +926,37 @@
             },
             "link": "https://i.imgur.com/c1zrKk4.mp4"
         }
+    },
+    "PRECISION_MACHINE_OIL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 190.0,
+                    "AREA": 31.0
+                }
+            },
+            "link": "https://i.imgur.com/CP8aC1X.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "AREA": 31.0,
+                    "COST": 190.0
+                }
+            },
+            "link": "https://i.imgur.com/CP8aC1X.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 190.0,
+                    "AREA": 31.0
+                }
+            },
+            "link": "https://i.imgur.com/CP8aC1X.mp4"
+        }
     }
 }
