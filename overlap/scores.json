@@ -958,5 +958,37 @@
             },
             "link": "https://i.imgur.com/CP8aC1X.mp4"
         }
+    },
+    "WARMING_TONIC": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 235.0,
+                    "AREA": 16.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758564232748335124/Opus_Magnum_-_Warming_Tonic_235G_13_16_2020-09-24-09-41-15.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "AREA": 16.0,
+                    "COST": 235.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758564232748335124/Opus_Magnum_-_Warming_Tonic_235G_13_16_2020-09-24-09-41-15.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 235.0,
+                    "AREA": 16.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758564232748335124/Opus_Magnum_-_Warming_Tonic_235G_13_16_2020-09-24-09-41-15.gif"
+        }
     }
 }
