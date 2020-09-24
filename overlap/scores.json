@@ -606,5 +606,37 @@
             },
             "link": "https://i.imgur.com/FGgNvXh.mp4"
         }
+    },
+    "UNIVERSAL_SOLVENT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "COST": 885.0,
+                    "AREA": 186.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758556043063066664/Opus_Magnum_-_Universal_Solvent_885G_22_186_2020-09-24-09-08-36.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "AREA": 186.0,
+                    "COST": 885.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758556043063066664/Opus_Magnum_-_Universal_Solvent_885G_22_186_2020-09-24-09-08-36.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "COST": 885.0,
+                    "AREA": 186.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758556043063066664/Opus_Magnum_-_Universal_Solvent_885G_22_186_2020-09-24-09-08-36.gif"
+        }
     }
 }
