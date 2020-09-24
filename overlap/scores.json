@@ -350,5 +350,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549439274680350/Opus_Magnum_-_Explosive_Phial_130G_10_10_2020-09-24-08-42-30.gif"
         }
+    },
+    "ARMOR_FILAMENT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 155.0,
+                    "AREA": 17.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549862500925480/Opus_Magnum_-_Armor_Filament_155G_13_17_2020-09-24-08-44-13.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "AREA": 17.0,
+                    "COST": 155.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549862500925480/Opus_Magnum_-_Armor_Filament_155G_13_17_2020-09-24-08-44-13.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 13.0,
+                    "COST": 155.0,
+                    "AREA": 17.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549862500925480/Opus_Magnum_-_Armor_Filament_155G_13_17_2020-09-24-08-44-13.gif"
+        }
     }
 }
