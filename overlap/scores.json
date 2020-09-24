@@ -830,5 +830,37 @@
             },
             "link": "https://i.imgur.com/9dXV3vL.mp4"
         }
+    },
+    "UNSTABLE_COMPOUND": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 31.0,
+                    "COST": 1170.0,
+                    "AREA": 229.0
+                }
+            },
+            "link": "https://i.imgur.com/7tTR2Qj.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 31.0,
+                    "AREA": 229.0,
+                    "COST": 1170.0
+                }
+            },
+            "link": "https://i.imgur.com/7tTR2Qj.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 31.0,
+                    "COST": 1170.0,
+                    "AREA": 229.0
+                }
+            },
+            "link": "https://i.imgur.com/7tTR2Qj.mp4"
+        }
     }
 }
