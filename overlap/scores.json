@@ -478,5 +478,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551470555267092/Opus_Magnum_-_Seal_Solvent_200G_24_13_2020-09-24-08-50-29.gif"
         }
+    },
+    "LIFE_SENSING_POTION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 14.0,
+                    "COST": 210.0,
+                    "AREA": 21.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551898311360552/Opus_Magnum_-_Life-Sensing_Potion_210G_14_21_2020-09-24-08-52-16.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 14.0,
+                    "AREA": 21.0,
+                    "COST": 210.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551898311360552/Opus_Magnum_-_Life-Sensing_Potion_210G_14_21_2020-09-24-08-52-16.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 14.0,
+                    "COST": 210.0,
+                    "AREA": 21.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551898311360552/Opus_Magnum_-_Life-Sensing_Potion_210G_14_21_2020-09-24-08-52-16.gif"
+        }
     }
 }
