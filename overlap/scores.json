@@ -542,5 +542,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758552583148666890/Opus_Magnum_-_Litharge_Separation_440G_12_129_2020-09-24-08-55-01.gif"
         }
+    },
+    "TIMING_CRYSTAL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 108.0,
+                    "COST": 185.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/S0aWW9O.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 108.0,
+                    "AREA": 76.0,
+                    "COST": 185.0
+                }
+            },
+            "link": "https://i.imgur.com/S0aWW9O.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 108.0,
+                    "COST": 185.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/S0aWW9O.mp4"
+        }
     }
 }
