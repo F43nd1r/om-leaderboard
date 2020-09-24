@@ -254,5 +254,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758545771179409468/Opus_Magnum_-_Stamina_Potion_395G_13_124_2020-09-24-08-27-28.gif"
         }
+    },
+    "ROCKET_PROPELLANT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 16.0,
+                    "COST": 200.0,
+                    "AREA": 32.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548545661304882/Opus_Magnum_-_Rocket_Propellant_200G_16_32_2020-09-24-08-37-54.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 16.0,
+                    "AREA": 32.0,
+                    "COST": 200.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548545661304882/Opus_Magnum_-_Rocket_Propellant_200G_16_32_2020-09-24-08-37-54.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 16.0,
+                    "COST": 200.0,
+                    "AREA": 32.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758548545661304882/Opus_Magnum_-_Rocket_Propellant_200G_16_32_2020-09-24-08-37-54.gif"
+        }
     }
 }
