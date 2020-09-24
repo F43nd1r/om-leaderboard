@@ -158,5 +158,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758543259089371146/Opus_Magnum_-_Waterproof_Sealant_95G_12_7_2020-09-24-08-17-59.gif"
         }
+    },
+    "HANGOVER_CURE": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 19.0,
+                    "COST": 145.0,
+                    "AREA": 25.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758543526362742825/Opus_Magnum_-_Hangover_Cure_145G_19_25_2020-09-24-08-19-03.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 19.0,
+                    "AREA": 25.0,
+                    "COST": 145.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758543526362742825/Opus_Magnum_-_Hangover_Cure_145G_19_25_2020-09-24-08-19-03.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 19.0,
+                    "COST": 145.0,
+                    "AREA": 25.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758543526362742825/Opus_Magnum_-_Hangover_Cure_145G_19_25_2020-09-24-08-19-03.gif"
+        }
     }
 }
