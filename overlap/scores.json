@@ -190,5 +190,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758543526362742825/Opus_Magnum_-_Hangover_Cure_145G_19_25_2020-09-24-08-19-03.gif"
         }
+    },
+    "HEALTH_TONIC": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 8.0,
+                    "COST": 60.0,
+                    "AREA": 16.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758544981337702410/Opus_Magnum_-_Health_Tonic_60G_8_16_2020-09-24-08-24-53.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 8.0,
+                    "AREA": 16.0,
+                    "COST": 60.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758544981337702410/Opus_Magnum_-_Health_Tonic_60G_8_16_2020-09-24-08-24-53.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 8.0,
+                    "COST": 60.0,
+                    "AREA": 16.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758544981337702410/Opus_Magnum_-_Health_Tonic_60G_8_16_2020-09-24-08-24-53.gif"
+        }
     }
 }
