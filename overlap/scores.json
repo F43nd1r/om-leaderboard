@@ -734,5 +734,37 @@
             },
             "link": "https://i.imgur.com/MCh9P43.mp4"
         }
+    },
+    "CLIMBING_ROPE_FIBER": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "COST": 220.0,
+                    "AREA": 94.0
+                }
+            },
+            "link": "https://i.imgur.com/iAxkkZv.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "AREA": 94.0,
+                    "COST": 220.0
+                }
+            },
+            "link": "https://i.imgur.com/iAxkkZv.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "COST": 220.0,
+                    "AREA": 94.0
+                }
+            },
+            "link": "https://i.imgur.com/iAxkkZv.mp4"
+        }
     }
 }
