@@ -1,1 +1,34 @@
-{}
+{
+    "PURIFIED_GOLD": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 53.0,
+                    "COST": 500.0,
+                    "AREA": 36.0
+                }
+            },
+            "link": "https://i.imgur.com/c9dcAky.mp4"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 53.0,
+                    "AREA": 36.0,
+                    "COST": 500.0
+                }
+            },
+            "link": "https://i.imgur.com/c9dcAky.mp4"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 53.0,
+                    "COST": 500.0,
+                    "AREA": 36.0
+                }
+            },
+            "link": "https://i.imgur.com/c9dcAky.mp4"
+        }
+    }
+}
