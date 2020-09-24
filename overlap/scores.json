@@ -318,5 +318,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549233149804544/Opus_Magnum_-_Mist_of_Incapacitation_90G_8_5_2020-09-24-08-41-33.gif"
         }
+    },
+    "EXPLOSIVE_PHIAL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 10.0,
+                    "COST": 130.0,
+                    "AREA": 10.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549439274680350/Opus_Magnum_-_Explosive_Phial_130G_10_10_2020-09-24-08-42-30.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 10.0,
+                    "AREA": 10.0,
+                    "COST": 130.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549439274680350/Opus_Magnum_-_Explosive_Phial_130G_10_10_2020-09-24-08-42-30.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 10.0,
+                    "COST": 130.0,
+                    "AREA": 10.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758549439274680350/Opus_Magnum_-_Explosive_Phial_130G_10_10_2020-09-24-08-42-30.gif"
+        }
     }
 }
