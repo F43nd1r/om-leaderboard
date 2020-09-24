@@ -414,5 +414,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758550296883757096/Opus_Magnum_-_Courage_Potion_150G_13_35_2020-09-24-08-45-53.gif"
         }
+    },
+    "ALCOHOL_SEPARATION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 3.0,
+                    "COST": 130.0,
+                    "AREA": 18.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551162860732416/Opus_Magnum_-_Alcohol_Separation_130G_3_18_2020-09-24-08-48-58.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 3.0,
+                    "AREA": 18.0,
+                    "COST": 130.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551162860732416/Opus_Magnum_-_Alcohol_Separation_130G_3_18_2020-09-24-08-48-58.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 3.0,
+                    "COST": 130.0,
+                    "AREA": 18.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758551162860732416/Opus_Magnum_-_Alcohol_Separation_130G_3_18_2020-09-24-08-48-58.gif"
+        }
     }
 }
