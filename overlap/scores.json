@@ -1118,5 +1118,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/758987553474347008/Opus_Magnum_-_Explosive_Victrite_245G_43_24_2020-09-25-13-43-15.gif"
         }
+    },
+    "PROOF_OF_COMPLETENESS": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 20.0,
+                    "COST": 220.0,
+                    "AREA": 17.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758989676823576616/Opus_Magnum_-_Proof_of_Completeness_220G_20_17_2020-09-25-13-51-46.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 20.0,
+                    "AREA": 17.0,
+                    "COST": 220.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758989676823576616/Opus_Magnum_-_Proof_of_Completeness_220G_20_17_2020-09-25-13-51-46.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 20.0,
+                    "COST": 220.0,
+                    "AREA": 17.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/758989676823576616/Opus_Magnum_-_Proof_of_Completeness_220G_20_17_2020-09-25-13-51-46.gif"
+        }
     }
 }
