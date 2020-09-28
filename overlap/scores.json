@@ -1150,5 +1150,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/759007696401072138/Opus_Magnum_-_Proof_of_Completeness_120G_12_8_2020-09-25-15-03-11.gif"
         }
+    },
+    "REFINED_GOLD": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 15.0,
+                    "COST": 20.0,
+                    "AREA": 2.0
+                }
+            },
+            "link": "https://i.imgur.com/YbfAq50.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 15.0,
+                    "AREA": 2.0,
+                    "COST": 20.0
+                }
+            },
+            "link": "https://i.imgur.com/YbfAq50.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 15.0,
+                    "COST": 20.0,
+                    "AREA": 2.0
+                }
+            },
+            "link": "https://i.imgur.com/YbfAq50.gif"
+        }
     }
 }
