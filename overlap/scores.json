@@ -1214,5 +1214,37 @@
             },
             "link": "https://i.imgur.com/r8YVlqD.gif"
         }
+    },
+    "VAN_BERLO_S_WHEEL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "COST": 255.0,
+                    "AREA": 46.0
+                }
+            },
+            "link": "https://i.imgur.com/PeZFCPF.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "AREA": 46.0,
+                    "COST": 255.0
+                }
+            },
+            "link": "https://i.imgur.com/PeZFCPF.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 22.0,
+                    "COST": 255.0,
+                    "AREA": 46.0
+                }
+            },
+            "link": "https://i.imgur.com/PeZFCPF.gif"
+        }
     }
 }
