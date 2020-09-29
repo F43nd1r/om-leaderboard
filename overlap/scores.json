@@ -1246,5 +1246,37 @@
             },
             "link": "https://i.imgur.com/PeZFCPF.gif"
         }
+    },
+    "VAN_BERLO_S_CHAIN": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 710.0,
+                    "AREA": 210.0
+                }
+            },
+            "link": "https://i.imgur.com/58qS5eI.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "AREA": 210.0,
+                    "COST": 710.0
+                }
+            },
+            "link": "https://i.imgur.com/58qS5eI.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 710.0,
+                    "AREA": 210.0
+                }
+            },
+            "link": "https://i.imgur.com/58qS5eI.gif"
+        }
     }
 }
