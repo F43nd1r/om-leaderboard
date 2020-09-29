@@ -1278,5 +1278,37 @@
             },
             "link": "https://i.imgur.com/58qS5eI.gif"
         }
+    },
+    "SILVER_CAUSTIC": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 455.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/92OJ2kD.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "AREA": 76.0,
+                    "COST": 455.0
+                }
+            },
+            "link": "https://i.imgur.com/92OJ2kD.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 455.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/92OJ2kD.gif"
+        }
     }
 }
