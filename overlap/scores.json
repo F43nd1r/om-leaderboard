@@ -1374,5 +1374,37 @@
             },
             "link": "https://i.imgur.com/dul0reX.gif"
         }
+    },
+    "SAILCLOTH_THREAD": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 12.0,
+                    "COST": 1430.0,
+                    "AREA": 343.0
+                }
+            },
+            "link": "https://i.imgur.com/4eCpk2d.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 12.0,
+                    "AREA": 343.0,
+                    "COST": 1430.0
+                }
+            },
+            "link": "https://i.imgur.com/4eCpk2d.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 12.0,
+                    "COST": 1430.0,
+                    "AREA": 343.0
+                }
+            },
+            "link": "https://i.imgur.com/4eCpk2d.gif"
+        }
     }
 }
