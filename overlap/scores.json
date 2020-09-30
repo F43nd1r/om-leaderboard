@@ -1342,5 +1342,37 @@
             },
             "link": "https://i.imgur.com/d2g2nEb.mp4"
         }
+    },
+    "REACTIVE_CINNABAR": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 28.0,
+                    "COST": 620.0,
+                    "AREA": 291.0
+                }
+            },
+            "link": "https://i.imgur.com/dul0reX.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 28.0,
+                    "AREA": 291.0,
+                    "COST": 620.0
+                }
+            },
+            "link": "https://i.imgur.com/dul0reX.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 28.0,
+                    "COST": 620.0,
+                    "AREA": 291.0
+                }
+            },
+            "link": "https://i.imgur.com/dul0reX.gif"
+        }
     }
 }
