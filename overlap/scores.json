@@ -1438,5 +1438,37 @@
             },
             "link": "https://i.imgur.com/wkjIC9a.gif"
         }
+    },
+    "LUBRICATING_FILAMENT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 30.0,
+                    "COST": 445.0,
+                    "AREA": 371.0
+                }
+            },
+            "link": "https://i.imgur.com/Grbkly7.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 30.0,
+                    "AREA": 371.0,
+                    "COST": 445.0
+                }
+            },
+            "link": "https://i.imgur.com/Grbkly7.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 30.0,
+                    "COST": 445.0,
+                    "AREA": 371.0
+                }
+            },
+            "link": "https://i.imgur.com/Grbkly7.gif"
+        }
     }
 }
