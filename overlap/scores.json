@@ -1630,5 +1630,37 @@
             },
             "link": "https://i.imgur.com/2WDRO4S.gif"
         }
+    },
+    "EXPLORER_S_SALVE": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "COST": 270.0,
+                    "AREA": 42.0
+                }
+            },
+            "link": "https://i.imgur.com/rxOS9X1.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "AREA": 42.0,
+                    "COST": 270.0
+                }
+            },
+            "link": "https://i.imgur.com/rxOS9X1.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 36.0,
+                    "COST": 270.0,
+                    "AREA": 42.0
+                }
+            },
+            "link": "https://i.imgur.com/rxOS9X1.gif"
+        }
     }
 }
