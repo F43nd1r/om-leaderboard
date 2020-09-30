@@ -1406,5 +1406,37 @@
             },
             "link": "https://i.imgur.com/4eCpk2d.gif"
         }
+    },
+    "PRESERVATIVE_SALT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 10.0,
+                    "COST": 415.0,
+                    "AREA": 43.0
+                }
+            },
+            "link": "https://i.imgur.com/wkjIC9a.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 10.0,
+                    "AREA": 43.0,
+                    "COST": 415.0
+                }
+            },
+            "link": "https://i.imgur.com/wkjIC9a.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 10.0,
+                    "COST": 415.0,
+                    "AREA": 43.0
+                }
+            },
+            "link": "https://i.imgur.com/wkjIC9a.gif"
+        }
     }
 }
