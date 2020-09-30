@@ -1534,5 +1534,37 @@
             },
             "link": "https://i.imgur.com/z68XxES.gif"
         }
+    },
+    "RAVARI_S_WHEEL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 48.0,
+                    "COST": 220.0,
+                    "AREA": 19.0
+                }
+            },
+            "link": "https://i.imgur.com/5WLrvMC.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 48.0,
+                    "AREA": 19.0,
+                    "COST": 220.0
+                }
+            },
+            "link": "https://i.imgur.com/5WLrvMC.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 48.0,
+                    "COST": 220.0,
+                    "AREA": 19.0
+                }
+            },
+            "link": "https://i.imgur.com/5WLrvMC.gif"
+        }
     }
 }
