@@ -1502,5 +1502,37 @@
             },
             "link": "https://i.imgur.com/RYzO7Vg.gif"
         }
+    },
+    "ASSASSIN_S_FILAMENT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 50.0,
+                    "COST": 430.0,
+                    "AREA": 394.0
+                }
+            },
+            "link": "https://i.imgur.com/z68XxES.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 50.0,
+                    "AREA": 394.0,
+                    "COST": 430.0
+                }
+            },
+            "link": "https://i.imgur.com/z68XxES.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 50.0,
+                    "COST": 430.0,
+                    "AREA": 394.0
+                }
+            },
+            "link": "https://i.imgur.com/z68XxES.gif"
+        }
     }
 }
