@@ -1598,5 +1598,37 @@
             },
             "link": "https://i.imgur.com/huqeNHD.gif"
         }
+    },
+    "TONIC_OF_HYDRATION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 47.0,
+                    "COST": 400.0,
+                    "AREA": 29.0
+                }
+            },
+            "link": "https://i.imgur.com/2WDRO4S.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 47.0,
+                    "AREA": 29.0,
+                    "COST": 400.0
+                }
+            },
+            "link": "https://i.imgur.com/2WDRO4S.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 47.0,
+                    "COST": 400.0,
+                    "AREA": 29.0
+                }
+            },
+            "link": "https://i.imgur.com/2WDRO4S.gif"
+        }
     }
 }
