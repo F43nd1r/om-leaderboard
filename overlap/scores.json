@@ -1566,5 +1566,37 @@
             },
             "link": "https://i.imgur.com/FMoTdcl.gif"
         }
+    },
+    "WAKEFULNESS_POTION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 20.0,
+                    "COST": 685.0,
+                    "AREA": 104.0
+                }
+            },
+            "link": "https://i.imgur.com/huqeNHD.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 20.0,
+                    "AREA": 104.0,
+                    "COST": 685.0
+                }
+            },
+            "link": "https://i.imgur.com/huqeNHD.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 20.0,
+                    "COST": 685.0,
+                    "AREA": 104.0
+                }
+            },
+            "link": "https://i.imgur.com/huqeNHD.gif"
+        }
     }
 }
