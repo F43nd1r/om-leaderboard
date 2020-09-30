@@ -1470,5 +1470,37 @@
             },
             "link": "https://i.imgur.com/Grbkly7.gif"
         }
+    },
+    "ELECTRUM_SEPARATION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 19.0,
+                    "COST": 400.0,
+                    "AREA": 121.0
+                }
+            },
+            "link": "https://i.imgur.com/RYzO7Vg.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 19.0,
+                    "AREA": 121.0,
+                    "COST": 400.0
+                }
+            },
+            "link": "https://i.imgur.com/RYzO7Vg.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 19.0,
+                    "COST": 400.0,
+                    "AREA": 121.0
+                }
+            },
+            "link": "https://i.imgur.com/RYzO7Vg.gif"
+        }
     }
 }
