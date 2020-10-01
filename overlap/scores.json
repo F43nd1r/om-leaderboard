@@ -1662,5 +1662,37 @@
             },
             "link": "https://i.imgur.com/HCZjQ1v.gif"
         }
+    },
+    "VAN_BERLO_S_PIVOTS": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 12.0,
+                    "COST": 345.0,
+                    "AREA": 29.0
+                }
+            },
+            "link": "https://i.imgur.com/7ohxr9A.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 12.0,
+                    "AREA": 29.0,
+                    "COST": 345.0
+                }
+            },
+            "link": "https://i.imgur.com/7ohxr9A.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 12.0,
+                    "COST": 345.0,
+                    "AREA": 29.0
+                }
+            },
+            "link": "https://i.imgur.com/7ohxr9A.gif"
+        }
     }
 }
