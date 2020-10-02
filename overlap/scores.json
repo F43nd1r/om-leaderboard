@@ -1694,5 +1694,37 @@
             },
             "link": "https://i.imgur.com/Jh9i0DW.gif"
         }
+    },
+    "VAPOROUS_SOLVENT": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 41.0,
+                    "COST": 600.0,
+                    "AREA": 42.0
+                }
+            },
+            "link": "https://i.imgur.com/GNHL9Je.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 41.0,
+                    "AREA": 42.0,
+                    "COST": 600.0
+                }
+            },
+            "link": "https://i.imgur.com/GNHL9Je.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 41.0,
+                    "COST": 600.0,
+                    "AREA": 42.0
+                }
+            },
+            "link": "https://i.imgur.com/GNHL9Je.gif"
+        }
     }
 }
