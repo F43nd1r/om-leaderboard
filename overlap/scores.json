@@ -1790,5 +1790,37 @@
             },
             "link": "https://i.imgur.com/PFMvD2v.gif"
         }
+    },
+    "RESONANT_CRYSTAL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 42.0,
+                    "COST": 645.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/bo3uOfX.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 42.0,
+                    "AREA": 76.0,
+                    "COST": 645.0
+                }
+            },
+            "link": "https://i.imgur.com/bo3uOfX.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 42.0,
+                    "COST": 645.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/bo3uOfX.gif"
+        }
     }
 }
