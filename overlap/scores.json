@@ -1726,5 +1726,37 @@
             },
             "link": "https://i.imgur.com/M0PKmra.mp4"
         }
+    },
+    "BUOYANT_CABLE": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 51.0,
+                    "COST": 240.0,
+                    "AREA": 803.0
+                }
+            },
+            "link": "https://i.imgur.com/h9Fer1t.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 51.0,
+                    "AREA": 803.0,
+                    "COST": 240.0
+                }
+            },
+            "link": "https://i.imgur.com/h9Fer1t.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 51.0,
+                    "COST": 240.0,
+                    "AREA": 803.0
+                }
+            },
+            "link": "https://i.imgur.com/h9Fer1t.gif"
+        }
     }
 }
