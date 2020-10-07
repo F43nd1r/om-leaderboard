@@ -1758,5 +1758,37 @@
             },
             "link": "https://i.imgur.com/h9Fer1t.gif"
         }
+    },
+    "SPYGLASS_CRYSTAL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 47.0,
+                    "COST": 490.0,
+                    "AREA": 143.0
+                }
+            },
+            "link": "https://i.imgur.com/PFMvD2v.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 47.0,
+                    "AREA": 143.0,
+                    "COST": 490.0
+                }
+            },
+            "link": "https://i.imgur.com/PFMvD2v.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 47.0,
+                    "COST": 490.0,
+                    "AREA": 143.0
+                }
+            },
+            "link": "https://i.imgur.com/PFMvD2v.gif"
+        }
     }
 }
