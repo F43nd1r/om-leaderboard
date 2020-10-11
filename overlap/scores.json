@@ -1822,5 +1822,37 @@
             },
             "link": "https://i.imgur.com/SDJpkXj.gif"
         }
+    },
+    "SYNTHESIS_VIA_ALCOHOL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 11.0,
+                    "COST": 455.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/xRPhzln.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 11.0,
+                    "AREA": 76.0,
+                    "COST": 455.0
+                }
+            },
+            "link": "https://i.imgur.com/xRPhzln.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 11.0,
+                    "COST": 455.0,
+                    "AREA": 76.0
+                }
+            },
+            "link": "https://i.imgur.com/xRPhzln.gif"
+        }
     }
 }
