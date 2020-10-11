@@ -1854,5 +1854,37 @@
             },
             "link": "https://i.imgur.com/nXfZUFx.gif"
         }
+    },
+    "HYPER_VOLATILE_GAS": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 18.0,
+                    "COST": 675.0,
+                    "AREA": 172.0
+                }
+            },
+            "link": "https://i.imgur.com/Bhk3ftc.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 18.0,
+                    "AREA": 172.0,
+                    "COST": 675.0
+                }
+            },
+            "link": "https://i.imgur.com/Bhk3ftc.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 18.0,
+                    "COST": 675.0,
+                    "AREA": 172.0
+                }
+            },
+            "link": "https://i.imgur.com/Bhk3ftc.gif"
+        }
     }
 }
