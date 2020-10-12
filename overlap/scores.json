@@ -1886,5 +1886,37 @@
             },
             "link": "https://i.imgur.com/Bhk3ftc.gif"
         }
+    },
+    "REFINED_BRONZE": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 29.0,
+                    "COST": 1105.0,
+                    "AREA": 310.0
+                }
+            },
+            "link": "https://i.imgur.com/q2l5Y1i.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 29.0,
+                    "AREA": 310.0,
+                    "COST": 1105.0
+                }
+            },
+            "link": "https://i.imgur.com/q2l5Y1i.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 29.0,
+                    "COST": 1105.0,
+                    "AREA": 310.0
+                }
+            },
+            "link": "https://i.imgur.com/q2l5Y1i.gif"
+        }
     }
 }
