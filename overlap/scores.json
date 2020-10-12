@@ -1918,5 +1918,37 @@
             },
             "link": "https://i.imgur.com/q2l5Y1i.gif"
         }
+    },
+    "SUTURE_THREAD": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 305.0,
+                    "AREA": 123.0
+                }
+            },
+            "link": "https://i.imgur.com/2KIhw90.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "AREA": 123.0,
+                    "COST": 305.0
+                }
+            },
+            "link": "https://i.imgur.com/2KIhw90.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 24.0,
+                    "COST": 305.0,
+                    "AREA": 123.0
+                }
+            },
+            "link": "https://i.imgur.com/2KIhw90.gif"
+        }
     }
 }
