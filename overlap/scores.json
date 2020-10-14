@@ -1950,5 +1950,37 @@
             },
             "link": "https://i.imgur.com/O6Kt0nQ.gif"
         }
+    },
+    "BLOOD_STANCHING_POWDER": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 38.0,
+                    "COST": 370.0,
+                    "AREA": 45.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/766080241349165077/Opus_Magnum_-_Blood-Stanching_Powder_370G_38_45_2020-10-15-03-28-51.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 38.0,
+                    "AREA": 45.0,
+                    "COST": 370.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/766080241349165077/Opus_Magnum_-_Blood-Stanching_Powder_370G_38_45_2020-10-15-03-28-51.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 38.0,
+                    "COST": 370.0,
+                    "AREA": 45.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/766080241349165077/Opus_Magnum_-_Blood-Stanching_Powder_370G_38_45_2020-10-15-03-28-51.gif"
+        }
     }
 }
