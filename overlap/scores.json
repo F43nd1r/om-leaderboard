@@ -1982,5 +1982,37 @@
             },
             "link": "https://i.imgur.com/TxP4pjk.mp4"
         }
+    },
+    "REACTIVE_GOLD": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 37.0,
+                    "COST": 410.0,
+                    "AREA": 55.0
+                }
+            },
+            "link": "https://i.imgur.com/sbFfhBb.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 37.0,
+                    "AREA": 55.0,
+                    "COST": 410.0
+                }
+            },
+            "link": "https://i.imgur.com/sbFfhBb.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "OVERLAP_CYCLES": 37.0,
+                    "COST": 410.0,
+                    "AREA": 55.0
+                }
+            },
+            "link": "https://i.imgur.com/sbFfhBb.gif"
+        }
     }
 }
