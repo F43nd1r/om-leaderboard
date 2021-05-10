@@ -530,5 +530,43 @@
             },
             "link": "https://imgur.com/yRJthmK.gif"
         }
+    },
+    "ARMOR_FILAMENT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "COST": 100.0,
+                    "CYCLES": 381.0,
+                    "AREA": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6nQOwD0.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "CYCLES": 381.0,
+                    "COST": 100.0,
+                    "AREA": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6nQOwD0.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "AREA": 31.0,
+                    "COST": 100.0,
+                    "CYCLES": 381.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6nQOwD0.gif"
+        }
     }
 }
