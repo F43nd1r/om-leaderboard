@@ -1198,5 +1198,55 @@
             },
             "link": "https://imgur.com/SpFTaNX.gif"
         }
+    },
+    "WATER_PURIFIER": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "CYCLES": 691.0,
+                    "AREA": 255.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6De0Gcj.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "CYCLES": 691.0,
+                    "AREA": 255.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6De0Gcj.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "CYCLES": 691.0,
+                    "AREA": 255.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6De0Gcj.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "CYCLES": 691.0,
+                    "AREA": 255.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/6De0Gcj.gif"
+        }
     }
 }
