@@ -226,5 +226,43 @@
             },
             "link": "https://imgur.com/JIxoFsW.gif"
         }
+    },
+    "HANGOVER_CURE": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 80.0,
+                    "CYCLES": 75.0,
+                    "AREA": 15.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/0OeGkNW.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 75.0,
+                    "COST": 80.0,
+                    "AREA": 15.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/0OeGkNW.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "AREA": 15.0,
+                    "COST": 80.0,
+                    "CYCLES": 75.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/0OeGkNW.gif"
+        }
     }
 }
