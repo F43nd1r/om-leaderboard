@@ -948,5 +948,43 @@
             },
             "link": "https://imgur.com/NIu0jK3.gif"
         }
+    },
+    "TIMING_CRYSTAL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 16.0,
+                    "COST": 170.0,
+                    "CYCLES": 439.0,
+                    "AREA": 144.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/NRM01Eq.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 16.0,
+                    "CYCLES": 439.0,
+                    "COST": 170.0,
+                    "AREA": 144.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/NRM01Eq.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 16.0,
+                    "AREA": 144.0,
+                    "COST": 170.0,
+                    "CYCLES": 439.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/NRM01Eq.gif"
+        }
     }
 }
