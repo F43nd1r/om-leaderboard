@@ -44,5 +44,51 @@
             },
             "link": "https://imgur.com/cKugKUx"
         }
+    },
+    "STABILIZED_WATER": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 22.0,
+                    "AREA": 16.0,
+                    "INSTRUCTIONS": 6.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 22.0,
+                    "AREA": 16.0,
+                    "INSTRUCTIONS": 6.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 22.0,
+                    "AREA": 16.0,
+                    "INSTRUCTIONS": 6.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 80.0,
+                    "CYCLES": 22.0,
+                    "AREA": 16.0,
+                    "INSTRUCTIONS": 6.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        }
     }
 }
