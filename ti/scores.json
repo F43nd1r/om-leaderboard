@@ -644,5 +644,43 @@
             },
             "link": "https://imgur.com/E37uZnX"
         }
+    },
+    "ALCOHOL_SEPARATION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "COST": 170.0,
+                    "CYCLES": 175.0,
+                    "AREA": 71.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/a7Wc86w.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "CYCLES": 175.0,
+                    "COST": 170.0,
+                    "AREA": 71.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/a7Wc86w.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "AREA": 71.0,
+                    "COST": 170.0,
+                    "CYCLES": 175.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/a7Wc86w.gif"
+        }
     }
 }
