@@ -126,5 +126,37 @@
             },
             "link": "https://imgur.com/dm1kiN0"
         }
+    },
+    "VERY_DARK_THREAD": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 27.0,
+                    "COST": 230.0,
+                    "CYCLES": 191.0
+                }
+            },
+            "link": "https://imgur.com/Tw2zwwH"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 27.0,
+                    "CYCLES": 191.0,
+                    "COST": 230.0
+                }
+            },
+            "link": "https://imgur.com/Tw2zwwH"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 27.0,
+                    "COST": 230.0,
+                    "CYCLES": 191.0
+                }
+            },
+            "link": "https://imgur.com/Tw2zwwH"
+        }
     }
 }
