@@ -348,5 +348,55 @@
             },
             "link": "https://i.imgur.com/hk3CYWz.gif"
         }
+    },
+    "WATERPROOF_SEALANT": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 7.0,
+                    "COST": 70.0,
+                    "CYCLES": 33.0,
+                    "AREA": 17.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AYUqz6Z.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 7.0,
+                    "CYCLES": 33.0,
+                    "COST": 70.0,
+                    "AREA": 17.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AYUqz6Z.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 7.0,
+                    "AREA": 17.0,
+                    "COST": 70.0,
+                    "CYCLES": 33.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AYUqz6Z.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 33.0,
+                    "INSTRUCTIONS": 7.0,
+                    "COST": 70.0,
+                    "AREA": 17.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AYUqz6Z.gif"
+        }
     }
 }
