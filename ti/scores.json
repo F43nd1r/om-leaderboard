@@ -720,5 +720,43 @@
             },
             "link": "https://imgur.com/CHNwUZz.gif"
         }
+    },
+    "SEAL_SOLVENT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "COST": 150.0,
+                    "CYCLES": 147.0,
+                    "AREA": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/WIO0ZNq.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "CYCLES": 147.0,
+                    "COST": 150.0,
+                    "AREA": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/WIO0ZNq.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "AREA": 40.0,
+                    "COST": 150.0,
+                    "CYCLES": 147.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/WIO0ZNq.gif"
+        }
     }
 }
