@@ -568,5 +568,43 @@
             },
             "link": "https://imgur.com/6nQOwD0.gif"
         }
+    },
+    "COURAGE_POTION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 100.0,
+                    "CYCLES": 81.0,
+                    "AREA": 76.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/UYmlAfl.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 81.0,
+                    "COST": 100.0,
+                    "AREA": 76.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/UYmlAfl.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "AREA": 76.0,
+                    "COST": 100.0,
+                    "CYCLES": 81.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/UYmlAfl.gif"
+        }
     }
 }
