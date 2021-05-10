@@ -74,5 +74,43 @@
             },
             "link": "https://i.imgur.com/Tw2zwwH.mp4"
         }
+    },
+    "HAIR_PRODUCT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 70.0,
+                    "CYCLES": 97.0,
+                    "AREA": 21.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/IxRKKnp.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 97.0,
+                    "COST": 70.0,
+                    "AREA": 21.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/IxRKKnp.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "AREA": 21.0,
+                    "COST": 70.0,
+                    "CYCLES": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/IxRKKnp.gif"
+        }
     }
 }
