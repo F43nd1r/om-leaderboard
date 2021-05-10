@@ -1,1 +1,48 @@
-{}
+{
+    "GOLDEN_THREAD": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 570.0,
+                    "AREA": 422.0,
+                    "INSTRUCTIONS": 85.0
+                }
+            },
+            "link": "https://imgur.com/cKugKUx"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 570.0,
+                    "AREA": 422.0,
+                    "INSTRUCTIONS": 85.0
+                }
+            },
+            "link": "https://imgur.com/cKugKUx"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 570.0,
+                    "AREA": 422.0,
+                    "INSTRUCTIONS": 85.0
+                }
+            },
+            "link": "https://imgur.com/cKugKUx"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 570.0,
+                    "AREA": 422.0,
+                    "INSTRUCTIONS": 85.0
+                }
+            },
+            "link": "https://imgur.com/cKugKUx"
+        }
+    }
+}
