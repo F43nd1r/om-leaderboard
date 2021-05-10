@@ -758,5 +758,43 @@
             },
             "link": "https://imgur.com/WIO0ZNq.gif"
         }
+    },
+    "CLIMBING_ROPE_FIBER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 7.0,
+                    "COST": 150.0,
+                    "CYCLES": 204.0,
+                    "AREA": 58.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7abhnNh.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 7.0,
+                    "CYCLES": 204.0,
+                    "COST": 150.0,
+                    "AREA": 58.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7abhnNh.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 7.0,
+                    "AREA": 58.0,
+                    "COST": 150.0,
+                    "CYCLES": 204.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7abhnNh.gif"
+        }
     }
 }
