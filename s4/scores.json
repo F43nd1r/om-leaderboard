@@ -1098,5 +1098,55 @@
             },
             "link": "https://imgur.com/ZH2A0cF.gif"
         }
+    },
+    "EXPLOSIVE_PHIAL": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "CYCLES": 335.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/oStV1Fw.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "CYCLES": 335.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/oStV1Fw.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "CYCLES": 335.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/oStV1Fw.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "CYCLES": 335.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/oStV1Fw.gif"
+        }
     }
 }
