@@ -1148,5 +1148,55 @@
             },
             "link": "https://i.imgur.com/oStV1Fw.gif"
         }
+    },
+    "ALCOHOL_SEPARATION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "COST": 265.0,
+                    "CYCLES": 453.0,
+                    "AREA": 87.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/SpFTaNX.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "CYCLES": 453.0,
+                    "COST": 265.0,
+                    "AREA": 87.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/SpFTaNX.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "AREA": 87.0,
+                    "COST": 265.0,
+                    "CYCLES": 453.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/SpFTaNX.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 453.0,
+                    "INSTRUCTIONS": 3.0,
+                    "COST": 265.0,
+                    "AREA": 87.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/SpFTaNX.gif"
+        }
     }
 }
