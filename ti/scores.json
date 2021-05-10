@@ -796,5 +796,43 @@
             },
             "link": "https://imgur.com/7abhnNh.gif"
         }
+    },
+    "LIFE_SENSING_POTION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "COST": 300.0,
+                    "CYCLES": 78.0,
+                    "AREA": 82.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/n2z5tmy.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "CYCLES": 78.0,
+                    "COST": 300.0,
+                    "AREA": 82.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/n2z5tmy.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "AREA": 82.0,
+                    "COST": 300.0,
+                    "CYCLES": 78.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/n2z5tmy.gif"
+        }
     }
 }
