@@ -1100,5 +1100,43 @@
             },
             "link": "https://i.imgur.com/MP82KF2.gif"
         }
+    },
+    "VOLTAIC_COIL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 18.0,
+                    "COST": 210.0,
+                    "CYCLES": 132.0,
+                    "AREA": 231.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/SvRXhIH.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 18.0,
+                    "CYCLES": 132.0,
+                    "COST": 210.0,
+                    "AREA": 231.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/SvRXhIH.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 18.0,
+                    "AREA": 231.0,
+                    "COST": 210.0,
+                    "CYCLES": 132.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/SvRXhIH.gif"
+        }
     }
 }
