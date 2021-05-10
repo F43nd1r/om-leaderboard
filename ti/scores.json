@@ -834,5 +834,43 @@
             },
             "link": "https://imgur.com/n2z5tmy.gif"
         }
+    },
+    "STABILIZED_WATER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 5.0,
+                    "COST": 50.0,
+                    "CYCLES": 174.0,
+                    "AREA": 10.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/dm1kiN0.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 5.0,
+                    "CYCLES": 174.0,
+                    "COST": 50.0,
+                    "AREA": 10.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/dm1kiN0.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 5.0,
+                    "AREA": 10.0,
+                    "COST": 50.0,
+                    "CYCLES": 174.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/dm1kiN0.gif"
+        }
     }
 }
