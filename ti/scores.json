@@ -150,5 +150,43 @@
             },
             "link": "https://i.imgur.com/RWivCan.gif"
         }
+    },
+    "WATERPROOF_SEALANT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 8.0,
+                    "COST": 80.0,
+                    "CYCLES": 59.0,
+                    "AREA": 18.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bZ5DugV.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 8.0,
+                    "CYCLES": 59.0,
+                    "COST": 80.0,
+                    "AREA": 18.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bZ5DugV.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 8.0,
+                    "AREA": 18.0,
+                    "COST": 80.0,
+                    "CYCLES": 59.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bZ5DugV.gif"
+        }
     }
 }
