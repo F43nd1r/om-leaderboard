@@ -353,38 +353,38 @@
         "IGNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 7.0,
-                    "COST": 70.0,
-                    "CYCLES": 33.0,
-                    "AREA": 17.0
+                    "INSTRUCTIONS": 3.0,
+                    "COST": 100.0,
+                    "CYCLES": 168.0,
+                    "AREA": 28.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/AYUqz6Z.gif"
+            "link": "https://i.imgur.com/r8TyYze.gif"
         },
         "ICNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 7.0,
-                    "CYCLES": 33.0,
-                    "COST": 70.0,
-                    "AREA": 17.0
+                    "INSTRUCTIONS": 3.0,
+                    "CYCLES": 168.0,
+                    "COST": 100.0,
+                    "AREA": 28.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/AYUqz6Z.gif"
+            "link": "https://i.imgur.com/r8TyYze.gif"
         },
         "IANP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 7.0,
-                    "AREA": 17.0,
-                    "COST": 70.0,
-                    "CYCLES": 33.0
+                    "INSTRUCTIONS": 3.0,
+                    "AREA": 28.0,
+                    "COST": 100.0,
+                    "CYCLES": 168.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/AYUqz6Z.gif"
+            "link": "https://i.imgur.com/r8TyYze.gif"
         },
         "CINP": {
             "score": {
