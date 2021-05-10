@@ -302,5 +302,43 @@
             },
             "link": "https://imgur.com/Olg51eQ.gif"
         }
+    },
+    "PRECISION_MACHINE_OIL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "COST": 140.0,
+                    "CYCLES": 42.0,
+                    "AREA": 48.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/CgiVEbl.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "CYCLES": 42.0,
+                    "COST": 140.0,
+                    "AREA": 48.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/CgiVEbl.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "AREA": 48.0,
+                    "COST": 140.0,
+                    "CYCLES": 42.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/CgiVEbl.gif"
+        }
     }
 }
