@@ -948,5 +948,55 @@
             },
             "link": "https://imgur.com/kmdhCfp.gif"
         }
+    },
+    "ROCKET_PROPELLANT": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 260.0,
+                    "CYCLES": 411.0,
+                    "AREA": 131.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/lGoVqIM.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 411.0,
+                    "COST": 260.0,
+                    "AREA": 131.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/lGoVqIM.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 131.0,
+                    "COST": 260.0,
+                    "CYCLES": 411.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/lGoVqIM.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 411.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 260.0,
+                    "AREA": 131.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/lGoVqIM.gif"
+        }
     }
 }
