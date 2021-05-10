@@ -421,38 +421,38 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 9.0,
-                    "COST": 170.0,
-                    "CYCLES": 65.0,
-                    "AREA": 54.0
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 140.0,
+                    "CYCLES": 61.0,
+                    "AREA": 75.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/S5hU9L9.gif"
+            "link": "https://imgur.com/SPqcCd8.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 9.0,
-                    "CYCLES": 65.0,
-                    "COST": 170.0,
-                    "AREA": 54.0
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 61.0,
+                    "COST": 140.0,
+                    "AREA": 75.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/S5hU9L9.gif"
+            "link": "https://imgur.com/SPqcCd8.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 9.0,
-                    "AREA": 45.0,
-                    "COST": 170.0,
-                    "CYCLES": 80.0
+                    "INSTRUCTIONS": 6.0,
+                    "AREA": 75.0,
+                    "COST": 140.0,
+                    "CYCLES": 61.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/vwEm6pf.gif"
+            "link": "https://imgur.com/SPqcCd8.gif"
         }
     },
     "ROCKET_PROPELLANT": {
