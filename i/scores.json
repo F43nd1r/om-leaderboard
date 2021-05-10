@@ -1298,5 +1298,55 @@
             },
             "link": "https://i.imgur.com/yhm2snb.gif"
         }
+    },
+    "WARMING_TONIC": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 310.0,
+                    "CYCLES": 467.0,
+                    "AREA": 212.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7mhcTPw.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 467.0,
+                    "COST": 310.0,
+                    "AREA": 212.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7mhcTPw.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 212.0,
+                    "COST": 310.0,
+                    "CYCLES": 467.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7mhcTPw.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 467.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 310.0,
+                    "AREA": 212.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/7mhcTPw.gif"
+        }
     }
 }
