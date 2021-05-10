@@ -112,5 +112,43 @@
             },
             "link": "https://i.imgur.com/IxRKKnp.gif"
         }
+    },
+    "REFINED_GOLD": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "COST": 50.0,
+                    "CYCLES": 540.0,
+                    "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/RWivCan.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "CYCLES": 540.0,
+                    "COST": 50.0,
+                    "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/RWivCan.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "AREA": 7.0,
+                    "COST": 50.0,
+                    "CYCLES": 540.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/RWivCan.gif"
+        }
     }
 }
