@@ -340,5 +340,43 @@
             },
             "link": "https://imgur.com/CgiVEbl.gif"
         }
+    },
+    "HEALTH_TONIC": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 80.0,
+                    "CYCLES": 40.0,
+                    "AREA": 49.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/vXd1hlZ.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 40.0,
+                    "COST": 80.0,
+                    "AREA": 49.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/vXd1hlZ.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "AREA": 49.0,
+                    "COST": 80.0,
+                    "CYCLES": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/vXd1hlZ.gif"
+        }
     }
 }
