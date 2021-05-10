@@ -898,5 +898,55 @@
             },
             "link": "https://imgur.com/jcXYmk0"
         }
+    },
+    "STAMINA_POTION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "COST": 825.0,
+                    "CYCLES": 1920.0,
+                    "AREA": 361.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/2zrFxsj"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "CYCLES": 1920.0,
+                    "COST": 825.0,
+                    "AREA": 361.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/2zrFxsj"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 3.0,
+                    "AREA": 361.0,
+                    "COST": 825.0,
+                    "CYCLES": 1920.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/2zrFxsj"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 1920.0,
+                    "INSTRUCTIONS": 3.0,
+                    "COST": 825.0,
+                    "AREA": 361.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/2zrFxsj"
+        }
     }
 }
