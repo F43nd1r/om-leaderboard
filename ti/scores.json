@@ -872,5 +872,43 @@
             },
             "link": "https://i.imgur.com/dm1kiN0.gif"
         }
+    },
+    "SWORD_ALLOY": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 21.0,
+                    "COST": 250.0,
+                    "CYCLES": 477.0,
+                    "AREA": 121.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/HSJGZtP.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 21.0,
+                    "CYCLES": 477.0,
+                    "COST": 250.0,
+                    "AREA": 121.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/HSJGZtP.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 21.0,
+                    "AREA": 121.0,
+                    "COST": 250.0,
+                    "CYCLES": 477.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/HSJGZtP.gif"
+        }
     }
 }
