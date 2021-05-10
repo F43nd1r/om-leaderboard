@@ -848,5 +848,55 @@
             },
             "link": "https://i.imgur.com/cTbHHHp.gif"
         }
+    },
+    "HEALTH_TONIC": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 285.0,
+                    "AREA": 51.0,
+                    "INSTRUCTIONS": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/jcXYmk0"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 285.0,
+                    "AREA": 51.0,
+                    "INSTRUCTIONS": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/jcXYmk0"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 285.0,
+                    "AREA": 51.0,
+                    "INSTRUCTIONS": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/jcXYmk0"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 285.0,
+                    "AREA": 51.0,
+                    "INSTRUCTIONS": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/jcXYmk0"
+        }
     }
 }
