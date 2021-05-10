@@ -148,5 +148,55 @@
             },
             "link": "https://imgur.com/PbmE1Ms"
         }
+    },
+    "PURIFIED_GOLD": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 495.0,
+                    "CYCLES": 112.0,
+                    "AREA": 127.0,
+                    "INSTRUCTIONS": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/3MGKeEL"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 495.0,
+                    "CYCLES": 112.0,
+                    "AREA": 127.0,
+                    "INSTRUCTIONS": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/3MGKeEL"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 495.0,
+                    "CYCLES": 112.0,
+                    "AREA": 127.0,
+                    "INSTRUCTIONS": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/3MGKeEL"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 495.0,
+                    "CYCLES": 112.0,
+                    "AREA": 127.0,
+                    "INSTRUCTIONS": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/3MGKeEL"
+        }
     }
 }
