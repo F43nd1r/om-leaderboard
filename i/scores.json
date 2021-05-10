@@ -598,5 +598,55 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/811242814947065856/Opus_Magnum_-_Mist_of_Hallucination_270G_50_126_2021-02-16-06-19-54.gif"
         }
+    },
+    "REACTIVE_GOLD": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 62.0,
+                    "COST": 390.0,
+                    "CYCLES": 55.0,
+                    "AREA": 61.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BYcluGq.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 62.0,
+                    "CYCLES": 55.0,
+                    "COST": 390.0,
+                    "AREA": 61.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BYcluGq.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 62.0,
+                    "AREA": 61.0,
+                    "COST": 390.0,
+                    "CYCLES": 55.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BYcluGq.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 55.0,
+                    "INSTRUCTIONS": 62.0,
+                    "COST": 390.0,
+                    "AREA": 61.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BYcluGq.gif"
+        }
     }
 }
