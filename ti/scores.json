@@ -94,5 +94,37 @@
             },
             "link": "https://i.imgur.com/0OeGkNW.gif"
         }
+    },
+    "STABILIZED_WATER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 80.0,
+                    "CYCLES": 22.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 22.0,
+                    "COST": 80.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 80.0,
+                    "CYCLES": 22.0
+                }
+            },
+            "link": "https://imgur.com/mIAJb6w"
+        }
     }
 }
