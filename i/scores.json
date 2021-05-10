@@ -798,5 +798,55 @@
             },
             "link": "https://i.imgur.com/mUFvyHJ.gif"
         }
+    },
+    "PRECISION_MACHINE_OIL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 33.0,
+                    "COST": 320.0,
+                    "CYCLES": 27.0,
+                    "AREA": 52.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cTbHHHp.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 33.0,
+                    "CYCLES": 27.0,
+                    "COST": 320.0,
+                    "AREA": 52.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cTbHHHp.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 33.0,
+                    "AREA": 52.0,
+                    "COST": 320.0,
+                    "CYCLES": 27.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cTbHHHp.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 27.0,
+                    "INSTRUCTIONS": 33.0,
+                    "COST": 320.0,
+                    "AREA": 52.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cTbHHHp.gif"
+        }
     }
 }
