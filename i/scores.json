@@ -748,5 +748,55 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841414937636765726/Opus_Magnum_-_Hangover_Cure_160G_38_41_2021-05-10-22-42-17.gif"
         }
+    },
+    "AIRSHIP_FUEL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 62.0,
+                    "COST": 310.0,
+                    "CYCLES": 19.0,
+                    "AREA": 69.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/mUFvyHJ.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 62.0,
+                    "CYCLES": 19.0,
+                    "COST": 310.0,
+                    "AREA": 69.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/mUFvyHJ.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 62.0,
+                    "AREA": 69.0,
+                    "COST": 310.0,
+                    "CYCLES": 19.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/mUFvyHJ.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 19.0,
+                    "INSTRUCTIONS": 62.0,
+                    "COST": 310.0,
+                    "AREA": 69.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/mUFvyHJ.gif"
+        }
     }
 }
