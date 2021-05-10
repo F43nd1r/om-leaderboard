@@ -548,5 +548,55 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/803968939180294164/Opus_Magnum_-_Climbing_Rope_Fiber_230G_74_68_2021-01-27-04-38-34.gif"
         }
+    },
+    "MIST_OF_HALLUCINATION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 32.0,
+                    "COST": 270.0,
+                    "CYCLES": 50.0,
+                    "AREA": 126.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/811242814947065856/Opus_Magnum_-_Mist_of_Hallucination_270G_50_126_2021-02-16-06-19-54.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 32.0,
+                    "CYCLES": 50.0,
+                    "COST": 270.0,
+                    "AREA": 126.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/811242814947065856/Opus_Magnum_-_Mist_of_Hallucination_270G_50_126_2021-02-16-06-19-54.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 32.0,
+                    "AREA": 126.0,
+                    "COST": 270.0,
+                    "CYCLES": 50.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/811242814947065856/Opus_Magnum_-_Mist_of_Hallucination_270G_50_126_2021-02-16-06-19-54.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 50.0,
+                    "INSTRUCTIONS": 32.0,
+                    "COST": 270.0,
+                    "AREA": 126.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/811242814947065856/Opus_Magnum_-_Mist_of_Hallucination_270G_50_126_2021-02-16-06-19-54.gif"
+        }
     }
 }
