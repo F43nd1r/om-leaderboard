@@ -1348,5 +1348,55 @@
             },
             "link": "https://imgur.com/7mhcTPw.gif"
         }
+    },
+    "LIFE_SENSING_POTION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 520.0,
+                    "CYCLES": 831.0,
+                    "AREA": 269.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/YIF2hnN.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 831.0,
+                    "COST": 520.0,
+                    "AREA": 269.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/YIF2hnN.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 269.0,
+                    "COST": 520.0,
+                    "CYCLES": 831.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/YIF2hnN.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 831.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 520.0,
+                    "AREA": 269.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/YIF2hnN.gif"
+        }
     }
 }
