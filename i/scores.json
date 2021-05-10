@@ -1048,5 +1048,55 @@
             },
             "link": "https://imgur.com/WOCdByn.gif"
         }
+    },
+    "COURAGE_POTION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 180.0,
+                    "CYCLES": 235.0,
+                    "AREA": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 235.0,
+                    "COST": 180.0,
+                    "AREA": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 97.0,
+                    "COST": 180.0,
+                    "CYCLES": 235.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 235.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 180.0,
+                    "AREA": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        }
     }
 }

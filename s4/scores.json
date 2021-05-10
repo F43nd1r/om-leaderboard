@@ -1048,5 +1048,55 @@
             },
             "link": "https://imgur.com/WOCdByn.gif"
         }
+    },
+    "COURAGE_POTION": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 235.0,
+                    "AREA": 97.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 235.0,
+                    "AREA": 97.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 235.0,
+                    "AREA": 97.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 235.0,
+                    "AREA": 97.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/ZH2A0cF.gif"
+        }
     }
 }
