@@ -3,50 +3,50 @@
         "IGNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 213.0,
-                    "COST": 150.0,
+                    "INSTRUCTIONS": 15.0,
+                    "COST": 265.0,
                     "CYCLES": 49.0,
-                    "AREA": 31.0
+                    "AREA": 71.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/PbmE1Ms.mp4"
+            "link": "https://i.imgur.com/e7S0zMo.gif"
         },
         "ICNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 213.0,
+                    "INSTRUCTIONS": 15.0,
                     "CYCLES": 49.0,
-                    "COST": 150.0,
-                    "AREA": 31.0
+                    "COST": 265.0,
+                    "AREA": 71.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/PbmE1Ms.mp4"
+            "link": "https://i.imgur.com/e7S0zMo.gif"
         },
         "IANP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 213.0,
-                    "AREA": 31.0,
-                    "COST": 150.0,
+                    "INSTRUCTIONS": 15.0,
+                    "AREA": 71.0,
+                    "COST": 265.0,
                     "CYCLES": 49.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/PbmE1Ms.mp4"
+            "link": "https://i.imgur.com/e7S0zMo.gif"
         },
         "CINP": {
             "score": {
                 "parts": {
                     "CYCLES": 49.0,
-                    "INSTRUCTIONS": 213.0,
-                    "COST": 150.0,
-                    "AREA": 31.0
+                    "INSTRUCTIONS": 15.0,
+                    "COST": 265.0,
+                    "AREA": 71.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/PbmE1Ms.mp4"
+            "link": "https://i.imgur.com/e7S0zMo.gif"
         }
     },
     "GOLDEN_THREAD": {
