@@ -264,5 +264,43 @@
             },
             "link": "https://imgur.com/0OeGkNW.gif"
         }
+    },
+    "AIRSHIP_FUEL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "COST": 100.0,
+                    "CYCLES": 58.0,
+                    "AREA": 30.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/Olg51eQ.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "CYCLES": 58.0,
+                    "COST": 100.0,
+                    "AREA": 30.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/Olg51eQ.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 6.0,
+                    "AREA": 30.0,
+                    "COST": 100.0,
+                    "CYCLES": 58.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/Olg51eQ.gif"
+        }
     }
 }
