@@ -1,1 +1,52 @@
-{}
+{
+    "ARMOR_FILAMENT": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 213.0,
+                    "COST": 150.0,
+                    "CYCLES": 49.0,
+                    "AREA": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 213.0,
+                    "CYCLES": 49.0,
+                    "COST": 150.0,
+                    "AREA": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 213.0,
+                    "AREA": 31.0,
+                    "COST": 150.0,
+                    "CYCLES": 49.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 49.0,
+                    "INSTRUCTIONS": 213.0,
+                    "COST": 150.0,
+                    "AREA": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        }
+    }
+}

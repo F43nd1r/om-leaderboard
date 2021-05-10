@@ -7,7 +7,8 @@
                     "CYCLES": 570.0,
                     "AREA": 422.0,
                     "INSTRUCTIONS": 85.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/cKugKUx"
         },
@@ -18,7 +19,8 @@
                     "CYCLES": 570.0,
                     "AREA": 422.0,
                     "INSTRUCTIONS": 85.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/cKugKUx"
         },
@@ -29,7 +31,8 @@
                     "CYCLES": 570.0,
                     "AREA": 422.0,
                     "INSTRUCTIONS": 85.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/cKugKUx"
         },
@@ -40,7 +43,8 @@
                     "CYCLES": 570.0,
                     "AREA": 422.0,
                     "INSTRUCTIONS": 85.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/cKugKUx"
         }
@@ -53,7 +57,8 @@
                     "CYCLES": 35.0,
                     "AREA": 10.0,
                     "INSTRUCTIONS": 12.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/XtBEuiM"
         },
@@ -64,7 +69,8 @@
                     "CYCLES": 35.0,
                     "AREA": 10.0,
                     "INSTRUCTIONS": 12.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/XtBEuiM"
         },
@@ -75,7 +81,8 @@
                     "CYCLES": 35.0,
                     "AREA": 10.0,
                     "INSTRUCTIONS": 12.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/XtBEuiM"
         },
@@ -86,9 +93,60 @@
                     "CYCLES": 35.0,
                     "AREA": 10.0,
                     "INSTRUCTIONS": 12.0
-                }
+                },
+                "displayAsSum": false
             },
             "link": "https://imgur.com/XtBEuiM"
+        }
+    },
+    "ARMOR_FILAMENT": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 49.0,
+                    "AREA": 31.0,
+                    "INSTRUCTIONS": 213.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 49.0,
+                    "AREA": 31.0,
+                    "INSTRUCTIONS": 213.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 49.0,
+                    "AREA": 31.0,
+                    "INSTRUCTIONS": 213.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 49.0,
+                    "AREA": 31.0,
+                    "INSTRUCTIONS": 213.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/PbmE1Ms"
         }
     }
 }
