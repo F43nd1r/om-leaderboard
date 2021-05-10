@@ -698,5 +698,55 @@
             },
             "link": "https://i.imgur.com/XOKGoIm.gif"
         }
+    },
+    "HANGOVER_CURE": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 160.0,
+                    "CYCLES": 38.0,
+                    "AREA": 41.0,
+                    "INSTRUCTIONS": 13.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841414937636765726/Opus_Magnum_-_Hangover_Cure_160G_38_41_2021-05-10-22-42-17.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 160.0,
+                    "CYCLES": 38.0,
+                    "AREA": 41.0,
+                    "INSTRUCTIONS": 13.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841414937636765726/Opus_Magnum_-_Hangover_Cure_160G_38_41_2021-05-10-22-42-17.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 160.0,
+                    "CYCLES": 38.0,
+                    "AREA": 41.0,
+                    "INSTRUCTIONS": 13.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841414937636765726/Opus_Magnum_-_Hangover_Cure_160G_38_41_2021-05-10-22-42-17.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 160.0,
+                    "CYCLES": 38.0,
+                    "AREA": 41.0,
+                    "INSTRUCTIONS": 13.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841414937636765726/Opus_Magnum_-_Hangover_Cure_160G_38_41_2021-05-10-22-42-17.gif"
+        }
     }
 }
