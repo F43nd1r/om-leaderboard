@@ -492,5 +492,43 @@
             },
             "link": "https://imgur.com/SXJn9tu.gif"
         }
+    },
+    "MIST_OF_INCAPACITATION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "COST": 120.0,
+                    "CYCLES": 40.0,
+                    "AREA": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/yRJthmK.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "CYCLES": 40.0,
+                    "COST": 120.0,
+                    "AREA": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/yRJthmK.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 9.0,
+                    "AREA": 40.0,
+                    "COST": 120.0,
+                    "CYCLES": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/yRJthmK.gif"
+        }
     }
 }
