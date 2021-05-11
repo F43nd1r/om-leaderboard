@@ -1698,5 +1698,55 @@
             },
             "link": "https://i.imgur.com/BEOATSk.gif"
         }
+    },
+    "REFINED_BRONZE": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 178.0,
+                    "COST": 310.0,
+                    "CYCLES": 279.0,
+                    "AREA": 111.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 178.0,
+                    "CYCLES": 279.0,
+                    "COST": 310.0,
+                    "AREA": 111.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 178.0,
+                    "AREA": 111.0,
+                    "COST": 310.0,
+                    "CYCLES": 279.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 279.0,
+                    "INSTRUCTIONS": 178.0,
+                    "COST": 310.0,
+                    "AREA": 111.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        }
     }
 }

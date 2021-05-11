@@ -1698,5 +1698,55 @@
             },
             "link": "https://i.imgur.com/BEOATSk.gif"
         }
+    },
+    "REFINED_BRONZE": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "CYCLES": 279.0,
+                    "AREA": 111.0,
+                    "INSTRUCTIONS": 178.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "CYCLES": 279.0,
+                    "AREA": 111.0,
+                    "INSTRUCTIONS": 178.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "CYCLES": 279.0,
+                    "AREA": 111.0,
+                    "INSTRUCTIONS": 178.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "CYCLES": 279.0,
+                    "AREA": 111.0,
+                    "INSTRUCTIONS": 178.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/93jAeUW.gif"
+        }
     }
 }
