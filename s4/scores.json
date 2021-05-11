@@ -1648,5 +1648,55 @@
             },
             "link": "https://i.imgur.com/6mKhLhR.gif"
         }
+    },
+    "PRESERVATIVE_SALT": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 86.0,
+                    "AREA": 26.0,
+                    "INSTRUCTIONS": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BEOATSk.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 86.0,
+                    "AREA": 26.0,
+                    "INSTRUCTIONS": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BEOATSk.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 86.0,
+                    "AREA": 26.0,
+                    "INSTRUCTIONS": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BEOATSk.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 86.0,
+                    "AREA": 26.0,
+                    "INSTRUCTIONS": 31.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/BEOATSk.gif"
+        }
     }
 }
