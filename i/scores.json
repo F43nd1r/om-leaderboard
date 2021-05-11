@@ -2198,5 +2198,55 @@
             },
             "link": "https://imgur.com/J9hBc0K.gif"
         }
+    },
+    "UNIVERSAL_SOLVENT": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 1320.0,
+                    "CYCLES": 2151.0,
+                    "AREA": 689.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/N70MsjO.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 2151.0,
+                    "COST": 1320.0,
+                    "AREA": 689.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/N70MsjO.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 689.0,
+                    "COST": 1320.0,
+                    "CYCLES": 2151.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/N70MsjO.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 2151.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 1320.0,
+                    "AREA": 689.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/N70MsjO.gif"
+        }
     }
 }
