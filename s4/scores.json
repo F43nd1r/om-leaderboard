@@ -1498,5 +1498,55 @@
             },
             "link": "https://i.imgur.com/dP2hPPc.gif"
         }
+    },
+    "SPYGLASS_CRYSTAL": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 165.0,
+                    "CYCLES": 191.0,
+                    "AREA": 58.0,
+                    "INSTRUCTIONS": 119.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kq05z1k.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 165.0,
+                    "CYCLES": 191.0,
+                    "AREA": 58.0,
+                    "INSTRUCTIONS": 119.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kq05z1k.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 165.0,
+                    "CYCLES": 191.0,
+                    "AREA": 58.0,
+                    "INSTRUCTIONS": 119.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kq05z1k.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 165.0,
+                    "CYCLES": 191.0,
+                    "AREA": 58.0,
+                    "INSTRUCTIONS": 119.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kq05z1k.gif"
+        }
     }
 }
