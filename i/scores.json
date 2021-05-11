@@ -2148,5 +2148,55 @@
             },
             "link": "https://imgur.com/XFFWp4g.gif"
         }
+    },
+    "VOLTAIC_COIL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 500.0,
+                    "CYCLES": 986.0,
+                    "AREA": 308.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/J9hBc0K.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 986.0,
+                    "COST": 500.0,
+                    "AREA": 308.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/J9hBc0K.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 308.0,
+                    "COST": 500.0,
+                    "CYCLES": 986.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/J9hBc0K.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 986.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 500.0,
+                    "AREA": 308.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/J9hBc0K.gif"
+        }
     }
 }
