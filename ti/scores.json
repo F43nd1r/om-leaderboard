@@ -662,25 +662,25 @@
             "score": {
                 "parts": {
                     "INSTRUCTIONS": 8.0,
-                    "CYCLES": 184.0,
-                    "COST": 130.0,
-                    "AREA": 3347.0
+                    "CYCLES": 111.0,
+                    "COST": 150.0,
+                    "AREA": 1179.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/log6Z98.gif"
+            "link": "https://i.imgur.com/u0z4AnH.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
                     "INSTRUCTIONS": 8.0,
-                    "AREA": 3347.0,
-                    "COST": 130.0,
-                    "CYCLES": 184.0
+                    "AREA": 1179.0,
+                    "COST": 150.0,
+                    "CYCLES": 111.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/log6Z98.gif"
+            "link": "https://i.imgur.com/u0z4AnH.gif"
         }
     },
     "WATER_PURIFIER": {
