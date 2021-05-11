@@ -1948,5 +1948,55 @@
             },
             "link": "https://i.imgur.com/kvIx4zG.gif"
         }
+    },
+    "HYPER_VOLATILE_GAS": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 40.0,
+                    "COST": 110.0,
+                    "CYCLES": 145.0,
+                    "AREA": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Vrv0Yys.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 40.0,
+                    "CYCLES": 145.0,
+                    "COST": 110.0,
+                    "AREA": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Vrv0Yys.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 40.0,
+                    "AREA": 36.0,
+                    "COST": 110.0,
+                    "CYCLES": 145.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Vrv0Yys.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 145.0,
+                    "INSTRUCTIONS": 40.0,
+                    "COST": 110.0,
+                    "AREA": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Vrv0Yys.gif"
+        }
     }
 }
