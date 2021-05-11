@@ -1898,5 +1898,55 @@
             },
             "link": "https://i.imgur.com/rptMKs6.gif"
         }
+    },
+    "VAPOROUS_SOLVENT": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 200.0,
+                    "CYCLES": 97.0,
+                    "AREA": 56.0,
+                    "INSTRUCTIONS": 72.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kvIx4zG.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 200.0,
+                    "CYCLES": 97.0,
+                    "AREA": 56.0,
+                    "INSTRUCTIONS": 72.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kvIx4zG.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 200.0,
+                    "CYCLES": 97.0,
+                    "AREA": 56.0,
+                    "INSTRUCTIONS": 72.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kvIx4zG.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 200.0,
+                    "CYCLES": 97.0,
+                    "AREA": 56.0,
+                    "INSTRUCTIONS": 72.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kvIx4zG.gif"
+        }
     }
 }
