@@ -1848,5 +1848,55 @@
             },
             "link": "https://i.imgur.com/6ZvtnUx.gif"
         }
+    },
+    "VAN_BERLO_S_PIVOTS": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 106.0,
+                    "AREA": 57.0,
+                    "INSTRUCTIONS": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/rptMKs6.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 106.0,
+                    "AREA": 57.0,
+                    "INSTRUCTIONS": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/rptMKs6.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 106.0,
+                    "AREA": 57.0,
+                    "INSTRUCTIONS": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/rptMKs6.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 106.0,
+                    "AREA": 57.0,
+                    "INSTRUCTIONS": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/rptMKs6.gif"
+        }
     }
 }
