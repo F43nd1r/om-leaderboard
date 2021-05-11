@@ -2098,5 +2098,55 @@
             },
             "link": "https://i.imgur.com/EaTExnv.mp4"
         }
+    },
+    "TIMING_CRYSTAL": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 1310.0,
+                    "CYCLES": 14915.0,
+                    "AREA": 841.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 1310.0,
+                    "CYCLES": 14915.0,
+                    "AREA": 841.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 1310.0,
+                    "CYCLES": 14915.0,
+                    "AREA": 841.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 1310.0,
+                    "CYCLES": 14915.0,
+                    "AREA": 841.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        }
     }
 }

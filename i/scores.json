@@ -2098,5 +2098,55 @@
             },
             "link": "https://i.imgur.com/EaTExnv.mp4"
         }
+    },
+    "TIMING_CRYSTAL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 1310.0,
+                    "CYCLES": 14915.0,
+                    "AREA": 841.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "CYCLES": 14915.0,
+                    "COST": 1310.0,
+                    "AREA": 841.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 4.0,
+                    "AREA": 841.0,
+                    "COST": 1310.0,
+                    "CYCLES": 14915.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 14915.0,
+                    "INSTRUCTIONS": 4.0,
+                    "COST": 1310.0,
+                    "AREA": 841.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/qoYA9v3.gif"
+        }
     }
 }
