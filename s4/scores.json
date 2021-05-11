@@ -2348,5 +2348,55 @@
             },
             "link": "https://imgur.com/7oU0aTk.gif"
         }
+    },
+    "ALCHEMICAL_JEWEL": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 1350.0,
+                    "CYCLES": 2455.0,
+                    "AREA": 603.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/XWq3cOC.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 1350.0,
+                    "CYCLES": 2455.0,
+                    "AREA": 603.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/XWq3cOC.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 1350.0,
+                    "CYCLES": 2455.0,
+                    "AREA": 603.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/XWq3cOC.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 1350.0,
+                    "CYCLES": 2455.0,
+                    "AREA": 603.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/XWq3cOC.gif"
+        }
     }
 }
