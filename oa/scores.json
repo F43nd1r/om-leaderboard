@@ -698,5 +698,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841941452892536842/Opus_Magnum_-_Climbing_Rope_Fiber_100G_188_39_2021-05-12-09-34-28.gif"
         }
+    },
+    "WARMING_TONIC": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 32.0,
+                    "COST": 40.0,
+                    "CYCLES": 154.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/KR6qVxV.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 32.0,
+                    "CYCLES": 154.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/KR6qVxV.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 32.0,
+                    "COST": 40.0,
+                    "CYCLES": 154.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/KR6qVxV.gif"
+        }
     }
 }
