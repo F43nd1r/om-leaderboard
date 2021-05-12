@@ -383,5 +383,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
         }
+    },
+    "ROCKET_PROPELLANT": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 16.0,
+                    "COST": 40.0,
+                    "CYCLES": 70.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919880768651264/Opus_Magnum_-_Rocket_Propellant_40G_70_16_2021-05-12-08-08-39.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 16.0,
+                    "CYCLES": 70.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919880768651264/Opus_Magnum_-_Rocket_Propellant_40G_70_16_2021-05-12-08-08-39.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 16.0,
+                    "COST": 40.0,
+                    "CYCLES": 70.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919880768651264/Opus_Magnum_-_Rocket_Propellant_40G_70_16_2021-05-12-08-08-39.gif"
+        }
     }
 }
