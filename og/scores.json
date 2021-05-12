@@ -278,5 +278,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841902378751885332/Opus_Magnum_-_Precision_Machine_Oil_50G_125_11_2021-05-12-06-58-56.gif"
         }
+    },
+    "HEALTH_TONIC": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 23.0,
+                    "AREA": 10.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841907139450503178/Opus_Magnum_-_Health_Tonic_30G_23_10_2021-05-12-07-18-09.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "AREA": 10.0,
+                    "CYCLES": 23.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841907139450503178/Opus_Magnum_-_Health_Tonic_30G_23_10_2021-05-12-07-18-09.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 23.0,
+                    "AREA": 10.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841907139450503178/Opus_Magnum_-_Health_Tonic_30G_23_10_2021-05-12-07-18-09.gif"
+        }
     }
 }
