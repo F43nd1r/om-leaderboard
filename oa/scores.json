@@ -453,5 +453,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841924658416582656/Opus_Magnum_-_Mist_of_Incapacitation_90G_8_5_2021-05-12-08-27-46.gif"
         }
+    },
+    "ARMOR_FILAMENT": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 15.0,
+                    "COST": 115.0,
+                    "CYCLES": 14.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841926756477829180/Opus_Magnum_-_Armor_Filament_115G_14_15_2021-05-12-08-36-01.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 15.0,
+                    "CYCLES": 14.0,
+                    "COST": 115.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841926756477829180/Opus_Magnum_-_Armor_Filament_115G_14_15_2021-05-12-08-36-01.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 15.0,
+                    "COST": 115.0,
+                    "CYCLES": 14.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841926756477829180/Opus_Magnum_-_Armor_Filament_115G_14_15_2021-05-12-08-36-01.gif"
+        }
     }
 }
