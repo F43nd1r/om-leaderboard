@@ -593,5 +593,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841934622362566676/Opus_Magnum_-_Alcohol_Separation_110G_6_11_2021-05-12-09-07-14.gif"
         }
+    },
+    "WATER_PURIFIER": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 8.0,
+                    "COST": 40.0,
+                    "CYCLES": 42.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841936014368964608/Opus_Magnum_-_Water_Purifier_40G_42_8_2021-05-12-09-12-50.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 8.0,
+                    "CYCLES": 42.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841936014368964608/Opus_Magnum_-_Water_Purifier_40G_42_8_2021-05-12-09-12-50.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 8.0,
+                    "COST": 40.0,
+                    "CYCLES": 42.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841936014368964608/Opus_Magnum_-_Water_Purifier_40G_42_8_2021-05-12-09-12-50.gif"
+        }
     }
 }
