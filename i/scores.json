@@ -2339,14 +2339,14 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 2430.0,
-                    "INSTRUCTIONS": 4.0,
-                    "COST": 580.0,
-                    "AREA": 333.0
+                    "CYCLES": 100.0,
+                    "INSTRUCTIONS": 51.0,
+                    "COST": 360.0,
+                    "AREA": 183.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://imgur.com/7oU0aTk.gif"
+            "link": "https://i.imgur.com/Tlo3uU7.gif"
         }
     },
     "ALCHEMICAL_JEWEL": {
