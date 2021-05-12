@@ -523,5 +523,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933149625778186/Opus_Magnum_-_Courage_Potion_80G_35_8_2021-05-12-09-01-30.gif"
         }
+    },
+    "SURRENDER_FLARE": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "COST": 20.0,
+                    "CYCLES": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933354856349706/Opus_Magnum_-_Surrender_Flare_20G_3_7_2021-05-12-09-02-21.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "CYCLES": 3.0,
+                    "COST": 20.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933354856349706/Opus_Magnum_-_Surrender_Flare_20G_3_7_2021-05-12-09-02-21.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "COST": 20.0,
+                    "CYCLES": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933354856349706/Opus_Magnum_-_Surrender_Flare_20G_3_7_2021-05-12-09-02-21.gif"
+        }
     }
 }
