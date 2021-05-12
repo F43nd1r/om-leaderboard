@@ -1,1 +1,37 @@
-{}
+{
+    "STABILIZED_WATER": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 2.0,
+                    "COST": 20.0,
+                    "CYCLES": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841855961252888596/Opus_Magnum_-_Stabilized_Water_20G_3_2_2021-05-12-03-52-13.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 2.0,
+                    "CYCLES": 3.0,
+                    "COST": 20.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841855961252888596/Opus_Magnum_-_Stabilized_Water_20G_3_2_2021-05-12-03-52-13.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 2.0,
+                    "COST": 20.0,
+                    "CYCLES": 3.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841855961252888596/Opus_Magnum_-_Stabilized_Water_20G_3_2_2021-05-12-03-52-13.gif"
+        }
+    }
+}
