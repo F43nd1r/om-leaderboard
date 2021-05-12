@@ -2398,5 +2398,55 @@
             },
             "link": "https://imgur.com/XWq3cOC.gif"
         }
+    },
+    "EXPLOSIVE_VICTRITE": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 750.0,
+                    "CYCLES": 8027.0,
+                    "AREA": 497.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Fvb08MJ.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 750.0,
+                    "CYCLES": 8027.0,
+                    "AREA": 497.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Fvb08MJ.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 750.0,
+                    "CYCLES": 8027.0,
+                    "AREA": 497.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Fvb08MJ.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 750.0,
+                    "CYCLES": 8027.0,
+                    "AREA": 497.0,
+                    "INSTRUCTIONS": 4.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Fvb08MJ.gif"
+        }
     }
 }
