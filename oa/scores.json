@@ -488,5 +488,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841926756477829180/Opus_Magnum_-_Armor_Filament_115G_14_15_2021-05-12-08-36-01.gif"
         }
+    },
+    "COURAGE_POTION": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 8.0,
+                    "COST": 80.0,
+                    "CYCLES": 35.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933149625778186/Opus_Magnum_-_Courage_Potion_80G_35_8_2021-05-12-09-01-30.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 8.0,
+                    "CYCLES": 35.0,
+                    "COST": 80.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933149625778186/Opus_Magnum_-_Courage_Potion_80G_35_8_2021-05-12-09-01-30.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 8.0,
+                    "COST": 80.0,
+                    "CYCLES": 35.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933149625778186/Opus_Magnum_-_Courage_Potion_80G_35_8_2021-05-12-09-01-30.gif"
+        }
     }
 }
