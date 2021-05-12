@@ -663,5 +663,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841938174979604500/Opus_Magnum_-_Seal_Solvent_60G_179_19_2021-05-12-09-20-41.gif"
         }
+    },
+    "CLIMBING_ROPE_FIBER": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 188.0,
+                    "AREA": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841940919930322964/Opus_Magnum_-_Climbing_Rope_Fiber_100G_188_40_2021-05-12-09-32-07.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "AREA": 40.0,
+                    "CYCLES": 188.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841940919930322964/Opus_Magnum_-_Climbing_Rope_Fiber_100G_188_40_2021-05-12-09-32-07.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 188.0,
+                    "AREA": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841940919930322964/Opus_Magnum_-_Climbing_Rope_Fiber_100G_188_40_2021-05-12-09-32-07.gif"
+        }
     }
 }
