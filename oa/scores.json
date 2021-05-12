@@ -628,5 +628,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841936014368964608/Opus_Magnum_-_Water_Purifier_40G_42_8_2021-05-12-09-12-50.gif"
         }
+    },
+    "SEAL_SOLVENT": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 19.0,
+                    "COST": 60.0,
+                    "CYCLES": 179.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841938174979604500/Opus_Magnum_-_Seal_Solvent_60G_179_19_2021-05-12-09-20-41.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 19.0,
+                    "CYCLES": 179.0,
+                    "COST": 60.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841938174979604500/Opus_Magnum_-_Seal_Solvent_60G_179_19_2021-05-12-09-20-41.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 19.0,
+                    "COST": 60.0,
+                    "CYCLES": 179.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841938174979604500/Opus_Magnum_-_Seal_Solvent_60G_179_19_2021-05-12-09-20-41.gif"
+        }
     }
 }
