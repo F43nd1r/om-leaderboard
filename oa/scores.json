@@ -138,5 +138,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897132868894781/Opus_Magnum_-_Refined_Gold_20G_15_2_2021-05-12-06-38-26.gif"
         }
+    },
+    "HANGOVER_CURE": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "COST": 40.0,
+                    "CYCLES": 60.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897698478915584/Opus_Magnum_-_Hangover_Cure_40G_60_7_2021-05-12-06-40-37.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "CYCLES": 60.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897698478915584/Opus_Magnum_-_Hangover_Cure_40G_60_7_2021-05-12-06-40-37.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "COST": 40.0,
+                    "CYCLES": 60.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897698478915584/Opus_Magnum_-_Hangover_Cure_40G_60_7_2021-05-12-06-40-37.gif"
+        }
     }
 }
