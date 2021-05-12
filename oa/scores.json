@@ -173,5 +173,40 @@
             },
             "link": "https://i.imgur.com/YlAHA4M.gif"
         }
+    },
+    "AIRSHIP_FUEL": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 17.0,
+                    "COST": 40.0,
+                    "CYCLES": 72.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841900723859095558/Opus_Magnum_-_Airship_Fuel_40G_72_17_2021-05-12-06-52-37.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 17.0,
+                    "CYCLES": 72.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841900723859095558/Opus_Magnum_-_Airship_Fuel_40G_72_17_2021-05-12-06-52-37.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 17.0,
+                    "COST": 40.0,
+                    "CYCLES": 72.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841900723859095558/Opus_Magnum_-_Airship_Fuel_40G_72_17_2021-05-12-06-52-37.gif"
+        }
     }
 }
