@@ -103,5 +103,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841896984217518200/Opus_Magnum_-_Waterproof_Sealant_30G_23_4_2021-05-12-06-35-14.gif"
         }
+    },
+    "REFINED_GOLD": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 20.0,
+                    "CYCLES": 15.0,
+                    "AREA": 2.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897132868894781/Opus_Magnum_-_Refined_Gold_20G_15_2_2021-05-12-06-38-26.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 20.0,
+                    "AREA": 2.0,
+                    "CYCLES": 15.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897132868894781/Opus_Magnum_-_Refined_Gold_20G_15_2_2021-05-12-06-38-26.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 20.0,
+                    "CYCLES": 15.0,
+                    "AREA": 2.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841897132868894781/Opus_Magnum_-_Refined_Gold_20G_15_2_2021-05-12-06-38-26.gif"
+        }
     }
 }
