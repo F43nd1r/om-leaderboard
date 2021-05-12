@@ -558,5 +558,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841933354856349706/Opus_Magnum_-_Surrender_Flare_20G_3_7_2021-05-12-09-02-21.gif"
         }
+    },
+    "ALCOHOL_SEPARATION": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 120.0,
+                    "CYCLES": 6.0,
+                    "AREA": 11.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841934366300700672/Opus_Magnum_-_Alcohol_Separation_120G_6_11_2021-05-12-09-06-19.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 120.0,
+                    "AREA": 11.0,
+                    "CYCLES": 6.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841934366300700672/Opus_Magnum_-_Alcohol_Separation_120G_6_11_2021-05-12-09-06-19.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 120.0,
+                    "CYCLES": 6.0,
+                    "AREA": 11.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841934366300700672/Opus_Magnum_-_Alcohol_Separation_120G_6_11_2021-05-12-09-06-19.gif"
+        }
     }
 }
