@@ -2448,5 +2448,55 @@
             },
             "link": "https://i.imgur.com/268z8ea.gif"
         }
+    },
+    "VISILLARY_ANAESTHETIC": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 92.0,
+                    "COST": 240.0,
+                    "CYCLES": 110.0,
+                    "AREA": 58.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AHS1Sir.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 92.0,
+                    "CYCLES": 110.0,
+                    "COST": 240.0,
+                    "AREA": 58.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AHS1Sir.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 92.0,
+                    "AREA": 58.0,
+                    "COST": 240.0,
+                    "CYCLES": 110.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AHS1Sir.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 110.0,
+                    "INSTRUCTIONS": 92.0,
+                    "COST": 240.0,
+                    "AREA": 58.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/AHS1Sir.gif"
+        }
     }
 }
