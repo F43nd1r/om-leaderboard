@@ -1214,5 +1214,43 @@
             },
             "link": "https://i.imgur.com/5ySBqfY.gif"
         }
+    },
+    "REACTIVE_GOLD": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "COST": 120.0,
+                    "CYCLES": 275.0,
+                    "AREA": 608.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/3syXADA.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "CYCLES": 275.0,
+                    "COST": 120.0,
+                    "AREA": 608.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/3syXADA.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "AREA": 608.0,
+                    "COST": 120.0,
+                    "CYCLES": 275.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/3syXADA.gif"
+        }
     }
 }
