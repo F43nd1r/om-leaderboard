@@ -348,5 +348,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841908762545487892/Opus_Magnum_-_Stamina_Potion_50G_75_22_2021-05-12-07-24-35.gif"
         }
+    },
+    "HAIR_PRODUCT": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 45.0,
+                    "AREA": 5.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "AREA": 5.0,
+                    "CYCLES": 45.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 30.0,
+                    "CYCLES": 45.0,
+                    "AREA": 5.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
+        }
     }
 }

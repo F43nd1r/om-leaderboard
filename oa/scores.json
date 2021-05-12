@@ -348,5 +348,40 @@
             },
             "link": "https://i.imgur.com/vKMJeud.gif"
         }
+    },
+    "HAIR_PRODUCT": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 5.0,
+                    "COST": 30.0,
+                    "CYCLES": 45.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 5.0,
+                    "CYCLES": 45.0,
+                    "COST": 30.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 5.0,
+                    "COST": 30.0,
+                    "CYCLES": 45.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841919134711152640/Opus_Magnum_-_Hair_Product_30G_45_5_2021-05-12-08-05-46.gif"
+        }
     }
 }
