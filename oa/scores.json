@@ -33,5 +33,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/841855961252888596/Opus_Magnum_-_Stabilized_Water_20G_3_2_2021-05-12-03-52-13.gif"
         }
+    },
+    "FACE_POWDER": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 3.0,
+                    "COST": 40.0,
+                    "CYCLES": 23.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841895677620650005/Opus_Magnum_-_Face_Powder_40G_23_3_2021-05-12-06-32-35.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 3.0,
+                    "CYCLES": 23.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841895677620650005/Opus_Magnum_-_Face_Powder_40G_23_3_2021-05-12-06-32-35.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 3.0,
+                    "COST": 40.0,
+                    "CYCLES": 23.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/841895677620650005/Opus_Magnum_-_Face_Powder_40G_23_3_2021-05-12-06-32-35.gif"
+        }
     }
 }
