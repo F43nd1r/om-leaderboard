@@ -803,5 +803,40 @@
             },
             "link": "https://i.imgur.com/O8JogCs.gif"
         }
+    },
+    "PURIFIED_GOLD": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 10.0,
+                    "COST": 50.0,
+                    "CYCLES": 2303.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842310474297376810/Opus_Magnum_-_Purified_Gold_50G_2303_10_2021-05-13-09-57-34.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 10.0,
+                    "CYCLES": 2303.0,
+                    "COST": 50.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842310474297376810/Opus_Magnum_-_Purified_Gold_50G_2303_10_2021-05-13-09-57-34.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 10.0,
+                    "COST": 50.0,
+                    "CYCLES": 2303.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842310474297376810/Opus_Magnum_-_Purified_Gold_50G_2303_10_2021-05-13-09-57-34.gif"
+        }
     }
 }
