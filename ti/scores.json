@@ -1404,5 +1404,43 @@
             },
             "link": "https://i.imgur.com/AHOJMJz.gif"
         }
+    },
+    "MIST_OF_HALLUCINATION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 25.0,
+                    "COST": 270.0,
+                    "CYCLES": 123.0,
+                    "AREA": 103.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Txc7Kuy.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 25.0,
+                    "CYCLES": 123.0,
+                    "COST": 270.0,
+                    "AREA": 103.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Txc7Kuy.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 25.0,
+                    "AREA": 103.0,
+                    "COST": 270.0,
+                    "CYCLES": 123.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Txc7Kuy.gif"
+        }
     }
 }
