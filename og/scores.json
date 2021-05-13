@@ -838,5 +838,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/842310474297376810/Opus_Magnum_-_Purified_Gold_50G_2303_10_2021-05-13-09-57-34.gif"
         }
+    },
+    "ALCHEMICAL_JEWEL": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 90.0,
+                    "CYCLES": 42.0,
+                    "AREA": 19.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842313876112277524/Opus_Magnum_-_Alchemical_Jewel_90G_42_19_2021-05-13-10-14-14.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 90.0,
+                    "AREA": 19.0,
+                    "CYCLES": 42.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842313876112277524/Opus_Magnum_-_Alchemical_Jewel_90G_42_19_2021-05-13-10-14-14.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 90.0,
+                    "CYCLES": 42.0,
+                    "AREA": 19.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842313876112277524/Opus_Magnum_-_Alchemical_Jewel_90G_42_19_2021-05-13-10-14-14.gif"
+        }
     }
 }
