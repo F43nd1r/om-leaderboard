@@ -1048,5 +1048,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/842451937789214740/Opus_Magnum_-_Life-Sensing_Potion_90G_132_7_2021-05-13-13-22-50.gif"
         }
+    },
+    "SWORD_ALLOY": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 40.0,
+                    "COST": 150.0,
+                    "CYCLES": 592.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842463530413981726/Opus_Magnum_-_Sword_Alloy_150G_592_40_2021-05-13-14-08-35.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 40.0,
+                    "CYCLES": 592.0,
+                    "COST": 150.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842463530413981726/Opus_Magnum_-_Sword_Alloy_150G_592_40_2021-05-13-14-08-35.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 40.0,
+                    "COST": 150.0,
+                    "CYCLES": 592.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842463530413981726/Opus_Magnum_-_Sword_Alloy_150G_592_40_2021-05-13-14-08-35.gif"
+        }
     }
 }
