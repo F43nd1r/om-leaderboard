@@ -1290,5 +1290,43 @@
             },
             "link": "https://i.imgur.com/2rpoSmZ.gif"
         }
+    },
+    "STAIN_REMOVER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "COST": 260.0,
+                    "CYCLES": 143.0,
+                    "AREA": 136.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/7dbR9Bj.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "CYCLES": 143.0,
+                    "COST": 260.0,
+                    "AREA": 136.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/7dbR9Bj.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "AREA": 136.0,
+                    "COST": 260.0,
+                    "CYCLES": 143.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/7dbR9Bj.gif"
+        }
     }
 }
