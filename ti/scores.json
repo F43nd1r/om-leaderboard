@@ -1518,5 +1518,43 @@
             },
             "link": "https://i.imgur.com/mhVGS0A.gif"
         }
+    },
+    "PRESERVATIVE_SALT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "COST": 190.0,
+                    "CYCLES": 108.0,
+                    "AREA": 106.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Ge58fIH.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "CYCLES": 108.0,
+                    "COST": 190.0,
+                    "AREA": 106.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Ge58fIH.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "AREA": 106.0,
+                    "COST": 190.0,
+                    "CYCLES": 108.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Ge58fIH.gif"
+        }
     }
 }
