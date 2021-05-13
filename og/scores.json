@@ -943,5 +943,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/842332196152016916/Opus_Magnum_-_Synthesis_Via_Alcohol_150G_29_14_2021-05-13-11-27-02.gif"
         }
+    },
+    "CURIOUS_LIPSTICK": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 656.0,
+                    "AREA": 21.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/8aBw5hD.mp4"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "AREA": 21.0,
+                    "CYCLES": 656.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/8aBw5hD.mp4"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 656.0,
+                    "AREA": 21.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/8aBw5hD.mp4"
+        }
     }
 }
