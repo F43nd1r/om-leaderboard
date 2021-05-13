@@ -873,5 +873,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/842313876112277524/Opus_Magnum_-_Alchemical_Jewel_90G_42_19_2021-05-13-10-14-14.gif"
         }
+    },
+    "PROOF_OF_COMPLETENESS": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 12.0,
+                    "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842329476235132948/Opus_Magnum_-_Proof_of_Completeness_100G_12_7_2021-05-13-11-15-50.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "AREA": 7.0,
+                    "CYCLES": 12.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842329476235132948/Opus_Magnum_-_Proof_of_Completeness_100G_12_7_2021-05-13-11-15-50.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 100.0,
+                    "CYCLES": 12.0,
+                    "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842329476235132948/Opus_Magnum_-_Proof_of_Completeness_100G_12_7_2021-05-13-11-15-50.gif"
+        }
     }
 }
