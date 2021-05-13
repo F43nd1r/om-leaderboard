@@ -768,5 +768,40 @@
             },
             "link": "https://i.imgur.com/Go8sP7Q.gif"
         }
+    },
+    "LITHARGE_SEPARATION": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 125.0,
+                    "CYCLES": 150.0,
+                    "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842305685370699786/Opus_Magnum_-_Litharge_Separation_125G_150_7_2021-05-13-09-41-44.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 125.0,
+                    "AREA": 7.0,
+                    "CYCLES": 150.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842305685370699786/Opus_Magnum_-_Litharge_Separation_125G_150_7_2021-05-13-09-41-44.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 125.0,
+                    "CYCLES": 150.0,
+                    "AREA": 7.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842305685370699786/Opus_Magnum_-_Litharge_Separation_125G_150_7_2021-05-13-09-41-44.gif"
+        }
     }
 }
