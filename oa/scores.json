@@ -1013,5 +1013,40 @@
             },
             "link": "https://i.imgur.com/yHLYVGD.gif"
         }
+    },
+    "LIFE_SENSING_POTION": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "COST": 110.0,
+                    "CYCLES": 132.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842451688061534218/Opus_Magnum_-_Life-Sensing_Potion_110G_132_7_2021-05-13-13-21-46.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "CYCLES": 132.0,
+                    "COST": 110.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842451688061534218/Opus_Magnum_-_Life-Sensing_Potion_110G_132_7_2021-05-13-13-21-46.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 7.0,
+                    "COST": 110.0,
+                    "CYCLES": 132.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/842451688061534218/Opus_Magnum_-_Life-Sensing_Potion_110G_132_7_2021-05-13-13-21-46.gif"
+        }
     }
 }
