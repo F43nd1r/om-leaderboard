@@ -733,5 +733,40 @@
             },
             "link": "https://i.imgur.com/KR6qVxV.gif"
         }
+    },
+    "PRESERVATIVE_SALT": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 45.0,
+                    "COST": 40.0,
+                    "CYCLES": 346.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Go8sP7Q.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 45.0,
+                    "CYCLES": 346.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Go8sP7Q.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 45.0,
+                    "COST": 40.0,
+                    "CYCLES": 346.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Go8sP7Q.gif"
+        }
     }
 }
