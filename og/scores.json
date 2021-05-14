@@ -1083,5 +1083,40 @@
             },
             "link": "https://i.imgur.com/2WY2cIt.gif"
         }
+    },
+    "UNIVERSAL_SOLVENT": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 857.0,
+                    "AREA": 35.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kKfB9ns.mp4"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "AREA": 35.0,
+                    "CYCLES": 857.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kKfB9ns.mp4"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 130.0,
+                    "CYCLES": 857.0,
+                    "AREA": 35.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kKfB9ns.mp4"
+        }
     }
 }
