@@ -2498,5 +2498,55 @@
             },
             "link": "https://i.imgur.com/AHS1Sir.gif"
         }
+    },
+    "CELESTIAL_THREAD": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 660.0,
+                    "CYCLES": 111.0,
+                    "AREA": 134.0,
+                    "INSTRUCTIONS": 1055.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QsYjnJq.mp4"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 660.0,
+                    "CYCLES": 111.0,
+                    "AREA": 134.0,
+                    "INSTRUCTIONS": 1055.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QsYjnJq.mp4"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 660.0,
+                    "CYCLES": 111.0,
+                    "AREA": 134.0,
+                    "INSTRUCTIONS": 1055.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QsYjnJq.mp4"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 660.0,
+                    "CYCLES": 111.0,
+                    "AREA": 134.0,
+                    "INSTRUCTIONS": 1055.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QsYjnJq.mp4"
+        }
     }
 }
