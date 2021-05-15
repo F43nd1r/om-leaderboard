@@ -1118,5 +1118,40 @@
             },
             "link": "https://i.imgur.com/kKfB9ns.mp4"
         }
+    },
+    "TIMING_CRYSTAL": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 78.0,
+                    "COST": 40.0,
+                    "CYCLES": 491.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/UisQIFX.mp4"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 78.0,
+                    "CYCLES": 491.0,
+                    "COST": 40.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/UisQIFX.mp4"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 78.0,
+                    "COST": 40.0,
+                    "CYCLES": 491.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/UisQIFX.mp4"
+        }
     }
 }
