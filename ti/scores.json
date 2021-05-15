@@ -1632,5 +1632,43 @@
             },
             "link": "https://i.imgur.com/m0waMvJ.gif"
         }
+    },
+    "SILVER_CAUSTIC": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 23.0,
+                    "COST": 320.0,
+                    "CYCLES": 198.0,
+                    "AREA": 189.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/tqko2n3.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 23.0,
+                    "CYCLES": 198.0,
+                    "COST": 320.0,
+                    "AREA": 189.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/tqko2n3.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 23.0,
+                    "AREA": 189.0,
+                    "COST": 320.0,
+                    "CYCLES": 198.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/tqko2n3.gif"
+        }
     }
 }
