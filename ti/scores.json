@@ -1594,5 +1594,43 @@
             },
             "link": "https://i.imgur.com/fi3lw2X.gif"
         }
+    },
+    "VAN_BERLO_S_CHAIN": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "COST": 490.0,
+                    "CYCLES": 322.0,
+                    "AREA": 786.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/m0waMvJ.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "CYCLES": 322.0,
+                    "COST": 490.0,
+                    "AREA": 786.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/m0waMvJ.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "AREA": 786.0,
+                    "COST": 490.0,
+                    "CYCLES": 322.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/m0waMvJ.gif"
+        }
     }
 }
