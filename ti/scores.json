@@ -1746,5 +1746,43 @@
             },
             "link": "https://i.imgur.com/0nJVcEc.gif"
         }
+    },
+    "REFINED_BRONZE": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 55.0,
+                    "COST": 590.0,
+                    "CYCLES": 472.0,
+                    "AREA": 376.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/WLmp0t1.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 55.0,
+                    "CYCLES": 472.0,
+                    "COST": 590.0,
+                    "AREA": 376.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/WLmp0t1.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 55.0,
+                    "AREA": 376.0,
+                    "COST": 590.0,
+                    "CYCLES": 472.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/WLmp0t1.gif"
+        }
     }
 }
