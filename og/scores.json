@@ -1153,5 +1153,40 @@
             },
             "link": "https://i.imgur.com/UisQIFX.mp4"
         }
+    },
+    "MIST_OF_HALLUCINATION": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 178.0,
+                    "AREA": 18.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/XX7wXM3.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 60.0,
+                    "AREA": 18.0,
+                    "CYCLES": 178.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/XX7wXM3.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 60.0,
+                    "CYCLES": 178.0,
+                    "AREA": 18.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/XX7wXM3.gif"
+        }
     }
 }
