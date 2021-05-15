@@ -1670,5 +1670,43 @@
             },
             "link": "https://i.imgur.com/tqko2n3.gif"
         }
+    },
+    "LAMBENT_II_IX": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "COST": 410.0,
+                    "CYCLES": 394.0,
+                    "AREA": 366.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/eh4nWtO.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "CYCLES": 394.0,
+                    "COST": 410.0,
+                    "AREA": 366.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/eh4nWtO.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "AREA": 366.0,
+                    "COST": 410.0,
+                    "CYCLES": 394.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/eh4nWtO.gif"
+        }
     }
 }
