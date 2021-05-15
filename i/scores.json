@@ -2189,14 +2189,14 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 63.0,
-                    "INSTRUCTIONS": 616.0,
-                    "COST": 535.0,
-                    "AREA": 93.0
+                    "CYCLES": 49.0,
+                    "INSTRUCTIONS": 41.0,
+                    "COST": 250.0,
+                    "AREA": 182.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/RySph0P.gif"
+            "link": "https://i.imgur.com/98wYeGR.gif"
         }
     },
     "UNIVERSAL_SOLVENT": {
