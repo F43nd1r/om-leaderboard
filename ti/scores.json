@@ -1556,5 +1556,43 @@
             },
             "link": "https://i.imgur.com/01jc6sk.mp4"
         }
+    },
+    "VAN_BERLO_S_WHEEL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "COST": 140.0,
+                    "CYCLES": 155.0,
+                    "AREA": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/fi3lw2X.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "CYCLES": 155.0,
+                    "COST": 140.0,
+                    "AREA": 36.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/fi3lw2X.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 10.0,
+                    "AREA": 36.0,
+                    "COST": 140.0,
+                    "CYCLES": 155.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/fi3lw2X.gif"
+        }
     }
 }
