@@ -2698,5 +2698,55 @@
             },
             "link": "https://i.imgur.com/xvF1IFk.gif"
         }
+    },
+    "LAMBENT_II_IX": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 113.0,
+                    "COST": 220.0,
+                    "CYCLES": 152.0,
+                    "AREA": 62.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ZkI2lEq.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 113.0,
+                    "CYCLES": 152.0,
+                    "COST": 220.0,
+                    "AREA": 62.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ZkI2lEq.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 113.0,
+                    "AREA": 62.0,
+                    "COST": 220.0,
+                    "CYCLES": 152.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ZkI2lEq.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 152.0,
+                    "INSTRUCTIONS": 113.0,
+                    "COST": 220.0,
+                    "AREA": 62.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ZkI2lEq.gif"
+        }
     }
 }
