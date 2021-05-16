@@ -3598,5 +3598,55 @@
             },
             "link": "https://i.imgur.com/cjrDLYb.gif"
         }
+    },
+    "EMBALMING_FLUID": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 177.0,
+                    "COST": 280.0,
+                    "CYCLES": 190.0,
+                    "AREA": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Tmg0fRP.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 177.0,
+                    "CYCLES": 190.0,
+                    "COST": 280.0,
+                    "AREA": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Tmg0fRP.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 177.0,
+                    "AREA": 79.0,
+                    "COST": 280.0,
+                    "CYCLES": 190.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Tmg0fRP.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 190.0,
+                    "INSTRUCTIONS": 177.0,
+                    "COST": 280.0,
+                    "AREA": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Tmg0fRP.gif"
+        }
     }
 }
