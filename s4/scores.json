@@ -3498,5 +3498,55 @@
             },
             "link": "https://i.imgur.com/ag2AacJ.gif"
         }
+    },
+    "ANIMISMUS_BUFFER": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 235.0,
+                    "CYCLES": 135.0,
+                    "AREA": 88.0,
+                    "INSTRUCTIONS": 86.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QAVLYQY.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 235.0,
+                    "CYCLES": 135.0,
+                    "AREA": 88.0,
+                    "INSTRUCTIONS": 86.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QAVLYQY.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 235.0,
+                    "CYCLES": 135.0,
+                    "AREA": 88.0,
+                    "INSTRUCTIONS": 86.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QAVLYQY.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 235.0,
+                    "CYCLES": 135.0,
+                    "AREA": 88.0,
+                    "INSTRUCTIONS": 86.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/QAVLYQY.gif"
+        }
     }
 }
