@@ -2848,5 +2848,55 @@
             },
             "link": "https://i.imgur.com/aepc5Mr.gif"
         }
+    },
+    "BUOYANT_CABLE": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 66.0,
+                    "COST": 125.0,
+                    "CYCLES": 132.0,
+                    "AREA": 94.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 66.0,
+                    "CYCLES": 132.0,
+                    "COST": 125.0,
+                    "AREA": 94.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 66.0,
+                    "AREA": 94.0,
+                    "COST": 125.0,
+                    "CYCLES": 132.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 132.0,
+                    "INSTRUCTIONS": 66.0,
+                    "COST": 125.0,
+                    "AREA": 94.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+        }
     }
 }
