@@ -3148,5 +3148,55 @@
             },
             "link": "https://i.imgur.com/z45btXq.gif"
         }
+    },
+    "GENERAL_ANAESTHETIC": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 107.0,
+                    "COST": 280.0,
+                    "CYCLES": 103.0,
+                    "AREA": 68.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 107.0,
+                    "CYCLES": 103.0,
+                    "COST": 280.0,
+                    "AREA": 68.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 107.0,
+                    "AREA": 68.0,
+                    "COST": 280.0,
+                    "CYCLES": 103.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 103.0,
+                    "INSTRUCTIONS": 107.0,
+                    "COST": 280.0,
+                    "AREA": 68.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        }
     }
 }

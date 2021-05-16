@@ -3148,5 +3148,55 @@
             },
             "link": "https://i.imgur.com/z45btXq.gif"
         }
+    },
+    "GENERAL_ANAESTHETIC": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 103.0,
+                    "AREA": 68.0,
+                    "INSTRUCTIONS": 107.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 103.0,
+                    "AREA": 68.0,
+                    "INSTRUCTIONS": 107.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 103.0,
+                    "AREA": 68.0,
+                    "INSTRUCTIONS": 107.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 280.0,
+                    "CYCLES": 103.0,
+                    "AREA": 68.0,
+                    "INSTRUCTIONS": 107.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ADvlitU.gif"
+        }
     }
 }
