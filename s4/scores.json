@@ -2898,5 +2898,55 @@
             },
             "link": "https://i.imgur.com/4o0Z7Ps.gif"
         }
+    },
+    "RAVARI_S_WHEEL": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 103.0,
+                    "AREA": 29.0,
+                    "INSTRUCTIONS": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aospG7C.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 103.0,
+                    "AREA": 29.0,
+                    "INSTRUCTIONS": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aospG7C.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 103.0,
+                    "AREA": 29.0,
+                    "INSTRUCTIONS": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aospG7C.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 103.0,
+                    "AREA": 29.0,
+                    "INSTRUCTIONS": 97.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aospG7C.gif"
+        }
     }
 }
