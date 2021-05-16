@@ -3198,5 +3198,55 @@
             },
             "link": "https://i.imgur.com/ADvlitU.gif"
         }
+    },
+    "WAKEFULNESS_POTION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 45.0,
+                    "COST": 220.0,
+                    "CYCLES": 65.0,
+                    "AREA": 95.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/TEhGyc9.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 45.0,
+                    "CYCLES": 65.0,
+                    "COST": 220.0,
+                    "AREA": 95.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/TEhGyc9.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 45.0,
+                    "AREA": 95.0,
+                    "COST": 220.0,
+                    "CYCLES": 65.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/TEhGyc9.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 65.0,
+                    "INSTRUCTIONS": 45.0,
+                    "COST": 220.0,
+                    "AREA": 95.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/TEhGyc9.gif"
+        }
     }
 }
