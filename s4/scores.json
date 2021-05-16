@@ -2648,5 +2648,55 @@
             },
             "link": "https://i.imgur.com/biO7W7W.gif"
         }
+    },
+    "SILVER_CAUSTIC": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 103.0,
+                    "AREA": 43.0,
+                    "INSTRUCTIONS": 67.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/xvF1IFk.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 103.0,
+                    "AREA": 43.0,
+                    "INSTRUCTIONS": 67.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/xvF1IFk.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 103.0,
+                    "AREA": 43.0,
+                    "INSTRUCTIONS": 67.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/xvF1IFk.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 103.0,
+                    "AREA": 43.0,
+                    "INSTRUCTIONS": 67.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/xvF1IFk.gif"
+        }
     }
 }
