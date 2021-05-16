@@ -1822,5 +1822,43 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/843371699324059698/Opus_Magnum_-_Quintessential_Medium_140G_145_936_2021-05-16-08-17-48.gif"
         }
+    },
+    "BLOOD_STANCHING_POWDER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 29.0,
+                    "COST": 280.0,
+                    "CYCLES": 492.0,
+                    "AREA": 211.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/830492475759001620/843487078040993822/Opus_Magnum_-_Blood-Stanching_Powder_280G_492_211_2021-05-16-22-54-57.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 29.0,
+                    "CYCLES": 492.0,
+                    "COST": 280.0,
+                    "AREA": 211.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/830492475759001620/843487078040993822/Opus_Magnum_-_Blood-Stanching_Powder_280G_492_211_2021-05-16-22-54-57.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 29.0,
+                    "AREA": 211.0,
+                    "COST": 280.0,
+                    "CYCLES": 492.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/830492475759001620/843487078040993822/Opus_Magnum_-_Blood-Stanching_Powder_280G_492_211_2021-05-16-22-54-57.gif"
+        }
     }
 }
