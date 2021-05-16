@@ -3398,5 +3398,55 @@
             },
             "link": "https://i.imgur.com/OLwecgA.gif"
         }
+    },
+    "ASSASSIN_S_FILAMENT": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 79.0,
+                    "COST": 210.0,
+                    "CYCLES": 118.0,
+                    "AREA": 139.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 79.0,
+                    "CYCLES": 118.0,
+                    "COST": 210.0,
+                    "AREA": 139.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 79.0,
+                    "AREA": 139.0,
+                    "COST": 210.0,
+                    "CYCLES": 118.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 118.0,
+                    "INSTRUCTIONS": 79.0,
+                    "COST": 210.0,
+                    "AREA": 139.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        }
     }
 }

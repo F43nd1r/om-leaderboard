@@ -3398,5 +3398,55 @@
             },
             "link": "https://i.imgur.com/OLwecgA.gif"
         }
+    },
+    "ASSASSIN_S_FILAMENT": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 210.0,
+                    "CYCLES": 118.0,
+                    "AREA": 139.0,
+                    "INSTRUCTIONS": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 210.0,
+                    "CYCLES": 118.0,
+                    "AREA": 139.0,
+                    "INSTRUCTIONS": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 210.0,
+                    "CYCLES": 118.0,
+                    "AREA": 139.0,
+                    "INSTRUCTIONS": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 210.0,
+                    "CYCLES": 118.0,
+                    "AREA": 139.0,
+                    "INSTRUCTIONS": 79.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/nlCUf30.gif"
+        }
     }
 }
