@@ -2998,5 +2998,55 @@
             },
             "link": "https://i.imgur.com/4pTJJdR.gif"
         }
+    },
+    "RESONANT_CRYSTAL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 98.0,
+                    "COST": 120.0,
+                    "CYCLES": 139.0,
+                    "AREA": 54.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/1A0IuPD.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 98.0,
+                    "CYCLES": 139.0,
+                    "COST": 120.0,
+                    "AREA": 54.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/1A0IuPD.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 98.0,
+                    "AREA": 54.0,
+                    "COST": 120.0,
+                    "CYCLES": 139.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/1A0IuPD.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 139.0,
+                    "INSTRUCTIONS": 98.0,
+                    "COST": 120.0,
+                    "AREA": 54.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/1A0IuPD.gif"
+        }
     }
 }
