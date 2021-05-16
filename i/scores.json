@@ -3298,5 +3298,55 @@
             },
             "link": "https://i.imgur.com/Q596kOg.gif"
         }
+    },
+    "BLOOD_STANCHING_POWDER": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 88.0,
+                    "COST": 175.0,
+                    "CYCLES": 188.0,
+                    "AREA": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cHNK0w5.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 88.0,
+                    "CYCLES": 188.0,
+                    "COST": 175.0,
+                    "AREA": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cHNK0w5.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 88.0,
+                    "AREA": 77.0,
+                    "COST": 175.0,
+                    "CYCLES": 188.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cHNK0w5.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 188.0,
+                    "INSTRUCTIONS": 88.0,
+                    "COST": 175.0,
+                    "AREA": 77.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cHNK0w5.gif"
+        }
     }
 }
