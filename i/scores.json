@@ -2548,5 +2548,55 @@
             },
             "link": "https://i.imgur.com/QsYjnJq.mp4"
         }
+    },
+    "VAN_BERLO_S_WHEEL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 41.0,
+                    "COST": 120.0,
+                    "CYCLES": 84.0,
+                    "AREA": 26.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/VTe5oMv.mp4"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 41.0,
+                    "CYCLES": 84.0,
+                    "COST": 120.0,
+                    "AREA": 26.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/VTe5oMv.mp4"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 41.0,
+                    "AREA": 26.0,
+                    "COST": 120.0,
+                    "CYCLES": 84.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/VTe5oMv.mp4"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 84.0,
+                    "INSTRUCTIONS": 41.0,
+                    "COST": 120.0,
+                    "AREA": 26.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/VTe5oMv.mp4"
+        }
     }
 }
