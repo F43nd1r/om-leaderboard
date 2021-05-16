@@ -1689,14 +1689,14 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 86.0,
-                    "INSTRUCTIONS": 31.0,
-                    "COST": 100.0,
-                    "AREA": 26.0
+                    "CYCLES": 75.0,
+                    "INSTRUCTIONS": 26.0,
+                    "COST": 110.0,
+                    "AREA": 30.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/BEOATSk.gif"
+            "link": "https://i.imgur.com/opUqab5.gif"
         }
     },
     "REFINED_BRONZE": {
