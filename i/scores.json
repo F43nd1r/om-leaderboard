@@ -3248,5 +3248,55 @@
             },
             "link": "https://i.imgur.com/TEhGyc9.gif"
         }
+    },
+    "SUTURE_THREAD": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "COST": 145.0,
+                    "CYCLES": 62.0,
+                    "AREA": 59.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "CYCLES": 62.0,
+                    "COST": 145.0,
+                    "AREA": 59.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "AREA": 59.0,
+                    "COST": 145.0,
+                    "CYCLES": 62.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 62.0,
+                    "INSTRUCTIONS": 38.0,
+                    "COST": 145.0,
+                    "AREA": 59.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        }
     }
 }

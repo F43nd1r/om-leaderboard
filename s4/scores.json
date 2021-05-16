@@ -3248,5 +3248,55 @@
             },
             "link": "https://i.imgur.com/TEhGyc9.gif"
         }
+    },
+    "SUTURE_THREAD": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 145.0,
+                    "CYCLES": 62.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 38.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 145.0,
+                    "CYCLES": 62.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 38.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 145.0,
+                    "CYCLES": 62.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 38.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 145.0,
+                    "CYCLES": 62.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 38.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Q596kOg.gif"
+        }
     }
 }
