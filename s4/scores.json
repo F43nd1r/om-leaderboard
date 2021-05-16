@@ -2598,5 +2598,55 @@
             },
             "link": "https://i.imgur.com/VTe5oMv.mp4"
         }
+    },
+    "VAN_BERLO_S_CHAIN": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 151.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 56.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/biO7W7W.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 151.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 56.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/biO7W7W.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 151.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 56.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/biO7W7W.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 135.0,
+                    "CYCLES": 151.0,
+                    "AREA": 95.0,
+                    "INSTRUCTIONS": 56.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/biO7W7W.gif"
+        }
     }
 }
