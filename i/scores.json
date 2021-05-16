@@ -2948,5 +2948,55 @@
             },
             "link": "https://i.imgur.com/aospG7C.gif"
         }
+    },
+    "LUBRICATING_FILAMENT": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 70.0,
+                    "COST": 135.0,
+                    "CYCLES": 133.0,
+                    "AREA": 96.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4pTJJdR.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 70.0,
+                    "CYCLES": 133.0,
+                    "COST": 135.0,
+                    "AREA": 96.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4pTJJdR.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 70.0,
+                    "AREA": 96.0,
+                    "COST": 135.0,
+                    "CYCLES": 133.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4pTJJdR.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 133.0,
+                    "INSTRUCTIONS": 70.0,
+                    "COST": 135.0,
+                    "AREA": 96.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/4pTJJdR.gif"
+        }
     }
 }
