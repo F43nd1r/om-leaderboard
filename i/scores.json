@@ -2798,5 +2798,55 @@
             },
             "link": "https://i.imgur.com/CmfyB6H.gif"
         }
+    },
+    "SAILCLOTH_THREAD": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 40.0,
+                    "COST": 130.0,
+                    "CYCLES": 83.0,
+                    "AREA": 90.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aepc5Mr.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 40.0,
+                    "CYCLES": 83.0,
+                    "COST": 130.0,
+                    "AREA": 90.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aepc5Mr.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 40.0,
+                    "AREA": 90.0,
+                    "COST": 130.0,
+                    "CYCLES": 83.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aepc5Mr.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 83.0,
+                    "INSTRUCTIONS": 40.0,
+                    "COST": 130.0,
+                    "AREA": 90.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/aepc5Mr.gif"
+        }
     }
 }
