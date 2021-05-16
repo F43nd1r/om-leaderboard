@@ -3548,5 +3548,55 @@
             },
             "link": "https://i.imgur.com/QAVLYQY.gif"
         }
+    },
+    "ELECTRUM_SEPARATION": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 70.0,
+                    "COST": 220.0,
+                    "CYCLES": 96.0,
+                    "AREA": 105.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cjrDLYb.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 70.0,
+                    "CYCLES": 96.0,
+                    "COST": 220.0,
+                    "AREA": 105.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cjrDLYb.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 70.0,
+                    "AREA": 105.0,
+                    "COST": 220.0,
+                    "CYCLES": 96.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cjrDLYb.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 96.0,
+                    "INSTRUCTIONS": 70.0,
+                    "COST": 220.0,
+                    "AREA": 105.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/cjrDLYb.gif"
+        }
     }
 }
