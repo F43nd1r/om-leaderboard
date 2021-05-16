@@ -3348,5 +3348,55 @@
             },
             "link": "https://i.imgur.com/cHNK0w5.gif"
         }
+    },
+    "TONIC_OF_HYDRATION": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 115.0,
+                    "AREA": 90.0,
+                    "INSTRUCTIONS": 112.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/OLwecgA.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 115.0,
+                    "AREA": 90.0,
+                    "INSTRUCTIONS": 112.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/OLwecgA.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 115.0,
+                    "AREA": 90.0,
+                    "INSTRUCTIONS": 112.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/OLwecgA.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 220.0,
+                    "CYCLES": 115.0,
+                    "AREA": 90.0,
+                    "INSTRUCTIONS": 112.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/OLwecgA.gif"
+        }
     }
 }
