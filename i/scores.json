@@ -3448,5 +3448,55 @@
             },
             "link": "https://i.imgur.com/nlCUf30.gif"
         }
+    },
+    "ALCHEMICAL_SLAG": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 84.0,
+                    "COST": 355.0,
+                    "CYCLES": 194.0,
+                    "AREA": 63.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ag2AacJ.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 84.0,
+                    "CYCLES": 194.0,
+                    "COST": 355.0,
+                    "AREA": 63.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ag2AacJ.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 84.0,
+                    "AREA": 63.0,
+                    "COST": 355.0,
+                    "CYCLES": 194.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ag2AacJ.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 194.0,
+                    "INSTRUCTIONS": 84.0,
+                    "COST": 355.0,
+                    "AREA": 63.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/ag2AacJ.gif"
+        }
     }
 }
