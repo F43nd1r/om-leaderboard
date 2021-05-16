@@ -3048,5 +3048,55 @@
             },
             "link": "https://i.imgur.com/1A0IuPD.gif"
         }
+    },
+    "ABLATIVE_CRYSTAL": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 81.0,
+                    "COST": 205.0,
+                    "CYCLES": 142.0,
+                    "AREA": 92.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bPhmz8E.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 81.0,
+                    "CYCLES": 142.0,
+                    "COST": 205.0,
+                    "AREA": 92.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bPhmz8E.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 81.0,
+                    "AREA": 92.0,
+                    "COST": 205.0,
+                    "CYCLES": 142.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bPhmz8E.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 142.0,
+                    "INSTRUCTIONS": 81.0,
+                    "COST": 205.0,
+                    "AREA": 92.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/bPhmz8E.gif"
+        }
     }
 }
