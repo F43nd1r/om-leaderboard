@@ -1239,14 +1239,14 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 80.0,
-                    "INSTRUCTIONS": 34.0,
-                    "COST": 90.0,
-                    "AREA": 26.0
+                    "CYCLES": 45.0,
+                    "INSTRUCTIONS": 60.0,
+                    "COST": 360.0,
+                    "AREA": 108.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/ABxpKEK.gif"
+            "link": "https://i.imgur.com/WiYTXYD.gif"
         }
     },
     "SEAL_SOLVENT": {
