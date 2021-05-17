@@ -2953,50 +2953,50 @@
         "IGNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 70.0,
-                    "COST": 135.0,
-                    "CYCLES": 133.0,
-                    "AREA": 96.0
+                    "INSTRUCTIONS": 62.0,
+                    "COST": 390.0,
+                    "CYCLES": 61.0,
+                    "AREA": 366.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4pTJJdR.gif"
+            "link": "https://i.imgur.com/GqNj9Wg.gif"
         },
         "ICNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 70.0,
-                    "CYCLES": 133.0,
-                    "COST": 135.0,
-                    "AREA": 96.0
+                    "INSTRUCTIONS": 62.0,
+                    "CYCLES": 61.0,
+                    "COST": 390.0,
+                    "AREA": 366.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4pTJJdR.gif"
+            "link": "https://i.imgur.com/GqNj9Wg.gif"
         },
         "IANP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 70.0,
-                    "AREA": 96.0,
-                    "COST": 135.0,
-                    "CYCLES": 133.0
+                    "INSTRUCTIONS": 62.0,
+                    "AREA": 366.0,
+                    "COST": 390.0,
+                    "CYCLES": 61.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4pTJJdR.gif"
+            "link": "https://i.imgur.com/GqNj9Wg.gif"
         },
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 133.0,
-                    "INSTRUCTIONS": 70.0,
-                    "COST": 135.0,
-                    "AREA": 96.0
+                    "CYCLES": 61.0,
+                    "INSTRUCTIONS": 62.0,
+                    "COST": 390.0,
+                    "AREA": 366.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4pTJJdR.gif"
+            "link": "https://i.imgur.com/GqNj9Wg.gif"
         }
     },
     "RESONANT_CRYSTAL": {
