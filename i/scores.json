@@ -2853,50 +2853,50 @@
         "IGNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 66.0,
-                    "COST": 125.0,
-                    "CYCLES": 132.0,
-                    "AREA": 94.0
+                    "INSTRUCTIONS": 63.0,
+                    "COST": 420.0,
+                    "CYCLES": 61.0,
+                    "AREA": 377.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+            "link": "https://i.imgur.com/Cooe6uQ.gif"
         },
         "ICNP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 66.0,
-                    "CYCLES": 132.0,
-                    "COST": 125.0,
-                    "AREA": 94.0
+                    "INSTRUCTIONS": 63.0,
+                    "CYCLES": 61.0,
+                    "COST": 420.0,
+                    "AREA": 377.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+            "link": "https://i.imgur.com/Cooe6uQ.gif"
         },
         "IANP": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 66.0,
-                    "AREA": 94.0,
-                    "COST": 125.0,
-                    "CYCLES": 132.0
+                    "INSTRUCTIONS": 63.0,
+                    "AREA": 377.0,
+                    "COST": 420.0,
+                    "CYCLES": 61.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+            "link": "https://i.imgur.com/Cooe6uQ.gif"
         },
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 132.0,
-                    "INSTRUCTIONS": 66.0,
-                    "COST": 125.0,
-                    "AREA": 94.0
+                    "CYCLES": 61.0,
+                    "INSTRUCTIONS": 63.0,
+                    "COST": 420.0,
+                    "AREA": 377.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/4o0Z7Ps.gif"
+            "link": "https://i.imgur.com/Cooe6uQ.gif"
         }
     },
     "RAVARI_S_WHEEL": {
