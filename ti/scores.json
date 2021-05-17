@@ -1860,5 +1860,43 @@
             },
             "link": "https://i.imgur.com/ebuj2oV.gif"
         }
+    },
+    "TONIC_OF_HYDRATION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 21.0,
+                    "COST": 610.0,
+                    "CYCLES": 247.0,
+                    "AREA": 287.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/830492475759001620/843744787316080670/Opus_Magnum_-_Tonic_of_Hydration_610G_247_287_2021-05-17-16-00-01.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 21.0,
+                    "CYCLES": 247.0,
+                    "COST": 610.0,
+                    "AREA": 287.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/830492475759001620/843744787316080670/Opus_Magnum_-_Tonic_of_Hydration_610G_247_287_2021-05-17-16-00-01.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 21.0,
+                    "AREA": 287.0,
+                    "COST": 610.0,
+                    "CYCLES": 247.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/830492475759001620/843744787316080670/Opus_Magnum_-_Tonic_of_Hydration_610G_247_287_2021-05-17-16-00-01.gif"
+        }
     }
 }
