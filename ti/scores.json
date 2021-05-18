@@ -2126,5 +2126,43 @@
             },
             "link": "https://i.imgur.com/00KAxkI.gif"
         }
+    },
+    "RESONANT_CRYSTAL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 16.0,
+                    "COST": 230.0,
+                    "CYCLES": 445.0,
+                    "AREA": 175.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/udiXa5U"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 16.0,
+                    "CYCLES": 445.0,
+                    "COST": 230.0,
+                    "AREA": 175.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/udiXa5U"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 16.0,
+                    "AREA": 175.0,
+                    "COST": 230.0,
+                    "CYCLES": 445.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://imgur.com/udiXa5U"
+        }
     }
 }
