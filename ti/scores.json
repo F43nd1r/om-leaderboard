@@ -2093,38 +2093,38 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 19.0,
-                    "COST": 170.0,
+                    "INSTRUCTIONS": 17.0,
+                    "COST": 140.0,
                     "CYCLES": 1703.0,
-                    "AREA": 186.0
+                    "AREA": 127.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/uW2w2fz.gif"
+            "link": "https://i.imgur.com/00KAxkI.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 19.0,
+                    "INSTRUCTIONS": 17.0,
                     "CYCLES": 1703.0,
-                    "COST": 170.0,
-                    "AREA": 186.0
+                    "COST": 140.0,
+                    "AREA": 127.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/uW2w2fz.gif"
+            "link": "https://i.imgur.com/00KAxkI.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 19.0,
-                    "AREA": 186.0,
-                    "COST": 170.0,
+                    "INSTRUCTIONS": 17.0,
+                    "AREA": 127.0,
+                    "COST": 140.0,
                     "CYCLES": 1703.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/uW2w2fz.gif"
+            "link": "https://i.imgur.com/00KAxkI.gif"
         }
     }
 }
