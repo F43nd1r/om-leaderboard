@@ -1974,5 +1974,43 @@
             },
             "link": "https://i.imgur.com/KOvBbcI.gif"
         }
+    },
+    "BUOYANT_CABLE": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 14.0,
+                    "COST": 150.0,
+                    "CYCLES": 392.0,
+                    "AREA": 504.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/vjf5fNy.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 14.0,
+                    "CYCLES": 392.0,
+                    "COST": 150.0,
+                    "AREA": 504.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/vjf5fNy.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 14.0,
+                    "AREA": 504.0,
+                    "COST": 150.0,
+                    "CYCLES": 392.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/vjf5fNy.gif"
+        }
     }
 }
