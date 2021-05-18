@@ -2017,38 +2017,38 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 20.0,
-                    "COST": 180.0,
+                    "INSTRUCTIONS": 18.0,
+                    "COST": 160.0,
                     "CYCLES": 181.0,
-                    "AREA": 133.0
+                    "AREA": 165.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/gsBhwhL.gif"
+            "link": "https://i.imgur.com/y0xaHit.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 20.0,
+                    "INSTRUCTIONS": 18.0,
                     "CYCLES": 181.0,
-                    "COST": 180.0,
-                    "AREA": 133.0
+                    "COST": 160.0,
+                    "AREA": 165.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/gsBhwhL.gif"
+            "link": "https://i.imgur.com/y0xaHit.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 20.0,
-                    "AREA": 133.0,
-                    "COST": 180.0,
+                    "INSTRUCTIONS": 18.0,
+                    "AREA": 165.0,
+                    "COST": 160.0,
                     "CYCLES": 181.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/gsBhwhL.gif"
+            "link": "https://i.imgur.com/y0xaHit.gif"
         }
     },
     "SPYGLASS_CRYSTAL": {
