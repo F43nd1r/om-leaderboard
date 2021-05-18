@@ -2164,5 +2164,43 @@
             },
             "link": "https://i.imgur.com/KsgZ6JX.gif"
         }
+    },
+    "LUBRICATING_FILAMENT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 42.0,
+                    "COST": 450.0,
+                    "CYCLES": 221.0,
+                    "AREA": 731.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Wb1zbUb.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 42.0,
+                    "CYCLES": 221.0,
+                    "COST": 450.0,
+                    "AREA": 731.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Wb1zbUb.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 42.0,
+                    "AREA": 731.0,
+                    "COST": 450.0,
+                    "CYCLES": 221.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/Wb1zbUb.gif"
+        }
     }
 }
