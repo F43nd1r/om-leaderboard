@@ -2012,5 +2012,43 @@
             },
             "link": "https://i.imgur.com/vjf5fNy.gif"
         }
+    },
+    "SUTURE_THREAD": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "COST": 180.0,
+                    "CYCLES": 181.0,
+                    "AREA": 133.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/gsBhwhL.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "CYCLES": 181.0,
+                    "COST": 180.0,
+                    "AREA": 133.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/gsBhwhL.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 20.0,
+                    "AREA": 133.0,
+                    "COST": 180.0,
+                    "CYCLES": 181.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/gsBhwhL.gif"
+        }
     }
 }
