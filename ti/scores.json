@@ -2050,5 +2050,43 @@
             },
             "link": "https://i.imgur.com/gsBhwhL.gif"
         }
+    },
+    "SPYGLASS_CRYSTAL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "COST": 310.0,
+                    "CYCLES": 677.0,
+                    "AREA": 191.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/pu3Z0Xw.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "CYCLES": 677.0,
+                    "COST": 310.0,
+                    "AREA": 191.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/pu3Z0Xw.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 22.0,
+                    "AREA": 191.0,
+                    "COST": 310.0,
+                    "CYCLES": 677.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/pu3Z0Xw.gif"
+        }
     }
 }
