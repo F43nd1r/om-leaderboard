@@ -2278,5 +2278,43 @@
             },
             "link": "https://i.imgur.com/6cRNDuC.gif"
         }
+    },
+    "ABLATIVE_CRYSTAL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 36.0,
+                    "COST": 350.0,
+                    "CYCLES": 598.0,
+                    "AREA": 273.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 36.0,
+                    "CYCLES": 598.0,
+                    "COST": 350.0,
+                    "AREA": 273.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 36.0,
+                    "AREA": 273.0,
+                    "COST": 350.0,
+                    "CYCLES": 598.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        }
     }
 }
