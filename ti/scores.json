@@ -2202,5 +2202,43 @@
             },
             "link": "https://i.imgur.com/WC7zpVr.gif"
         }
+    },
+    "SYNTHESIS_VIA_ALCOHOL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 19.0,
+                    "COST": 260.0,
+                    "CYCLES": 308.0,
+                    "AREA": 3737.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/5zWzYus.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 19.0,
+                    "CYCLES": 308.0,
+                    "COST": 260.0,
+                    "AREA": 3737.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/5zWzYus.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 19.0,
+                    "AREA": 3737.0,
+                    "COST": 260.0,
+                    "CYCLES": 308.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/5zWzYus.gif"
+        }
     }
 }
