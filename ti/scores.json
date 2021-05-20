@@ -2240,5 +2240,43 @@
             },
             "link": "https://i.imgur.com/5zWzYus.gif"
         }
+    },
+    "WHEEL_REPRESENTATION": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 45.0,
+                    "COST": 390.0,
+                    "CYCLES": 472.0,
+                    "AREA": 134.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/X3kKyHJ.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 45.0,
+                    "CYCLES": 472.0,
+                    "COST": 390.0,
+                    "AREA": 134.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/X3kKyHJ.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 45.0,
+                    "AREA": 134.0,
+                    "COST": 390.0,
+                    "CYCLES": 472.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/X3kKyHJ.gif"
+        }
     }
 }
