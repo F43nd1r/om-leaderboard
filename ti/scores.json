@@ -2468,5 +2468,43 @@
             },
             "link": "https://i.imgur.com/kPDaBXE.gif"
         }
+    },
+    "HYPER_VOLATILE_GAS": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 19.0,
+                    "COST": 320.0,
+                    "CYCLES": 171.0,
+                    "AREA": 272.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/uI6cRld.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 19.0,
+                    "CYCLES": 171.0,
+                    "COST": 320.0,
+                    "AREA": 272.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/uI6cRld.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 19.0,
+                    "AREA": 272.0,
+                    "COST": 320.0,
+                    "CYCLES": 171.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/uI6cRld.gif"
+        }
     }
 }
