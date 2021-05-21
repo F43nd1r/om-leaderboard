@@ -2359,38 +2359,38 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 35.0,
+                    "INSTRUCTIONS": 33.0,
                     "COST": 250.0,
                     "CYCLES": 310.0,
-                    "AREA": 197.0
+                    "AREA": 2665.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/FvGRWu5.gif"
+            "link": "https://i.imgur.com/9VhiQ8F.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 35.0,
+                    "INSTRUCTIONS": 33.0,
                     "CYCLES": 310.0,
                     "COST": 250.0,
-                    "AREA": 197.0
+                    "AREA": 2665.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/FvGRWu5.gif"
+            "link": "https://i.imgur.com/9VhiQ8F.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 35.0,
-                    "AREA": 197.0,
+                    "INSTRUCTIONS": 33.0,
+                    "AREA": 2665.0,
                     "COST": 250.0,
                     "CYCLES": 310.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://i.imgur.com/FvGRWu5.gif"
+            "link": "https://i.imgur.com/9VhiQ8F.gif"
         }
     },
     "ELECTRUM_SEPARATION": {
