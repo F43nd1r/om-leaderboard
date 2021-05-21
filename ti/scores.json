@@ -2506,5 +2506,43 @@
             },
             "link": "https://i.imgur.com/uI6cRld.gif"
         }
+    },
+    "ASSASSIN_S_FILAMENT": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "COST": 350.0,
+                    "CYCLES": 226.0,
+                    "AREA": 759.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/k6puJTP.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "CYCLES": 226.0,
+                    "COST": 350.0,
+                    "AREA": 759.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/k6puJTP.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "AREA": 759.0,
+                    "COST": 350.0,
+                    "CYCLES": 226.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/k6puJTP.gif"
+        }
     }
 }
