@@ -2430,5 +2430,43 @@
             },
             "link": "https://i.imgur.com/X18uJz2.gif"
         }
+    },
+    "ALCHEMICAL_SLAG": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "COST": 430.0,
+                    "CYCLES": 18448.0,
+                    "AREA": 2127.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kPDaBXE.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "CYCLES": 18448.0,
+                    "COST": 430.0,
+                    "AREA": 2127.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kPDaBXE.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 38.0,
+                    "AREA": 2127.0,
+                    "COST": 430.0,
+                    "CYCLES": 18448.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/kPDaBXE.gif"
+        }
     }
 }
