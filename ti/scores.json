@@ -2316,5 +2316,43 @@
             },
             "link": "https://i.imgur.com/iZ7eJ3d.gif"
         }
+    },
+    "UNIVERSAL_COMPOUND": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 61.0,
+                    "COST": 650.0,
+                    "CYCLES": 327.0,
+                    "AREA": 233.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/tnPB71i.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 61.0,
+                    "CYCLES": 327.0,
+                    "COST": 650.0,
+                    "AREA": 233.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/tnPB71i.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 61.0,
+                    "AREA": 233.0,
+                    "COST": 650.0,
+                    "CYCLES": 327.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/tnPB71i.gif"
+        }
     }
 }
