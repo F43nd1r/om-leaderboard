@@ -2354,5 +2354,43 @@
             },
             "link": "https://i.imgur.com/tnPB71i.gif"
         }
+    },
+    "VAN_BERLO_S_PIVOTS": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 37.0,
+                    "COST": 260.0,
+                    "CYCLES": 310.0,
+                    "AREA": 201.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/UZgn35L.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 37.0,
+                    "CYCLES": 310.0,
+                    "COST": 260.0,
+                    "AREA": 201.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/UZgn35L.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 37.0,
+                    "AREA": 201.0,
+                    "COST": 260.0,
+                    "CYCLES": 310.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://i.imgur.com/UZgn35L.gif"
+        }
     }
 }
