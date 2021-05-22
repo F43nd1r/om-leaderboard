@@ -1941,38 +1941,38 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 12.0,
-                    "COST": 260.0,
-                    "CYCLES": 361.0,
-                    "AREA": 386.0
+                    "INSTRUCTIONS": 9.0,
+                    "COST": 750.0,
+                    "CYCLES": 294.0,
+                    "AREA": 2160.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://cdn.discordapp.com/attachments/763308690199543819/844045814463856640/Opus_Magnum_-_Sailcloth_Thread_260G_361_386_2021-05-17-19-49-02.gif"
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845472528306274334/Opus_Magnum_-_Sailcloth_Thread_750G_294_2160_2021-05-21-20-23-55.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 12.0,
-                    "CYCLES": 361.0,
-                    "COST": 260.0,
-                    "AREA": 386.0
+                    "INSTRUCTIONS": 9.0,
+                    "CYCLES": 294.0,
+                    "COST": 750.0,
+                    "AREA": 2160.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://cdn.discordapp.com/attachments/763308690199543819/844045814463856640/Opus_Magnum_-_Sailcloth_Thread_260G_361_386_2021-05-17-19-49-02.gif"
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845472528306274334/Opus_Magnum_-_Sailcloth_Thread_750G_294_2160_2021-05-21-20-23-55.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 12.0,
-                    "AREA": 386.0,
-                    "COST": 260.0,
-                    "CYCLES": 361.0
+                    "INSTRUCTIONS": 9.0,
+                    "AREA": 2160.0,
+                    "COST": 750.0,
+                    "CYCLES": 294.0
                 },
                 "displayAsSum": false
             },
-            "link": "https://cdn.discordapp.com/attachments/763308690199543819/844045814463856640/Opus_Magnum_-_Sailcloth_Thread_260G_361_386_2021-05-17-19-49-02.gif"
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845472528306274334/Opus_Magnum_-_Sailcloth_Thread_750G_294_2160_2021-05-21-20-23-55.gif"
         }
     },
     "BUOYANT_CABLE": {
