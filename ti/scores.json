@@ -2734,5 +2734,43 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/845603763280543764/Opus_Magnum_-_Animismus_Buffer_420G_153_226_2021-05-22-05-06-18.gif"
         }
+    },
+    "GENERAL_ANAESTHETIC": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 44.0,
+                    "COST": 430.0,
+                    "CYCLES": 268.0,
+                    "AREA": 116.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845760342490349618/Opus_Magnum_-_General_Anaesthetic_430G_268_116_2021-05-22-15-27-05.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 44.0,
+                    "CYCLES": 268.0,
+                    "COST": 430.0,
+                    "AREA": 116.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845760342490349618/Opus_Magnum_-_General_Anaesthetic_430G_268_116_2021-05-22-15-27-05.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 44.0,
+                    "AREA": 116.0,
+                    "COST": 430.0,
+                    "CYCLES": 268.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845760342490349618/Opus_Magnum_-_General_Anaesthetic_430G_268_116_2021-05-22-15-27-05.gif"
+        }
     }
 }
