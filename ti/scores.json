@@ -2658,5 +2658,43 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/845566962821890048/Opus_Magnum_-_Embalming_Fluid_500G_249_177_2021-05-22-15-39-32.gif"
         }
+    },
+    "VISILLARY_ANAESTHETIC": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 93.0,
+                    "COST": 380.0,
+                    "CYCLES": 121.0,
+                    "AREA": 152.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845591801909608448/Opus_Magnum_-_Visillary_Anaesthetic_450G_450_240_2021-05-22-04-16-22.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 93.0,
+                    "CYCLES": 121.0,
+                    "COST": 380.0,
+                    "AREA": 152.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845591801909608448/Opus_Magnum_-_Visillary_Anaesthetic_450G_450_240_2021-05-22-04-16-22.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 93.0,
+                    "AREA": 152.0,
+                    "COST": 380.0,
+                    "CYCLES": 121.0
+                },
+                "displayAsSum": false
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845591801909608448/Opus_Magnum_-_Visillary_Anaesthetic_450G_450_240_2021-05-22-04-16-22.gif"
+        }
     }
 }
