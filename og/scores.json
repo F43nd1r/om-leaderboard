@@ -1374,5 +1374,37 @@
             },
             "link": "https://i.imgur.com/2rpoSmZ.gif"
         }
+    },
+    "SILVER_CAUSTIC": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 320.0,
+                    "CYCLES": 198.0,
+                    "AREA": 189.0
+                }
+            },
+            "link": "https://i.imgur.com/tqko2n3.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 320.0,
+                    "AREA": 189.0,
+                    "CYCLES": 198.0
+                }
+            },
+            "link": "https://i.imgur.com/tqko2n3.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 320.0,
+                    "CYCLES": 198.0,
+                    "AREA": 189.0
+                }
+            },
+            "link": "https://i.imgur.com/tqko2n3.gif"
+        }
     }
 }
