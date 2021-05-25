@@ -1246,5 +1246,37 @@
             },
             "link": "https://i.imgur.com/RhFJIlD.gif"
         }
+    },
+    "BUOYANT_CABLE": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 493.0,
+                    "COST": 130.0,
+                    "CYCLES": 391.0
+                }
+            },
+            "link": "https://i.imgur.com/u0F67hD.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 493.0,
+                    "CYCLES": 391.0,
+                    "COST": 130.0
+                }
+            },
+            "link": "https://i.imgur.com/u0F67hD.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 493.0,
+                    "COST": 130.0,
+                    "CYCLES": 391.0
+                }
+            },
+            "link": "https://i.imgur.com/u0F67hD.gif"
+        }
     }
 }
