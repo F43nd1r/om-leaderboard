@@ -1342,5 +1342,37 @@
             },
             "link": "https://i.imgur.com/6fbzG5A.gif"
         }
+    },
+    "REACTIVE_CINNABAR": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 83.0,
+                    "COST": 150.0,
+                    "CYCLES": 255.0
+                }
+            },
+            "link": "https://i.imgur.com/2rpoSmZ.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 83.0,
+                    "CYCLES": 255.0,
+                    "COST": 150.0
+                }
+            },
+            "link": "https://i.imgur.com/2rpoSmZ.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 83.0,
+                    "COST": 150.0,
+                    "CYCLES": 255.0
+                }
+            },
+            "link": "https://i.imgur.com/2rpoSmZ.gif"
+        }
     }
 }
