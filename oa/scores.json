@@ -1278,5 +1278,37 @@
             },
             "link": "https://i.imgur.com/u0F67hD.gif"
         }
+    },
+    "VAN_BERLO_S_WHEEL": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 36.0,
+                    "COST": 140.0,
+                    "CYCLES": 155.0
+                }
+            },
+            "link": "https://i.imgur.com/fi3lw2X.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 36.0,
+                    "CYCLES": 155.0,
+                    "COST": 140.0
+                }
+            },
+            "link": "https://i.imgur.com/fi3lw2X.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 36.0,
+                    "COST": 140.0,
+                    "CYCLES": 155.0
+                }
+            },
+            "link": "https://i.imgur.com/fi3lw2X.gif"
+        }
     }
 }
