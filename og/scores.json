@@ -1630,5 +1630,37 @@
             },
             "link": "https://i.imgur.com/agnvesY.gif"
         }
+    },
+    "ABLATIVE_CRYSTAL": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 350.0,
+                    "CYCLES": 598.0,
+                    "AREA": 273.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 350.0,
+                    "AREA": 273.0,
+                    "CYCLES": 598.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 350.0,
+                    "CYCLES": 598.0,
+                    "AREA": 273.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        }
     }
 }

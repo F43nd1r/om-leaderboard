@@ -1630,5 +1630,37 @@
             },
             "link": "https://i.imgur.com/agnvesY.gif"
         }
+    },
+    "ABLATIVE_CRYSTAL": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 273.0,
+                    "COST": 350.0,
+                    "CYCLES": 598.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 273.0,
+                    "CYCLES": 598.0,
+                    "COST": 350.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 273.0,
+                    "COST": 350.0,
+                    "CYCLES": 598.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        }
     }
 }

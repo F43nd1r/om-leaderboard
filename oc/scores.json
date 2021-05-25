@@ -2014,5 +2014,37 @@
             },
             "link": "https://i.imgur.com/Hjcnw1n.gif"
         }
+    },
+    "ABLATIVE_CRYSTAL": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "CYCLES": 598.0,
+                    "COST": 350.0,
+                    "AREA": 273.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "CYCLES": 598.0,
+                    "AREA": 273.0,
+                    "COST": 350.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "CYCLES": 598.0,
+                    "COST": 350.0,
+                    "AREA": 273.0
+                }
+            },
+            "link": "https://i.imgur.com/iZ7eJ3d.gif"
+        }
     }
 }
