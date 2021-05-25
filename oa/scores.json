@@ -1310,5 +1310,37 @@
             },
             "link": "https://i.imgur.com/fi3lw2X.gif"
         }
+    },
+    "VAN_BERLO_S_CHAIN": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 943.0,
+                    "COST": 1020.0,
+                    "CYCLES": 379.0
+                }
+            },
+            "link": "https://i.imgur.com/6fbzG5A.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 943.0,
+                    "CYCLES": 379.0,
+                    "COST": 1020.0
+                }
+            },
+            "link": "https://i.imgur.com/6fbzG5A.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 943.0,
+                    "COST": 1020.0,
+                    "CYCLES": 379.0
+                }
+            },
+            "link": "https://i.imgur.com/6fbzG5A.gif"
+        }
     }
 }
