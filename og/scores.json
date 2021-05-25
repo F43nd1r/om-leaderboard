@@ -1182,5 +1182,37 @@
             },
             "link": "https://i.imgur.com/aCDxzom.mp4"
         }
+    },
+    "VAPOROUS_SOLVENT": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 330.0,
+                    "CYCLES": 307.0,
+                    "AREA": 158.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/763308690199543819/845075242032168970/Opus_Magnum_-_Vaporous_Solvent_330G_307_158_2021-05-20-15-24-39.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 330.0,
+                    "AREA": 158.0,
+                    "CYCLES": 307.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/763308690199543819/845075242032168970/Opus_Magnum_-_Vaporous_Solvent_330G_307_158_2021-05-20-15-24-39.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 330.0,
+                    "CYCLES": 307.0,
+                    "AREA": 158.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/763308690199543819/845075242032168970/Opus_Magnum_-_Vaporous_Solvent_330G_307_158_2021-05-20-15-24-39.gif"
+        }
     }
 }
