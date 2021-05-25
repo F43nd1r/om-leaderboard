@@ -1438,5 +1438,37 @@
             },
             "link": "https://i.imgur.com/eh4nWtO.gif"
         }
+    },
+    "EXPLORER_S_SALVE": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 217.0,
+                    "COST": 470.0,
+                    "CYCLES": 251.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/843091325242179594/Opus_Magnum_-_Explorers_Salve_470G_251_217_2021-05-15-13-43-25.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 217.0,
+                    "CYCLES": 251.0,
+                    "COST": 470.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/843091325242179594/Opus_Magnum_-_Explorers_Salve_470G_251_217_2021-05-15-13-43-25.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 217.0,
+                    "COST": 470.0,
+                    "CYCLES": 251.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/843091325242179594/Opus_Magnum_-_Explorers_Salve_470G_251_217_2021-05-15-13-43-25.gif"
+        }
     }
 }
