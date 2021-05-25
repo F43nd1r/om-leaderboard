@@ -1598,5 +1598,37 @@
             },
             "link": "https://i.imgur.com/WC7zpVr.gif"
         }
+    },
+    "REFINED_BRONZE": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 376.0,
+                    "COST": 580.0,
+                    "CYCLES": 472.0
+                }
+            },
+            "link": "https://i.imgur.com/agnvesY.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 376.0,
+                    "CYCLES": 472.0,
+                    "COST": 580.0
+                }
+            },
+            "link": "https://i.imgur.com/agnvesY.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 376.0,
+                    "COST": 580.0,
+                    "CYCLES": 472.0
+                }
+            },
+            "link": "https://i.imgur.com/agnvesY.gif"
+        }
     }
 }
