@@ -2078,5 +2078,37 @@
             },
             "link": "https://i.imgur.com/6cRNDuC.gif"
         }
+    },
+    "UNIVERSAL_COMPOUND": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "CYCLES": 374.0,
+                    "COST": 590.0,
+                    "AREA": 257.0
+                }
+            },
+            "link": "https://i.imgur.com/p1Qni02.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "CYCLES": 374.0,
+                    "AREA": 257.0,
+                    "COST": 590.0
+                }
+            },
+            "link": "https://i.imgur.com/p1Qni02.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "CYCLES": 374.0,
+                    "COST": 590.0,
+                    "AREA": 257.0
+                }
+            },
+            "link": "https://i.imgur.com/p1Qni02.gif"
+        }
     }
 }
