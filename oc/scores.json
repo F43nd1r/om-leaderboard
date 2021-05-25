@@ -2046,5 +2046,37 @@
             },
             "link": "https://i.imgur.com/iZ7eJ3d.gif"
         }
+    },
+    "WHEEL_REPRESENTATION": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "CYCLES": 315.0,
+                    "COST": 350.0,
+                    "AREA": 185.0
+                }
+            },
+            "link": "https://i.imgur.com/6cRNDuC.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "CYCLES": 315.0,
+                    "AREA": 185.0,
+                    "COST": 350.0
+                }
+            },
+            "link": "https://i.imgur.com/6cRNDuC.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "CYCLES": 315.0,
+                    "COST": 350.0,
+                    "AREA": 185.0
+                }
+            },
+            "link": "https://i.imgur.com/6cRNDuC.gif"
+        }
     }
 }
