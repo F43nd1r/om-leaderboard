@@ -1822,5 +1822,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/845685061462261790/Opus_Magnum_-_Suture_Thread_250G_150_359_2021-05-22-11-29-20.gif"
         }
+    },
+    "BLOOD_STANCHING_POWDER": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "CYCLES": 304.0,
+                    "AREA": 174.0
+                }
+            },
+            "link": "https://i.imgur.com/lS3r3v7.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "AREA": 174.0,
+                    "CYCLES": 304.0
+                }
+            },
+            "link": "https://i.imgur.com/lS3r3v7.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 260.0,
+                    "CYCLES": 304.0,
+                    "AREA": 174.0
+                }
+            },
+            "link": "https://i.imgur.com/lS3r3v7.gif"
+        }
     }
 }

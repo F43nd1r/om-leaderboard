@@ -1822,5 +1822,37 @@
             },
             "link": "https://i.imgur.com/45oF7NJ.gif"
         }
+    },
+    "BLOOD_STANCHING_POWDER": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 174.0,
+                    "COST": 260.0,
+                    "CYCLES": 304.0
+                }
+            },
+            "link": "https://i.imgur.com/lS3r3v7.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 174.0,
+                    "CYCLES": 304.0,
+                    "COST": 260.0
+                }
+            },
+            "link": "https://i.imgur.com/lS3r3v7.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 174.0,
+                    "COST": 260.0,
+                    "CYCLES": 304.0
+                }
+            },
+            "link": "https://i.imgur.com/lS3r3v7.gif"
+        }
     }
 }
