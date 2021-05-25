@@ -1726,5 +1726,37 @@
             },
             "link": "https://i.imgur.com/p1Qni02.gif"
         }
+    },
+    "GENERAL_ANAESTHETIC": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 430.0,
+                    "CYCLES": 267.0,
+                    "AREA": 116.0
+                }
+            },
+            "link": "https://i.imgur.com/on48GJl.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 430.0,
+                    "AREA": 116.0,
+                    "CYCLES": 267.0
+                }
+            },
+            "link": "https://i.imgur.com/on48GJl.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 430.0,
+                    "CYCLES": 267.0,
+                    "AREA": 116.0
+                }
+            },
+            "link": "https://i.imgur.com/on48GJl.gif"
+        }
     }
 }
