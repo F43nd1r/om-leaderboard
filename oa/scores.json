@@ -1214,5 +1214,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/763308690199543819/845075242032168970/Opus_Magnum_-_Vaporous_Solvent_330G_307_158_2021-05-20-15-24-39.gif"
         }
+    },
+    "RESONANT_CRYSTAL": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 137.0,
+                    "COST": 230.0,
+                    "CYCLES": 554.0
+                }
+            },
+            "link": "https://i.imgur.com/RhFJIlD.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 137.0,
+                    "CYCLES": 554.0,
+                    "COST": 230.0
+                }
+            },
+            "link": "https://i.imgur.com/RhFJIlD.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 137.0,
+                    "COST": 230.0,
+                    "CYCLES": 554.0
+                }
+            },
+            "link": "https://i.imgur.com/RhFJIlD.gif"
+        }
     }
 }
