@@ -1406,5 +1406,37 @@
             },
             "link": "https://i.imgur.com/tqko2n3.gif"
         }
+    },
+    "LAMBENT_II_IX": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "CYCLES": 394.0,
+                    "AREA": 366.0
+                }
+            },
+            "link": "https://i.imgur.com/eh4nWtO.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "AREA": 366.0,
+                    "CYCLES": 394.0
+                }
+            },
+            "link": "https://i.imgur.com/eh4nWtO.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 410.0,
+                    "CYCLES": 394.0,
+                    "AREA": 366.0
+                }
+            },
+            "link": "https://i.imgur.com/eh4nWtO.gif"
+        }
     }
 }
