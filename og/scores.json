@@ -1502,5 +1502,37 @@
             },
             "link": "https://i.imgur.com/YB5CZSy.gif"
         }
+    },
+    "SPYGLASS_CRYSTAL": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 290.0,
+                    "CYCLES": 677.0,
+                    "AREA": 187.0
+                }
+            },
+            "link": "https://i.imgur.com/sWyXB7q.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 290.0,
+                    "AREA": 187.0,
+                    "CYCLES": 677.0
+                }
+            },
+            "link": "https://i.imgur.com/sWyXB7q.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 290.0,
+                    "CYCLES": 677.0,
+                    "AREA": 187.0
+                }
+            },
+            "link": "https://i.imgur.com/sWyXB7q.gif"
+        }
     }
 }
