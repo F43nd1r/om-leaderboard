@@ -1150,5 +1150,37 @@
             },
             "link": "https://i.imgur.com/efgEXCp.gif"
         }
+    },
+    "VAN_BERLO_S_PIVOTS": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 126.0,
+                    "COST": 230.0,
+                    "CYCLES": 592.0
+                }
+            },
+            "link": "https://i.imgur.com/hK0gUiZ.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 126.0,
+                    "CYCLES": 592.0,
+                    "COST": 230.0
+                }
+            },
+            "link": "https://i.imgur.com/hK0gUiZ.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 126.0,
+                    "COST": 230.0,
+                    "CYCLES": 592.0
+                }
+            },
+            "link": "https://i.imgur.com/hK0gUiZ.gif"
+        }
     }
 }
