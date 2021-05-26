@@ -1886,5 +1886,37 @@
             },
             "link": "https://i.imgur.com/k6puJTP.gif"
         }
+    },
+    "ELECTRUM_SEPARATION": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 378.0,
+                    "COST": 230.0,
+                    "CYCLES": 189.0
+                }
+            },
+            "link": "https://i.imgur.com/XtDMBEi.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 378.0,
+                    "CYCLES": 189.0,
+                    "COST": 230.0
+                }
+            },
+            "link": "https://i.imgur.com/XtDMBEi.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 378.0,
+                    "COST": 230.0,
+                    "CYCLES": 189.0
+                }
+            },
+            "link": "https://i.imgur.com/XtDMBEi.gif"
+        }
     }
 }

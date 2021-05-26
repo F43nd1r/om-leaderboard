@@ -1886,5 +1886,37 @@
             },
             "link": "https://i.imgur.com/k6puJTP.gif"
         }
+    },
+    "ELECTRUM_SEPARATION": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 230.0,
+                    "CYCLES": 189.0,
+                    "AREA": 378.0
+                }
+            },
+            "link": "https://i.imgur.com/XtDMBEi.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 230.0,
+                    "AREA": 378.0,
+                    "CYCLES": 189.0
+                }
+            },
+            "link": "https://i.imgur.com/XtDMBEi.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 230.0,
+                    "CYCLES": 189.0,
+                    "AREA": 378.0
+                }
+            },
+            "link": "https://i.imgur.com/XtDMBEi.gif"
+        }
     }
 }
