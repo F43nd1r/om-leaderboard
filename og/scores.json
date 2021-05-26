@@ -2014,5 +2014,37 @@
             },
             "link": "https://i.imgur.com/mKyNND5.gif"
         }
+    },
+    "VISILLARY_ANAESTHETIC": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 470.0,
+                    "CYCLES": 179.0,
+                    "AREA": 165.0
+                }
+            },
+            "link": "https://i.imgur.com/Tuj87c0.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 470.0,
+                    "AREA": 165.0,
+                    "CYCLES": 179.0
+                }
+            },
+            "link": "https://i.imgur.com/Tuj87c0.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 470.0,
+                    "CYCLES": 179.0,
+                    "AREA": 165.0
+                }
+            },
+            "link": "https://i.imgur.com/Tuj87c0.gif"
+        }
     }
 }
