@@ -2110,5 +2110,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/845505332637204500/Opus_Magnum_-_Celestial_Thread_500G_403_339_2021-05-21-22-33-29.gif"
         }
+    },
+    "ALCHEMICAL_SLAG": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 56.0,
+                    "COST": 390.0,
+                    "CYCLES": 2909.0
+                }
+            },
+            "link": "https://i.imgur.com/hYwksBv.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 56.0,
+                    "CYCLES": 2909.0,
+                    "COST": 390.0
+                }
+            },
+            "link": "https://i.imgur.com/hYwksBv.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 56.0,
+                    "COST": 390.0,
+                    "CYCLES": 2909.0
+                }
+            },
+            "link": "https://i.imgur.com/hYwksBv.gif"
+        }
     }
 }
