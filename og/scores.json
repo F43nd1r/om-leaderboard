@@ -2078,5 +2078,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/843371699324059698/Opus_Magnum_-_Quintessential_Medium_140G_145_936_2021-05-16-08-17-48.gif"
         }
+    },
+    "CELESTIAL_THREAD": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 500.0,
+                    "CYCLES": 403.0,
+                    "AREA": 339.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845505332637204500/Opus_Magnum_-_Celestial_Thread_500G_403_339_2021-05-21-22-33-29.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 500.0,
+                    "AREA": 339.0,
+                    "CYCLES": 403.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845505332637204500/Opus_Magnum_-_Celestial_Thread_500G_403_339_2021-05-21-22-33-29.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 500.0,
+                    "CYCLES": 403.0,
+                    "AREA": 339.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845505332637204500/Opus_Magnum_-_Celestial_Thread_500G_403_339_2021-05-21-22-33-29.gif"
+        }
     }
 }
