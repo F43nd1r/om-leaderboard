@@ -1918,5 +1918,37 @@
             },
             "link": "https://i.imgur.com/e0KlVrS.gif"
         }
+    },
+    "EMBALMING_FLUID": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 500.0,
+                    "CYCLES": 249.0,
+                    "AREA": 177.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845566962821890048/Opus_Magnum_-_Embalming_Fluid_500G_249_177_2021-05-22-15-39-32.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 500.0,
+                    "AREA": 177.0,
+                    "CYCLES": 249.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845566962821890048/Opus_Magnum_-_Embalming_Fluid_500G_249_177_2021-05-22-15-39-32.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 500.0,
+                    "CYCLES": 249.0,
+                    "AREA": 177.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/845566962821890048/Opus_Magnum_-_Embalming_Fluid_500G_249_177_2021-05-22-15-39-32.gif"
+        }
     }
 }
