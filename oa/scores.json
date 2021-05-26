@@ -1854,5 +1854,37 @@
             },
             "link": "https://i.imgur.com/lS3r3v7.gif"
         }
+    },
+    "ASSASSIN_S_FILAMENT": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 759.0,
+                    "COST": 350.0,
+                    "CYCLES": 226.0
+                }
+            },
+            "link": "https://i.imgur.com/k6puJTP.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 759.0,
+                    "CYCLES": 226.0,
+                    "COST": 350.0
+                }
+            },
+            "link": "https://i.imgur.com/k6puJTP.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 759.0,
+                    "COST": 350.0,
+                    "CYCLES": 226.0
+                }
+            },
+            "link": "https://i.imgur.com/k6puJTP.gif"
+        }
     }
 }
