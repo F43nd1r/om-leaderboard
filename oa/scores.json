@@ -2398,5 +2398,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
         }
+    },
+    "MIST_OF_DOUSING": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 82.0,
+                    "COST": 315.0,
+                    "CYCLES": 396.0
+                }
+            },
+            "link": "https://i.imgur.com/txfRcNS.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 82.0,
+                    "CYCLES": 396.0,
+                    "COST": 315.0
+                }
+            },
+            "link": "https://i.imgur.com/txfRcNS.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 82.0,
+                    "COST": 315.0,
+                    "CYCLES": 396.0
+                }
+            },
+            "link": "https://i.imgur.com/txfRcNS.gif"
+        }
     }
 }
