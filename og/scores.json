@@ -2302,5 +2302,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/847865028429479986/Opus_Magnum_-_WIRE_FORMING_AND_UNFORMING_450G_289_357_2021-05-28-17-50-00.gif"
         }
+    },
+    "VIRULENT_VECTOR": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 470.0,
+                    "CYCLES": 310.0,
+                    "AREA": 182.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847886139390165002/Opus_Magnum_-_VIRULENT_VECTOR_470G_310_182_2021-05-28-19-15-46.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 470.0,
+                    "AREA": 182.0,
+                    "CYCLES": 310.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847886139390165002/Opus_Magnum_-_VIRULENT_VECTOR_470G_310_182_2021-05-28-19-15-46.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 470.0,
+                    "CYCLES": 310.0,
+                    "AREA": 182.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847886139390165002/Opus_Magnum_-_VIRULENT_VECTOR_470G_310_182_2021-05-28-19-15-46.gif"
+        }
     }
 }
