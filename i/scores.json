@@ -3586,5 +3586,51 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/847886139390165002/Opus_Magnum_-_VIRULENT_VECTOR_470G_310_182_2021-05-28-19-15-46.gif"
         }
+    },
+    "A_WELCOME_TO_HOUSE_COLVAN": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 11.0,
+                    "COST": 100.0,
+                    "CYCLES": 245.0,
+                    "AREA": 6054.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 11.0,
+                    "CYCLES": 245.0,
+                    "COST": 100.0,
+                    "AREA": 6054.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 11.0,
+                    "AREA": 6054.0,
+                    "COST": 100.0,
+                    "CYCLES": 245.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 245.0,
+                    "INSTRUCTIONS": 11.0,
+                    "COST": 100.0,
+                    "AREA": 6054.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/747474678498721997/847911400381612042/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_100G_245_6054_2021-05-28-20-56-35.gif"
+        }
     }
 }
