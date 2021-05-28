@@ -3356,5 +3356,51 @@
             },
             "link": "https://i.imgur.com/zwMuWY6.gif"
         }
+    },
+    "UNWINDING": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 15.0,
+                    "COST": 150.0,
+                    "CYCLES": 133.0,
+                    "AREA": 122.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847633900460834846/Opus_Magnum_-_UNWINDING_150G_133_122_2021-05-28-02-33-07.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 15.0,
+                    "CYCLES": 133.0,
+                    "COST": 150.0,
+                    "AREA": 122.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847633900460834846/Opus_Magnum_-_UNWINDING_150G_133_122_2021-05-28-02-33-07.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 15.0,
+                    "AREA": 122.0,
+                    "COST": 150.0,
+                    "CYCLES": 133.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847633900460834846/Opus_Magnum_-_UNWINDING_150G_133_122_2021-05-28-02-33-07.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 133.0,
+                    "INSTRUCTIONS": 15.0,
+                    "COST": 150.0,
+                    "AREA": 122.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847633900460834846/Opus_Magnum_-_UNWINDING_150G_133_122_2021-05-28-02-33-07.gif"
+        }
     }
 }
