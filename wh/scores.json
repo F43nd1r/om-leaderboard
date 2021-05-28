@@ -1404,5 +1404,27 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/847932039230521365/Opus_Magnum_-_A_WELCOME_TO_HOUSE_COLVAN_220G_829_30_2021-05-28-22-08-15.gif"
         }
+    },
+    "IMPROVED_EXPLOSIVE_PHIAL": {
+        "HEIGHT": {
+            "score": {
+                "parts": {
+                    "HEIGHT": 2.0,
+                    "CYCLES": 106.0,
+                    "COST": 385.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+        },
+        "WIDTH": {
+            "score": {
+                "parts": {
+                    "WIDTH": 18.0,
+                    "CYCLES": 106.0,
+                    "COST": 385.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/847941955157622795/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_385G_106_60_2021-05-28-22-57-57.gif"
+        }
     }
 }
