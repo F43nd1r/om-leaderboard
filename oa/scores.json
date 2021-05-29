@@ -2430,5 +2430,37 @@
             },
             "link": "https://i.imgur.com/txfRcNS.gif"
         }
+    },
+    "POTENT_PORTABLES": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 47.0,
+                    "COST": 285.0,
+                    "CYCLES": 160.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 47.0,
+                    "CYCLES": 160.0,
+                    "COST": 285.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 47.0,
+                    "COST": 285.0,
+                    "CYCLES": 160.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        }
     }
 }

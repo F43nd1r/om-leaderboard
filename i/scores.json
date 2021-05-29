@@ -3724,5 +3724,51 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
         }
+    },
+    "POTENT_PORTABLES": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 90.0,
+                    "COST": 285.0,
+                    "CYCLES": 160.0,
+                    "AREA": 47.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 90.0,
+                    "CYCLES": 160.0,
+                    "COST": 285.0,
+                    "AREA": 47.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 90.0,
+                    "AREA": 47.0,
+                    "COST": 285.0,
+                    "CYCLES": 160.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 160.0,
+                    "INSTRUCTIONS": 90.0,
+                    "COST": 285.0,
+                    "AREA": 47.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
+        }
     }
 }
