@@ -1426,5 +1426,27 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/848024741133811752/Opus_Magnum_-_IMPROVED_EXPLOSIVE_PHIAL_270G_348_103_2021-05-28-19-25-29.gif"
         }
+    },
+    "MIST_OF_DOUSING": {
+        "HEIGHT": {
+            "score": {
+                "parts": {
+                    "HEIGHT": 22.0,
+                    "CYCLES": 55.0,
+                    "COST": 440.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848095498690494494/Opus_Magnum_-_MIST_OF_DOUSING_440G_55_267_2021-05-29-00-07-46.gif"
+        },
+        "WIDTH": {
+            "score": {
+                "parts": {
+                    "WIDTH": 16.0,
+                    "CYCLES": 55.0,
+                    "COST": 440.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/848095498690494494/Opus_Magnum_-_MIST_OF_DOUSING_440G_55_267_2021-05-29-00-07-46.gif"
+        }
     }
 }
