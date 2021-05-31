@@ -2494,5 +2494,37 @@
             },
             "link": "https://i.imgur.com/JCAqGHb.gif"
         }
+    },
+    "CALM_BEFORE_THE_STORM": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "AREA": 59.0,
+                    "CYCLES": 118.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        }
     }
 }

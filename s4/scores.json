@@ -3816,5 +3816,51 @@
             },
             "link": "https://i.imgur.com/JCAqGHb.gif"
         }
+    },
+    "CALM_BEFORE_THE_STORM": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 490.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 490.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 490.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 370.0,
+                    "CYCLES": 118.0,
+                    "AREA": 59.0,
+                    "INSTRUCTIONS": 490.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        }
     }
 }

@@ -2654,5 +2654,37 @@
             },
             "link": "https://i.imgur.com/jYd3Eud.gif"
         }
+    },
+    "CALM_BEFORE_THE_STORM": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "CYCLES": 118.0,
+                    "COST": 370.0,
+                    "AREA": 59.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "CYCLES": 118.0,
+                    "AREA": 59.0,
+                    "COST": 370.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "CYCLES": 118.0,
+                    "COST": 370.0,
+                    "AREA": 59.0
+                }
+            },
+            "link": "https://i.imgur.com/SLXv1yD.gif"
+        }
     }
 }
