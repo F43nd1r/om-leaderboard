@@ -2590,5 +2590,37 @@
             },
             "link": "https://i.imgur.com/n7d4Jq2.mp4"
         }
+    },
+    "STAIN_REMOVER": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 245.0,
+                    "CYCLES": 297.0,
+                    "AREA": 15.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849020416332005436/Opus_Magnum_-_Stain_Remover_245G_297_15_2021-05-31-15-20-49.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 245.0,
+                    "AREA": 15.0,
+                    "CYCLES": 297.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849020416332005436/Opus_Magnum_-_Stain_Remover_245G_297_15_2021-05-31-15-20-49.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 245.0,
+                    "CYCLES": 297.0,
+                    "AREA": 15.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849020416332005436/Opus_Magnum_-_Stain_Remover_245G_297_15_2021-05-31-15-20-49.gif"
+        }
     }
 }
