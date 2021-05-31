@@ -2622,5 +2622,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/849020416332005436/Opus_Magnum_-_Stain_Remover_245G_297_15_2021-05-31-15-20-49.gif"
         }
+    },
+    "GOLDEN_THREAD": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 40.0,
+                    "COST": 110.0,
+                    "CYCLES": 127.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849025264796565504/Opus_Magnum_-_Golden_Thread_110G_127_40_2021-05-31-15-41-59.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 40.0,
+                    "CYCLES": 127.0,
+                    "COST": 110.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849025264796565504/Opus_Magnum_-_Golden_Thread_110G_127_40_2021-05-31-15-41-59.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 40.0,
+                    "COST": 110.0,
+                    "CYCLES": 127.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849025264796565504/Opus_Magnum_-_Golden_Thread_110G_127_40_2021-05-31-15-41-59.gif"
+        }
     }
 }
