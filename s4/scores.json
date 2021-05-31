@@ -3770,5 +3770,51 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/848336362591485962/Opus_Magnum_-_POTENT_POTABLES_285G_160_47_2021-05-30-01-05-04.gif"
         }
+    },
+    "PANACEA_TO_POISON": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 955.0,
+                    "CYCLES": 35.0,
+                    "AREA": 172.0,
+                    "INSTRUCTIONS": 603.0
+                }
+            },
+            "link": "https://i.imgur.com/Qc7RQFu.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 955.0,
+                    "CYCLES": 35.0,
+                    "AREA": 172.0,
+                    "INSTRUCTIONS": 603.0
+                }
+            },
+            "link": "https://i.imgur.com/Qc7RQFu.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 955.0,
+                    "CYCLES": 35.0,
+                    "AREA": 172.0,
+                    "INSTRUCTIONS": 603.0
+                }
+            },
+            "link": "https://i.imgur.com/Qc7RQFu.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 955.0,
+                    "CYCLES": 35.0,
+                    "AREA": 172.0,
+                    "INSTRUCTIONS": 603.0
+                }
+            },
+            "link": "https://i.imgur.com/Qc7RQFu.gif"
+        }
     }
 }

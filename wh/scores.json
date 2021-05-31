@@ -1482,5 +1482,27 @@
             },
             "link": "https://i.imgur.com/irFoCzv.gif"
         }
+    },
+    "PANACEA_TO_POISON": {
+        "HEIGHT": {
+            "score": {
+                "parts": {
+                    "HEIGHT": 18.0,
+                    "CYCLES": 35.0,
+                    "COST": 955.0
+                }
+            },
+            "link": "https://i.imgur.com/Qc7RQFu.gif"
+        },
+        "WIDTH": {
+            "score": {
+                "parts": {
+                    "WIDTH": 14.5,
+                    "CYCLES": 35.0,
+                    "COST": 955.0
+                }
+            },
+            "link": "https://i.imgur.com/Qc7RQFu.gif"
+        }
     }
 }
