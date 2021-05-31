@@ -2798,5 +2798,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/848231998551621652/Opus_Magnum_-_MIST_OF_DOUSING_380G_50_184_2021-05-29-12-10-52.gif"
         }
+    },
+    "IMPROVED_EXPLOSIVE_PHIAL": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 235.0,
+                    "COST": 140.0,
+                    "CYCLES": 269.0,
+                    "AREA": 17.0
+                }
+            },
+            "link": "https://i.imgur.com/FwLPFrI.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 235.0,
+                    "CYCLES": 269.0,
+                    "COST": 140.0,
+                    "AREA": 17.0
+                }
+            },
+            "link": "https://i.imgur.com/FwLPFrI.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 235.0,
+                    "AREA": 17.0,
+                    "COST": 140.0,
+                    "CYCLES": 269.0
+                }
+            },
+            "link": "https://i.imgur.com/FwLPFrI.gif"
+        }
     }
 }
