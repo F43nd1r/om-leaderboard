@@ -2833,5 +2833,40 @@
             },
             "link": "https://i.imgur.com/FwLPFrI.gif"
         }
+    },
+    "QUINTESSENTIAL_STABILIZER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 376.0,
+                    "COST": 150.0,
+                    "CYCLES": 1362.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 376.0,
+                    "CYCLES": 1362.0,
+                    "COST": 150.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 376.0,
+                    "AREA": 30.0,
+                    "COST": 150.0,
+                    "CYCLES": 1362.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        }
     }
 }

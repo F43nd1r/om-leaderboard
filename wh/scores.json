@@ -1504,5 +1504,27 @@
             },
             "link": "https://i.imgur.com/JCAqGHb.gif"
         }
+    },
+    "QUINTESSENTIAL_STABILIZER": {
+        "HEIGHT": {
+            "score": {
+                "parts": {
+                    "HEIGHT": 5.0,
+                    "CYCLES": 1362.0,
+                    "COST": 150.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "WIDTH": {
+            "score": {
+                "parts": {
+                    "WIDTH": 5.5,
+                    "CYCLES": 1362.0,
+                    "COST": 150.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        }
     }
 }

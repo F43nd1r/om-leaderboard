@@ -2526,5 +2526,37 @@
             },
             "link": "https://i.imgur.com/SLXv1yD.gif"
         }
+    },
+    "QUINTESSENTIAL_STABILIZER": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 1362.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "AREA": 30.0,
+                    "CYCLES": 1362.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 150.0,
+                    "CYCLES": 1362.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        }
     }
 }

@@ -3862,5 +3862,51 @@
             },
             "link": "https://i.imgur.com/SLXv1yD.gif"
         }
+    },
+    "QUINTESSENTIAL_STABILIZER": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 376.0,
+                    "COST": 150.0,
+                    "CYCLES": 1362.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 376.0,
+                    "CYCLES": 1362.0,
+                    "COST": 150.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 376.0,
+                    "AREA": 30.0,
+                    "COST": 150.0,
+                    "CYCLES": 1362.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 1362.0,
+                    "INSTRUCTIONS": 376.0,
+                    "COST": 150.0,
+                    "AREA": 30.0
+                }
+            },
+            "link": "https://i.imgur.com/T3DDgJf.mp4"
+        }
     }
 }
