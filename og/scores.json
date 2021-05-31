@@ -2718,5 +2718,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/849036826681671720/Opus_Magnum_-_Tonic_of_Hydration_810G_47_29_2021-05-31-16-28-00.gif"
         }
+    },
+    "REACTIVE_GOLD": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 337.0,
+                    "AREA": 9.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849041032150384650/Opus_Magnum_-_Reactive_Gold_180G_337_9_2021-05-31-16-44-29.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "AREA": 9.0,
+                    "CYCLES": 337.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849041032150384650/Opus_Magnum_-_Reactive_Gold_180G_337_9_2021-05-31-16-44-29.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 337.0,
+                    "AREA": 9.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849041032150384650/Opus_Magnum_-_Reactive_Gold_180G_337_9_2021-05-31-16-44-29.gif"
+        }
     }
 }
