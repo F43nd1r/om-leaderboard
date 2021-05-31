@@ -1526,5 +1526,27 @@
             },
             "link": "https://i.imgur.com/T3DDgJf.mp4"
         }
+    },
+    "ELEMENTAL_JEWEL_SETTING": {
+        "HEIGHT": {
+            "score": {
+                "parts": {
+                    "HEIGHT": 11.0,
+                    "CYCLES": 147.0,
+                    "COST": 180.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "WIDTH": {
+            "score": {
+                "parts": {
+                    "WIDTH": 10.5,
+                    "CYCLES": 147.0,
+                    "COST": 180.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        }
     }
 }

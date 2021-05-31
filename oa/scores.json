@@ -2558,5 +2558,37 @@
             },
             "link": "https://i.imgur.com/5x37Hdd.mp4"
         }
+    },
+    "ELEMENTAL_JEWEL_SETTING": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 84.0,
+                    "COST": 180.0,
+                    "CYCLES": 147.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 84.0,
+                    "CYCLES": 147.0,
+                    "COST": 180.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 84.0,
+                    "COST": 180.0,
+                    "CYCLES": 147.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        }
     }
 }

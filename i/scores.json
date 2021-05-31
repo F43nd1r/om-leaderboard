@@ -3908,5 +3908,51 @@
             },
             "link": "https://i.imgur.com/oqnYvoI.gif"
         }
+    },
+    "ELEMENTAL_JEWEL_SETTING": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 90.0,
+                    "COST": 180.0,
+                    "CYCLES": 147.0,
+                    "AREA": 84.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 90.0,
+                    "CYCLES": 147.0,
+                    "COST": 180.0,
+                    "AREA": 84.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 90.0,
+                    "AREA": 84.0,
+                    "COST": 180.0,
+                    "CYCLES": 147.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 147.0,
+                    "INSTRUCTIONS": 90.0,
+                    "COST": 180.0,
+                    "AREA": 84.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        }
     }
 }

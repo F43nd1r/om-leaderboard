@@ -3908,5 +3908,51 @@
             },
             "link": "https://i.imgur.com/o9jro27.mp4"
         }
+    },
+    "ELEMENTAL_JEWEL_SETTING": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 147.0,
+                    "AREA": 84.0,
+                    "INSTRUCTIONS": 90.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 147.0,
+                    "AREA": 84.0,
+                    "INSTRUCTIONS": 90.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 147.0,
+                    "AREA": 84.0,
+                    "INSTRUCTIONS": 90.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 180.0,
+                    "CYCLES": 147.0,
+                    "AREA": 84.0,
+                    "INSTRUCTIONS": 90.0
+                }
+            },
+            "link": "https://i.imgur.com/zlPXXyC.gif"
+        }
     }
 }
