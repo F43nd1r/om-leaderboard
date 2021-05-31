@@ -2686,5 +2686,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/849031575144497162/Opus_Magnum_-_Voltaic_Coil_105G_310_53_2021-05-31-16-05-50.gif"
         }
+    },
+    "TONIC_OF_HYDRATION": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 810.0,
+                    "CYCLES": 47.0,
+                    "AREA": 29.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849036826681671720/Opus_Magnum_-_Tonic_of_Hydration_810G_47_29_2021-05-31-16-28-00.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 810.0,
+                    "AREA": 29.0,
+                    "CYCLES": 47.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849036826681671720/Opus_Magnum_-_Tonic_of_Hydration_810G_47_29_2021-05-31-16-28-00.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 810.0,
+                    "CYCLES": 47.0,
+                    "AREA": 29.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/849036826681671720/Opus_Magnum_-_Tonic_of_Hydration_810G_47_29_2021-05-31-16-28-00.gif"
+        }
     }
 }
