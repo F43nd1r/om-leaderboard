@@ -2868,5 +2868,40 @@
             },
             "link": "https://i.imgur.com/T3DDgJf.mp4"
         }
+    },
+    "POTENT_POTABLES": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 149.0,
+                    "COST": 40.0,
+                    "CYCLES": 892.0,
+                    "AREA": 27.0
+                }
+            },
+            "link": "https://i.imgur.com/pLKS5Dv.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 149.0,
+                    "CYCLES": 892.0,
+                    "COST": 40.0,
+                    "AREA": 27.0
+                }
+            },
+            "link": "https://i.imgur.com/pLKS5Dv.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 149.0,
+                    "AREA": 27.0,
+                    "COST": 40.0,
+                    "CYCLES": 892.0
+                }
+            },
+            "link": "https://i.imgur.com/pLKS5Dv.gif"
+        }
     }
 }
