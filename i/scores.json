@@ -4000,5 +4000,51 @@
             },
             "link": "https://i.imgur.com/H5hndgt.mp4"
         }
+    },
+    "SWAMP_FIBER": {
+        "IGNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 146.0,
+                    "COST": 655.0,
+                    "CYCLES": 55.0,
+                    "AREA": 405.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        },
+        "ICNP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 146.0,
+                    "CYCLES": 55.0,
+                    "COST": 655.0,
+                    "AREA": 405.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        },
+        "IANP": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 146.0,
+                    "AREA": 405.0,
+                    "COST": 655.0,
+                    "CYCLES": 55.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        },
+        "CINP": {
+            "score": {
+                "parts": {
+                    "CYCLES": 55.0,
+                    "INSTRUCTIONS": 146.0,
+                    "COST": 655.0,
+                    "AREA": 405.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        }
     }
 }

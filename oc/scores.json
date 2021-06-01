@@ -2782,5 +2782,37 @@
             },
             "link": "https://i.imgur.com/H5hndgt.mp4"
         }
+    },
+    "SWAMP_FIBER": {
+        "OCG": {
+            "score": {
+                "parts": {
+                    "CYCLES": 55.0,
+                    "COST": 655.0,
+                    "AREA": 405.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        },
+        "OCA": {
+            "score": {
+                "parts": {
+                    "CYCLES": 55.0,
+                    "AREA": 405.0,
+                    "COST": 655.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        },
+        "OCX": {
+            "score": {
+                "parts": {
+                    "CYCLES": 55.0,
+                    "COST": 655.0,
+                    "AREA": 405.0
+                }
+            },
+            "link": "https://i.imgur.com/14H5wBB.gif"
+        }
     }
 }
