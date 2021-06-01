@@ -2750,5 +2750,37 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/849194244601675796/Opus_Magnum_-_Reactive_Gold_135G_148_8_2021-06-01-00-53-36.gif"
         }
+    },
+    "HIGH_GLOSS_FINISH": {
+        "OAG": {
+            "score": {
+                "parts": {
+                    "AREA": 74.0,
+                    "COST": 310.0,
+                    "CYCLES": 171.0
+                }
+            },
+            "link": "https://i.imgur.com/IMRz6G8.gif"
+        },
+        "OAC": {
+            "score": {
+                "parts": {
+                    "AREA": 74.0,
+                    "CYCLES": 171.0,
+                    "COST": 310.0
+                }
+            },
+            "link": "https://i.imgur.com/IMRz6G8.gif"
+        },
+        "OAX": {
+            "score": {
+                "parts": {
+                    "AREA": 74.0,
+                    "COST": 310.0,
+                    "CYCLES": 171.0
+                }
+            },
+            "link": "https://i.imgur.com/IMRz6G8.gif"
+        }
     }
 }

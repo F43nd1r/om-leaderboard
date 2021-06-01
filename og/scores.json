@@ -2750,5 +2750,37 @@
             },
             "link": "https://imgur.com/13abuBZ"
         }
+    },
+    "HIGH_GLOSS_FINISH": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "CYCLES": 171.0,
+                    "AREA": 74.0
+                }
+            },
+            "link": "https://i.imgur.com/IMRz6G8.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "AREA": 74.0,
+                    "CYCLES": 171.0
+                }
+            },
+            "link": "https://i.imgur.com/IMRz6G8.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 310.0,
+                    "CYCLES": 171.0,
+                    "AREA": 74.0
+                }
+            },
+            "link": "https://i.imgur.com/IMRz6G8.gif"
+        }
     }
 }
