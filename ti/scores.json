@@ -2973,5 +2973,40 @@
             },
             "link": "https://i.imgur.com/KW5s6Hk.gif"
         }
+    },
+    "PANACEA": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 78.0,
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 78.0,
+                    "CYCLES": 143.0,
+                    "COST": 190.0,
+                    "AREA": 33.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 78.0,
+                    "AREA": 33.0,
+                    "COST": 190.0,
+                    "CYCLES": 143.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        }
     }
 }

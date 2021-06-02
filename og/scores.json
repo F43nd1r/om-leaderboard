@@ -2942,5 +2942,37 @@
             },
             "link": "https://i.imgur.com/KW5s6Hk.gif"
         }
+    },
+    "PANACEA": {
+        "OGC": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "OGA": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "AREA": 33.0,
+                    "CYCLES": 143.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "OGX": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        }
     }
 }

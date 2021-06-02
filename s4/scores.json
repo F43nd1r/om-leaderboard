@@ -4230,5 +4230,51 @@
             },
             "link": "https://i.imgur.com/AuxbDv5.gif"
         }
+    },
+    "PANACEA": {
+        "S4G": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0,
+                    "INSTRUCTIONS": 78.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "S4C": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0,
+                    "INSTRUCTIONS": 78.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "S4A": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0,
+                    "INSTRUCTIONS": 78.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        },
+        "S4I": {
+            "score": {
+                "parts": {
+                    "COST": 190.0,
+                    "CYCLES": 143.0,
+                    "AREA": 33.0,
+                    "INSTRUCTIONS": 78.0
+                }
+            },
+            "link": "https://i.imgur.com/7eu5bxm.gif"
+        }
     }
 }
