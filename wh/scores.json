@@ -1648,5 +1648,27 @@
             },
             "link": "https://i.imgur.com/V5Z4Kpz.gif"
         }
+    },
+    "DO_YOU_REMEMBER": {
+        "HEIGHT": {
+            "score": {
+                "parts": {
+                    "HEIGHT": 9.0,
+                    "CYCLES": 74.0,
+                    "COST": 325.0
+                }
+            },
+            "link": "https://i.imgur.com/AuxbDv5.gif"
+        },
+        "WIDTH": {
+            "score": {
+                "parts": {
+                    "WIDTH": 9.0,
+                    "CYCLES": 74.0,
+                    "COST": 325.0
+                }
+            },
+            "link": "https://i.imgur.com/AuxbDv5.gif"
+        }
     }
 }
