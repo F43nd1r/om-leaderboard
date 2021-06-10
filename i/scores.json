@@ -1416,13 +1416,13 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 191.0,
-                    "INSTRUCTIONS": 119.0,
-                    "COST": 165.0,
-                    "AREA": 58.0
+                    "CYCLES": 80.0,
+                    "INSTRUCTIONS": 270.0,
+                    "COST": 600.0,
+                    "AREA": 105.0
                 }
             },
-            "link": "https://i.imgur.com/kq05z1k.gif"
+            "link": "https://i.imgur.com/tC1naI1.gif"
         }
     },
     "PROOF_OF_COMPLETENESS": {
