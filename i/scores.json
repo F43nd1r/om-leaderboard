@@ -2980,13 +2980,13 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 65.0,
-                    "INSTRUCTIONS": 45.0,
-                    "COST": 220.0,
-                    "AREA": 95.0
+                    "CYCLES": 34.0,
+                    "INSTRUCTIONS": 196.0,
+                    "COST": 1000.0,
+                    "AREA": 233.0
                 }
             },
-            "link": "https://i.imgur.com/TEhGyc9.gif"
+            "link": "https://i.imgur.com/SNAaNRU.gif"
         }
     },
     "SUTURE_THREAD": {
