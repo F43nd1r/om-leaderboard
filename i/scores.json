@@ -2612,13 +2612,13 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 83.0,
-                    "INSTRUCTIONS": 40.0,
-                    "COST": 130.0,
-                    "AREA": 90.0
+                    "CYCLES": 26.0,
+                    "INSTRUCTIONS": 236.0,
+                    "COST": 620.0,
+                    "AREA": 413.0
                 }
             },
-            "link": "https://i.imgur.com/aepc5Mr.gif"
+            "link": "https://i.imgur.com/hCIPSUY.gif"
         }
     },
     "BUOYANT_CABLE": {
