@@ -1692,13 +1692,13 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 256.0,
-                    "INSTRUCTIONS": 208.0,
-                    "COST": 300.0,
-                    "AREA": 64.0
+                    "CYCLES": 194.0,
+                    "INSTRUCTIONS": 145.0,
+                    "COST": 575.0,
+                    "AREA": 133.0
                 }
             },
-            "link": "https://i.imgur.com/6ZvtnUx.gif"
+            "link": "https://i.imgur.com/VNspfCw.gif"
         }
     },
     "VAN_BERLO_S_PIVOTS": {
