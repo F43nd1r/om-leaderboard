@@ -2934,13 +2934,13 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 103.0,
-                    "INSTRUCTIONS": 107.0,
-                    "COST": 280.0,
-                    "AREA": 68.0
+                    "CYCLES": 39.0,
+                    "INSTRUCTIONS": 198.0,
+                    "COST": 1600.0,
+                    "AREA": 454.0
                 }
             },
-            "link": "https://i.imgur.com/ADvlitU.gif"
+            "link": "https://i.imgur.com/qSIiQ0l.gif"
         }
     },
     "WAKEFULNESS_POTION": {
