@@ -1876,13 +1876,13 @@
         "CINP": {
             "score": {
                 "parts": {
-                    "CYCLES": 98.0,
-                    "INSTRUCTIONS": 43.0,
-                    "COST": 120.0,
-                    "AREA": 101.0
+                    "CYCLES": 24.0,
+                    "INSTRUCTIONS": 275.0,
+                    "COST": 1505.0,
+                    "AREA": 331.0
                 }
             },
-            "link": "https://i.imgur.com/tjBlQPH.gif"
+            "link": "https://i.imgur.com/SdPPqZK.gif"
         }
     },
     "LITHARGE_SEPARATION": {
