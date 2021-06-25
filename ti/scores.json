@@ -3008,5 +3008,40 @@
             },
             "link": "https://i.imgur.com/7eu5bxm.gif"
         }
+    },
+    "SWAMP_FIBER": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 32.0,
+                    "COST": 310.0,
+                    "CYCLES": 3097.0,
+                    "AREA": 1374.0
+                }
+            },
+            "link": "https://i.imgur.com/L3ZAXVb.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 32.0,
+                    "CYCLES": 3097.0,
+                    "COST": 310.0,
+                    "AREA": 1374.0
+                }
+            },
+            "link": "https://i.imgur.com/L3ZAXVb.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 32.0,
+                    "AREA": 1374.0,
+                    "COST": 310.0,
+                    "CYCLES": 3097.0
+                }
+            },
+            "link": "https://i.imgur.com/L3ZAXVb.gif"
+        }
     }
 }
