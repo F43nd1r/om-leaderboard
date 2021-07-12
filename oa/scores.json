@@ -1219,32 +1219,32 @@
         "OAG": {
             "score": {
                 "parts": {
-                    "AREA": 32.0,
-                    "COST": 60.0,
-                    "CYCLES": 1269.0
+                    "AREA": 20.0,
+                    "COST": 225.0,
+                    "CYCLES": 296.0
                 }
             },
-            "link": "https://i.imgur.com/p5XeQOD.gif"
+            "link": "https://i.imgur.com/yxYKGJD.gif"
         },
         "OAC": {
             "score": {
                 "parts": {
-                    "AREA": 32.0,
-                    "CYCLES": 534.0,
-                    "COST": 120.0
+                    "AREA": 20.0,
+                    "CYCLES": 296.0,
+                    "COST": 225.0
                 }
             },
-            "link": "https://i.imgur.com/fLb4sPa.mp4"
+            "link": "https://i.imgur.com/yxYKGJD.gif"
         },
         "OAX": {
             "score": {
                 "parts": {
-                    "AREA": 32.0,
-                    "COST": 120.0,
-                    "CYCLES": 534.0
+                    "AREA": 20.0,
+                    "COST": 225.0,
+                    "CYCLES": 296.0
                 }
             },
-            "link": "https://i.imgur.com/fLb4sPa.mp4"
+            "link": "https://i.imgur.com/yxYKGJD.gif"
         }
     },
     "BUOYANT_CABLE": {
