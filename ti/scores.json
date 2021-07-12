@@ -3043,5 +3043,40 @@
             },
             "link": "https://i.postimg.cc/JhzvqXZh/943-20-W3-Swamp-Fiber-B-TI31-A-1-48-T-320-G-2689-C-1450-A-31-I-32-P.gif"
         }
+    },
+    "ELEMENTAL_JEWEL_SETTING": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 182.0,
+                    "COST": 80.0,
+                    "CYCLES": 982.0,
+                    "AREA": 181.0
+                }
+            },
+            "link": "https://i.imgur.com/K0LxXNt.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 182.0,
+                    "CYCLES": 982.0,
+                    "COST": 80.0,
+                    "AREA": 181.0
+                }
+            },
+            "link": "https://i.imgur.com/K0LxXNt.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 182.0,
+                    "AREA": 181.0,
+                    "COST": 80.0,
+                    "CYCLES": 982.0
+                }
+            },
+            "link": "https://i.imgur.com/K0LxXNt.gif"
+        }
     }
 }
