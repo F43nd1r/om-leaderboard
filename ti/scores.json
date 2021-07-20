@@ -3078,5 +3078,40 @@
             },
             "link": "https://i.imgur.com/K0LxXNt.gif"
         }
+    },
+    "HIGH_GLOSS_FINISH": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 1162.0,
+                    "COST": 110.0,
+                    "CYCLES": 6870.0,
+                    "AREA": 37903.0
+                }
+            },
+            "link": "https://i.imgur.com/nBTanaf.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 1162.0,
+                    "CYCLES": 6870.0,
+                    "COST": 110.0,
+                    "AREA": 37903.0
+                }
+            },
+            "link": "https://i.imgur.com/nBTanaf.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 1162.0,
+                    "AREA": 37903.0,
+                    "COST": 110.0,
+                    "CYCLES": 6870.0
+                }
+            },
+            "link": "https://i.imgur.com/nBTanaf.gif"
+        }
     }
 }
