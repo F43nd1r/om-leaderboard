@@ -3148,5 +3148,40 @@
             },
             "link": "https://cdn.discordapp.com/attachments/370367639073062922/869411929943326730/Opus_Magnum_-_CALM_BEFORE_THE_STORM_280G_80_818_2021-07-26-21-00-16.gif"
         }
+    },
+    "PANACEA_TO_POISON": {
+        "TIG": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 33.0,
+                    "COST": 290.0,
+                    "CYCLES": 277.0,
+                    "AREA": 157.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/869413705601933433/Opus_Magnum_-_PANACEA_TO_POISON_290G_277_157_2021-07-26-19-44-31.gif"
+        },
+        "TIC": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 33.0,
+                    "CYCLES": 277.0,
+                    "COST": 290.0,
+                    "AREA": 157.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/869413705601933433/Opus_Magnum_-_PANACEA_TO_POISON_290G_277_157_2021-07-26-19-44-31.gif"
+        },
+        "TIA": {
+            "score": {
+                "parts": {
+                    "INSTRUCTIONS": 33.0,
+                    "AREA": 157.0,
+                    "COST": 290.0,
+                    "CYCLES": 277.0
+                }
+            },
+            "link": "https://cdn.discordapp.com/attachments/370367639073062922/869413705601933433/Opus_Magnum_-_PANACEA_TO_POISON_290G_277_157_2021-07-26-19-44-31.gif"
+        }
     }
 }
