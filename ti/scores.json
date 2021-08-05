@@ -2780,23 +2780,23 @@
             "score": {
                 "parts": {
                     "INSTRUCTIONS": 11.0,
-                    "CYCLES": 180.0,
-                    "COST": 340.0,
+                    "CYCLES": 80.0,
+                    "COST": 370.0,
                     "AREA": 193.0
                 }
             },
-            "link": "https://i.imgur.com/ybSW78t.gif"
+            "link": "https://i.imgur.com/RS9jXHB.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
                     "INSTRUCTIONS": 11.0,
                     "AREA": 193.0,
-                    "COST": 340.0,
-                    "CYCLES": 180.0
+                    "COST": 370.0,
+                    "CYCLES": 80.0
                 }
             },
-            "link": "https://i.imgur.com/ybSW78t.gif"
+            "link": "https://i.imgur.com/RS9jXHB.gif"
         }
     },
     "IMPROVED_EXPLOSIVE_PHIAL": {
