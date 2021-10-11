@@ -1123,35 +1123,35 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 10.0,
+                    "INSTRUCTIONS": 9.0,
                     "COST": 110.0,
                     "CYCLES": 721.0,
-                    "AREA": 673.0
+                    "AREA": 657.0
                 }
             },
-            "link": "https://i.imgur.com/YpmZZS6.gif"
+            "link": "https://i.imgur.com/6rpZBFl.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 10.0,
+                    "INSTRUCTIONS": 9.0,
                     "CYCLES": 721.0,
                     "COST": 110.0,
-                    "AREA": 673.0
+                    "AREA": 657.0
                 }
             },
-            "link": "https://i.imgur.com/YpmZZS6.gif"
+            "link": "https://i.imgur.com/6rpZBFl.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 10.0,
-                    "AREA": 673.0,
+                    "INSTRUCTIONS": 9.0,
+                    "AREA": 657.0,
                     "COST": 110.0,
                     "CYCLES": 721.0
                 }
             },
-            "link": "https://i.imgur.com/YpmZZS6.gif"
+            "link": "https://i.imgur.com/6rpZBFl.gif"
         }
     },
     "REACTIVE_CINNABAR": {
