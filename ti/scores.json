@@ -3118,35 +3118,35 @@
         "TIG": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 14.0,
+                    "INSTRUCTIONS": 12.0,
                     "COST": 210.0,
-                    "CYCLES": 81.0,
-                    "AREA": 562.0
+                    "CYCLES": 112.0,
+                    "AREA": 750.0
                 }
             },
-            "link": "https://i.imgur.com/3m0QDQ0.gif"
+            "link": "https://i.imgur.com/YyE7yMH.gif"
         },
         "TIC": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 14.0,
-                    "CYCLES": 81.0,
+                    "INSTRUCTIONS": 12.0,
+                    "CYCLES": 112.0,
                     "COST": 210.0,
-                    "AREA": 562.0
+                    "AREA": 750.0
                 }
             },
-            "link": "https://i.imgur.com/3m0QDQ0.gif"
+            "link": "https://i.imgur.com/YyE7yMH.gif"
         },
         "TIA": {
             "score": {
                 "parts": {
-                    "INSTRUCTIONS": 14.0,
-                    "AREA": 562.0,
+                    "INSTRUCTIONS": 12.0,
+                    "AREA": 750.0,
                     "COST": 210.0,
-                    "CYCLES": 81.0
+                    "CYCLES": 112.0
                 }
             },
-            "link": "https://i.imgur.com/3m0QDQ0.gif"
+            "link": "https://i.imgur.com/YyE7yMH.gif"
         }
     },
     "PANACEA_TO_POISON": {
