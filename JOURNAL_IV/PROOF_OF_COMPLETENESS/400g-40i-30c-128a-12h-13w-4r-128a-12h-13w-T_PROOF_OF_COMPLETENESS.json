@@ -1,0 +1,20 @@
+{
+    "puzzle": "PROOF_OF_COMPLETENESS",
+    "score": {
+        "cost": 400,
+        "instructions": 40,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 30,
+        "area": 128,
+        "height": 12,
+        "width": 13.0,
+        "rate": 4.0,
+        "areaINF": "128",
+        "heightINF": "12",
+        "widthINF": 13.0
+    },
+    "displayLink": "https://files.mors.technology/Proof-of-Completeness-400g-30c-128a-40i-12h-13w-4r-T-5949e3.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/5c5a7805b/P069/400g-40i-30c-128a-12h-13w-4r-128a-12h-13w-T",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/400g-40i-30c-128a-12h-13w-4r-128a-12h-13w-T_PROOF_OF_COMPLETENESS.solution"
+}
