@@ -1,0 +1,24 @@
+{
+    "puzzle": "WIRE_FORMING_AND_UNFORMING",
+    "score": {
+        "cost": 220,
+        "instructions": 58,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 122,
+        "area": 365,
+        "height": 25,
+        "width": 22.0,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 2,
+            "value": 5.0
+        },
+        "heightINF": "INF",
+        "widthINF": null
+    },
+    "displayLink": "https://imgur.com/ijIRbeh.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/86b6e90d/w1698784331/220g-58i-122c-365a-25h-22w-14r-5a2-INFh-T",
+    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/220g-58i-122c-365a-25h-22w-14r-5a2-INFh-T_WIRE_FORMING_AND_UNFORMING.solution",
+    "lastModified": "2024-03-17T14:24:29.528893651Z"
+}
