@@ -1,12 +1,12 @@
 {
     "puzzle": "VAN_BERLO_S_CHAIN",
     "score": {
-        "cost": 440,
+        "cost": 420,
         "instructions": 80,
         "overlap": false,
         "trackless": false,
         "cycles": 56,
-        "area": 122,
+        "area": 121,
         "height": 7,
         "width": 17.0,
         "rate": 8.0,
@@ -17,8 +17,8 @@
         "heightINF": "7",
         "widthINF": null
     },
-    "displayLink": "https://i.imgur.com/tfU9KV2.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/a10a8a24/P055/440g-80i-56c-122a-7h-17w-8r-12a1-7h",
-    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/440g-80i-56c-122a-7h-17w-8r-12a1-7h_VAN_BERLO_S_CHAIN.solution",
-    "lastModified": "2024-03-20T12:26:27.096539838Z"
+    "displayLink": "https://imgur.com/C306q7w.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/187090a3/P055/420g-80i-56c-121a-7h-17w-8r-12a1-7h",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/420g-80i-56c-121a-7h-17w-8r-12a1-7h_VAN_BERLO_S_CHAIN.solution",
+    "lastModified": "2024-03-20T14:04:11.709295722Z"
 }
