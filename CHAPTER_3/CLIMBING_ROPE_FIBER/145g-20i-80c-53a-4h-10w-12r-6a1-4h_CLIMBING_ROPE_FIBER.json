@@ -1,0 +1,24 @@
+{
+    "puzzle": "CLIMBING_ROPE_FIBER",
+    "score": {
+        "cost": 145,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 80,
+        "area": 53,
+        "height": 4,
+        "width": 10.0,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": "4",
+        "widthINF": null
+    },
+    "displayLink": "https://imgur.com/HQRw9P8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/dcc14944/P027/145g-20i-80c-53a-4h-10w-12r-6a1-4h",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/145g-20i-80c-53a-4h-10w-12r-6a1-4h_CLIMBING_ROPE_FIBER.solution",
+    "lastModified": "2024-03-20T04:02:07.568657398Z"
+}
