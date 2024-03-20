@@ -1,0 +1,24 @@
+{
+    "puzzle": "REACTIVE_GOLD",
+    "score": {
+        "cost": 170,
+        "instructions": 70,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 210,
+        "area": 20,
+        "height": 5,
+        "width": 4.5,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": "5",
+        "widthINF": 4.5
+    },
+    "displayLink": "https://imgur.com/9RnMHFP.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/c0032f69/P095/170g-70i-210c-20a-5h-4.5w-32r-20a0-5h-4.5w-T",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/170g-70i-210c-20a-5h-4.5w-32r-20a0-5h-4.5w-T_REACTIVE_GOLD.solution",
+    "lastModified": "2024-03-20T03:55:20.598654013Z"
+}
