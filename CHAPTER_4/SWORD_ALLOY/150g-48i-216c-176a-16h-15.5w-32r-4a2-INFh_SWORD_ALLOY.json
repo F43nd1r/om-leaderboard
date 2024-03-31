@@ -1,0 +1,24 @@
+{
+    "puzzle": "SWORD_ALLOY",
+    "score": {
+        "cost": 150,
+        "instructions": 48,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 216,
+        "area": 176,
+        "height": 16,
+        "width": 15.5,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null
+    },
+    "displayLink": "https://files.mors.technology/SWORD_ALLOY/150g-216c-176a-48i-37484d6c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c3d248c2/P033/150g-48i-216c-176a-16h-15.5w-32r-4a2-INFh",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/150g-48i-216c-176a-16h-15.5w-32r-4a2-INFh_SWORD_ALLOY.solution",
+    "lastModified": "2024-03-31T07:18:39.137134042Z"
+}
