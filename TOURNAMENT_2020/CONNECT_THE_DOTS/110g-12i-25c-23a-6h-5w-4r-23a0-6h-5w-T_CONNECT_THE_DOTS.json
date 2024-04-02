@@ -1,0 +1,24 @@
+{
+    "puzzle": "CONNECT_THE_DOTS",
+    "score": {
+        "cost": 110,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 25,
+        "area": 23,
+        "height": 6,
+        "width": 5.0,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": "6",
+        "widthINF": 5.0
+    },
+    "displayLink": "https://files.mors.technology/CONNECT_THE_DOTS/110g-25c-23a-12i-T-e3aebb0c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/662dd14a/w3101135731/110g-12i-25c-23a-6h-5w-4r-23a0-6h-5w-T",
+    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/110g-12i-25c-23a-6h-5w-4r-23a0-6h-5w-T_CONNECT_THE_DOTS.solution",
+    "lastModified": "2024-04-02T14:57:18.755422074Z"
+}
