@@ -1,0 +1,24 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 255,
+        "instructions": 42,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 80,
+        "area": 84,
+        "height": 4,
+        "width": 12.5,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": "4",
+        "widthINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/255g-80c-84a-42i-1019feda.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/61273c3d/P039/255g-42i-80c-84a-4h-12.5w-8r-8a1-4h",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/255g-42i-80c-84a-4h-12.5w-8r-8a1-4h_VOLTAIC_COIL.solution",
+    "lastModified": "2024-04-02T16:14:57.718865139Z"
+}
