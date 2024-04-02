@@ -1,0 +1,24 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 200,
+        "instructions": 70,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 106,
+        "area": 96,
+        "height": 3,
+        "width": 17.5,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": "3",
+        "widthINF": null
+    },
+    "displayLink": "https://files.mors.technology/BUOYANT_CABLE/200g-106c-96a-70i-30dcd195.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/27a0877b/P062/200g-70i-106c-96a-3h-17.5w-16r-12a1-3h",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/200g-70i-106c-96a-3h-17.5w-16r-12a1-3h_BUOYANT_CABLE.solution",
+    "lastModified": "2024-04-02T15:52:42.953689176Z"
+}
