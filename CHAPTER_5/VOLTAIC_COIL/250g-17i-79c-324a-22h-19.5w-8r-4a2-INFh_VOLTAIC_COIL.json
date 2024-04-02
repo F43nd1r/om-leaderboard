@@ -1,0 +1,24 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 250,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 79,
+        "area": 324,
+        "height": 22,
+        "width": 19.5,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/250g-79c-324a-17i-bb942010.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cb44963c/P039/250g-17i-79c-324a-22h-19.5w-8r-4a2-INFh",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/250g-17i-79c-324a-22h-19.5w-8r-4a2-INFh_VOLTAIC_COIL.solution",
+    "lastModified": "2024-04-02T16:12:41.272839305Z"
+}
