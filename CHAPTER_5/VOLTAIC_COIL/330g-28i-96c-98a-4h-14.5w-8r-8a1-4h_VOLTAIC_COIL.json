@@ -1,0 +1,24 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 330,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 96,
+        "area": 98,
+        "height": 4,
+        "width": 14.5,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": "4",
+        "widthINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/330g-96c-98a-28i-ba8e8b14.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/42be7a22/P039/330g-28i-96c-98a-4h-14.5w-8r-8a1-4h",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/330g-28i-96c-98a-4h-14.5w-8r-8a1-4h_VOLTAIC_COIL.solution",
+    "lastModified": "2024-04-02T16:27:42.185638487Z"
+}
