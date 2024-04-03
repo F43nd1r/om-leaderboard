@@ -1,0 +1,24 @@
+{
+    "puzzle": "PROOF_OF_COMPLETENESS",
+    "score": {
+        "cost": 230,
+        "instructions": 25,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 146,
+        "area": 64,
+        "height": 10,
+        "width": 8.0,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": "10",
+        "widthINF": 8.0
+    },
+    "displayLink": "https://files.mors.technology/PROOF_OF_COMPLETENESS/230g-146c-64a-25i-T-cab6c203.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8cdd0aaa/P069/230g-25i-146c-64a-10h-8w-24r-64a0-10h-8w-T",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/230g-25i-146c-64a-10h-8w-24r-64a0-10h-8w-T_PROOF_OF_COMPLETENESS.solution",
+    "lastModified": "2024-04-03T08:10:40.482439110Z"
+}
