@@ -1,0 +1,24 @@
+{
+    "puzzle": "TOUCHSTONE",
+    "score": {
+        "cost": 400,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 45,
+        "area": 117,
+        "height": 11,
+        "width": 12.5,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": "11",
+        "widthINF": Infinity
+    },
+    "displayLink": "https://files.mors.technology/TOUCHSTONE/400g-45c-117a-52i-7b3c3b69.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/237be76c/w3210172577/400g-52i-45c-117a-11h-12.5w-6r-1a1-11h-INFw",
+    "dataPath": "TOURNAMENT_2024/TOUCHSTONE/400g-52i-45c-117a-11h-12.5w-6r-1a1-11h-INFw_TOUCHSTONE.solution",
+    "lastModified": "2024-04-05T14:17:40.468449734Z"
+}
