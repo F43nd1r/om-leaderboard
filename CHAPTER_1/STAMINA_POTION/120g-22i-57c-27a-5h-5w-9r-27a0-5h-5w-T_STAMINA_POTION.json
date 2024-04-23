@@ -1,0 +1,24 @@
+{
+    "puzzle": "STAMINA_POTION",
+    "score": {
+        "cost": 120,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 57,
+        "area": 27,
+        "height": 5,
+        "width": 5.0,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": "5",
+        "widthINF": 5.0
+    },
+    "displayLink": "https://i.imgur.com/j1am3RK.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/42099fd7/P015/120g-22i-57c-27a-5h-5w-9r-27a0-5h-5w-T",
+    "dataPath": "CHAPTER_1/STAMINA_POTION/120g-22i-57c-27a-5h-5w-9r-27a0-5h-5w-T_STAMINA_POTION.solution",
+    "lastModified": "2024-04-23T00:21:39.634565577Z"
+}
