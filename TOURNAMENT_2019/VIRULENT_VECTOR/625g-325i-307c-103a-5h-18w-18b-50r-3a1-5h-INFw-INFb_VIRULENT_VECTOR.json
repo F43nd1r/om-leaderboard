@@ -1,0 +1,25 @@
+{
+    "puzzle": "VIRULENT_VECTOR",
+    "score": {
+        "cost": 625,
+        "instructions": 325,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 307,
+        "area": 103,
+        "height": 5,
+        "width": 18.0,
+        "boundingHex": 18,
+        "rate": 50.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": "5",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/PQKSQcx.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1698785238/625g-325i-307c-103a-5h-18w-18b-50r-3a1-5h-INFw-INFb",
+    "dataPath": "TOURNAMENT_2019/VIRULENT_VECTOR/625g-325i-307c-103a-5h-18w-18b-50r-3a1-5h-INFw-INFb_VIRULENT_VECTOR.solution"
+}

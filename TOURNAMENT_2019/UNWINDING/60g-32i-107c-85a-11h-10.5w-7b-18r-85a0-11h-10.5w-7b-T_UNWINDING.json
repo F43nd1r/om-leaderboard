@@ -1,0 +1,25 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 60,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 107,
+        "area": 85,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 7,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": "11",
+        "widthINF": 10.5,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://files.mors.technology/UNWINDING/60g-107c-85a-32i-T-b03ad183.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1611998067/60g-32i-107c-85a-11h-10.5w-7b-18r-85a0-11h-10.5w-7b-T",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/60g-32i-107c-85a-11h-10.5w-7b-18r-85a0-11h-10.5w-7b-T_UNWINDING.solution"
+}

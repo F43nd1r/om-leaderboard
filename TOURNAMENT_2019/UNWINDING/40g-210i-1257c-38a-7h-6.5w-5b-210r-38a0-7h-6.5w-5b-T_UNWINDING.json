@@ -1,0 +1,25 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 40,
+        "instructions": 210,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1257,
+        "area": 38,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 5,
+        "rate": 210.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": "7",
+        "widthINF": 6.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Unwinding-40g-1257c-38a-210i-7h-6.5w-210r-T-6b2f92.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1611998067/40g-210i-1257c-38a-7h-6.5w-5b-210r-38a0-7h-6.5w-5b-T",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/40g-210i-1257c-38a-7h-6.5w-5b-210r-38a0-7h-6.5w-5b-T_UNWINDING.solution"
+}

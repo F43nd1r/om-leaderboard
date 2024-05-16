@@ -1,0 +1,25 @@
+{
+    "puzzle": "CUPRITE",
+    "score": {
+        "cost": 180,
+        "instructions": 48,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 75,
+        "area": 43,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 5,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 43.0
+        },
+        "heightINF": "7",
+        "widthINF": 7.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://i.imgur.com/sa4qh6n.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2868328394/180g-48i-75c-43a-7h-7.5w-5b-12r-43a0-7h-7.5w-5b",
+    "dataPath": "WEEKLIES_1/CUPRITE/180g-48i-75c-43a-7h-7.5w-5b-12r-43a0-7h-7.5w-5b_CUPRITE.solution"
+}

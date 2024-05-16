@@ -1,0 +1,25 @@
+{
+    "puzzle": "WIRE_FORMING_AND_UNFORMING",
+    "score": {
+        "cost": 460,
+        "instructions": 34,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 68,
+        "area": 200,
+        "height": 17,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 7.0
+        },
+        "heightINF": "17",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Wire-Forming-and-Unforming-460g-68c-200a-34i-17h-14.5w-8r-a07869.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1698784331/460g-34i-68c-200a-17h-8r-7a1-17h",
+    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/460g-34i-68c-200a-17h-8r-7a1-17h_WIRE_FORMING_AND_UNFORMING.solution"
+}

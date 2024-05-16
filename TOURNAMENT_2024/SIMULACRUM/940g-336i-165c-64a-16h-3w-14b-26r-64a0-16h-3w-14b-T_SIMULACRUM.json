@@ -1,0 +1,25 @@
+{
+    "puzzle": "SIMULACRUM",
+    "score": {
+        "cost": 940,
+        "instructions": 336,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 165,
+        "area": 64,
+        "height": 16,
+        "width": 3.0,
+        "boundingHex": 14,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": "16",
+        "widthINF": 3.0,
+        "boundingHexINF": "14"
+    },
+    "displayLink": "https://files.mors.technology/SIMULACRUM/940g-165c-64a-336i-T-d3cdc582.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w3210138102/940g-336i-165c-64a-16h-3w-14b-26r-64a0-16h-3w-14b-T",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/940g-336i-165c-64a-16h-3w-14b-26r-64a0-16h-3w-14b-T_SIMULACRUM.solution"
+}

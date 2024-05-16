@@ -1,0 +1,25 @@
+{
+    "puzzle": "QUINTESSENTIAL_MEDIUM",
+    "score": {
+        "cost": 310,
+        "instructions": 74,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 444,
+        "area": 12,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 3,
+        "rate": 74.0,
+        "areaINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/tJwNbrK.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P107/310g-74i-444c-12a-4h-4w-3b-74r-12a0-4h-4w-3b-O",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/310g-74i-444c-12a-4h-4w-3b-74r-12a0-4h-4w-3b-O_QUINTESSENTIAL_MEDIUM.solution"
+}

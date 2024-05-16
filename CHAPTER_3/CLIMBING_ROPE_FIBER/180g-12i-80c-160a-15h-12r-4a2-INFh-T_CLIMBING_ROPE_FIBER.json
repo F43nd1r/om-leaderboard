@@ -1,0 +1,25 @@
+{
+    "puzzle": "CLIMBING_ROPE_FIBER",
+    "score": {
+        "cost": 180,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 80,
+        "area": 160,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Climbing-Rope-Fiber-180g-80c-160a-12i-15h-14w-12r-T-0dc599.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P027/180g-12i-80c-160a-15h-12r-4a2-INFh-T",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/180g-12i-80c-160a-15h-12r-4a2-INFh-T_CLIMBING_ROPE_FIBER.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "SYNTHESIS_VIA_ALCOHOL",
+    "score": {
+        "cost": 150,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 71,
+        "area": 35,
+        "height": 6,
+        "width": 7.0,
+        "boundingHex": 5,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 35.0
+        },
+        "heightINF": "6",
+        "widthINF": 7.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Synthesis-via-Alcohol-150g-71c-35a-32i-6h-7w-11r-T-f2d849.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P071/150g-32i-71c-35a-6h-7w-5b-11r-35a0-6h-7w-5b-T",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/150g-32i-71c-35a-6h-7w-5b-11r-35a0-6h-7w-5b-T_SYNTHESIS_VIA_ALCOHOL.solution"
+}

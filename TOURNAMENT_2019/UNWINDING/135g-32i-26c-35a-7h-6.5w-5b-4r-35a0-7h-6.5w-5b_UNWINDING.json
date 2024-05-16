@@ -1,0 +1,25 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 135,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 26,
+        "area": 35,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 5,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 35.0
+        },
+        "heightINF": "7",
+        "widthINF": 6.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Unwinding-135g-26c-35a-32i-7h-6.5w-4r-89e297.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1611998067/135g-32i-26c-35a-7h-6.5w-5b-4r-35a0-7h-6.5w-5b",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/135g-32i-26c-35a-7h-6.5w-5b-4r-35a0-7h-6.5w-5b_UNWINDING.solution"
+}

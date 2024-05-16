@@ -1,0 +1,25 @@
+{
+    "puzzle": "WATER_PURIFIER",
+    "score": {
+        "cost": 50,
+        "instructions": 15,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 628,
+        "area": 36,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 5,
+        "rate": 105.0,
+        "areaINF": {
+            "level": 0,
+            "value": 36.0
+        },
+        "heightINF": "6",
+        "widthINF": 6.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://i.imgur.com/4Y7HHT4.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P025/50g-15i-628c-36a-6h-6w-5b-105r-36a0-6h-6w-5b",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/50g-15i-628c-36a-6h-6w-5b-105r-36a0-6h-6w-5b_WATER_PURIFIER.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "ASSASSIN_S_FILAMENT",
+    "score": {
+        "cost": 370,
+        "instructions": 68,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 37,
+        "area": 491,
+        "height": 33,
+        "width": null,
+        "boundingHex": null,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ASSASSIN_S_FILAMENT/370g-37c-491a-68i-O-42519e37.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P097/370g-68i-37c-491a-33h-5r-16a2-INFh-O",
+    "dataPath": "JOURNAL_VII/ASSASSIN_S_FILAMENT/370g-68i-37c-491a-33h-5r-16a2-INFh-O_ASSASSIN_S_FILAMENT.solution"
+}

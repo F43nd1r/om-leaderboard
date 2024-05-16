@@ -1,0 +1,25 @@
+{
+    "puzzle": "WAKEFULNESS_POTION",
+    "score": {
+        "cost": 235,
+        "instructions": 58,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 129,
+        "area": 78,
+        "height": 9,
+        "width": 9.0,
+        "boundingHex": 8,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 78.0
+        },
+        "heightINF": "9",
+        "widthINF": 9.0,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://imgur.com/ElI9kHd.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P088/235g-58i-129c-78a-9h-9w-8b-21r-78a0-9h-9w-8b",
+    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/235g-58i-129c-78a-9h-9w-8b-21r-78a0-9h-9w-8b_WAKEFULNESS_POTION.solution"
+}

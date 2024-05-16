@@ -1,0 +1,25 @@
+{
+    "puzzle": "CURIOUS_LIPSTICK",
+    "score": {
+        "cost": 585,
+        "instructions": 331,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 71,
+        "area": 100,
+        "height": 13,
+        "width": 12.5,
+        "boundingHex": 9,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 1.0
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/I6xFzGs.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P041/585g-331i-71c-100a-13h-12.5w-9b-10r-1a2-INFh-INFw-INFb-O",
+    "dataPath": "CHAPTER_5/CURIOUS_LIPSTICK/585g-331i-71c-100a-13h-12.5w-9b-10r-1a2-INFh-INFw-INFb-O_CURIOUS_LIPSTICK.solution"
+}

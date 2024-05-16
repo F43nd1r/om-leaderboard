@@ -1,0 +1,25 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 240,
+        "instructions": 77,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 76,
+        "area": 892,
+        "height": 39,
+        "width": null,
+        "boundingHex": null,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 32.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Buoyant-Cable-240g-76c-892a-77i-39h-36.5w-10r-T-cc99af.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P062/240g-77i-76c-892a-39h-10r-32a2-INFh-T",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/240g-77i-76c-892a-39h-10r-32a2-INFh-T_BUOYANT_CABLE.solution"
+}

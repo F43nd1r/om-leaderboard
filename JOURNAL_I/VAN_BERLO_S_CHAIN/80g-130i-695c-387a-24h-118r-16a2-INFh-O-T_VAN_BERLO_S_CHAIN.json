@@ -1,0 +1,25 @@
+{
+    "puzzle": "VAN_BERLO_S_CHAIN",
+    "score": {
+        "cost": 80,
+        "instructions": 130,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 695,
+        "area": 387,
+        "height": 24,
+        "width": null,
+        "boundingHex": null,
+        "rate": 118.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_CHAIN/80g-695c-387a-130i-O-T-5c9e4ee5.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P055/80g-130i-695c-387a-24h-118r-16a2-INFh-O-T",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/80g-130i-695c-387a-24h-118r-16a2-INFh-O-T_VAN_BERLO_S_CHAIN.solution"
+}

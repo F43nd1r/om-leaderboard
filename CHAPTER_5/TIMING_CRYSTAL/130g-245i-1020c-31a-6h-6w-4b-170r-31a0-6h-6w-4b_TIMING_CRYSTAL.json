@@ -1,0 +1,25 @@
+{
+    "puzzle": "TIMING_CRYSTAL",
+    "score": {
+        "cost": 130,
+        "instructions": 245,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1020,
+        "area": 31,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 4,
+        "rate": 170.0,
+        "areaINF": {
+            "level": 0,
+            "value": 31.0
+        },
+        "heightINF": "6",
+        "widthINF": 6.0,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/TIMING_CRYSTAL/130g-1020c-31a-245i-04d93079.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P042/130g-245i-1020c-31a-6h-6w-4b-170r-31a0-6h-6w-4b",
+    "dataPath": "CHAPTER_5/TIMING_CRYSTAL/130g-245i-1020c-31a-6h-6w-4b-170r-31a0-6h-6w-4b_TIMING_CRYSTAL.solution"
+}

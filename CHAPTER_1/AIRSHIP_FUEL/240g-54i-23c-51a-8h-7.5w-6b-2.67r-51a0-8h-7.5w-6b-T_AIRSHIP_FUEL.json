@@ -1,0 +1,25 @@
+{
+    "puzzle": "AIRSHIP_FUEL",
+    "score": {
+        "cost": 240,
+        "instructions": 54,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 23,
+        "area": 51,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 2.67,
+        "areaINF": {
+            "level": 0,
+            "value": 51.0
+        },
+        "heightINF": "8",
+        "widthINF": 7.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://files.mors.technology/Airship-Fuel-240g-23c-51a-54i-8h-7.5w-2.67r-T-5be05a.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P008/240g-54i-23c-51a-8h-7.5w-6b-2.67r-51a0-8h-7.5w-6b-T",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/240g-54i-23c-51a-8h-7.5w-6b-2.67r-51a0-8h-7.5w-6b-T_AIRSHIP_FUEL.solution"
+}

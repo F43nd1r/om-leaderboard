@@ -1,0 +1,25 @@
+{
+    "puzzle": "VAN_BERLO_S_PIVOTS",
+    "score": {
+        "cost": 30,
+        "instructions": 30,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 179,
+        "area": 17,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 3,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "heightINF": "5",
+        "widthINF": 4.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Van-Berlos-Pivots-30g-179c-17a-30i-5h-4.5w-30r-T-O-bded94.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P096/30g-30i-179c-17a-5h-4.5w-3b-30r-17a0-5h-4.5w-3b-O-T",
+    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/30g-30i-179c-17a-5h-4.5w-3b-30r-17a0-5h-4.5w-3b-O-T_VAN_BERLO_S_PIVOTS.solution"
+}

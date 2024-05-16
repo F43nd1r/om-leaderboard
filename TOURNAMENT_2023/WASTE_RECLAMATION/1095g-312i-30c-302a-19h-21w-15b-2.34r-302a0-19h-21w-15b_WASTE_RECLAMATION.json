@@ -1,0 +1,25 @@
+{
+    "puzzle": "WASTE_RECLAMATION",
+    "score": {
+        "cost": 1095,
+        "instructions": 312,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 30,
+        "area": 302,
+        "height": 19,
+        "width": 21.0,
+        "boundingHex": 15,
+        "rate": 2.34,
+        "areaINF": {
+            "level": 0,
+            "value": 302.0
+        },
+        "heightINF": "19",
+        "widthINF": 21.0,
+        "boundingHexINF": "15"
+    },
+    "displayLink": "https://i.imgur.com/IcIXE6t.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946683186/1095g-312i-30c-302a-19h-21w-15b-2.34r-302a0-19h-21w-15b",
+    "dataPath": "TOURNAMENT_2023/WASTE_RECLAMATION/1095g-312i-30c-302a-19h-21w-15b-2.34r-302a0-19h-21w-15b_WASTE_RECLAMATION.solution"
+}

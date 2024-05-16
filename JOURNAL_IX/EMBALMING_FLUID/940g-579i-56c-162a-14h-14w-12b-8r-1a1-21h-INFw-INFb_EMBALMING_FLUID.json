@@ -1,0 +1,25 @@
+{
+    "puzzle": "EMBALMING_FLUID",
+    "score": {
+        "cost": 940,
+        "instructions": 579,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 56,
+        "area": 162,
+        "height": 14,
+        "width": 14.0,
+        "boundingHex": 12,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": "21",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/EMBALMING_FLUID/940g-56c-162a-579i-31e6a246.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P108/940g-579i-56c-162a-14h-14w-12b-8r-1a1-21h-INFw-INFb",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/940g-579i-56c-162a-14h-14w-12b-8r-1a1-21h-INFw-INFb_EMBALMING_FLUID.solution"
+}

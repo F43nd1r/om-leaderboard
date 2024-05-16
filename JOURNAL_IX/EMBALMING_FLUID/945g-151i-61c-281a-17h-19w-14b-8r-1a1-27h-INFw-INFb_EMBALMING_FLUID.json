@@ -1,0 +1,25 @@
+{
+    "puzzle": "EMBALMING_FLUID",
+    "score": {
+        "cost": 945,
+        "instructions": 151,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 61,
+        "area": 281,
+        "height": 17,
+        "width": 19.0,
+        "boundingHex": 14,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": "27",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/WRh5YVH.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P108/945g-151i-61c-281a-17h-19w-14b-8r-1a1-27h-INFw-INFb",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/945g-151i-61c-281a-17h-19w-14b-8r-1a1-27h-INFw-INFb_EMBALMING_FLUID.solution"
+}

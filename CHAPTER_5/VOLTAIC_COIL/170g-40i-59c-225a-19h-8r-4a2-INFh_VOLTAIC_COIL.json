@@ -1,0 +1,25 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 170,
+        "instructions": 40,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 59,
+        "area": 225,
+        "height": 19,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/0FbPdpf.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P039/170g-40i-59c-225a-19h-8r-4a2-INFh",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/170g-40i-59c-225a-19h-8r-4a2-INFh_VOLTAIC_COIL.solution"
+}

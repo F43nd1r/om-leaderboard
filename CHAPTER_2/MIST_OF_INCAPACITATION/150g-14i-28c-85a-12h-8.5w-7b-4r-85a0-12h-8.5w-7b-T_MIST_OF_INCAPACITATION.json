@@ -1,0 +1,25 @@
+{
+    "puzzle": "MIST_OF_INCAPACITATION",
+    "score": {
+        "cost": 150,
+        "instructions": 14,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 28,
+        "area": 85,
+        "height": 12,
+        "width": 8.5,
+        "boundingHex": 7,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": "12",
+        "widthINF": 8.5,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://files.mors.technology/Mist-of-Incapacitation-150g-28c-85a-14i-12h-8.5w-4r-T-217f97.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P018/150g-14i-28c-85a-12h-8.5w-7b-4r-85a0-12h-8.5w-7b-T",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/150g-14i-28c-85a-12h-8.5w-7b-4r-85a0-12h-8.5w-7b-T_MIST_OF_INCAPACITATION.solution"
+}

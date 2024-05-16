@@ -1,0 +1,25 @@
+{
+    "puzzle": "PRECISION_MACHINE_OIL",
+    "score": {
+        "cost": 130,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 78,
+        "area": 15,
+        "height": 2,
+        "width": 5.0,
+        "boundingHex": 5,
+        "rate": 13.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": "2",
+        "widthINF": 5.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Precision-Machine-Oil-130g-78c-15a-38i-2h-5w-13r-T-c90e94.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P012/130g-38i-78c-15a-2h-5w-5b-13r-15a0-2h-5w-5b-T",
+    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/130g-38i-78c-15a-2h-5w-5b-13r-15a0-2h-5w-5b-T_PRECISION_MACHINE_OIL.solution"
+}

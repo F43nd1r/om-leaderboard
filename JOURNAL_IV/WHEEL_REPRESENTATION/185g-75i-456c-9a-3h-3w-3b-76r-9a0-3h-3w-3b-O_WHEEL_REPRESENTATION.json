@@ -1,0 +1,25 @@
+{
+    "puzzle": "WHEEL_REPRESENTATION",
+    "score": {
+        "cost": 185,
+        "instructions": 75,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 456,
+        "area": 9,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 3,
+        "rate": 76.0,
+        "areaINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/WHEEL_REPRESENTATION/185g-456c-9a-75i-O-9f2a15fd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P070/185g-75i-456c-9a-3h-3w-3b-76r-9a0-3h-3w-3b-O",
+    "dataPath": "JOURNAL_IV/WHEEL_REPRESENTATION/185g-75i-456c-9a-3h-3w-3b-76r-9a0-3h-3w-3b-O_WHEEL_REPRESENTATION.solution"
+}

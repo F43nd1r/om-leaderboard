@@ -1,0 +1,25 @@
+{
+    "puzzle": "STAMINA_POTION",
+    "score": {
+        "cost": 90,
+        "instructions": 6,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 105,
+        "area": 52,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 5,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 52.0
+        },
+        "heightINF": "8",
+        "widthINF": 8.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Stamina-Potion-90g-105c-52a-6i-8h-8w-15r-T-O-d05764.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P015/90g-6i-105c-52a-8h-8w-5b-15r-52a0-8h-8w-5b-O-T",
+    "dataPath": "CHAPTER_1/STAMINA_POTION/90g-6i-105c-52a-8h-8w-5b-15r-52a0-8h-8w-5b-O-T_STAMINA_POTION.solution"
+}

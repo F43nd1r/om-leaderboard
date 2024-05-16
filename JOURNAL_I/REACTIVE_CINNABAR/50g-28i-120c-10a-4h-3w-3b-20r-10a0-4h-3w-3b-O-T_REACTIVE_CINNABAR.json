@@ -1,0 +1,25 @@
+{
+    "puzzle": "REACTIVE_CINNABAR",
+    "score": {
+        "cost": 50,
+        "instructions": 28,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 120,
+        "area": 10,
+        "height": 4,
+        "width": 3.0,
+        "boundingHex": 3,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "4",
+        "widthINF": 3.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Reactive-Cinnabar-50g-120c-10a-28i-4h-3w-20r-T-O-f72d05.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P056/50g-28i-120c-10a-4h-3w-3b-20r-10a0-4h-3w-3b-O-T",
+    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/50g-28i-120c-10a-4h-3w-3b-20r-10a0-4h-3w-3b-O-T_REACTIVE_CINNABAR.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "WIRE_FORMING_AND_UNFORMING",
+    "score": {
+        "cost": 380,
+        "instructions": 53,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 85,
+        "area": 146,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 7.0
+        },
+        "heightINF": "10",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://imgur.com/ACDJGBV.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1698784331/380g-53i-85c-146a-10h-8r-7a1-10h-T",
+    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/380g-53i-85c-146a-10h-8r-7a1-10h-T_WIRE_FORMING_AND_UNFORMING.solution"
+}

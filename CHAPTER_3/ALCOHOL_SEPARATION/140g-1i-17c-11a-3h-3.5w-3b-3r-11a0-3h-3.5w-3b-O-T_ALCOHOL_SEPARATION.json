@@ -1,0 +1,25 @@
+{
+    "puzzle": "ALCOHOL_SEPARATION",
+    "score": {
+        "cost": 140,
+        "instructions": 1,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 17,
+        "area": 11,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 3.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/ovVvDN0.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P024/140g-1i-17c-11a-3h-3.5w-3b-3r-11a0-3h-3.5w-3b-O-T",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/140g-1i-17c-11a-3h-3.5w-3b-3r-11a0-3h-3.5w-3b-O-T_ALCOHOL_SEPARATION.solution"
+}

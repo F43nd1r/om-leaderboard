@@ -1,0 +1,25 @@
+{
+    "puzzle": "MIST_OF_DOUSING",
+    "score": {
+        "cost": 50,
+        "instructions": 316,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1832,
+        "area": 570,
+        "height": 29,
+        "width": 25.5,
+        "boundingHex": 17,
+        "rate": 316.0,
+        "areaINF": {
+            "level": 2,
+            "value": 3.0
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/Mist-of-Dousing-50g-1832c-570a-316i-29h-25.5w-316r-fe8142.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2450512021/50g-316i-1832c-570a-29h-25.5w-17b-316r-3a2-INFh-INFw-INFb",
+    "dataPath": "TOURNAMENT_2021/MIST_OF_DOUSING/50g-316i-1832c-570a-29h-25.5w-17b-316r-3a2-INFh-INFw-INFb_MIST_OF_DOUSING.solution"
+}

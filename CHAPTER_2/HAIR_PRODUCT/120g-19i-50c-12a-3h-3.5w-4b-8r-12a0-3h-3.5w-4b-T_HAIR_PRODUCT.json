@@ -1,0 +1,25 @@
+{
+    "puzzle": "HAIR_PRODUCT",
+    "score": {
+        "cost": 120,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 50,
+        "area": 12,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 4,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://i.imgur.com/x3cAiI0.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P016/120g-19i-50c-12a-3h-3.5w-4b-8r-12a0-3h-3.5w-4b-T",
+    "dataPath": "CHAPTER_2/HAIR_PRODUCT/120g-19i-50c-12a-3h-3.5w-4b-8r-12a0-3h-3.5w-4b-T_HAIR_PRODUCT.solution"
+}

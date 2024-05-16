@@ -1,0 +1,25 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 120,
+        "instructions": 210,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 55,
+        "area": 120,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.62,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Armor-Filament-120g-55c-120a-210i-15h-13.5w-8.62r-7f38f1.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P020/120g-210i-55c-120a-15h-8.62r-4a2-INFh",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/120g-210i-55c-120a-15h-8.62r-4a2-INFh_ARMOR_FILAMENT.solution"
+}

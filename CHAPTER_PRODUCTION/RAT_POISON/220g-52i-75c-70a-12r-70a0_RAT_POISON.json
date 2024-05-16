@@ -9,15 +9,17 @@
         "area": 70,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 12.0,
         "areaINF": {
             "level": 0,
             "value": 70.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/Rat-Poison-220g-75c-70a-52i-9h-9w-12r-78f94f.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/bd462078/P074/220g-52i-75c-70a-12r-70a0",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P074/220g-52i-75c-70a-12r-70a0",
     "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/220g-52i-75c-70a-12r-70a0_RAT_POISON.solution"
 }

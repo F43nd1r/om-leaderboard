@@ -1,0 +1,25 @@
+{
+    "puzzle": "HEALTH_TONIC",
+    "score": {
+        "cost": 105,
+        "instructions": 76,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 36,
+        "area": 57,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 1.0,
+        "areaINF": {
+            "level": 0,
+            "value": 88.0
+        },
+        "heightINF": "11",
+        "widthINF": 10.5,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://i.imgur.com/7qeWHID.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P014/105g-76i-36c-57a-8h-7.5w-6b-1r-88a0-11h-10.5w-7b-O",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/105g-76i-36c-57a-8h-7.5w-6b-1r-88a0-11h-10.5w-7b-O_HEALTH_TONIC.solution"
+}

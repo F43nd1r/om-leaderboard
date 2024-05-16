@@ -1,0 +1,25 @@
+{
+    "puzzle": "RUST_REMOVAL",
+    "score": {
+        "cost": 110,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 261,
+        "area": 37,
+        "height": 17,
+        "width": null,
+        "boundingHex": null,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/RUST_REMOVAL/110g-261c-37a-26i-T-074dbc6a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2788066771/110g-26i-261c-37a-17h-42r-4a1-INFh-T",
+    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/110g-26i-261c-37a-17h-42r-4a1-INFh-T_RUST_REMOVAL.solution"
+}

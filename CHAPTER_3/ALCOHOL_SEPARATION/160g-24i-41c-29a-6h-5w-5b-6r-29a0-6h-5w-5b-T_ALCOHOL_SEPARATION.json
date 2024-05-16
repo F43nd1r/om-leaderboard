@@ -1,0 +1,25 @@
+{
+    "puzzle": "ALCOHOL_SEPARATION",
+    "score": {
+        "cost": 160,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 41,
+        "area": 29,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 5,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": "6",
+        "widthINF": 5.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Alcohol-Separation-160g-41c-29a-24i-6h-5w-6r-T-291344.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P024/160g-24i-41c-29a-6h-5w-5b-6r-29a0-6h-5w-5b-T",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/160g-24i-41c-29a-6h-5w-5b-6r-29a0-6h-5w-5b-T_ALCOHOL_SEPARATION.solution"
+}

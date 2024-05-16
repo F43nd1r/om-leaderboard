@@ -1,0 +1,25 @@
+{
+    "puzzle": "WASTE_RECLAMATION",
+    "score": {
+        "cost": 560,
+        "instructions": 26,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 10,
+        "area": 26,
+        "height": 7,
+        "width": 6.0,
+        "boundingHex": 5,
+        "rate": 1.84,
+        "areaINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "heightINF": "7",
+        "widthINF": 6.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/WASTE_RECLAMATION/560g-10c-26a-26i-O-T-941b4da6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946683186/560g-26i-10c-26a-7h-6w-5b-1.84r-26a0-7h-6w-5b-O-T",
+    "dataPath": "TOURNAMENT_2023/WASTE_RECLAMATION/560g-26i-10c-26a-7h-6w-5b-1.84r-26a0-7h-6w-5b-O-T_WASTE_RECLAMATION.solution"
+}

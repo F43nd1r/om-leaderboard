@@ -1,0 +1,25 @@
+{
+    "puzzle": "ROCKET_PROPELLANT",
+    "score": {
+        "cost": 40,
+        "instructions": 29,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 867,
+        "area": 44,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 5,
+        "rate": 145.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": "8",
+        "widthINF": 7.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Rocket-Propellant-40g-867c-44a-29i-8h-7w-145r-T-db41e1.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P019/40g-29i-867c-44a-8h-7w-5b-145r-44a0-8h-7w-5b-T",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/40g-29i-867c-44a-8h-7w-5b-145r-44a0-8h-7w-5b-T_ROCKET_PROPELLANT.solution"
+}

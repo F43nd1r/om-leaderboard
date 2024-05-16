@@ -1,0 +1,25 @@
+{
+    "puzzle": "VAN_BERLO_S_WHEEL",
+    "score": {
+        "cost": 180,
+        "instructions": 45,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 78,
+        "area": 26,
+        "height": 7,
+        "width": 6.0,
+        "boundingHex": 4,
+        "rate": 13.0,
+        "areaINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "heightINF": "7",
+        "widthINF": 6.0,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/Van-Berlos-Wheel-180g-78c-26a-45i-7h-6w-13r-T-4856b7.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P054/180g-45i-78c-26a-7h-6w-4b-13r-26a0-7h-6w-4b-T",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/180g-45i-78c-26a-7h-6w-4b-13r-26a0-7h-6w-4b-T_VAN_BERLO_S_WHEEL.solution"
+}

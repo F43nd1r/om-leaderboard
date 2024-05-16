@@ -1,0 +1,25 @@
+{
+    "puzzle": "TIMING_CRYSTAL",
+    "score": {
+        "cost": 140,
+        "instructions": 44,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 220,
+        "area": 59,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 7,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 59.0
+        },
+        "heightINF": "8",
+        "widthINF": 8.0,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://i.imgur.com/J20kRmd.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P042/140g-44i-220c-59a-8h-8w-7b-36r-59a0-8h-8w-7b",
+    "dataPath": "CHAPTER_5/TIMING_CRYSTAL/140g-44i-220c-59a-8h-8w-7b-36r-59a0-8h-8w-7b_TIMING_CRYSTAL.solution"
+}

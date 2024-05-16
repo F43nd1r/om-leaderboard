@@ -1,0 +1,25 @@
+{
+    "puzzle": "SELF_PRESSURIZING_GAS",
+    "score": {
+        "cost": 450,
+        "instructions": 763,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 127,
+        "area": 38,
+        "height": 9,
+        "width": 3.0,
+        "boundingHex": 9,
+        "rate": 20.17,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": "9",
+        "widthINF": 3.0,
+        "boundingHexINF": "9"
+    },
+    "displayLink": "https://i.imgur.com/sMM3dSE.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946682999/450g-763i-127c-38a-9h-3w-9b-20.17r-38a0-9h-3w-9b",
+    "dataPath": "TOURNAMENT_2023/SELF_PRESSURIZING_GAS/450g-763i-127c-38a-9h-3w-9b-20.17r-38a0-9h-3w-9b_SELF_PRESSURIZING_GAS.solution"
+}

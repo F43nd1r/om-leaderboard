@@ -9,15 +9,17 @@
         "area": 69,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 12.5,
         "areaINF": {
             "level": 0,
             "value": 69.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/Parade-Rocket-Fuel-140g-76c-69a-48i-8h-10.5w-12.5r-T-891854.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/bd462078/P082/140g-48i-76c-69a-12.5r-69a0-T",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P082/140g-48i-76c-69a-12.5r-69a0-T",
     "dataPath": "CHAPTER_PRODUCTION/PARADE_ROCKET_FUEL/140g-48i-76c-69a-12.5r-69a0-T_PARADE_ROCKET_FUEL.solution"
 }

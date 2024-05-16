@@ -1,0 +1,25 @@
+{
+    "puzzle": "LEAVE_NO_TRACE",
+    "score": {
+        "cost": 370,
+        "instructions": 33,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 354,
+        "area": 80,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 8,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": "11",
+        "widthINF": 10.5,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/Leave-no-Trace-370g-354c-80a-33i-11h-10.5w-48r-T-7e59be.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2788066279/370g-33i-354c-80a-11h-10.5w-8b-48r-80a0-11h-10.5w-8b-T",
+    "dataPath": "TOURNAMENT_2022/LEAVE_NO_TRACE/370g-33i-354c-80a-11h-10.5w-8b-48r-80a0-11h-10.5w-8b-T_LEAVE_NO_TRACE.solution"
+}

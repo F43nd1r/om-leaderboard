@@ -1,0 +1,25 @@
+{
+    "puzzle": "SYNTHESIS_VIA_ALCOHOL",
+    "score": {
+        "cost": 970,
+        "instructions": 209,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 32,
+        "area": 182,
+        "height": 15,
+        "width": 11.5,
+        "boundingHex": 14,
+        "rate": 1.0,
+        "areaINF": {
+            "level": 0,
+            "value": 182.0
+        },
+        "heightINF": "15",
+        "widthINF": 11.5,
+        "boundingHexINF": "14"
+    },
+    "displayLink": "https://files.mors.technology/SYNTHESIS_VIA_ALCOHOL/970g-32c-182a-209i-O-66a52d70.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P071/970g-209i-32c-182a-15h-11.5w-14b-1r-182a0-15h-11.5w-14b-O",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/970g-209i-32c-182a-15h-11.5w-14b-1r-182a0-15h-11.5w-14b-O_SYNTHESIS_VIA_ALCOHOL.solution"
+}

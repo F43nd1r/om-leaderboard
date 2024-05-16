@@ -1,0 +1,25 @@
+{
+    "puzzle": "SILVER_CAUSTIC",
+    "score": {
+        "cost": 160,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 102,
+        "area": 43,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 6,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 43.0
+        },
+        "heightINF": "7",
+        "widthINF": 7.0,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://i.imgur.com/oNE4I6e.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P057/160g-69i-102c-43a-7h-7w-6b-17r-43a0-7h-7w-6b-T",
+    "dataPath": "JOURNAL_I/SILVER_CAUSTIC/160g-69i-102c-43a-7h-7w-6b-17r-43a0-7h-7w-6b-T_SILVER_CAUSTIC.solution"
+}

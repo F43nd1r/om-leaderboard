@@ -1,0 +1,25 @@
+{
+    "puzzle": "VAN_BERLO_S_CHAIN",
+    "score": {
+        "cost": 310,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 52,
+        "area": 162,
+        "height": 13,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 14.0
+        },
+        "heightINF": "13",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Van-Berlos-Chain-310g-52c-162a-52i-13h-16.5w-8r-587420.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P055/310g-52i-52c-162a-13h-8r-14a1-13h",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/310g-52i-52c-162a-13h-8r-14a1-13h_VAN_BERLO_S_CHAIN.solution"
+}

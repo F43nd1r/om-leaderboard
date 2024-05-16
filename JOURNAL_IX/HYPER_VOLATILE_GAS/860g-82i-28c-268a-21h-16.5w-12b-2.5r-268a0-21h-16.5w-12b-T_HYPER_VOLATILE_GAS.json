@@ -1,0 +1,25 @@
+{
+    "puzzle": "HYPER_VOLATILE_GAS",
+    "score": {
+        "cost": 860,
+        "instructions": 82,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 28,
+        "area": 268,
+        "height": 21,
+        "width": 16.5,
+        "boundingHex": 12,
+        "rate": 2.5,
+        "areaINF": {
+            "level": 0,
+            "value": 268.0
+        },
+        "heightINF": "21",
+        "widthINF": 16.5,
+        "boundingHexINF": "12"
+    },
+    "displayLink": "https://i.imgur.com/MMKRSkE.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P106/860g-82i-28c-268a-21h-16.5w-12b-2.5r-268a0-21h-16.5w-12b-T",
+    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/860g-82i-28c-268a-21h-16.5w-12b-2.5r-268a0-21h-16.5w-12b-T_HYPER_VOLATILE_GAS.solution"
+}

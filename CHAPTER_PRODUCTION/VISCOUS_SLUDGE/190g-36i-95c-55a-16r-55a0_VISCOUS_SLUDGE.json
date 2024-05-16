@@ -9,16 +9,17 @@
         "area": 55,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 16.0,
         "areaINF": {
             "level": 0,
             "value": 55.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/VISCOUS_SLUDGE/190g-95c-55a-36i-40ada0a9.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f8f89bf3/P080/190g-36i-95c-55a-16r-55a0",
-    "dataPath": "CHAPTER_PRODUCTION/VISCOUS_SLUDGE/190g-36i-95c-55a-16r-55a0_VISCOUS_SLUDGE.solution",
-    "lastModified": "2024-04-05T12:43:35.993636198Z"
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P080/190g-36i-95c-55a-16r-55a0",
+    "dataPath": "CHAPTER_PRODUCTION/VISCOUS_SLUDGE/190g-36i-95c-55a-16r-55a0_VISCOUS_SLUDGE.solution"
 }

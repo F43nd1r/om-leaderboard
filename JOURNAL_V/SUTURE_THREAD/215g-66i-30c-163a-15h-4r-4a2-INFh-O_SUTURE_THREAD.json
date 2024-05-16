@@ -1,0 +1,25 @@
+{
+    "puzzle": "SUTURE_THREAD",
+    "score": {
+        "cost": 215,
+        "instructions": 66,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 30,
+        "area": 163,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/IXQbmwt.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P085/215g-66i-30c-163a-15h-4r-4a2-INFh-O",
+    "dataPath": "JOURNAL_V/SUTURE_THREAD/215g-66i-30c-163a-15h-4r-4a2-INFh-O_SUTURE_THREAD.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "LUBRICATING_FILAMENT",
+    "score": {
+        "cost": 480,
+        "instructions": 162,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 63,
+        "area": 509,
+        "height": 27,
+        "width": null,
+        "boundingHex": null,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Lubricating-Filament-480g-63c-509a-162i-27h-26.5w-10r-19384c.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P065/480g-162i-63c-509a-27h-10r-16a2-INFh",
+    "dataPath": "JOURNAL_III/LUBRICATING_FILAMENT/480g-162i-63c-509a-27h-10r-16a2-INFh_LUBRICATING_FILAMENT.solution"
+}

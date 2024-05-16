@@ -1,0 +1,25 @@
+{
+    "puzzle": "HAIR_PRODUCT",
+    "score": {
+        "cost": 70,
+        "instructions": 7,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 120,
+        "area": 11,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Hair-Product-70g-120c-11a-7i-3h-3.5w-20r-aa2649.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P016/70g-7i-120c-11a-3h-3.5w-3b-20r-11a0-3h-3.5w-3b",
+    "dataPath": "CHAPTER_2/HAIR_PRODUCT/70g-7i-120c-11a-3h-3.5w-3b-20r-11a0-3h-3.5w-3b_HAIR_PRODUCT.solution"
+}

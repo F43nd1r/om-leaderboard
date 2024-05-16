@@ -1,0 +1,25 @@
+{
+    "puzzle": "RADIO_RECEIVERS",
+    "score": {
+        "cost": 125,
+        "instructions": 92,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 552,
+        "area": 10,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 93.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Radio-Receivers-125g-552c-10a-92i-3h-3.5w-93r-O-c96cb2.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2788067896/125g-92i-552c-10a-3h-3.5w-3b-93r-10a0-3h-3.5w-3b-O",
+    "dataPath": "TOURNAMENT_2022/RADIO_RECEIVERS/125g-92i-552c-10a-3h-3.5w-3b-93r-10a0-3h-3.5w-3b-O_RADIO_RECEIVERS.solution"
+}

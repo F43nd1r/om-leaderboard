@@ -1,0 +1,25 @@
+{
+    "puzzle": "REACTIVE_GOLD",
+    "score": {
+        "cost": 350,
+        "instructions": 453,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 55,
+        "area": 38,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "rate": 10.72,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": "7",
+        "widthINF": 7.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://i.imgur.com/f9aRkWC.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P095/350g-453i-55c-38a-7h-7w-5b-10.72r-38a0-7h-7w-5b-T",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/350g-453i-55c-38a-7h-7w-5b-10.72r-38a0-7h-7w-5b-T_REACTIVE_GOLD.solution"
+}

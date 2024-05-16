@@ -1,0 +1,25 @@
+{
+    "puzzle": "CONNECT_THE_DOTS",
+    "score": {
+        "cost": 50,
+        "instructions": 49,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 289,
+        "area": 15,
+        "height": 3,
+        "width": 4.0,
+        "boundingHex": 4,
+        "rate": 49.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": "3",
+        "widthINF": 4.0,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://i.imgur.com/CzZzmOV.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w3101135731/50g-49i-289c-15a-3h-4w-4b-49r-15a0-3h-4w-4b",
+    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/50g-49i-289c-15a-3h-4w-4b-49r-15a0-3h-4w-4b_CONNECT_THE_DOTS.solution"
+}

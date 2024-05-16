@@ -1,0 +1,25 @@
+{
+    "puzzle": "THERMAL_FUSE",
+    "score": {
+        "cost": 145,
+        "instructions": 103,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 569,
+        "area": 86,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "rate": 80.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": "5",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/THERMAL_FUSE/145g-569c-86a-103i-62fc5d1b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w3210188410/145g-103i-569c-86a-5h-80r-8a1-5h",
+    "dataPath": "TOURNAMENT_2024/THERMAL_FUSE/145g-103i-569c-86a-5h-80r-8a1-5h_THERMAL_FUSE.solution"
+}

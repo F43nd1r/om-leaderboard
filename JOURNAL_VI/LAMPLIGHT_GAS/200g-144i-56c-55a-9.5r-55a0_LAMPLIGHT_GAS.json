@@ -9,16 +9,17 @@
         "area": 55,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 9.5,
         "areaINF": {
             "level": 0,
             "value": 55.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/LAMPLIGHT_GAS/200g-56c-55a-144i-c134440c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/26f4508c/P092/200g-144i-56c-55a-9.5r-55a0",
-    "dataPath": "JOURNAL_VI/LAMPLIGHT_GAS/200g-144i-56c-55a-9.5r-55a0_LAMPLIGHT_GAS.solution",
-    "lastModified": "2024-02-13T09:27:46.542641904Z"
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P092/200g-144i-56c-55a-9.5r-55a0",
+    "dataPath": "JOURNAL_VI/LAMPLIGHT_GAS/200g-144i-56c-55a-9.5r-55a0_LAMPLIGHT_GAS.solution"
 }

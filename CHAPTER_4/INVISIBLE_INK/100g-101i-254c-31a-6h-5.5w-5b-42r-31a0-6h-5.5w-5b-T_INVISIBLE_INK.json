@@ -1,0 +1,25 @@
+{
+    "puzzle": "INVISIBLE_INK",
+    "score": {
+        "cost": 100,
+        "instructions": 101,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 254,
+        "area": 31,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 5,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 31.0
+        },
+        "heightINF": "6",
+        "widthINF": 5.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/INVISIBLE_INK/100g-254c-31a-101i-T-a67fe568.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P032/100g-101i-254c-31a-6h-5.5w-5b-42r-31a0-6h-5.5w-5b-T",
+    "dataPath": "CHAPTER_4/INVISIBLE_INK/100g-101i-254c-31a-6h-5.5w-5b-42r-31a0-6h-5.5w-5b-T_INVISIBLE_INK.solution"
+}

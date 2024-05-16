@@ -1,0 +1,25 @@
+{
+    "puzzle": "ALCHEMICAL_JEWEL",
+    "score": {
+        "cost": 180,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 301,
+        "area": 109,
+        "height": 13,
+        "width": 11.0,
+        "boundingHex": 8,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 109.0
+        },
+        "heightINF": "13",
+        "widthINF": 11.0,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://i.imgur.com/0rsc00z.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P035/180g-12i-301c-109a-13h-11w-8b-48r-109a0-13h-11w-8b-T",
+    "dataPath": "CHAPTER_4/ALCHEMICAL_JEWEL/180g-12i-301c-109a-13h-11w-8b-48r-109a0-13h-11w-8b-T_ALCHEMICAL_JEWEL.solution"
+}

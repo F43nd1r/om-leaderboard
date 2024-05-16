@@ -1,0 +1,25 @@
+{
+    "puzzle": "TIMING_CRYSTAL",
+    "score": {
+        "cost": 940,
+        "instructions": 4,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 4667,
+        "area": 561,
+        "height": 24,
+        "width": 26.0,
+        "boundingHex": 18,
+        "rate": 780.0,
+        "areaINF": {
+            "level": 0,
+            "value": 561.0
+        },
+        "heightINF": "24",
+        "widthINF": 26.0,
+        "boundingHexINF": "18"
+    },
+    "displayLink": "https://i.imgur.com/UNTFB1X.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P042/940g-4i-4667c-561a-24h-26w-18b-780r-561a0-24h-26w-18b",
+    "dataPath": "CHAPTER_5/TIMING_CRYSTAL/940g-4i-4667c-561a-24h-26w-18b-780r-561a0-24h-26w-18b_TIMING_CRYSTAL.solution"
+}

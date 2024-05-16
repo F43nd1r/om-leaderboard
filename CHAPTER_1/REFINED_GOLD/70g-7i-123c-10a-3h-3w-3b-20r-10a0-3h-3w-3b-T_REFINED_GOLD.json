@@ -1,0 +1,25 @@
+{
+    "puzzle": "REFINED_GOLD",
+    "score": {
+        "cost": 70,
+        "instructions": 7,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 123,
+        "area": 10,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 3,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Refined-Gold-70g-123c-10a-7i-3h-3w-20r-T-b9cbef.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P010/70g-7i-123c-10a-3h-3w-3b-20r-10a0-3h-3w-3b-T",
+    "dataPath": "CHAPTER_1/REFINED_GOLD/70g-7i-123c-10a-3h-3w-3b-20r-10a0-3h-3w-3b-T_REFINED_GOLD.solution"
+}

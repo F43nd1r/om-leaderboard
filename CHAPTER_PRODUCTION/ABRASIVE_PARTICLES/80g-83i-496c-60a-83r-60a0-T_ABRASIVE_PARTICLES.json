@@ -9,16 +9,17 @@
         "area": 60,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 83.0,
         "areaINF": {
             "level": 0,
             "value": 60.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/ABRASIVE_PARTICLES/80g-496c-60a-83i-T-195f39cd.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/b4855dd9/P079/80g-83i-496c-60a-83r-60a0-T",
-    "dataPath": "CHAPTER_PRODUCTION/ABRASIVE_PARTICLES/80g-83i-496c-60a-83r-60a0-T_ABRASIVE_PARTICLES.solution",
-    "lastModified": "2024-04-06T17:54:10.694374694Z"
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P079/80g-83i-496c-60a-83r-60a0-T",
+    "dataPath": "CHAPTER_PRODUCTION/ABRASIVE_PARTICLES/80g-83i-496c-60a-83r-60a0-T_ABRASIVE_PARTICLES.solution"
 }

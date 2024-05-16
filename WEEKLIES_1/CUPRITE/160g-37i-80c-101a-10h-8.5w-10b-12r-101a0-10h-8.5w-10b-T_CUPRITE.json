@@ -1,0 +1,25 @@
+{
+    "puzzle": "CUPRITE",
+    "score": {
+        "cost": 160,
+        "instructions": 37,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 80,
+        "area": 101,
+        "height": 10,
+        "width": 8.5,
+        "boundingHex": 10,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 101.0
+        },
+        "heightINF": "10",
+        "widthINF": 8.5,
+        "boundingHexINF": "10"
+    },
+    "displayLink": "https://i.imgur.com/gJeoISH.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2868328394/160g-37i-80c-101a-10h-8.5w-10b-12r-101a0-10h-8.5w-10b-T",
+    "dataPath": "WEEKLIES_1/CUPRITE/160g-37i-80c-101a-10h-8.5w-10b-12r-101a0-10h-8.5w-10b-T_CUPRITE.solution"
+}

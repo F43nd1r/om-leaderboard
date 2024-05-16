@@ -1,0 +1,25 @@
+{
+    "puzzle": "SWORD_ALLOY",
+    "score": {
+        "cost": 250,
+        "instructions": 21,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 477,
+        "area": 121,
+        "height": 12,
+        "width": null,
+        "boundingHex": null,
+        "rate": 60.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": "12",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Sword-Alloy-250g-477c-121a-21i-12h-14w-60r-T-9d09e5.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P033/250g-21i-477c-121a-12h-60r-6a1-12h-T",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/250g-21i-477c-121a-12h-60r-6a1-12h-T_SWORD_ALLOY.solution"
+}

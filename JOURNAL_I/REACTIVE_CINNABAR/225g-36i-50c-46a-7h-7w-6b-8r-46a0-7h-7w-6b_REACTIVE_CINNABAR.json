@@ -1,0 +1,25 @@
+{
+    "puzzle": "REACTIVE_CINNABAR",
+    "score": {
+        "cost": 225,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 50,
+        "area": 46,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 6,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 46.0
+        },
+        "heightINF": "7",
+        "widthINF": 7.0,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://i.imgur.com/IZ17IeE.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P056/225g-36i-50c-46a-7h-7w-6b-8r-46a0-7h-7w-6b",
+    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/225g-36i-50c-46a-7h-7w-6b-8r-46a0-7h-7w-6b_REACTIVE_CINNABAR.solution"
+}

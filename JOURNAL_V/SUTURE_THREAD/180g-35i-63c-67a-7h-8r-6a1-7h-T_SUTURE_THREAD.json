@@ -1,0 +1,25 @@
+{
+    "puzzle": "SUTURE_THREAD",
+    "score": {
+        "cost": 180,
+        "instructions": 35,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 63,
+        "area": 67,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": "7",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SUTURE_THREAD/180g-63c-67a-35i-T-6c890cde.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P085/180g-35i-63c-67a-7h-8r-6a1-7h-T",
+    "dataPath": "JOURNAL_V/SUTURE_THREAD/180g-35i-63c-67a-7h-8r-6a1-7h-T_SUTURE_THREAD.solution"
+}

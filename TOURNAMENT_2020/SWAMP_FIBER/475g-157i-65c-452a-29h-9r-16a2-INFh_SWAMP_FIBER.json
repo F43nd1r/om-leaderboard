@@ -1,0 +1,25 @@
+{
+    "puzzle": "SWAMP_FIBER",
+    "score": {
+        "cost": 475,
+        "instructions": 157,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 452,
+        "height": 29,
+        "width": null,
+        "boundingHex": null,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Swamp-Fiber-475g-65c-452a-157i-29h-24w-9r-21cb37.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2501727889/475g-157i-65c-452a-29h-9r-16a2-INFh",
+    "dataPath": "TOURNAMENT_2020/SWAMP_FIBER/475g-157i-65c-452a-29h-9r-16a2-INFh_SWAMP_FIBER.solution"
+}

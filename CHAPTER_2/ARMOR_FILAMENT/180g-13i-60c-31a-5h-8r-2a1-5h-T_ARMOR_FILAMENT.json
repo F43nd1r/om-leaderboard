@@ -1,0 +1,25 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 180,
+        "instructions": 13,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 60,
+        "area": 31,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": "5",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Armor-Filament-180g-60c-31a-13i-5h-8.5w-8r-T-787612.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P020/180g-13i-60c-31a-5h-8r-2a1-5h-T",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/180g-13i-60c-31a-5h-8r-2a1-5h-T_ARMOR_FILAMENT.solution"
+}

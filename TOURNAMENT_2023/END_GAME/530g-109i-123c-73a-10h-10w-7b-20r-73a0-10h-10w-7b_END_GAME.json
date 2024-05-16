@@ -1,0 +1,25 @@
+{
+    "puzzle": "END_GAME",
+    "score": {
+        "cost": 530,
+        "instructions": 109,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 123,
+        "area": 73,
+        "height": 10,
+        "width": 10.0,
+        "boundingHex": 7,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 73.0
+        },
+        "heightINF": "10",
+        "widthINF": 10.0,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://files.mors.technology/END_GAME/530g-123c-73a-109i-bec0acaf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946682691/530g-109i-123c-73a-10h-10w-7b-20r-73a0-10h-10w-7b",
+    "dataPath": "TOURNAMENT_2023/END_GAME/530g-109i-123c-73a-10h-10w-7b-20r-73a0-10h-10w-7b_END_GAME.solution"
+}

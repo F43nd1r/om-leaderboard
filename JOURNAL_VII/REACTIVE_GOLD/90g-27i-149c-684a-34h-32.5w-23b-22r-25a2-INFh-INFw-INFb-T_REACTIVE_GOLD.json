@@ -1,0 +1,25 @@
+{
+    "puzzle": "REACTIVE_GOLD",
+    "score": {
+        "cost": 90,
+        "instructions": 27,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 149,
+        "area": 684,
+        "height": 34,
+        "width": 32.5,
+        "boundingHex": 23,
+        "rate": 22.0,
+        "areaINF": {
+            "level": 2,
+            "value": 25.0
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/REACTIVE_GOLD/90g-149c-684a-27i-T-0de6991a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P095/90g-27i-149c-684a-34h-32.5w-23b-22r-25a2-INFh-INFw-INFb-T",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/90g-27i-149c-684a-34h-32.5w-23b-22r-25a2-INFh-INFw-INFb-T_REACTIVE_GOLD.solution"
+}

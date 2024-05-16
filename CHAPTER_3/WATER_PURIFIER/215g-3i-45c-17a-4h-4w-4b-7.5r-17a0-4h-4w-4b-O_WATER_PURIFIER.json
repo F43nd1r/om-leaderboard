@@ -1,0 +1,25 @@
+{
+    "puzzle": "WATER_PURIFIER",
+    "score": {
+        "cost": 215,
+        "instructions": 3,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 45,
+        "area": 17,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 4,
+        "rate": 7.5,
+        "areaINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.0,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/Water-Purifier-215g-45c-17a-3i-4h-4w-7.5r-O-9b6e06.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P025/215g-3i-45c-17a-4h-4w-4b-7.5r-17a0-4h-4w-4b-O",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/215g-3i-45c-17a-4h-4w-4b-7.5r-17a0-4h-4w-4b-O_WATER_PURIFIER.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 290,
+        "instructions": 120,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 51,
+        "area": 65,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 6,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": "10",
+        "widthINF": 9.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://files.mors.technology/Stain-Remover-290g-51c-65a-120i-10h-9.5w-8r-T-b3beb4.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P034/290g-120i-51c-65a-10h-9.5w-6b-8r-65a0-10h-9.5w-6b-T",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/290g-120i-51c-65a-10h-9.5w-6b-8r-65a0-10h-9.5w-6b-T_STAIN_REMOVER.solution"
+}

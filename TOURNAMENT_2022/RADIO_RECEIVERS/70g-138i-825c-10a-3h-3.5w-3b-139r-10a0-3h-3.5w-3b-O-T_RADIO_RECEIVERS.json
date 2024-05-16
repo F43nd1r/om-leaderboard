@@ -1,0 +1,25 @@
+{
+    "puzzle": "RADIO_RECEIVERS",
+    "score": {
+        "cost": 70,
+        "instructions": 138,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 825,
+        "area": 10,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 139.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Radio-Receivers-70g-825c-10a-138i-3h-3.5w-139r-T-O-835b67.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2788067896/70g-138i-825c-10a-3h-3.5w-3b-139r-10a0-3h-3.5w-3b-O-T",
+    "dataPath": "TOURNAMENT_2022/RADIO_RECEIVERS/70g-138i-825c-10a-3h-3.5w-3b-139r-10a0-3h-3.5w-3b-O-T_RADIO_RECEIVERS.solution"
+}

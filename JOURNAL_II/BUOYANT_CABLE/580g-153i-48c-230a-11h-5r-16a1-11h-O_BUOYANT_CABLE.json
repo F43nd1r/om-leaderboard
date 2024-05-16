@@ -1,0 +1,25 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 580,
+        "instructions": 153,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 48,
+        "area": 230,
+        "height": 11,
+        "width": null,
+        "boundingHex": null,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 1,
+            "value": 16.0
+        },
+        "heightINF": "11",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BUOYANT_CABLE/580g-48c-230a-153i-O-f45dcc18.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P062/580g-153i-48c-230a-11h-5r-16a1-11h-O",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/580g-153i-48c-230a-11h-5r-16a1-11h-O_BUOYANT_CABLE.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "END_GAME",
+    "score": {
+        "cost": 70,
+        "instructions": 272,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1590,
+        "area": 26,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 5,
+        "rate": 272.0,
+        "areaINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "heightINF": "5",
+        "widthINF": 5.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/END_GAME/70g-1590c-26a-272i-T-5ce397c8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946682691/70g-272i-1590c-26a-5h-5.5w-5b-272r-26a0-5h-5.5w-5b-T",
+    "dataPath": "TOURNAMENT_2023/END_GAME/70g-272i-1590c-26a-5h-5.5w-5b-272r-26a0-5h-5.5w-5b-T_END_GAME.solution"
+}

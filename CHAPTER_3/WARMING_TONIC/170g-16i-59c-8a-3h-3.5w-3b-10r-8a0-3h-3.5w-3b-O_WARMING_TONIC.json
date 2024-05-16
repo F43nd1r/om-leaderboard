@@ -1,0 +1,25 @@
+{
+    "puzzle": "WARMING_TONIC",
+    "score": {
+        "cost": 170,
+        "instructions": 16,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 59,
+        "area": 8,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/mSMKHZ7.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P028/170g-16i-59c-8a-3h-3.5w-3b-10r-8a0-3h-3.5w-3b-O",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/170g-16i-59c-8a-3h-3.5w-3b-10r-8a0-3h-3.5w-3b-O_WARMING_TONIC.solution"
+}

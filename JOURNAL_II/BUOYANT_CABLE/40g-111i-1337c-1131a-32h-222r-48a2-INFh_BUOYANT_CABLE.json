@@ -1,0 +1,25 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 40,
+        "instructions": 111,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1337,
+        "area": 1131,
+        "height": 32,
+        "width": null,
+        "boundingHex": null,
+        "rate": 222.0,
+        "areaINF": {
+            "level": 2,
+            "value": 48.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BUOYANT_CABLE/40g-1337c-1131a-111i-74e4a57d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P062/40g-111i-1337c-1131a-32h-222r-48a2-INFh",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/40g-111i-1337c-1131a-32h-222r-48a2-INFh_BUOYANT_CABLE.solution"
+}

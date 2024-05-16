@@ -1,0 +1,25 @@
+{
+    "puzzle": "SYNTHESIS_VIA_ALCOHOL",
+    "score": {
+        "cost": 990,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 87,
+        "area": 631,
+        "height": 33,
+        "width": 29.0,
+        "boundingHex": 23,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 631.0
+        },
+        "heightINF": "33",
+        "widthINF": 29.0,
+        "boundingHexINF": "23"
+    },
+    "displayLink": "https://i.imgur.com/PtDYFRg.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P071/990g-38i-87c-631a-33h-29w-23b-2r-631a0-33h-29w-23b",
+    "dataPath": "JOURNAL_IV/SYNTHESIS_VIA_ALCOHOL/990g-38i-87c-631a-33h-29w-23b-2r-631a0-33h-29w-23b_SYNTHESIS_VIA_ALCOHOL.solution"
+}

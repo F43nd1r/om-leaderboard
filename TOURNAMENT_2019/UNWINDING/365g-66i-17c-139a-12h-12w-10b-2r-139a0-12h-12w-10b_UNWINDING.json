@@ -1,0 +1,25 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 365,
+        "instructions": 66,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 17,
+        "area": 139,
+        "height": 12,
+        "width": 12.0,
+        "boundingHex": 10,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 139.0
+        },
+        "heightINF": "12",
+        "widthINF": 12.0,
+        "boundingHexINF": "10"
+    },
+    "displayLink": "https://files.mors.technology/Unwinding-365g-17c-139a-66i-12h-12w-2r-9e8576.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1611998067/365g-66i-17c-139a-12h-12w-10b-2r-139a0-12h-12w-10b",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/365g-66i-17c-139a-12h-12w-10b-2r-139a0-12h-12w-10b_UNWINDING.solution"
+}

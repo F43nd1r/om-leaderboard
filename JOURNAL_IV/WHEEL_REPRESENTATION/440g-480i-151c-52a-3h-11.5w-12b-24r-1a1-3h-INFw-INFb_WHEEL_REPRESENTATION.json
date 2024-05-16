@@ -1,0 +1,25 @@
+{
+    "puzzle": "WHEEL_REPRESENTATION",
+    "score": {
+        "cost": 440,
+        "instructions": 480,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 151,
+        "area": 52,
+        "height": 3,
+        "width": 11.5,
+        "boundingHex": 12,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": "3",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/EfO2e5Y.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P070/440g-480i-151c-52a-3h-11.5w-12b-24r-1a1-3h-INFw-INFb",
+    "dataPath": "JOURNAL_IV/WHEEL_REPRESENTATION/440g-480i-151c-52a-3h-11.5w-12b-24r-1a1-3h-INFw-INFb_WHEEL_REPRESENTATION.solution"
+}

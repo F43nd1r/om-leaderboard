@@ -1,0 +1,25 @@
+{
+    "puzzle": "GENERAL_ANAESTHETIC",
+    "score": {
+        "cost": 985,
+        "instructions": 418,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 106,
+        "area": 143,
+        "height": 4,
+        "width": 21.5,
+        "boundingHex": 24,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": "4",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/z2sugZY.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P086/985g-418i-106c-143a-4h-21.5w-24b-12r-2a1-4h-INFw-INFb",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/985g-418i-106c-143a-4h-21.5w-24b-12r-2a1-4h-INFw-INFb_GENERAL_ANAESTHETIC.solution"
+}

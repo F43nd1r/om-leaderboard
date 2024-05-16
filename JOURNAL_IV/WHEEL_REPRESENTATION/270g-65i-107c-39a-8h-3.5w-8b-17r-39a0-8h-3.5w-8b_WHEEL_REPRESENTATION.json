@@ -1,0 +1,25 @@
+{
+    "puzzle": "WHEEL_REPRESENTATION",
+    "score": {
+        "cost": 270,
+        "instructions": 65,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 107,
+        "area": 39,
+        "height": 8,
+        "width": 3.5,
+        "boundingHex": 8,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 39.0
+        },
+        "heightINF": "8",
+        "widthINF": 3.5,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://i.imgur.com/4QDC8uQ.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P070/270g-65i-107c-39a-8h-3.5w-8b-17r-39a0-8h-3.5w-8b",
+    "dataPath": "JOURNAL_IV/WHEEL_REPRESENTATION/270g-65i-107c-39a-8h-3.5w-8b-17r-39a0-8h-3.5w-8b_WHEEL_REPRESENTATION.solution"
+}

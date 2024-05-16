@@ -1,0 +1,25 @@
+{
+    "puzzle": "HANGOVER_CURE",
+    "score": {
+        "cost": 110,
+        "instructions": 15,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 39,
+        "area": 15,
+        "height": 4,
+        "width": 4.5,
+        "boundingHex": 3,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/QkYiMPa.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P013/110g-15i-39c-15a-4h-4.5w-3b-6r-15a0-4h-4.5w-3b-T",
+    "dataPath": "CHAPTER_1/HANGOVER_CURE/110g-15i-39c-15a-4h-4.5w-3b-6r-15a0-4h-4.5w-3b-T_HANGOVER_CURE.solution"
+}

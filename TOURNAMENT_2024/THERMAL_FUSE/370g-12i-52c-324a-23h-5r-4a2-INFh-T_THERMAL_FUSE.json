@@ -1,0 +1,25 @@
+{
+    "puzzle": "THERMAL_FUSE",
+    "score": {
+        "cost": 370,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 52,
+        "area": 324,
+        "height": 23,
+        "width": null,
+        "boundingHex": null,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/i2fts8K.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w3210188410/370g-12i-52c-324a-23h-5r-4a2-INFh-T",
+    "dataPath": "TOURNAMENT_2024/THERMAL_FUSE/370g-12i-52c-324a-23h-5r-4a2-INFh-T_THERMAL_FUSE.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "BIOSTEEL_FILAMENT",
+    "score": {
+        "cost": 450,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 56,
+        "area": 224,
+        "height": 14,
+        "width": null,
+        "boundingHex": null,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": "14",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BIOSTEEL_FILAMENT/450g-56c-224a-60i-T-862b9ed3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946684529/450g-60i-56c-224a-14h-6r-12a1-14h-T",
+    "dataPath": "TOURNAMENT_2023/BIOSTEEL_FILAMENT/450g-60i-56c-224a-14h-6r-12a1-14h-T_BIOSTEEL_FILAMENT.solution"
+}

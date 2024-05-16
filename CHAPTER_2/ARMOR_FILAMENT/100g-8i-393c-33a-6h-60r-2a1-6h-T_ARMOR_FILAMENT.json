@@ -1,0 +1,25 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 100,
+        "instructions": 8,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 393,
+        "area": 33,
+        "height": 6,
+        "width": null,
+        "boundingHex": null,
+        "rate": 60.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": "6",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Armor-Filament-100g-393c-33a-8i-6h-11w-60r-T-39063c.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P020/100g-8i-393c-33a-6h-60r-2a1-6h-T",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/100g-8i-393c-33a-6h-60r-2a1-6h-T_ARMOR_FILAMENT.solution"
+}

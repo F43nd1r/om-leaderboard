@@ -1,0 +1,25 @@
+{
+    "puzzle": "HAIR_PRODUCT",
+    "score": {
+        "cost": 30,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 182,
+        "area": 11,
+        "height": 4,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 31.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": "4",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Hair-Product-30g-182c-11a-31i-4h-3.5w-31r-T-cb6b16.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P016/30g-31i-182c-11a-4h-3.5w-3b-31r-11a0-4h-3.5w-3b-T",
+    "dataPath": "CHAPTER_2/HAIR_PRODUCT/30g-31i-182c-11a-4h-3.5w-3b-31r-11a0-4h-3.5w-3b-T_HAIR_PRODUCT.solution"
+}

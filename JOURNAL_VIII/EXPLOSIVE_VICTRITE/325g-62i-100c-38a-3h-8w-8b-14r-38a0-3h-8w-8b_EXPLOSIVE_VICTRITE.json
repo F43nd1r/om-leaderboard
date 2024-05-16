@@ -1,0 +1,25 @@
+{
+    "puzzle": "EXPLOSIVE_VICTRITE",
+    "score": {
+        "cost": 325,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 100,
+        "area": 38,
+        "height": 3,
+        "width": 8.0,
+        "boundingHex": 8,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": "3",
+        "widthINF": 8.0,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://i.imgur.com/f9GXdcK.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P100/325g-62i-100c-38a-3h-8w-8b-14r-38a0-3h-8w-8b",
+    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/325g-62i-100c-38a-3h-8w-8b-14r-38a0-3h-8w-8b_EXPLOSIVE_VICTRITE.solution"
+}

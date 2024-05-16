@@ -1,0 +1,25 @@
+{
+    "puzzle": "PURIFIED_GOLD",
+    "score": {
+        "cost": 300,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 165,
+        "area": 42,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 42.0
+        },
+        "heightINF": "7",
+        "widthINF": 7.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://i.imgur.com/Ho5Aom8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P036/300g-30i-165c-42a-7h-7.5w-6b-24r-42a0-7h-7.5w-6b-T",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/300g-30i-165c-42a-7h-7.5w-6b-24r-42a0-7h-7.5w-6b-T_PURIFIED_GOLD.solution"
+}

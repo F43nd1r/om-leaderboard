@@ -1,0 +1,25 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 330,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 54,
+        "area": 38,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": "7",
+        "widthINF": 7.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://i.imgur.com/LokElk8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P034/330g-69i-54c-38a-7h-7.5w-6b-8r-38a0-7h-7.5w-6b-T",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/330g-69i-54c-38a-7h-7.5w-6b-8r-38a0-7h-7.5w-6b-T_STAIN_REMOVER.solution"
+}

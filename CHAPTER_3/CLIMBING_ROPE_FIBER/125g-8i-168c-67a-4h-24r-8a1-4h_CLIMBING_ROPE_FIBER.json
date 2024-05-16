@@ -1,0 +1,25 @@
+{
+    "puzzle": "CLIMBING_ROPE_FIBER",
+    "score": {
+        "cost": 125,
+        "instructions": 8,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 168,
+        "area": 67,
+        "height": 4,
+        "width": null,
+        "boundingHex": null,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": "4",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/CLIMBING_ROPE_FIBER/125g-168c-67a-8i-7c772dda.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P027/125g-8i-168c-67a-4h-24r-8a1-4h",
+    "dataPath": "CHAPTER_3/CLIMBING_ROPE_FIBER/125g-8i-168c-67a-4h-24r-8a1-4h_CLIMBING_ROPE_FIBER.solution"
+}

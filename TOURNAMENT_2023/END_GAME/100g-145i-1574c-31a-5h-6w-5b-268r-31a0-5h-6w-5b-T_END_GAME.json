@@ -1,0 +1,25 @@
+{
+    "puzzle": "END_GAME",
+    "score": {
+        "cost": 100,
+        "instructions": 145,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1574,
+        "area": 31,
+        "height": 5,
+        "width": 6.0,
+        "boundingHex": 5,
+        "rate": 268.0,
+        "areaINF": {
+            "level": 0,
+            "value": 31.0
+        },
+        "heightINF": "5",
+        "widthINF": 6.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://i.imgur.com/7EYP7xt.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946682691/100g-145i-1574c-31a-5h-6w-5b-268r-31a0-5h-6w-5b-T",
+    "dataPath": "TOURNAMENT_2023/END_GAME/100g-145i-1574c-31a-5h-6w-5b-268r-31a0-5h-6w-5b-T_END_GAME.solution"
+}

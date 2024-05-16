@@ -1,0 +1,25 @@
+{
+    "puzzle": "POTENT_POTABLES",
+    "score": {
+        "cost": 200,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 64,
+        "area": 52,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 52.0
+        },
+        "heightINF": "8",
+        "widthINF": 7.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://files.mors.technology/Potent-Potables-200g-64c-52a-38i-8h-7.5w-10r-210eeb.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2501727721/200g-38i-64c-52a-8h-7.5w-6b-10r-52a0-8h-7.5w-6b",
+    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/200g-38i-64c-52a-8h-7.5w-6b-10r-52a0-8h-7.5w-6b_POTENT_POTABLES.solution"
+}

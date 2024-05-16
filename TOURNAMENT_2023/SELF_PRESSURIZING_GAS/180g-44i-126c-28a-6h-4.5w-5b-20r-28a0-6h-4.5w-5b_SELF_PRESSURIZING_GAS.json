@@ -1,0 +1,25 @@
+{
+    "puzzle": "SELF_PRESSURIZING_GAS",
+    "score": {
+        "cost": 180,
+        "instructions": 44,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 126,
+        "area": 28,
+        "height": 6,
+        "width": 4.5,
+        "boundingHex": 5,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 28.0
+        },
+        "heightINF": "6",
+        "widthINF": 4.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/SELF_PRESSURIZING_GAS/180g-126c-28a-44i-ef7f37d9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946682999/180g-44i-126c-28a-6h-4.5w-5b-20r-28a0-6h-4.5w-5b",
+    "dataPath": "TOURNAMENT_2023/SELF_PRESSURIZING_GAS/180g-44i-126c-28a-6h-4.5w-5b-20r-28a0-6h-4.5w-5b_SELF_PRESSURIZING_GAS.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "LIFE_SENSING_POTION",
+    "score": {
+        "cost": 130,
+        "instructions": 66,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 214,
+        "area": 28,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 4,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 28.0
+        },
+        "heightINF": "6",
+        "widthINF": 5.5,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://imgur.com/vF4FPSB.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P030b/130g-66i-214c-28a-6h-5.5w-4b-36r-28a0-6h-5.5w-4b-T",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/130g-66i-214c-28a-6h-5.5w-4b-36r-28a0-6h-5.5w-4b-T_LIFE_SENSING_POTION.solution"
+}

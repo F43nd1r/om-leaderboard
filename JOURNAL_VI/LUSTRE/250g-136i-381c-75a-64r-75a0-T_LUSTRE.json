@@ -9,16 +9,17 @@
         "area": 75,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 64.0,
         "areaINF": {
             "level": 0,
             "value": 75.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/LUSTRE/250g-381c-75a-136i-T-10d16f6a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/9cc8f98f/P090/250g-136i-381c-75a-64r-75a0-T",
-    "dataPath": "JOURNAL_VI/LUSTRE/250g-136i-381c-75a-64r-75a0-T_LUSTRE.solution",
-    "lastModified": "2024-04-06T16:24:15.263904611Z"
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P090/250g-136i-381c-75a-64r-75a0-T",
+    "dataPath": "JOURNAL_VI/LUSTRE/250g-136i-381c-75a-64r-75a0-T_LUSTRE.solution"
 }

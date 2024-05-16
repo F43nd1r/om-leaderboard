@@ -1,0 +1,25 @@
+{
+    "puzzle": "EXPLOSIVE_PHIAL",
+    "score": {
+        "cost": 130,
+        "instructions": 8,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 18,
+        "area": 6,
+        "height": 2,
+        "width": 3.0,
+        "boundingHex": 3,
+        "rate": 3.0,
+        "areaINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "heightINF": "2",
+        "widthINF": 3.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/CtTi7Kr.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P017/130g-8i-18c-6a-2h-3w-3b-3r-6a0-2h-3w-3b-O",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/130g-8i-18c-6a-2h-3w-3b-3r-6a0-2h-3w-3b-O_EXPLOSIVE_PHIAL.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "COURAGE_POTION",
+    "score": {
+        "cost": 120,
+        "instructions": 2,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 48,
+        "area": 11,
+        "height": 4,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": "4",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/lvpGWiY.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P021/120g-2i-48c-11a-4h-3.5w-3b-8r-11a0-4h-3.5w-3b-O",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/120g-2i-48c-11a-4h-3.5w-3b-8r-11a0-4h-3.5w-3b-O_COURAGE_POTION.solution"
+}

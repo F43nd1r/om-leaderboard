@@ -1,0 +1,25 @@
+{
+    "puzzle": "VAPOROUS_SOLVENT",
+    "score": {
+        "cost": 300,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 296,
+        "area": 151,
+        "height": 16,
+        "width": 13.0,
+        "boundingHex": 10,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 151.0
+        },
+        "heightINF": "16",
+        "widthINF": 13.0,
+        "boundingHexINF": "10"
+    },
+    "displayLink": "https://i.imgur.com/yef1dl8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P098/300g-22i-296c-151a-16h-13w-10b-42r-151a0-16h-13w-10b-T",
+    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/300g-22i-296c-151a-16h-13w-10b-42r-151a0-16h-13w-10b-T_VAPOROUS_SOLVENT.solution"
+}

@@ -1,0 +1,25 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 415,
+        "instructions": 76,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 75,
+        "area": 116,
+        "height": 9,
+        "width": null,
+        "boundingHex": null,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": "9",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Buoyant-Cable-415g-75c-116a-76i-9h-18.5w-10r-1e709a.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P062/415g-76i-75c-116a-9h-10r-12a1-9h",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/415g-76i-75c-116a-9h-10r-12a1-9h_BUOYANT_CABLE.solution"
+}

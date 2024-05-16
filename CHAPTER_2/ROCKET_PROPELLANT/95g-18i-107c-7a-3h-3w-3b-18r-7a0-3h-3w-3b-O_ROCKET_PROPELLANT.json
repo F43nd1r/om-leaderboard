@@ -1,0 +1,25 @@
+{
+    "puzzle": "ROCKET_PROPELLANT",
+    "score": {
+        "cost": 95,
+        "instructions": 18,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 107,
+        "area": 7,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 3,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Rocket-Propellant-95g-107c-7a-18i-3h-3w-18r-O-b5e38c.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P019/95g-18i-107c-7a-3h-3w-3b-18r-7a0-3h-3w-3b-O",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/95g-18i-107c-7a-3h-3w-3b-18r-7a0-3h-3w-3b-O_ROCKET_PROPELLANT.solution"
+}

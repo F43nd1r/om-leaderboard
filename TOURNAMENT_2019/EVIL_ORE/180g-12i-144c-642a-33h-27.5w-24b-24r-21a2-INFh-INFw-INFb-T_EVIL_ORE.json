@@ -1,0 +1,25 @@
+{
+    "puzzle": "EVIL_ORE",
+    "score": {
+        "cost": 180,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 144,
+        "area": 642,
+        "height": 33,
+        "width": 27.5,
+        "boundingHex": 24,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 2,
+            "value": 21.0
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/BVuqLCG.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1698788220/180g-12i-144c-642a-33h-27.5w-24b-24r-21a2-INFh-INFw-INFb-T",
+    "dataPath": "TOURNAMENT_2019/EVIL_ORE/180g-12i-144c-642a-33h-27.5w-24b-24r-21a2-INFh-INFw-INFb-T_EVIL_ORE.solution"
+}

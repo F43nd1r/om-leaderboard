@@ -9,15 +9,17 @@
         "area": 101,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 9.6,
         "areaINF": {
             "level": 0,
             "value": 101.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/Aether-Reactor-570g-130c-101a-382i-9h-12w-9.6r-0253d4.gif",
-    "dataLink": "https://zlbb.faendir.com/l/om/bd462078/w2788067624/570g-382i-130c-101a-9.6r-101a0",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2788067624/570g-382i-130c-101a-9.6r-101a0",
     "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/570g-382i-130c-101a-9.6r-101a0_AETHER_REACTOR.solution"
 }

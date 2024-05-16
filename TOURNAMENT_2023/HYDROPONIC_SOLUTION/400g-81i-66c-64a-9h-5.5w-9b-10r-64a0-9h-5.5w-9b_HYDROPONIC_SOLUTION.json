@@ -1,0 +1,25 @@
+{
+    "puzzle": "HYDROPONIC_SOLUTION",
+    "score": {
+        "cost": 400,
+        "instructions": 81,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 66,
+        "area": 64,
+        "height": 9,
+        "width": 5.5,
+        "boundingHex": 9,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": "9",
+        "widthINF": 5.5,
+        "boundingHexINF": "9"
+    },
+    "displayLink": "https://files.mors.technology/HYDROPONIC_SOLUTION/400g-66c-64a-81i-950da184.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946683261/400g-81i-66c-64a-9h-5.5w-9b-10r-64a0-9h-5.5w-9b",
+    "dataPath": "TOURNAMENT_2023/HYDROPONIC_SOLUTION/400g-81i-66c-64a-9h-5.5w-9b-10r-64a0-9h-5.5w-9b_HYDROPONIC_SOLUTION.solution"
+}

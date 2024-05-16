@@ -1,0 +1,25 @@
+{
+    "puzzle": "PROOF_OF_COMPLETENESS",
+    "score": {
+        "cost": 100,
+        "instructions": 74,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 255,
+        "area": 22,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 4,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "heightINF": "5",
+        "widthINF": 5.5,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://i.imgur.com/iAggz1w.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P069/100g-74i-255c-22a-5h-5.5w-4b-42r-22a0-5h-5.5w-4b-T",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/100g-74i-255c-22a-5h-5.5w-4b-42r-22a0-5h-5.5w-4b-T_PROOF_OF_COMPLETENESS.solution"
+}

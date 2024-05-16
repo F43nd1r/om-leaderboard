@@ -1,0 +1,25 @@
+{
+    "puzzle": "ELECTRUM_SEPARATION",
+    "score": {
+        "cost": 1950,
+        "instructions": 230,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 52,
+        "area": 1673,
+        "height": 47,
+        "width": null,
+        "boundingHex": null,
+        "rate": 1.0,
+        "areaINF": {
+            "level": 2,
+            "value": 2.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ELECTRUM_SEPARATION/1950g-52c-1673a-230i-0aa9487c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P103/1950g-230i-52c-1673a-47h-1r-2a2-INFh",
+    "dataPath": "JOURNAL_VIII/ELECTRUM_SEPARATION/1950g-230i-52c-1673a-47h-1r-2a2-INFh_ELECTRUM_SEPARATION.solution"
+}

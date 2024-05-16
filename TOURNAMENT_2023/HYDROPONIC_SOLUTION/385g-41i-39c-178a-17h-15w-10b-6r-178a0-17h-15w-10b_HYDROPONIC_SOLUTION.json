@@ -1,0 +1,25 @@
+{
+    "puzzle": "HYDROPONIC_SOLUTION",
+    "score": {
+        "cost": 385,
+        "instructions": 41,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 39,
+        "area": 178,
+        "height": 17,
+        "width": 15.0,
+        "boundingHex": 10,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 178.0
+        },
+        "heightINF": "17",
+        "widthINF": 15.0,
+        "boundingHexINF": "10"
+    },
+    "displayLink": "https://i.imgur.com/Sa18Kxj.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946683261/385g-41i-39c-178a-17h-15w-10b-6r-178a0-17h-15w-10b",
+    "dataPath": "TOURNAMENT_2023/HYDROPONIC_SOLUTION/385g-41i-39c-178a-17h-15w-10b-6r-178a0-17h-15w-10b_HYDROPONIC_SOLUTION.solution"
+}

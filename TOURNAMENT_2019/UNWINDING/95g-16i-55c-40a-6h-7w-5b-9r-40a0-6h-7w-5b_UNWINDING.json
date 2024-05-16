@@ -1,0 +1,25 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 95,
+        "instructions": 16,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 55,
+        "area": 40,
+        "height": 6,
+        "width": 7.0,
+        "boundingHex": 5,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 40.0
+        },
+        "heightINF": "6",
+        "widthINF": 7.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Unwinding-95g-55c-40a-16i-6h-7w-9r-fa7663.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1611998067/95g-16i-55c-40a-6h-7w-5b-9r-40a0-6h-7w-5b",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/95g-16i-55c-40a-6h-7w-5b-9r-40a0-6h-7w-5b_UNWINDING.solution"
+}

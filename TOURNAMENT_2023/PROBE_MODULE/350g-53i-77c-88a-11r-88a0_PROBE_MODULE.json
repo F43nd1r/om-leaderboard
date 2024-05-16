@@ -9,16 +9,17 @@
         "area": 88,
         "height": null,
         "width": null,
+        "boundingHex": null,
         "rate": 11.0,
         "areaINF": {
             "level": 0,
             "value": 88.0
         },
         "heightINF": null,
-        "widthINF": null
+        "widthINF": null,
+        "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/PROBE_MODULE/350g-77c-88a-53i-485b6ee9.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f5a6be8f/w2946684660/350g-53i-77c-88a-11r-88a0",
-    "dataPath": "TOURNAMENT_2023/PROBE_MODULE/350g-53i-77c-88a-11r-88a0_PROBE_MODULE.solution",
-    "lastModified": "2024-02-12T18:02:47.431110410Z"
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2946684660/350g-53i-77c-88a-11r-88a0",
+    "dataPath": "TOURNAMENT_2023/PROBE_MODULE/350g-53i-77c-88a-11r-88a0_PROBE_MODULE.solution"
 }

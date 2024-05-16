@@ -1,0 +1,25 @@
+{
+    "puzzle": "SEAL_SOLVENT",
+    "score": {
+        "cost": 200,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 149,
+        "area": 30,
+        "height": 3,
+        "width": 7.0,
+        "boundingHex": 7,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "heightINF": "3",
+        "widthINF": 7.0,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://files.mors.technology/SEAL_SOLVENT/200g-149c-30a-22i-5b993b35.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P026/200g-22i-149c-30a-3h-7w-7b-24r-30a0-3h-7w-7b",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/200g-22i-149c-30a-3h-7w-7b-24r-30a0-3h-7w-7b_SEAL_SOLVENT.solution"
+}

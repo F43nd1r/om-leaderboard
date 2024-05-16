@@ -1,0 +1,25 @@
+{
+    "puzzle": "PRECISION_MACHINE_OIL",
+    "score": {
+        "cost": 260,
+        "instructions": 87,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 29,
+        "area": 39,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 6,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 40.0
+        },
+        "heightINF": "8",
+        "widthINF": 7.0,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://i.imgur.com/XmClCMh.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P012/260g-87i-29c-39a-8h-7w-6b-2r-40a0-8h-7w-6b-O",
+    "dataPath": "CHAPTER_1/PRECISION_MACHINE_OIL/260g-87i-29c-39a-8h-7w-6b-2r-40a0-8h-7w-6b-O_PRECISION_MACHINE_OIL.solution"
+}

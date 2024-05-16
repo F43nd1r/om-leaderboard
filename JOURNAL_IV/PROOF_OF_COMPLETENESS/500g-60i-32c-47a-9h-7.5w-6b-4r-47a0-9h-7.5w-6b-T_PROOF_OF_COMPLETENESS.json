@@ -1,0 +1,25 @@
+{
+    "puzzle": "PROOF_OF_COMPLETENESS",
+    "score": {
+        "cost": 500,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 32,
+        "area": 47,
+        "height": 9,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 47.0
+        },
+        "heightINF": "9",
+        "widthINF": 7.5,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://files.mors.technology/Proof-of-Completeness-500g-32c-47a-60i-9h-7.5w-4r-T-735a5f.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P069/500g-60i-32c-47a-9h-7.5w-6b-4r-47a0-9h-7.5w-6b-T",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/500g-60i-32c-47a-9h-7.5w-6b-4r-47a0-9h-7.5w-6b-T_PROOF_OF_COMPLETENESS.solution"
+}

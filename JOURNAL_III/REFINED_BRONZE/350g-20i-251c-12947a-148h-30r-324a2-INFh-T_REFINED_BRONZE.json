@@ -1,0 +1,25 @@
+{
+    "puzzle": "REFINED_BRONZE",
+    "score": {
+        "cost": 350,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 251,
+        "area": 12947,
+        "height": 148,
+        "width": null,
+        "boundingHex": null,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 2,
+            "value": 324.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Refined-Bronze-350g-251c-12947a-20i-148h-144.5w-30r-T-eb11c8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P067/350g-20i-251c-12947a-148h-30r-324a2-INFh-T",
+    "dataPath": "JOURNAL_III/REFINED_BRONZE/350g-20i-251c-12947a-148h-30r-324a2-INFh-T_REFINED_BRONZE.solution"
+}

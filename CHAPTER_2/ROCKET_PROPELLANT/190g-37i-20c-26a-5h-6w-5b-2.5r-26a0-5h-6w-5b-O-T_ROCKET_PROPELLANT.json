@@ -1,0 +1,25 @@
+{
+    "puzzle": "ROCKET_PROPELLANT",
+    "score": {
+        "cost": 190,
+        "instructions": 37,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 20,
+        "area": 26,
+        "height": 5,
+        "width": 6.0,
+        "boundingHex": 5,
+        "rate": 2.5,
+        "areaINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "heightINF": "5",
+        "widthINF": 6.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://i.imgur.com/iMnwbee.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P019/190g-37i-20c-26a-5h-6w-5b-2.5r-26a0-5h-6w-5b-O-T",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/190g-37i-20c-26a-5h-6w-5b-2.5r-26a0-5h-6w-5b-O-T_ROCKET_PROPELLANT.solution"
+}

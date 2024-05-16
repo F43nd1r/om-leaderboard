@@ -1,0 +1,25 @@
+{
+    "puzzle": "SEAL_SOLVENT",
+    "score": {
+        "cost": 220,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 52,
+        "area": 22,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 4,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "heightINF": "6",
+        "widthINF": 5.0,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://i.imgur.com/PHaRMnP.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P026/220g-32i-52c-22a-6h-5w-4b-8r-22a0-6h-5w-4b-T",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/220g-32i-52c-22a-6h-5w-4b-8r-22a0-6h-5w-4b-T_SEAL_SOLVENT.solution"
+}

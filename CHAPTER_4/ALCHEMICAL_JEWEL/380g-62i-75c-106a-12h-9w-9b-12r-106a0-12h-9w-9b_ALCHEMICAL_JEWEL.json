@@ -1,0 +1,25 @@
+{
+    "puzzle": "ALCHEMICAL_JEWEL",
+    "score": {
+        "cost": 380,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 75,
+        "area": 106,
+        "height": 12,
+        "width": 9.0,
+        "boundingHex": 9,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 106.0
+        },
+        "heightINF": "12",
+        "widthINF": 9.0,
+        "boundingHexINF": "9"
+    },
+    "displayLink": "https://files.mors.technology/Alchemical-Jewel-380g-75c-106a-62i-12h-9w-12r-ba3373.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P035/380g-62i-75c-106a-12h-9w-9b-12r-106a0-12h-9w-9b",
+    "dataPath": "CHAPTER_4/ALCHEMICAL_JEWEL/380g-62i-75c-106a-12h-9w-9b-12r-106a0-12h-9w-9b_ALCHEMICAL_JEWEL.solution"
+}

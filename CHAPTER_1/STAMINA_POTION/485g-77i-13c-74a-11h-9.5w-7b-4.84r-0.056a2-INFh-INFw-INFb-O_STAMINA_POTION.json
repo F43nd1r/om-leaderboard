@@ -1,0 +1,25 @@
+{
+    "puzzle": "STAMINA_POTION",
+    "score": {
+        "cost": 485,
+        "instructions": 77,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 13,
+        "area": 74,
+        "height": 11,
+        "width": 9.5,
+        "boundingHex": 7,
+        "rate": 4.84,
+        "areaINF": {
+            "level": 2,
+            "value": 0.05555555555555555
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/STAMINA_POTION/485g-13c-74a-77i-O-45c65626.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P015/485g-77i-13c-74a-11h-9.5w-7b-4.84r-0.056a2-INFh-INFw-INFb-O",
+    "dataPath": "CHAPTER_1/STAMINA_POTION/485g-77i-13c-74a-11h-9.5w-7b-4.84r-0.056a2-INFh-INFw-INFb-O_STAMINA_POTION.solution"
+}

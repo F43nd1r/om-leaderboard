@@ -1,0 +1,25 @@
+{
+    "puzzle": "WATERPROOF_SEALANT",
+    "score": {
+        "cost": 100,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 26,
+        "area": 16,
+        "height": 4,
+        "width": 4.5,
+        "boundingHex": 3,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/Waterproof-Sealant-100g-26c-16a-12i-4h-4.5w-4r-T-31af5c.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P011/100g-12i-26c-16a-4h-4.5w-3b-4r-16a0-4h-4.5w-3b-T",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/100g-12i-26c-16a-4h-4.5w-3b-4r-16a0-4h-4.5w-3b-T_WATERPROOF_SEALANT.solution"
+}

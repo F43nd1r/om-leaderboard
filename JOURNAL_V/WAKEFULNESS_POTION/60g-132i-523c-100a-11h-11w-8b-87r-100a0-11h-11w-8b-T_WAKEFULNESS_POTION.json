@@ -1,0 +1,25 @@
+{
+    "puzzle": "WAKEFULNESS_POTION",
+    "score": {
+        "cost": 60,
+        "instructions": 132,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 523,
+        "area": 100,
+        "height": 11,
+        "width": 11.0,
+        "boundingHex": 8,
+        "rate": 87.0,
+        "areaINF": {
+            "level": 0,
+            "value": 100.0
+        },
+        "heightINF": "11",
+        "widthINF": 11.0,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/Wakefulness-Potion-60g-523c-100a-132i-11h-11w-87r-T-0985b6.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P088/60g-132i-523c-100a-11h-11w-8b-87r-100a0-11h-11w-8b-T",
+    "dataPath": "JOURNAL_V/WAKEFULNESS_POTION/60g-132i-523c-100a-11h-11w-8b-87r-100a0-11h-11w-8b-T_WAKEFULNESS_POTION.solution"
+}

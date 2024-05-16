@@ -1,0 +1,25 @@
+{
+    "puzzle": "CONNECT_THE_DOTS",
+    "score": {
+        "cost": 185,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 27,
+        "area": 27,
+        "height": 3,
+        "width": 6.5,
+        "boundingHex": 7,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": "3",
+        "widthINF": 6.5,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://i.imgur.com/l8HQZRV.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w3101135731/185g-38i-27c-27a-3h-6.5w-7b-4r-27a0-3h-6.5w-7b",
+    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/185g-38i-27c-27a-3h-6.5w-7b-4r-27a0-3h-6.5w-7b_CONNECT_THE_DOTS.solution"
+}

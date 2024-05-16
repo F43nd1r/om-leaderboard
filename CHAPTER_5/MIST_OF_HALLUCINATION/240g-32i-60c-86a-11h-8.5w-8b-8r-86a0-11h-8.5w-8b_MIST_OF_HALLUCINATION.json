@@ -1,0 +1,25 @@
+{
+    "puzzle": "MIST_OF_HALLUCINATION",
+    "score": {
+        "cost": 240,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 60,
+        "area": 86,
+        "height": 11,
+        "width": 8.5,
+        "boundingHex": 8,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 86.0
+        },
+        "heightINF": "11",
+        "widthINF": 8.5,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/Mist-of-Hallucination-240g-60c-86a-32i-11h-8.5w-8r-b598aa.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P038/240g-32i-60c-86a-11h-8.5w-8b-8r-86a0-11h-8.5w-8b",
+    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/240g-32i-60c-86a-11h-8.5w-8b-8r-86a0-11h-8.5w-8b_MIST_OF_HALLUCINATION.solution"
+}

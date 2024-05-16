@@ -1,0 +1,25 @@
+{
+    "puzzle": "IGNITION_CORD",
+    "score": {
+        "cost": 60,
+        "instructions": 134,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 69,
+        "area": 497,
+        "height": 22,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.34,
+        "areaINF": {
+            "level": 2,
+            "value": 27.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/IGNITION_CORD/60g-69c-497a-134i-T-cafaa0e8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w2839120106/60g-134i-69c-497a-22h-12.34r-27a2-INFh-T",
+    "dataPath": "WEEKLIES_1/IGNITION_CORD/60g-134i-69c-497a-22h-12.34r-27a2-INFh-T_IGNITION_CORD.solution"
+}

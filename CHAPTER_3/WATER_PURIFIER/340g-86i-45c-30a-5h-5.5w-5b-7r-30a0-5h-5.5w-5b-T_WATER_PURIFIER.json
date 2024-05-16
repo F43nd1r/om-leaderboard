@@ -1,0 +1,25 @@
+{
+    "puzzle": "WATER_PURIFIER",
+    "score": {
+        "cost": 340,
+        "instructions": 86,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 45,
+        "area": 30,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 5,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "heightINF": "5",
+        "widthINF": 5.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/Water-Purifier-340g-45c-30a-86i-5h-5.5w-7r-T-505bcd.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P025/340g-86i-45c-30a-5h-5.5w-5b-7r-30a0-5h-5.5w-5b-T",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/340g-86i-45c-30a-5h-5.5w-5b-7r-30a0-5h-5.5w-5b-T_WATER_PURIFIER.solution"
+}

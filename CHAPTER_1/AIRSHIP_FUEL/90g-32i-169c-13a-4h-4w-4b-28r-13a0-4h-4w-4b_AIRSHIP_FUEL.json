@@ -1,0 +1,25 @@
+{
+    "puzzle": "AIRSHIP_FUEL",
+    "score": {
+        "cost": 90,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 169,
+        "area": 13,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 4,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.0,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/AIRSHIP_FUEL/90g-169c-13a-32i-c2c99918.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P008/90g-32i-169c-13a-4h-4w-4b-28r-13a0-4h-4w-4b",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/90g-32i-169c-13a-4h-4w-4b-28r-13a0-4h-4w-4b_AIRSHIP_FUEL.solution"
+}

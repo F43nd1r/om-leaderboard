@@ -1,0 +1,25 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 560,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 86,
+        "area": 261,
+        "height": 16,
+        "width": 16.5,
+        "boundingHex": 14,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 261.0
+        },
+        "heightINF": "16",
+        "widthINF": 16.5,
+        "boundingHexINF": "14"
+    },
+    "displayLink": "https://i.imgur.com/Q98tpkC.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/w1611998067/560g-22i-86c-261a-16h-16.5w-14b-2r-261a0-16h-16.5w-14b",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/560g-22i-86c-261a-16h-16.5w-14b-2r-261a0-16h-16.5w-14b_UNWINDING.solution"
+}

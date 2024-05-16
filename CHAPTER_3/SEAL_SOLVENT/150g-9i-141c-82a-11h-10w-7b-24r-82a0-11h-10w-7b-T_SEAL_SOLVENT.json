@@ -1,0 +1,25 @@
+{
+    "puzzle": "SEAL_SOLVENT",
+    "score": {
+        "cost": 150,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 141,
+        "area": 82,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 7,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": "11",
+        "widthINF": 10.0,
+        "boundingHexINF": "7"
+    },
+    "displayLink": "https://files.mors.technology/Seal-Solvent-150g-141c-82a-9i-11h-10w-24r-T-8fc808.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b2a5807b/P026/150g-9i-141c-82a-11h-10w-7b-24r-82a0-11h-10w-7b-T",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/150g-9i-141c-82a-11h-10w-7b-24r-82a0-11h-10w-7b-T_SEAL_SOLVENT.solution"
+}
