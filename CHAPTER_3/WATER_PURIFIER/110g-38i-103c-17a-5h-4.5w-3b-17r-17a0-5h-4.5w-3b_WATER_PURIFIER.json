@@ -1,0 +1,26 @@
+{
+    "puzzle": "WATER_PURIFIER",
+    "score": {
+        "cost": 110,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 103,
+        "area": 17,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 3,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "heightINF": "5",
+        "widthINF": 4.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/WATER_PURIFIER/110g-103c-17a-38i-39a16cfe.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d9259f28/P025/110g-38i-103c-17a-5h-4.5w-3b-17r-17a0-5h-4.5w-3b",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/110g-38i-103c-17a-5h-4.5w-3b-17r-17a0-5h-4.5w-3b_WATER_PURIFIER.solution",
+    "lastModified": "2024-05-18T07:15:19.845001308Z"
+}
