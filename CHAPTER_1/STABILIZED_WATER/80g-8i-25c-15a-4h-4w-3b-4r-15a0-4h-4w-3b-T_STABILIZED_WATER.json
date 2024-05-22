@@ -1,0 +1,26 @@
+{
+    "puzzle": "STABILIZED_WATER",
+    "score": {
+        "cost": 80,
+        "instructions": 8,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 25,
+        "area": 15,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 3,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/STABILIZED_WATER/80g-25c-15a-8i-T-5ca82a48.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f0e95056/P007/80g-8i-25c-15a-4h-4w-3b-4r-15a0-4h-4w-3b-T",
+    "dataPath": "CHAPTER_1/STABILIZED_WATER/80g-8i-25c-15a-4h-4w-3b-4r-15a0-4h-4w-3b-T_STABILIZED_WATER.solution",
+    "lastModified": "2024-05-22T14:00:44.872649576Z"
+}
