@@ -1,0 +1,26 @@
+{
+    "puzzle": "GOLDEN_THREAD",
+    "score": {
+        "cost": 255,
+        "instructions": 84,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 36,
+        "area": 80,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": "7",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/SWoJ6DK.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/481106f2/P037/255g-84i-36c-80a-7h-4r-6a1-7h-O",
+    "dataPath": "CHAPTER_4/GOLDEN_THREAD/255g-84i-36c-80a-7h-4r-6a1-7h-O_GOLDEN_THREAD.solution",
+    "lastModified": "2024-07-05T18:31:06.015661168Z"
+}
