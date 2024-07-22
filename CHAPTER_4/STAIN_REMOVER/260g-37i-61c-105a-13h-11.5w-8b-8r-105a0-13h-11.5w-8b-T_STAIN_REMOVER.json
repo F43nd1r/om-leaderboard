@@ -1,0 +1,26 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 260,
+        "instructions": 37,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 61,
+        "area": 105,
+        "height": 13,
+        "width": 11.5,
+        "boundingHex": 8,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 105.0
+        },
+        "heightINF": "13",
+        "widthINF": 11.5,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/STAIN_REMOVER/260g-61c-105a-37i-T-191a03e3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/69354ac2/P034/260g-37i-61c-105a-13h-11.5w-8b-8r-105a0-13h-11.5w-8b-T",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/260g-37i-61c-105a-13h-11.5w-8b-8r-105a0-13h-11.5w-8b-T_STAIN_REMOVER.solution",
+    "lastModified": "2024-07-22T14:05:02.945358959Z"
+}
