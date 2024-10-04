@@ -1,0 +1,26 @@
+{
+    "puzzle": "RAT_POISON",
+    "score": {
+        "cost": 205,
+        "instructions": 60,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 33,
+        "area": 70,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 5.67,
+        "areaINF": {
+            "level": 0,
+            "value": 70.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/GliGxeh.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/39a82eea/P074/205g-60i-33c-70a-5.67r-70a0-O",
+    "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/205g-60i-33c-70a-5.67r-70a0-O_RAT_POISON.solution",
+    "lastModified": "2024-10-04T23:18:53.443214388Z"
+}
