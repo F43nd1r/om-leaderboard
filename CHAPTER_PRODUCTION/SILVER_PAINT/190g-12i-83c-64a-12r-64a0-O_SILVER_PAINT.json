@@ -1,0 +1,26 @@
+{
+    "puzzle": "SILVER_PAINT",
+    "score": {
+        "cost": 190,
+        "instructions": 12,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 83,
+        "area": 64,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SILVER_PAINT/190g-83c-64a-12i-O-d33f8d67.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/57cc1a93/P076/190g-12i-83c-64a-12r-64a0-O",
+    "dataPath": "CHAPTER_PRODUCTION/SILVER_PAINT/190g-12i-83c-64a-12r-64a0-O_SILVER_PAINT.solution",
+    "lastModified": "2024-10-11T01:32:21.965611554Z"
+}
