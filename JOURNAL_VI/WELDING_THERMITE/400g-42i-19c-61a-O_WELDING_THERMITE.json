@@ -1,12 +1,12 @@
 {
     "puzzle": "WELDING_THERMITE",
     "score": {
-        "cost": 405,
+        "cost": 400,
         "instructions": 42,
         "overlap": true,
         "trackless": false,
         "cycles": 19,
-        "area": 63,
+        "area": 61,
         "height": null,
         "width": null,
         "boundingHex": null,
@@ -16,8 +16,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/WELDING_THERMITE/405g-19c-63a-42i-O-923c5a57.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/ea0f2e52/P094/405g-42i-19c-63a-O",
-    "dataPath": "JOURNAL_VI/WELDING_THERMITE/405g-42i-19c-63a-O_WELDING_THERMITE.solution",
-    "lastModified": "2024-10-19T10:33:49.905638419Z"
+    "displayLink": "https://files.mors.technology/WELDING_THERMITE/400g-19c-61a-42i-O-be175a34.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b0d77baf/P094/400g-42i-19c-61a-O",
+    "dataPath": "JOURNAL_VI/WELDING_THERMITE/400g-42i-19c-61a-O_WELDING_THERMITE.solution",
+    "lastModified": "2024-10-19T10:40:04.296456815Z"
 }
