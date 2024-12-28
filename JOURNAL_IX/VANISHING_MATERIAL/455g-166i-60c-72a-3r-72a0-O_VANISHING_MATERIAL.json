@@ -1,0 +1,26 @@
+{
+    "puzzle": "VANISHING_MATERIAL",
+    "score": {
+        "cost": 455,
+        "instructions": 166,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 60,
+        "area": 72,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 3.0,
+        "areaINF": {
+            "level": 0,
+            "value": 72.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VANISHING_MATERIAL/455g-60c-72a-166i-O-6cddb5d1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f5199b59/P105/455g-166i-60c-72a-3r-72a0-O",
+    "dataPath": "JOURNAL_IX/VANISHING_MATERIAL/455g-166i-60c-72a-3r-72a0-O_VANISHING_MATERIAL.solution",
+    "lastModified": "2024-12-28T23:03:27.484491929Z"
+}
