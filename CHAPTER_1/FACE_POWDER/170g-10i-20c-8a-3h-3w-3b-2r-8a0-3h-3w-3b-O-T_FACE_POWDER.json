@@ -1,0 +1,26 @@
+{
+    "puzzle": "FACE_POWDER",
+    "score": {
+        "cost": 170,
+        "instructions": 10,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 20,
+        "area": 8,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 3,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://i.imgur.com/b8Y0pQ3.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/c9b02d71/P009/170g-10i-20c-8a-3h-3w-3b-2r-8a0-3h-3w-3b-O-T",
+    "dataPath": "CHAPTER_1/FACE_POWDER/170g-10i-20c-8a-3h-3w-3b-2r-8a0-3h-3w-3b-O-T_FACE_POWDER.solution",
+    "lastModified": "2025-02-27T20:07:42.873791654Z"
+}
