@@ -1,0 +1,26 @@
+{
+    "puzzle": "SELF_ORGANIZING_FLUID",
+    "score": {
+        "cost": 360,
+        "instructions": 40,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 29,
+        "area": 136,
+        "height": 10,
+        "width": 12.5,
+        "boundingHex": 11,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 136.0
+        },
+        "heightINF": "10",
+        "widthINF": 12.5,
+        "boundingHexINF": "11"
+    },
+    "displayLink": "https://files.mors.technology/SELF_ORGANIZING_FLUID/360g-29c-136a-40i-T-1e1bf2ec.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b544e3b0/w3446276105/360g-40i-29c-136a-10h-12.5w-11b-4r-136a0-10h-12.5w-11b-T",
+    "dataPath": "TOURNAMENT_2025/SELF_ORGANIZING_FLUID/360g-40i-29c-136a-10h-12.5w-11b-4r-136a0-10h-12.5w-11b-T_SELF_ORGANIZING_FLUID.solution",
+    "lastModified": "2025-03-18T02:35:27.553176947Z"
+}
