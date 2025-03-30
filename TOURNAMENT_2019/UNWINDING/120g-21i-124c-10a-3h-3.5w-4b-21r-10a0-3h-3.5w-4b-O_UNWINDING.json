@@ -1,0 +1,26 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 120,
+        "instructions": 21,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 124,
+        "area": 10,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 4,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/UNWINDING/120g-124c-10a-21i-O-271956b0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7624628d/w1611998067/120g-21i-124c-10a-3h-3.5w-4b-21r-10a0-3h-3.5w-4b-O",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/120g-21i-124c-10a-3h-3.5w-4b-21r-10a0-3h-3.5w-4b-O_UNWINDING.solution",
+    "lastModified": "2025-03-30T06:14:40.247776713Z"
+}
