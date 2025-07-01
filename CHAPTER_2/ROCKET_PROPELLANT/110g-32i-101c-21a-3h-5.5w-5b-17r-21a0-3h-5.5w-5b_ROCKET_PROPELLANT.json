@@ -1,0 +1,26 @@
+{
+    "puzzle": "ROCKET_PROPELLANT",
+    "score": {
+        "cost": 110,
+        "instructions": 32,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 101,
+        "area": 21,
+        "height": 3,
+        "width": 5.5,
+        "boundingHex": 5,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": "3",
+        "widthINF": 5.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/ROCKET_PROPELLANT/110g-101c-21a-32i-fbbe03ee.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d9ee8b13/P019/110g-32i-101c-21a-3h-5.5w-5b-17r-21a0-3h-5.5w-5b",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/110g-32i-101c-21a-3h-5.5w-5b-17r-21a0-3h-5.5w-5b_ROCKET_PROPELLANT.solution",
+    "lastModified": "2025-07-01T15:27:07.690910574Z"
+}
