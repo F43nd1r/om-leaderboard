@@ -1,0 +1,26 @@
+{
+    "puzzle": "RADIO_RECEIVERS",
+    "score": {
+        "cost": 300,
+        "instructions": 18,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 640,
+        "area": 2164,
+        "height": 65,
+        "width": 57.0,
+        "boundingHex": 43,
+        "rate": 88.0,
+        "areaINF": {
+            "level": 2,
+            "value": 64.0
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/RADIO_RECEIVERS/300g-640c-2164a-18i-T-99362bde.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9ec1ea07/w2788067896/300g-18i-640c-2164a-65h-57w-43b-88r-64a2-INFh-INFw-INFb-T",
+    "dataPath": "TOURNAMENT_2022/RADIO_RECEIVERS/300g-18i-640c-2164a-65h-57w-43b-88r-64a2-INFh-INFw-INFb-T_RADIO_RECEIVERS.solution",
+    "lastModified": "2025-08-03T17:15:15.528864807Z"
+}
