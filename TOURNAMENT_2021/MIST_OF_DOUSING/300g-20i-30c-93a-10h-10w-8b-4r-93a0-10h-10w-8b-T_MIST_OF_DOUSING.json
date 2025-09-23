@@ -1,0 +1,26 @@
+{
+    "puzzle": "MIST_OF_DOUSING",
+    "score": {
+        "cost": 300,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 30,
+        "area": 93,
+        "height": 10,
+        "width": 10.0,
+        "boundingHex": 8,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 93.0
+        },
+        "heightINF": "10",
+        "widthINF": 10.0,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/MIST_OF_DOUSING/300g-30c-93a-20i-T-52dd18c9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9f0ff7f0/w2450512021/300g-20i-30c-93a-10h-10w-8b-4r-93a0-10h-10w-8b-T",
+    "dataPath": "TOURNAMENT_2021/MIST_OF_DOUSING/300g-20i-30c-93a-10h-10w-8b-4r-93a0-10h-10w-8b-T_MIST_OF_DOUSING.solution",
+    "lastModified": "2025-09-23T18:31:47.987609108Z"
+}
