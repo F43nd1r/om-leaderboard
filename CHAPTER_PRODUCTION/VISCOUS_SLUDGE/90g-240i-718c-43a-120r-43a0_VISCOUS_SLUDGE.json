@@ -1,0 +1,26 @@
+{
+    "puzzle": "VISCOUS_SLUDGE",
+    "score": {
+        "cost": 90,
+        "instructions": 240,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 718,
+        "area": 43,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 120.0,
+        "areaINF": {
+            "level": 0,
+            "value": 43.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VISCOUS_SLUDGE/90g-718c-43a-240i-94021bc4.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e737633f/P080/90g-240i-718c-43a-120r-43a0",
+    "dataPath": "CHAPTER_PRODUCTION/VISCOUS_SLUDGE/90g-240i-718c-43a-120r-43a0_VISCOUS_SLUDGE.solution",
+    "lastModified": "2026-02-08T06:36:25.342064931Z"
+}
