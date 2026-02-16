@@ -1,0 +1,26 @@
+{
+    "puzzle": "PROBE_MODULE",
+    "score": {
+        "cost": 220,
+        "instructions": 50,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 99,
+        "area": 90,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 90.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/PROBE_MODULE/220g-99c-90a-50i-b2b17657.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bda6c5ce/w2946684660/220g-50i-99c-90a-15r-90a0",
+    "dataPath": "TOURNAMENT_2023/PROBE_MODULE/220g-50i-99c-90a-15r-90a0_PROBE_MODULE.solution",
+    "lastModified": "2026-02-16T03:00:40.156346319Z"
+}
