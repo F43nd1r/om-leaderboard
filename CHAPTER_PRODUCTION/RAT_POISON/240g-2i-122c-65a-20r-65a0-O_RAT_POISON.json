@@ -1,0 +1,26 @@
+{
+    "puzzle": "RAT_POISON",
+    "score": {
+        "cost": 240,
+        "instructions": 2,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 122,
+        "area": 65,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/RAT_POISON/240g-122c-65a-2i-O-82540854.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c3c3b5fc/P074/240g-2i-122c-65a-20r-65a0-O",
+    "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/240g-2i-122c-65a-20r-65a0-O_RAT_POISON.solution",
+    "lastModified": "2025-04-20T01:52:03.260043286Z"
+}

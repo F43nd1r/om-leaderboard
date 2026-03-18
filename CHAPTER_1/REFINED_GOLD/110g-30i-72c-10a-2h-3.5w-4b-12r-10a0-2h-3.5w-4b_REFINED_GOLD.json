@@ -1,0 +1,26 @@
+{
+    "puzzle": "REFINED_GOLD",
+    "score": {
+        "cost": 110,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 72,
+        "area": 10,
+        "height": 2,
+        "width": 3.5,
+        "boundingHex": 4,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "2",
+        "widthINF": 3.5,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/REFINED_GOLD/110g-72c-10a-30i-19c2782a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/962f4155/P010/110g-30i-72c-10a-2h-3.5w-4b-12r-10a0-2h-3.5w-4b",
+    "dataPath": "CHAPTER_1/REFINED_GOLD/110g-30i-72c-10a-2h-3.5w-4b-12r-10a0-2h-3.5w-4b_REFINED_GOLD.solution",
+    "lastModified": "2025-06-06T01:12:24.234780682Z"
+}

@@ -1,0 +1,26 @@
+{
+    "puzzle": "THERMIC_CAPACITOR",
+    "score": {
+        "cost": 215,
+        "instructions": 47,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 409,
+        "area": 80,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 68.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/THERMIC_CAPACITOR/215g-409c-80a-47i-23471403.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d751b1dd/w3446275900/215g-47i-409c-80a-68r-80a0",
+    "dataPath": "TOURNAMENT_2025/THERMIC_CAPACITOR/215g-47i-409c-80a-68r-80a0_THERMIC_CAPACITOR.solution",
+    "lastModified": "2025-03-18T06:30:08.935677628Z"
+}

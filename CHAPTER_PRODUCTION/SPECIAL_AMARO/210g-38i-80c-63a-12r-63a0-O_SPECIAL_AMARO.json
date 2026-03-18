@@ -1,0 +1,26 @@
+{
+    "puzzle": "SPECIAL_AMARO",
+    "score": {
+        "cost": 210,
+        "instructions": 38,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 80,
+        "area": 63,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 63.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SPECIAL_AMARO/210g-80c-63a-38i-O-eef06f3a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f49be3ad/P083/210g-38i-80c-63a-12r-63a0-O",
+    "dataPath": "CHAPTER_PRODUCTION/SPECIAL_AMARO/210g-38i-80c-63a-12r-63a0-O_SPECIAL_AMARO.solution",
+    "lastModified": "2024-10-11T12:56:43.771995510Z"
+}

@@ -1,0 +1,26 @@
+{
+    "puzzle": "CREATIVE_ACCOUNTING",
+    "score": {
+        "cost": 60,
+        "instructions": 70,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 210,
+        "area": 47,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 6,
+        "rate": 17.5,
+        "areaINF": {
+            "level": 2,
+            "value": 0.25
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/CREATIVE_ACCOUNTING/60g-210c-47a-70i-O-T-8cb932ea.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e56b193b/w1698785633/60g-70i-210c-47a-7h-7.5w-6b-17.5r-0.25a2-INFh-INFw-INFb-O-T",
+    "dataPath": "TOURNAMENT_2019/CREATIVE_ACCOUNTING/60g-70i-210c-47a-7h-7.5w-6b-17.5r-0.25a2-INFh-INFw-INFb-O-T_CREATIVE_ACCOUNTING.solution",
+    "lastModified": "2026-03-13T02:52:18.635569333Z"
+}

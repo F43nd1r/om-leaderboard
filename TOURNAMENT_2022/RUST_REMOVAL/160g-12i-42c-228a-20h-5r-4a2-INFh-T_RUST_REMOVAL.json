@@ -1,0 +1,26 @@
+{
+    "puzzle": "RUST_REMOVAL",
+    "score": {
+        "cost": 160,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 42,
+        "area": 228,
+        "height": 20,
+        "width": null,
+        "boundingHex": null,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/ofehodu.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/9cc461c3/w2788066771/160g-12i-42c-228a-20h-5r-4a2-INFh-T",
+    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/160g-12i-42c-228a-20h-5r-4a2-INFh-T_RUST_REMOVAL.solution",
+    "lastModified": "2025-08-05T10:01:46.355727604Z"
+}

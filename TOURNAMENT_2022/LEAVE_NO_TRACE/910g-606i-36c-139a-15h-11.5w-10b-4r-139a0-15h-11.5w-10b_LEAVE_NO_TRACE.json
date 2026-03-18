@@ -1,0 +1,26 @@
+{
+    "puzzle": "LEAVE_NO_TRACE",
+    "score": {
+        "cost": 910,
+        "instructions": 606,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 36,
+        "area": 139,
+        "height": 15,
+        "width": 11.5,
+        "boundingHex": 10,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 139.0
+        },
+        "heightINF": "15",
+        "widthINF": 11.5,
+        "boundingHexINF": "10"
+    },
+    "displayLink": "https://files.mors.technology/LEAVE_NO_TRACE/910g-36c-139a-606i-473043e0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8a3dc6b1/w2788066279/910g-606i-36c-139a-15h-11.5w-10b-4r-139a0-15h-11.5w-10b",
+    "dataPath": "TOURNAMENT_2022/LEAVE_NO_TRACE/910g-606i-36c-139a-15h-11.5w-10b-4r-139a0-15h-11.5w-10b_LEAVE_NO_TRACE.solution",
+    "lastModified": "2025-12-23T05:27:37.562473833Z"
+}

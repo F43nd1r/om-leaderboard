@@ -1,0 +1,26 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 110,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 490,
+        "area": 546,
+        "height": 30,
+        "width": null,
+        "boundingHex": null,
+        "rate": 70.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/ZrEJ5SR.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/4e20031d/P062/110g-12i-490c-546a-30h-70r-16a2-INFh-T",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/110g-12i-490c-546a-30h-70r-16a2-INFh-T_BUOYANT_CABLE.solution",
+    "lastModified": "2025-08-05T05:10:19.412439783Z"
+}
