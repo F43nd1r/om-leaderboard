@@ -1,0 +1,25 @@
+{
+    "puzzle": "RECLAIMED_GOLD",
+    "score": {
+        "cost": 305,
+        "instructions": 49,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 78,
+        "area": 58,
+        "height": 3,
+        "width": 15.0,
+        "boundingHex": 17,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": "3",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://i.imgur.com/nRPvWHn.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/a8f760e5/P254/305g-49i-78c-58a-3h-15w-17b-6r-2a1-3h-INFw-INFb",
+    "dataPath": "CHAPTER_XII/RECLAIMED_GOLD/305g-49i-78c-58a-3h-15w-17b-6r-2a1-3h-INFw-INFb_RECLAIMED_GOLD.json"
+}
