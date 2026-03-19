@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 60,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 379,
+        "area": 151,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 60.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/60g-379c-151a-60i-3ac2bacc.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/dba472f1/P209/60g-60i-379c-151a-15h-60r-4a2-INFh",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/60g-60i-379c-151a-15h-60r-4a2-INFh_SOLDER_WIRE.solution",
+    "lastModified": "2026-03-19T02:08:21.784704502Z"
+}
