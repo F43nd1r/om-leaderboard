@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 80,
+        "instructions": 94,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 592,
+        "area": 33,
+        "height": 2,
+        "width": null,
+        "boundingHex": null,
+        "rate": 94.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "2",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.catbox.moe/woh8sk.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/133f7dcc/P209/80g-94i-592c-33a-2h-94r-4a1-2h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/80g-94i-592c-33a-2h-94r-4a1-2h_SOLDER_WIRE.solution",
+    "lastModified": "2026-03-19T04:26:07.232970696Z"
+}
