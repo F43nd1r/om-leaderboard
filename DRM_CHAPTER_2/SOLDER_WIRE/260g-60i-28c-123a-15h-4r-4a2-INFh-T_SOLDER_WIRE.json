@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 260,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 28,
+        "area": 123,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/260g-28c-123a-60i-T-804cc914.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d027f18b/P209/260g-60i-28c-123a-15h-4r-4a2-INFh-T",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/260g-60i-28c-123a-15h-4r-4a2-INFh-T_SOLDER_WIRE.solution",
+    "lastModified": "2026-03-19T20:29:53.635796812Z"
+}
