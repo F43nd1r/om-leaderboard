@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 250,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 127,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.catbox.moe/5k5qaw.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/72f056e4/P209/250g-62i-28c-127a-15h-4r-4a2-INFh",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/250g-62i-28c-127a-15h-4r-4a2-INFh_SOLDER_WIRE.solution",
+    "lastModified": "2026-03-19T04:24:01.959402330Z"
+}
