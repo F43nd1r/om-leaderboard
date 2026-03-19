@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOPHICK_MERCURY",
+    "score": {
+        "cost": 150,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 45,
+        "area": 30,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 5,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "heightINF": "6",
+        "widthINF": 5.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/SOPHICK_MERCURY/150g-45c-30a-26i-T-76eb93da.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/124b7b13/P250/150g-26i-45c-30a-6h-5.5w-5b-7r-30a0-6h-5.5w-5b-T",
+    "dataPath": "JOURNAL_XII/SOPHICK_MERCURY/150g-26i-45c-30a-6h-5.5w-5b-7r-30a0-6h-5.5w-5b-T_SOPHICK_MERCURY.solution",
+    "lastModified": "2026-03-19T01:45:53.281291626Z"
+}
