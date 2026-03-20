@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 70,
+        "instructions": 46,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 186,
+        "area": 152,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/70g-186c-152a-46i-T-2ff56568.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4efd70d5/P209/70g-46i-186c-152a-15h-30r-4a2-INFh-T",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/70g-46i-186c-152a-15h-30r-4a2-INFh-T_SOLDER_WIRE.solution",
+    "lastModified": "2026-03-20T20:36:51.728628358Z"
+}
