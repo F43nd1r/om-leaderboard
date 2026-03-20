@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 80,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 384,
+        "area": 33,
+        "height": 3,
+        "width": null,
+        "boundingHex": null,
+        "rate": 60.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "3",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/80g-384c-33a-60i-badfec58.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2df47536/P209/80g-60i-384c-33a-3h-60r-4a1-3h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/80g-60i-384c-33a-3h-60r-4a1-3h_SOLDER_WIRE.solution",
+    "lastModified": "2026-03-20T21:41:53.909716199Z"
+}
