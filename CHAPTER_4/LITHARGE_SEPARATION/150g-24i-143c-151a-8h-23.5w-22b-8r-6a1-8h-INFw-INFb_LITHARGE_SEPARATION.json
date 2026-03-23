@@ -1,0 +1,26 @@
+{
+    "puzzle": "LITHARGE_SEPARATION",
+    "score": {
+        "cost": 150,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 143,
+        "area": 151,
+        "height": 8,
+        "width": 23.5,
+        "boundingHex": 22,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": "8",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.catbox.moe/978hm7.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/e71054d0/P031b/150g-24i-143c-151a-8h-23.5w-22b-8r-6a1-8h-INFw-INFb",
+    "dataPath": "CHAPTER_4/LITHARGE_SEPARATION/150g-24i-143c-151a-8h-23.5w-22b-8r-6a1-8h-INFw-INFb_LITHARGE_SEPARATION.solution",
+    "lastModified": "2026-03-23T15:07:03.829275414Z"
+}
