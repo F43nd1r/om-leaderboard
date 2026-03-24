@@ -1,0 +1,26 @@
+{
+    "puzzle": "AIRSHIP_FUEL",
+    "score": {
+        "cost": 60,
+        "instructions": 34,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 150,
+        "area": 13,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 3,
+        "rate": 25.0,
+        "areaINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "heightINF": "4",
+        "widthINF": 4.0,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://cdn.discordapp.com/attachments/370367639073062922/1485936332575342653/Opus_Magnum_-_Airship_Fuel_60G_150_13_2026-03-24-11-39-04.gif?ex=69c3ad8d&is=69c25c0d&hm=7aee36a741a2f1f2ebedff1acb4ed90efd532737cdc8567f87c7088d05730302&",
+    "dataLink": "https://zlbb.faendir.com/l/om/1cf90bd7/P008/60g-34i-150c-13a-4h-4w-3b-25r-13a0-4h-4w-3b-T",
+    "dataPath": "CHAPTER_1/AIRSHIP_FUEL/60g-34i-150c-13a-4h-4w-3b-25r-13a0-4h-4w-3b-T_AIRSHIP_FUEL.solution",
+    "lastModified": "2026-03-24T09:42:20.314343359Z"
+}
