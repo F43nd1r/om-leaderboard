@@ -1,0 +1,26 @@
+{
+    "puzzle": "METAL_DIVISION",
+    "score": {
+        "cost": 80,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 50,
+        "area": 10,
+        "height": 3,
+        "width": 3.5,
+        "boundingHex": 3,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": "3",
+        "widthINF": 3.5,
+        "boundingHexINF": "3"
+    },
+    "displayLink": "https://files.mors.technology/METAL_DIVISION/80g-50c-10a-20i-T-1b0ab348.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/935f56d2/P208/80g-20i-50c-10a-3h-3.5w-3b-8r-10a0-3h-3.5w-3b-T",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/80g-20i-50c-10a-3h-3.5w-3b-8r-10a0-3h-3.5w-3b-T_METAL_DIVISION.solution",
+    "lastModified": "2026-03-25T04:05:52.860480116Z"
+}
