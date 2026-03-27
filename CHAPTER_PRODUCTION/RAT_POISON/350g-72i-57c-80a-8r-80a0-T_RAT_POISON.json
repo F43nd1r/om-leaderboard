@@ -1,0 +1,26 @@
+{
+    "puzzle": "RAT_POISON",
+    "score": {
+        "cost": 350,
+        "instructions": 72,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 57,
+        "area": 80,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/wBSSm2Y.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/f4afcae7/P074/350g-72i-57c-80a-8r-80a0-T",
+    "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/350g-72i-57c-80a-8r-80a0-T_RAT_POISON.solution",
+    "lastModified": "2026-03-27T10:07:00.587059465Z"
+}
