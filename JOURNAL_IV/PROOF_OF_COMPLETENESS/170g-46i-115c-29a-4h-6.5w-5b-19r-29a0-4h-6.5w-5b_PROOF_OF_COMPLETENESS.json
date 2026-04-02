@@ -1,0 +1,26 @@
+{
+    "puzzle": "PROOF_OF_COMPLETENESS",
+    "score": {
+        "cost": 170,
+        "instructions": 46,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 115,
+        "area": 29,
+        "height": 4,
+        "width": 6.5,
+        "boundingHex": 5,
+        "rate": 19.0,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": "4",
+        "widthINF": 6.5,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/PROOF_OF_COMPLETENESS/170g-115c-29a-46i-16c7d4a1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8a3e0c20/P069/170g-46i-115c-29a-4h-6.5w-5b-19r-29a0-4h-6.5w-5b",
+    "dataPath": "JOURNAL_IV/PROOF_OF_COMPLETENESS/170g-46i-115c-29a-4h-6.5w-5b-19r-29a0-4h-6.5w-5b_PROOF_OF_COMPLETENESS.solution",
+    "lastModified": "2026-04-02T14:15:49.971582753Z"
+}
