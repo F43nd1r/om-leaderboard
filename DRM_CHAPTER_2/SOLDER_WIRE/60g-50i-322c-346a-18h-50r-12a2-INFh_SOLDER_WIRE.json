@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 60,
+        "instructions": 50,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 322,
+        "area": 346,
+        "height": 18,
+        "width": null,
+        "boundingHex": null,
+        "rate": 50.0,
+        "areaINF": {
+            "level": 2,
+            "value": 12.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/60g-322c-346a-50i-42082547.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9b5c8184/P209/60g-50i-322c-346a-18h-50r-12a2-INFh",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/60g-50i-322c-346a-18h-50r-12a2-INFh_SOLDER_WIRE.solution",
+    "lastModified": "2026-04-03T03:30:53.296212369Z"
+}
