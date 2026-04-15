@@ -10,14 +10,17 @@
         "height": 2,
         "width": null,
         "boundingHex": null,
-        "rate": null,
-        "areaINF": null,
-        "heightINF": null,
+        "rate": 224.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": "2",
         "widthINF": null,
         "boundingHexINF": null
     },
     "displayLink": "https://files.mors.technology/SURVEYING_MAGNET/350g-1534c-117a-464i-fa543118.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/09e0763b/P262/350g-464i-1534c-117a-2h",
-    "dataPath": "JOURNAL_CVIII_II/SURVEYING_MAGNET/350g-464i-1534c-117a-2h_SURVEYING_MAGNET.solution",
+    "dataLink": "https://zlbb.faendir.com/l/om/e9005247/P262/350g-464i-1534c-117a-2h-224r-12a1-2h",
+    "dataPath": "JOURNAL_CVIII_II/SURVEYING_MAGNET/350g-464i-1534c-117a-2h-224r-12a1-2h_SURVEYING_MAGNET.solution",
     "lastModified": "2026-04-15T10:34:43.532427269Z"
 }
