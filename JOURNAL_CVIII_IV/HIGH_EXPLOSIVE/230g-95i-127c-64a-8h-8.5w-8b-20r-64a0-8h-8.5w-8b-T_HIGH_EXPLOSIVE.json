@@ -1,0 +1,26 @@
+{
+    "puzzle": "HIGH_EXPLOSIVE",
+    "score": {
+        "cost": 230,
+        "instructions": 95,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 127,
+        "area": 64,
+        "height": 8,
+        "width": 8.5,
+        "boundingHex": 8,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": "8",
+        "widthINF": 8.5,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/HIGH_EXPLOSIVE/230g-127c-64a-95i-T-647f5fe8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/25bfc9c4/P271/230g-95i-127c-64a-8h-8.5w-8b-20r-64a0-8h-8.5w-8b-T",
+    "dataPath": "JOURNAL_CVIII_IV/HIGH_EXPLOSIVE/230g-95i-127c-64a-8h-8.5w-8b-20r-64a0-8h-8.5w-8b-T_HIGH_EXPLOSIVE.solution",
+    "lastModified": "2026-04-23T04:55:39.152248252Z"
+}
