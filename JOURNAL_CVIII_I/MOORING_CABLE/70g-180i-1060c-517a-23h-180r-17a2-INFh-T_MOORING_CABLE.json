@@ -1,0 +1,26 @@
+{
+    "puzzle": "MOORING_CABLE",
+    "score": {
+        "cost": 70,
+        "instructions": 180,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1060,
+        "area": 517,
+        "height": 23,
+        "width": null,
+        "boundingHex": null,
+        "rate": 180.0,
+        "areaINF": {
+            "level": 2,
+            "value": 17.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/MOORING_CABLE/70g-1060c-517a-180i-T-82117426.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/82390d4d/P255/70g-180i-1060c-517a-23h-180r-17a2-INFh-T",
+    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/70g-180i-1060c-517a-23h-180r-17a2-INFh-T_MOORING_CABLE.solution",
+    "lastModified": "2026-04-25T20:52:46.030531653Z"
+}
