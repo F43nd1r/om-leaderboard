@@ -1,0 +1,26 @@
+{
+    "puzzle": "HEALTH_TONIC",
+    "score": {
+        "cost": 50,
+        "instructions": 18,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 58,
+        "area": 19,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "heightINF": "5",
+        "widthINF": 4.5,
+        "boundingHexINF": "4"
+    },
+    "displayLink": "https://files.mors.technology/HEALTH_TONIC/50g-58c-19a-18i-T-1bd25645.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bad35613/P014/50g-18i-58c-19a-5h-4.5w-4b-10r-19a0-5h-4.5w-4b-T",
+    "dataPath": "CHAPTER_1/HEALTH_TONIC/50g-18i-58c-19a-5h-4.5w-4b-10r-19a0-5h-4.5w-4b-T_HEALTH_TONIC.solution",
+    "lastModified": "2026-04-28T01:09:10.671228785Z"
+}
