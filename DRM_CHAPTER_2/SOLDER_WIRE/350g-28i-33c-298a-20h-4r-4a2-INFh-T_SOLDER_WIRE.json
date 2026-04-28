@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 350,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 33,
+        "area": 298,
+        "height": 20,
+        "width": null,
+        "boundingHex": null,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/350g-33c-298a-28i-T-d21141e0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9f411509/P209/350g-28i-33c-298a-20h-4r-4a2-INFh-T",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/350g-28i-33c-298a-20h-4r-4a2-INFh-T_SOLDER_WIRE.solution",
+    "lastModified": "2026-04-28T15:36:16.388510781Z"
+}
