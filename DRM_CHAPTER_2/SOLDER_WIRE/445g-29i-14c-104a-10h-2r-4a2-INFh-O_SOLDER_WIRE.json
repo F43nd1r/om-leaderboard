@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 445,
+        "instructions": 29,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 14,
+        "area": 104,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/445g-14c-104a-29i-O-6c1d9be6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/196bd59c/P209/445g-29i-14c-104a-10h-2r-4a2-INFh-O",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/445g-29i-14c-104a-10h-2r-4a2-INFh-O_SOLDER_WIRE.solution",
+    "lastModified": "2026-05-03T12:07:56.110455892Z"
+}
