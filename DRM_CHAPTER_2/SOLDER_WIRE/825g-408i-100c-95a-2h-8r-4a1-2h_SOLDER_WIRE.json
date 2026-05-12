@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 825,
+        "instructions": 408,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 100,
+        "area": 95,
+        "height": 2,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "2",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/825g-100c-95a-408i-12c9fe36.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ece25bf5/P209/825g-408i-100c-95a-2h-8r-4a1-2h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/825g-408i-100c-95a-2h-8r-4a1-2h_SOLDER_WIRE.solution",
+    "lastModified": "2026-05-12T16:27:41.679162148Z"
+}
