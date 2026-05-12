@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 385,
+        "instructions": 192,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 80,
+        "area": 54,
+        "height": 2,
+        "width": null,
+        "boundingHex": null,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "2",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/385g-80c-54a-192i-48df68cf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/091e07f8/P209/385g-192i-80c-54a-2h-10r-4a1-2h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/385g-192i-80c-54a-2h-10r-4a1-2h_SOLDER_WIRE.solution",
+    "lastModified": "2026-05-12T13:18:55.901725516Z"
+}
