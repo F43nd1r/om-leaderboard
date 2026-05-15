@@ -1,0 +1,26 @@
+{
+    "puzzle": "BALING_FIBER",
+    "score": {
+        "cost": 180,
+        "instructions": 49,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 123,
+        "area": 288,
+        "height": 22,
+        "width": 20.0,
+        "boundingHex": 15,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 2,
+            "value": 9.0
+        },
+        "heightINF": "INF",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/BALING_FIBER/180g-123c-288a-49i-T-25b33829.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/94449dcb/P286/180g-49i-123c-288a-22h-20w-15b-20r-9a2-INFh-INFw-INFb-T",
+    "dataPath": "JOURNAL_CVIII_VII/BALING_FIBER/180g-49i-123c-288a-22h-20w-15b-20r-9a2-INFh-INFw-INFb-T_BALING_FIBER.solution",
+    "lastModified": "2026-05-15T00:03:34.738531033Z"
+}
