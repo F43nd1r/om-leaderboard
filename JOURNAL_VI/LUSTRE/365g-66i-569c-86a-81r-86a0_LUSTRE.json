@@ -1,16 +1,16 @@
 {
     "puzzle": "LUSTRE",
     "score": {
-        "cost": 385,
+        "cost": 365,
         "instructions": 66,
         "overlap": false,
         "trackless": false,
-        "cycles": 611,
+        "cycles": 569,
         "area": 86,
         "height": null,
         "width": null,
         "boundingHex": null,
-        "rate": 87.0,
+        "rate": 81.0,
         "areaINF": {
             "level": 0,
             "value": 86.0
@@ -19,8 +19,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/LUSTRE/385g-611c-86a-66i-ce762b23.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/6817b2e4/P090/385g-66i-611c-86a-87r-86a0",
-    "dataPath": "JOURNAL_VI/LUSTRE/385g-66i-611c-86a-87r-86a0_LUSTRE.solution",
-    "lastModified": "2026-05-20T08:48:37.508943235Z"
+    "displayLink": "https://files.mors.technology/LUSTRE/365g-569c-86a-66i-7d7e181a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c6bfe971/P090/365g-66i-569c-86a-81r-86a0",
+    "dataPath": "JOURNAL_VI/LUSTRE/365g-66i-569c-86a-81r-86a0_LUSTRE.solution",
+    "lastModified": "2026-05-20T19:04:01.193598920Z"
 }
