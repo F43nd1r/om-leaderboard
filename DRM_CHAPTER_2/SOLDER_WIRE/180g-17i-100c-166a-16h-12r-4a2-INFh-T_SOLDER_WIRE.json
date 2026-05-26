@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 180,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 100,
+        "area": 166,
+        "height": 16,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": "INF",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/180g-100c-166a-17i-T-78407324.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bac395e9/P209/180g-17i-100c-166a-16h-12r-4a2-INFh-T",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/180g-17i-100c-166a-16h-12r-4a2-INFh-T_SOLDER_WIRE.solution",
+    "lastModified": "2026-05-26T01:43:39.179323983Z"
+}
