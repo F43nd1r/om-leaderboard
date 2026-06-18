@@ -1,12 +1,12 @@
 {
     "puzzle": "SWORD_ALLOY",
     "score": {
-        "cost": 485,
+        "cost": 425,
         "instructions": 771,
         "overlap": false,
         "trackless": false,
         "cycles": 100,
-        "area": 111,
+        "area": 110,
         "height": 13,
         "width": null,
         "boundingHex": null,
@@ -16,8 +16,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/SWORD_ALLOY/485g-100c-111a-771i-f37e26fa.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/a9e0e278/P033/485g-771i-100c-111a-13h",
-    "dataPath": "CHAPTER_4/SWORD_ALLOY/485g-771i-100c-111a-13h_SWORD_ALLOY.solution",
-    "lastModified": "2026-06-18T10:44:34.483243702Z"
+    "displayLink": "https://files.mors.technology/SWORD_ALLOY/425g-100c-110a-771i-dad9397e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b1f12dd4/P033/425g-771i-100c-110a-13h",
+    "dataPath": "CHAPTER_4/SWORD_ALLOY/425g-771i-100c-110a-13h_SWORD_ALLOY.solution",
+    "lastModified": "2026-06-18T11:13:03.394286516Z"
 }
