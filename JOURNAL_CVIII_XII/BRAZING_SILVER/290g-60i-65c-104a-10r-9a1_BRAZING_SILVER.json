@@ -1,0 +1,26 @@
+{
+    "puzzle": "BRAZING_SILVER",
+    "score": {
+        "cost": 290,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 104,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 9.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BRAZING_SILVER/290g-65c-104a-60i-6cc0baea.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c5fbf933/P310/290g-60i-65c-104a-10r-9a1",
+    "dataPath": "JOURNAL_CVIII_XII/BRAZING_SILVER/290g-60i-65c-104a-10r-9a1_BRAZING_SILVER.solution",
+    "lastModified": "2026-06-25T19:29:02.777239992Z"
+}
