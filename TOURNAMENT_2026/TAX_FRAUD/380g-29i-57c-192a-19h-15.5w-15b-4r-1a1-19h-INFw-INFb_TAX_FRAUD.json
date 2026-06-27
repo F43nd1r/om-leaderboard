@@ -1,0 +1,26 @@
+{
+    "puzzle": "TAX_FRAUD",
+    "score": {
+        "cost": 380,
+        "instructions": 29,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 57,
+        "area": 192,
+        "height": 19,
+        "width": 15.5,
+        "boundingHex": 15,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": "19",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/TAX_FRAUD/380g-57c-192a-29i-574ca1d9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3c4fe7e1/w3728200215/380g-29i-57c-192a-19h-15.5w-15b-4r-1a1-19h-INFw-INFb",
+    "dataPath": "TOURNAMENT_2026/TAX_FRAUD/380g-29i-57c-192a-19h-15.5w-15b-4r-1a1-19h-INFw-INFb_TAX_FRAUD.solution",
+    "lastModified": "2026-06-27T02:40:47.593058319Z"
+}
