@@ -1,0 +1,26 @@
+{
+    "puzzle": "LEACHING_AGENT",
+    "score": {
+        "cost": 1230,
+        "instructions": 210,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 43,
+        "area": 272,
+        "height": 23,
+        "width": 20.5,
+        "boundingHex": 15,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.5
+        },
+        "heightINF": "23",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/LEACHING_AGENT/1230g-43c-272a-210i-3f51d89a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a54f7ddb/P263/1230g-210i-43c-272a-23h-20.5w-15b-6r-2.5a1-23h-INFw-INFb",
+    "dataPath": "JOURNAL_CVIII_II/LEACHING_AGENT/1230g-210i-43c-272a-23h-20.5w-15b-6r-2.5a1-23h-INFw-INFb_LEACHING_AGENT.solution",
+    "lastModified": "2026-07-01T17:30:53.189070102Z"
+}
