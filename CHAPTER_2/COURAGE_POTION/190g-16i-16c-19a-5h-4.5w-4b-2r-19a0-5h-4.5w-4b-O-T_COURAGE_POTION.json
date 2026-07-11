@@ -2,7 +2,7 @@
     "puzzle": "COURAGE_POTION",
     "score": {
         "cost": 190,
-        "instructions": 24,
+        "instructions": 16,
         "overlap": true,
         "trackless": true,
         "cycles": 16,
@@ -19,7 +19,8 @@
         "widthINF": 4.5,
         "boundingHexINF": "4"
     },
-    "displayLink": "https://files.mors.technology/COURAGE_POTION/190g-16c-19a-24i-O-T-ed8d347e.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/65ea138c/P021/190g-24i-16c-19a-5h-4.5w-4b-2r-19a0-5h-4.5w-4b-O-T",
-    "dataPath": "CHAPTER_2/COURAGE_POTION/190g-24i-16c-19a-5h-4.5w-4b-2r-19a0-5h-4.5w-4b-O-T_COURAGE_POTION.solution"
+    "displayLink": "https://files.mors.technology/COURAGE_POTION/190g-16c-19a-16i-O-T-b4facaeb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/72e725d1/P021/190g-16i-16c-19a-5h-4.5w-4b-2r-19a0-5h-4.5w-4b-O-T",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/190g-16i-16c-19a-5h-4.5w-4b-2r-19a0-5h-4.5w-4b-O-T_COURAGE_POTION.solution",
+    "lastModified": "2026-07-11T14:40:29.884111184Z"
 }
