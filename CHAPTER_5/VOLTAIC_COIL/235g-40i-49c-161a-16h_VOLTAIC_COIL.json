@@ -1,12 +1,12 @@
 {
     "puzzle": "VOLTAIC_COIL",
     "score": {
-        "cost": 240,
+        "cost": 235,
         "instructions": 40,
         "overlap": false,
         "trackless": false,
         "cycles": 49,
-        "area": 162,
+        "area": 161,
         "height": 16,
         "width": null,
         "boundingHex": null,
@@ -16,8 +16,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/240g-49c-162a-40i-04b237ac.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/ecb62351/P039/240g-40i-49c-162a-16h",
-    "dataPath": "CHAPTER_5/VOLTAIC_COIL/240g-40i-49c-162a-16h_VOLTAIC_COIL.solution",
-    "lastModified": "2026-07-18T19:17:38.158613337Z"
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/235g-49c-161a-40i-c70b79e8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/200f765f/P039/235g-40i-49c-161a-16h",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/235g-40i-49c-161a-16h_VOLTAIC_COIL.solution",
+    "lastModified": "2026-07-18T19:20:35.713529671Z"
 }
