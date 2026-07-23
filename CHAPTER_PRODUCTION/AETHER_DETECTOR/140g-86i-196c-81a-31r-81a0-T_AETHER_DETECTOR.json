@@ -1,0 +1,26 @@
+{
+    "puzzle": "AETHER_DETECTOR",
+    "score": {
+        "cost": 140,
+        "instructions": 86,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 196,
+        "area": 81,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 31.0,
+        "areaINF": {
+            "level": 0,
+            "value": 81.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/AETHER_DETECTOR/140g-196c-81a-86i-T-c927528c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e0fb6901/P077/140g-86i-196c-81a-31r-81a0-T",
+    "dataPath": "CHAPTER_PRODUCTION/AETHER_DETECTOR/140g-86i-196c-81a-31r-81a0-T_AETHER_DETECTOR.solution",
+    "lastModified": "2026-07-23T11:03:13.861852583Z"
+}
