@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 180,
+        "instructions": 23,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 85,
+        "area": 50,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "5",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/180g-85c-50a-23i-78f72a83.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f4c60eb6/P209/180g-23i-85c-50a-5h-12r-4a1-5h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/180g-23i-85c-50a-5h-12r-4a1-5h_SOLDER_WIRE.solution",
+    "lastModified": "2026-08-03T18:41:22.745484468Z"
+}
