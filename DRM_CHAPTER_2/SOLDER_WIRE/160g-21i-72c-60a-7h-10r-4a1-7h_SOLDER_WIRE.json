@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 160,
+        "instructions": 21,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 72,
+        "area": 60,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "7",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/160g-72c-60a-21i-91125144.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bf34eeab/P209/160g-21i-72c-60a-7h-10r-4a1-7h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/160g-21i-72c-60a-7h-10r-4a1-7h_SOLDER_WIRE.solution",
+    "lastModified": "2026-08-03T18:39:28.737850097Z"
+}
