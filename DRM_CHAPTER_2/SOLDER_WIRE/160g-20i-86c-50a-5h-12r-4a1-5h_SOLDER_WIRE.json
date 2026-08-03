@@ -1,0 +1,26 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 160,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 86,
+        "area": 50,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": "5",
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/160g-86c-50a-20i-38e1ff41.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8a759ee3/P209/160g-20i-86c-50a-5h-12r-4a1-5h",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/160g-20i-86c-50a-5h-12r-4a1-5h_SOLDER_WIRE.solution",
+    "lastModified": "2026-08-03T18:44:19.505959935Z"
+}
