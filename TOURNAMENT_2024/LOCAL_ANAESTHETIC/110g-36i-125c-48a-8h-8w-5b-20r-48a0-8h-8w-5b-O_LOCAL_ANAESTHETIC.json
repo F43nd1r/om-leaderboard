@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOCAL_ANAESTHETIC",
+    "score": {
+        "cost": 110,
+        "instructions": 36,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 125,
+        "area": 48,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 5,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "heightINF": "8",
+        "widthINF": 8.0,
+        "boundingHexINF": "5"
+    },
+    "displayLink": "https://files.mors.technology/LOCAL_ANAESTHETIC/110g-125c-48a-36i-O-27604202.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3dae4a1c/w3210168922/110g-36i-125c-48a-8h-8w-5b-20r-48a0-8h-8w-5b-O",
+    "dataPath": "TOURNAMENT_2024/LOCAL_ANAESTHETIC/110g-36i-125c-48a-8h-8w-5b-20r-48a0-8h-8w-5b-O_LOCAL_ANAESTHETIC.solution",
+    "lastModified": "2026-08-21T05:43:10.161538006Z"
+}
