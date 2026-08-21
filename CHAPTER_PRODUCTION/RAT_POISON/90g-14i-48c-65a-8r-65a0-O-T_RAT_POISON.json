@@ -1,0 +1,26 @@
+{
+    "puzzle": "RAT_POISON",
+    "score": {
+        "cost": 90,
+        "instructions": 14,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 48,
+        "area": 65,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/RAT_POISON/90g-48c-65a-14i-O-T-1f7c9287.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/60976f91/P074/90g-14i-48c-65a-8r-65a0-O-T",
+    "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/90g-14i-48c-65a-8r-65a0-O-T_RAT_POISON.solution",
+    "lastModified": "2026-08-21T13:07:27.858822383Z"
+}
