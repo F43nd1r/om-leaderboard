@@ -2,7 +2,7 @@
     "puzzle": "ARMOR_FILAMENT",
     "score": {
         "cost": 70,
-        "instructions": 242,
+        "instructions": 240,
         "overlap": false,
         "trackless": true,
         "cycles": 237,
@@ -10,7 +10,7 @@
         "height": 3,
         "width": null,
         "boundingHex": null,
-        "rate": 40.34,
+        "rate": 40.0,
         "areaINF": {
             "level": 1,
             "value": 2.0
@@ -19,7 +19,8 @@
         "widthINF": null,
         "boundingHexINF": null
     },
-    "displayLink": "https://files.mors.technology/ARMOR_FILAMENT/70g-237c-20a-242i-T-f1b9fbc8.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/65ea138c/P020/70g-242i-237c-20a-3h-40.34r-2a1-3h-T",
-    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/70g-242i-237c-20a-3h-40.34r-2a1-3h-T_ARMOR_FILAMENT.solution"
+    "displayLink": "https://files.mors.technology/ARMOR_FILAMENT/70g-237c-20a-240i-T-4dc7cf96.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f3fefba5/P020/70g-240i-237c-20a-3h-40r-2a1-3h-T",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/70g-240i-237c-20a-3h-40r-2a1-3h-T_ARMOR_FILAMENT.solution",
+    "lastModified": "2026-08-28T12:29:58.747726401Z"
 }
