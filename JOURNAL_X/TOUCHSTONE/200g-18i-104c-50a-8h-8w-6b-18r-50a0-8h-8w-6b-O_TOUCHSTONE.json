@@ -1,0 +1,26 @@
+{
+    "puzzle": "TOUCHSTONE",
+    "score": {
+        "cost": 200,
+        "instructions": 18,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 104,
+        "area": 50,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 6,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 50.0
+        },
+        "heightINF": "8",
+        "widthINF": 8.0,
+        "boundingHexINF": "6"
+    },
+    "displayLink": "https://files.mors.technology/TOUCHSTONE/200g-104c-50a-18i-O-5e4da488.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/883b503b/P245/200g-18i-104c-50a-8h-8w-6b-18r-50a0-8h-8w-6b-O",
+    "dataPath": "JOURNAL_X/TOUCHSTONE/200g-18i-104c-50a-8h-8w-6b-18r-50a0-8h-8w-6b-O_TOUCHSTONE.solution",
+    "lastModified": "2026-09-21T06:02:11.094213541Z"
+}
