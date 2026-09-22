@@ -1,0 +1,26 @@
+{
+    "puzzle": "CANISTER_SHOT",
+    "score": {
+        "cost": 510,
+        "instructions": 47,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 582,
+        "area": 269,
+        "height": 24,
+        "width": 23.5,
+        "boundingHex": 17,
+        "rate": 72.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": "24",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/CANISTER_SHOT/510g-582c-269a-47i-T-e08b4160.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ee72b159/P270/510g-47i-582c-269a-24h-23.5w-17b-72r-3a1-24h-INFw-INFb-T",
+    "dataPath": "JOURNAL_CVIII_IV/CANISTER_SHOT/510g-47i-582c-269a-24h-23.5w-17b-72r-3a1-24h-INFw-INFb-T_CANISTER_SHOT.solution",
+    "lastModified": "2026-09-22T04:56:23.252708566Z"
+}
