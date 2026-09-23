@@ -1,0 +1,26 @@
+{
+    "puzzle": "VAN_BERLO_S_WHEEL",
+    "score": {
+        "cost": 370,
+        "instructions": 160,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 71,
+        "area": 65,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 8,
+        "rate": 3.5,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": "8",
+        "widthINF": 8.0,
+        "boundingHexINF": "8"
+    },
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_WHEEL/370g-71c-65a-160i-O-66e3ff54.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d11538c1/P054/370g-160i-71c-65a-8h-8w-8b-3.5r-65a0-8h-8w-8b-O",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_WHEEL/370g-160i-71c-65a-8h-8w-8b-3.5r-65a0-8h-8w-8b-O_VAN_BERLO_S_WHEEL.solution",
+    "lastModified": "2026-09-23T08:17:22.327563933Z"
+}
