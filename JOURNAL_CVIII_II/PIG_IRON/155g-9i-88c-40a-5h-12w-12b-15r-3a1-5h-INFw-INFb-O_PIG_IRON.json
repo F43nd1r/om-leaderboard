@@ -1,0 +1,26 @@
+{
+    "puzzle": "PIG_IRON",
+    "score": {
+        "cost": 155,
+        "instructions": 9,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 88,
+        "area": 40,
+        "height": 5,
+        "width": 12.0,
+        "boundingHex": 12,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": "5",
+        "widthINF": Infinity,
+        "boundingHexINF": "INF"
+    },
+    "displayLink": "https://files.mors.technology/PIG_IRON/155g-88c-40a-9i-O-48c88edf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d28abb3e/P260/155g-9i-88c-40a-5h-12w-12b-15r-3a1-5h-INFw-INFb-O",
+    "dataPath": "JOURNAL_CVIII_II/PIG_IRON/155g-9i-88c-40a-5h-12w-12b-15r-3a1-5h-INFw-INFb-O_PIG_IRON.solution",
+    "lastModified": "2026-10-08T09:59:23.582362298Z"
+}
