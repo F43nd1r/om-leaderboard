@@ -1,0 +1,26 @@
+{
+    "puzzle": "DENTAL_AMALGAM",
+    "score": {
+        "cost": 280,
+        "instructions": 256,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 500,
+        "area": 107,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 82.0,
+        "areaINF": {
+            "level": 0,
+            "value": 107.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/DENTAL_AMALGAM/280g-500c-107a-256i-T-7265ad8d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9eefa87f/P252/280g-256i-500c-107a-82r-107a0-T",
+    "dataPath": "JOURNAL_XII/DENTAL_AMALGAM/280g-256i-500c-107a-82r-107a0-T_DENTAL_AMALGAM.solution",
+    "lastModified": "2026-10-09T21:32:22.039568343Z"
+}
