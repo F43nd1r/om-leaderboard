@@ -1,0 +1,26 @@
+{
+    "puzzle": "LAMPLIGHT_GAS",
+    "score": {
+        "cost": 220,
+        "instructions": 33,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 59,
+        "area": 61,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 61.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LAMPLIGHT_GAS/220g-59c-61a-33i-645c7bcc.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc4c9a5d/P092/220g-33i-59c-61a-8r-61a0",
+    "dataPath": "JOURNAL_VI/LAMPLIGHT_GAS/220g-33i-59c-61a-8r-61a0_LAMPLIGHT_GAS.solution",
+    "lastModified": "2026-10-11T23:51:35.330944309Z"
+}
