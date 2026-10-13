@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 230,
+        "instructions": 45,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 38,
+        "area": 79,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 79.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LOGISTICS/230g-38c-79a-45i-O-T-d52cbab5.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c0b37c14/w2818265313/230g-45i-38c-79a-2r-79a0-O-T",
+    "dataPath": "WEEKLIES_2/LOGISTICS/230g-45i-38c-79a-2r-79a0-O-T_LOGISTICS.solution",
+    "lastModified": "2026-10-13T00:55:30.967296361Z"
+}
