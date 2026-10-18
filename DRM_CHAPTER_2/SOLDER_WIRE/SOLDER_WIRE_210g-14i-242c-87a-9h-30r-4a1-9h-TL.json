@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 210,
+        "instructions": 14,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 242,
+        "area": 87,
+        "height": 9,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/210g-242c-87a-14i-T-c859776a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f07662ba/P209/210g-14i-242c-87a-9h-30r-4a1-9h-TL",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_210g-14i-242c-87a-9h-30r-4a1-9h-TL.solution"
+}

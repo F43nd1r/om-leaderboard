@@ -1,0 +1,35 @@
+{
+    "puzzle": "WARMING_TONIC",
+    "score": {
+        "cost": 120,
+        "instructions": 23,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 68,
+        "area": 28,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 28.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Warming-Tonic-120g-68c-28a-23i-5h-5.5w-11r-e006c6.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/d946d414/P028/120g-23i-68c-28a-5h-5.5w-5b-11r-28a-5h-5.5w-5b-L",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_120g-23i-68c-28a-5h-5.5w-5b-11r-28a-5h-5.5w-5b-L.solution"
+}

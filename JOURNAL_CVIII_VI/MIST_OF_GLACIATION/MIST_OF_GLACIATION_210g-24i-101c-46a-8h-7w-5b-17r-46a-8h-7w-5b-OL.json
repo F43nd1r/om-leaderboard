@@ -1,0 +1,35 @@
+{
+    "puzzle": "MIST_OF_GLACIATION",
+    "score": {
+        "cost": 210,
+        "instructions": 24,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 101,
+        "area": 46,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 46.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MIST_OF_GLACIATION/210g-101c-46a-24i-O-4958a3fb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/00d0b0d6/P283/210g-24i-101c-46a-8h-7w-5b-17r-46a-8h-7w-5b-OL",
+    "dataPath": "JOURNAL_CVIII_VI/MIST_OF_GLACIATION/MIST_OF_GLACIATION_210g-24i-101c-46a-8h-7w-5b-17r-46a-8h-7w-5b-OL.solution"
+}

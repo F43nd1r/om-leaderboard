@@ -1,0 +1,26 @@
+{
+    "puzzle": "VACCINE_TEMPLATE",
+    "score": {
+        "cost": 370,
+        "instructions": 86,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 114,
+        "area": 65,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 17.0,
+        "areaINF": {
+            "level": 0,
+            "value": 65.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/b6d5f372/w3033141056/370g-86i-114c-65a-17r-65a-L",
+    "dataPath": "WEEKLIES_2/VACCINE_TEMPLATE/VACCINE_TEMPLATE_370g-86i-114c-65a-17r-65a-L.solution"
+}

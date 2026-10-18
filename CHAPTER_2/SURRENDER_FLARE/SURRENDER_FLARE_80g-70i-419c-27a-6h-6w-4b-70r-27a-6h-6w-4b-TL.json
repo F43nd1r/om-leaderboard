@@ -1,0 +1,35 @@
+{
+    "puzzle": "SURRENDER_FLARE",
+    "score": {
+        "cost": 80,
+        "instructions": 70,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 419,
+        "area": 27,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 70.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/yahR9z3.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/a79072bb/P022/80g-70i-419c-27a-6h-6w-4b-70r-27a-6h-6w-4b-TL",
+    "dataPath": "CHAPTER_2/SURRENDER_FLARE/SURRENDER_FLARE_80g-70i-419c-27a-6h-6w-4b-70r-27a-6h-6w-4b-TL.solution"
+}

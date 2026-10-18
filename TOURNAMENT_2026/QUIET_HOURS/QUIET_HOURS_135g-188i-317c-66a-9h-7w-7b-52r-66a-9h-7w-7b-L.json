@@ -1,0 +1,35 @@
+{
+    "puzzle": "QUIET_HOURS",
+    "score": {
+        "cost": 135,
+        "instructions": 188,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 317,
+        "area": 66,
+        "height": 9,
+        "width": 7.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 52.0,
+        "areaINF": {
+            "level": 0,
+            "value": 66.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/e21c1f39/w3728199426/135g-188i-317c-66a-9h-7w-7b-52r-66a-9h-7w-7b-L",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_135g-188i-317c-66a-9h-7w-7b-52r-66a-9h-7w-7b-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "CRITELLIUM",
+    "score": {
+        "cost": 105,
+        "instructions": 819,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 4907,
+        "area": 307,
+        "height": 4,
+        "width": 140.0,
+        "boundingHex": 141,
+        "looping": true,
+        "rate": 819.0,
+        "areaINF": {
+            "level": 1,
+            "value": 45.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 22.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 22.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/CRITELLIUM/105g-4907c-307a-819i-2d476d7f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bed5126f/w3210197400/105g-819i-4907c-307a-4h-140w-141b-819r-45a1-4h-22.5w1-22.5b1-L",
+    "dataPath": "TOURNAMENT_2024/CRITELLIUM/CRITELLIUM_105g-819i-4907c-307a-4h-140w-141b-819r-45a1-4h-22.5w1-22.5b1-L.solution"
+}

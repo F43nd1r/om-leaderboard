@@ -1,0 +1,35 @@
+{
+    "puzzle": "HYPER_VOLATILE_GAS",
+    "score": {
+        "cost": 370,
+        "instructions": 42,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 41,
+        "area": 96,
+        "height": 12,
+        "width": 10.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 96.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/HYPER_VOLATILE_GAS/370g-41c-96a-42i-T-d5be564b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f6d99a86/P106/370g-42i-41c-96a-12h-10.5w-9b-5r-96a-12h-10.5w-9b-TL",
+    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_370g-42i-41c-96a-12h-10.5w-9b-5r-96a-12h-10.5w-9b-TL.solution"
+}

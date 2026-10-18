@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPLOSIVE_PHIAL",
+    "score": {
+        "cost": 100,
+        "instructions": 15,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 57,
+        "area": 27,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/EXPLOSIVE_PHIAL/100g-57c-27a-15i-af1ee45b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/45ac1434/P017/100g-15i-57c-27a-6h-5w-4b-9r-27a-6h-5w-4b-L",
+    "dataPath": "CHAPTER_2/EXPLOSIVE_PHIAL/EXPLOSIVE_PHIAL_100g-15i-57c-27a-6h-5w-4b-9r-27a-6h-5w-4b-L.solution"
+}

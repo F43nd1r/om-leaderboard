@@ -1,0 +1,35 @@
+{
+    "puzzle": "POTENT_POTABLES",
+    "score": {
+        "cost": 405,
+        "instructions": 96,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 104,
+        "area": 54,
+        "height": 12,
+        "width": 3.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 54.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/HbAlb1w.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/87235129/w2501727721/405g-96i-104c-54a-12h-3w-12b-16r-54a-12h-3w-12b-L",
+    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/POTENT_POTABLES_405g-96i-104c-54a-12h-3w-12b-16r-54a-12h-3w-12b-L.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "GOLDEN_THREAD",
+    "score": {
+        "cost": 40,
+        "instructions": 56,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 345,
+        "area": 252,
+        "height": 16,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 56.0,
+        "areaINF": {
+            "level": 2,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.309401076758503
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Golden-Thread-40g-345c-252a-56i-16h-16w-56r-d48e01.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/61702641/P037/40g-56i-345c-252a-16h-56r-8a2-2.309h1-L",
+    "dataPath": "CHAPTER_4/GOLDEN_THREAD/GOLDEN_THREAD_40g-56i-345c-252a-16h-56r-8a2-2.309h1-L.solution"
+}

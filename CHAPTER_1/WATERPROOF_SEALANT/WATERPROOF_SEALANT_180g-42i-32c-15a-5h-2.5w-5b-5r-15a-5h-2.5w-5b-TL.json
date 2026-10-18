@@ -1,0 +1,35 @@
+{
+    "puzzle": "WATERPROOF_SEALANT",
+    "score": {
+        "cost": 180,
+        "instructions": 42,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 32,
+        "area": 15,
+        "height": 5,
+        "width": 2.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Waterproof-Sealant-180g-32c-15a-42i-5h-2.5w-5r-T-107b75.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/7099f95c/P011/180g-42i-32c-15a-5h-2.5w-5b-5r-15a-5h-2.5w-5b-TL",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_180g-42i-32c-15a-5h-2.5w-5b-5r-15a-5h-2.5w-5b-TL.solution"
+}

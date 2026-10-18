@@ -1,0 +1,35 @@
+{
+    "puzzle": "ELEMENTAL_COPPER",
+    "score": {
+        "cost": 410,
+        "instructions": 63,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 11,
+        "area": 20,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
+        "looping": false,
+        "rate": 4.5,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/lqpYu97.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/4bdd1007/P202/410g-63i-11c-20a-5h-4.5w-4b-4.5r-20a-5h-4.5w-4b",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_410g-63i-11c-20a-5h-4.5w-4b-4.5r-20a-5h-4.5w-4b.solution"
+}

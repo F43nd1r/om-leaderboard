@@ -1,0 +1,26 @@
+{
+    "puzzle": "HEXSTABILIZED_SALT",
+    "score": {
+        "cost": 110,
+        "instructions": 21,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 249,
+        "area": 58,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 58.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/HEXSTABILIZED_SALT/110g-249c-58a-21i-77da9b4c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e3b77ebd/P091b/110g-21i-249c-58a-14r-58a-L",
+    "dataPath": "JOURNAL_VI/HEXSTABILIZED_SALT/HEXSTABILIZED_SALT_110g-21i-249c-58a-14r-58a-L.solution"
+}

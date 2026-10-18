@@ -1,0 +1,35 @@
+{
+    "puzzle": "GREEN_VITRIOL",
+    "score": {
+        "cost": 425,
+        "instructions": 278,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 450,
+        "area": 44,
+        "height": 12,
+        "width": 2.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 72.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/GREEN_VITRIOL/425g-450c-44a-278i-d337fa59.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f76a47d9/P240/425g-278i-450c-44a-12h-2.5w-12b-72r-44a-12h-2.5w-12b-L",
+    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_425g-278i-450c-44a-12h-2.5w-12b-72r-44a-12h-2.5w-12b-L.solution"
+}

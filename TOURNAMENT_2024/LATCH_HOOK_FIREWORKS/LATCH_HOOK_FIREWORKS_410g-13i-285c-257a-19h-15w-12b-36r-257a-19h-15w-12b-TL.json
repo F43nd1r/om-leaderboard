@@ -1,0 +1,35 @@
+{
+    "puzzle": "LATCH_HOOK_FIREWORKS",
+    "score": {
+        "cost": 410,
+        "instructions": 13,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 285,
+        "area": 257,
+        "height": 19,
+        "width": 15.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 257.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LATCH_HOOK_FIREWORKS/410g-285c-257a-13i-T-2f44e668.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/dd3e2c8b/w3210177679/410g-13i-285c-257a-19h-15w-12b-36r-257a-19h-15w-12b-TL",
+    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_410g-13i-285c-257a-19h-15w-12b-36r-257a-19h-15w-12b-TL.solution"
+}

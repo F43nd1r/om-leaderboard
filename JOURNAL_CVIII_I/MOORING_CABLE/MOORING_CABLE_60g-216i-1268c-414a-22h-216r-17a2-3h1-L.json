@@ -1,0 +1,29 @@
+{
+    "puzzle": "MOORING_CABLE",
+    "score": {
+        "cost": 60,
+        "instructions": 216,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1268,
+        "area": 414,
+        "height": 22,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 216.0,
+        "areaINF": {
+            "level": 2,
+            "value": 17.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/MOORING_CABLE/60g-1268c-414a-216i-d39ef387.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6de67fd9/P255/60g-216i-1268c-414a-22h-216r-17a2-3h1-L",
+    "dataPath": "JOURNAL_CVIII_I/MOORING_CABLE/MOORING_CABLE_60g-216i-1268c-414a-22h-216r-17a2-3h1-L.solution"
+}

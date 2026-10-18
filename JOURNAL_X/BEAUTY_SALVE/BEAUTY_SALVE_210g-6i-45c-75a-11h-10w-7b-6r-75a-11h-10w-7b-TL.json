@@ -1,0 +1,35 @@
+{
+    "puzzle": "BEAUTY_SALVE",
+    "score": {
+        "cost": 210,
+        "instructions": 6,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 45,
+        "area": 75,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 75.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Mist-of-Dousing-210g-45c-75a-6i-11h-10w-6r-T-9da780.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b5779c27/P246/210g-6i-45c-75a-11h-10w-7b-6r-75a-11h-10w-7b-TL",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_210g-6i-45c-75a-11h-10w-7b-6r-75a-11h-10w-7b-TL.solution"
+}

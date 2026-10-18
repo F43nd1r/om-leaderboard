@@ -1,0 +1,35 @@
+{
+    "puzzle": "CULTIVATION_TONIC",
+    "score": {
+        "cost": 620,
+        "instructions": 174,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 58,
+        "area": 82,
+        "height": 11,
+        "width": 6.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/p5G7wSQ.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/d9b248fd/P249/620g-174i-58c-82a-11h-6w-10b-8r-82a-11h-6w-10b-L",
+    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_620g-174i-58c-82a-11h-6w-10b-8r-82a-11h-6w-10b-L.solution"
+}

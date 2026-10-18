@@ -1,0 +1,35 @@
+{
+    "puzzle": "QUICKENING_CORDIAL",
+    "score": {
+        "cost": 120,
+        "instructions": 27,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 72,
+        "area": 21,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/QUICKENING_CORDIAL/120g-72c-21a-27i-O-T-2e25e5f6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c43d1643/P290/120g-27i-72c-21a-5h-4.5w-4b-12r-21a-5h-4.5w-4b-OTL",
+    "dataPath": "JOURNAL_CVIII_VIII/QUICKENING_CORDIAL/QUICKENING_CORDIAL_120g-27i-72c-21a-5h-4.5w-4b-12r-21a-5h-4.5w-4b-OTL.solution"
+}

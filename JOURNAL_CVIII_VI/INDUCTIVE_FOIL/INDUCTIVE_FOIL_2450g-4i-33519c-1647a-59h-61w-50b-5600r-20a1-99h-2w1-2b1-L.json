@@ -1,0 +1,35 @@
+{
+    "puzzle": "INDUCTIVE_FOIL",
+    "score": {
+        "cost": 2450,
+        "instructions": 4,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 33519,
+        "area": 1647,
+        "height": 59,
+        "width": 61.0,
+        "boundingHex": 50,
+        "looping": true,
+        "rate": 5600.0,
+        "areaINF": {
+            "level": 1,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 99.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.catbox.moe/265vhw.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/603f31e4/P280/2450g-4i-33519c-1647a-59h-61w-50b-5600r-20a1-99h-2w1-2b1-L",
+    "dataPath": "JOURNAL_CVIII_VI/INDUCTIVE_FOIL/INDUCTIVE_FOIL_2450g-4i-33519c-1647a-59h-61w-50b-5600r-20a1-99h-2w1-2b1-L.solution"
+}

@@ -1,0 +1,26 @@
+{
+    "puzzle": "RECONSTRUCTED_SOLVENT",
+    "score": {
+        "cost": 470,
+        "instructions": 134,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 68,
+        "area": 56,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 6.15,
+        "areaINF": {
+            "level": 0,
+            "value": 56.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/RECONSTRUCTED_SOLVENT/470g-68c-56a-134i-O-b75b0fb1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b83b5867/P084/470g-134i-68c-56a-6.15r-56a-OL",
+    "dataPath": "CHAPTER_PRODUCTION/RECONSTRUCTED_SOLVENT/RECONSTRUCTED_SOLVENT_470g-134i-68c-56a-6.15r-56a-OL.solution"
+}

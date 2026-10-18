@@ -1,0 +1,35 @@
+{
+    "puzzle": "ABLATIVE_CRYSTAL",
+    "score": {
+        "cost": 2010,
+        "instructions": 887,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 36,
+        "area": 419,
+        "height": 25,
+        "width": 15.5,
+        "boundingHex": 19,
+        "looping": true,
+        "rate": 5.17,
+        "areaINF": {
+            "level": 0,
+            "value": 419.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 25.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 19.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/71709de2/P068/2010g-887i-36c-419a-25h-15.5w-19b-5.17r-419a-25h-15.5w-19b-L",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_2010g-887i-36c-419a-25h-15.5w-19b-5.17r-419a-25h-15.5w-19b-L.solution"
+}

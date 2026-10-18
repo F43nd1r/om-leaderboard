@@ -1,0 +1,35 @@
+{
+    "puzzle": "AMALGAMATED_GOLD_RING",
+    "score": {
+        "cost": 80,
+        "instructions": 237,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1407,
+        "area": 23,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 237.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Amalgamated-Gold-Ring-80g-1407c-23a-237i-5h-5.5w-237r-T-e42a61.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/26391a15/w2501727808/80g-237i-1407c-23a-5h-5.5w-4b-237r-23a-5h-5.5w-4b-TL",
+    "dataPath": "TOURNAMENT_2020/AMALGAMATED_GOLD_RING/AMALGAMATED_GOLD_RING_80g-237i-1407c-23a-5h-5.5w-4b-237r-23a-5h-5.5w-4b-TL.solution"
+}

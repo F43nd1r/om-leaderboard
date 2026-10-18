@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 140,
+        "instructions": 4,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 176,
+        "area": 127,
+        "height": 9,
+        "width": 14.5,
+        "boundingHex": 17,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 1,
+            "value": 10.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UNWINDING/140g-176c-127a-4i-1eedb069.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a74fa637/w1611998067/140g-4i-176c-127a-9h-14.5w-17b-32r-10a1-9h-2w1-2b1-L",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_140g-4i-176c-127a-9h-14.5w-17b-32r-10a1-9h-2w1-2b1-L.solution"
+}

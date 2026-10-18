@@ -1,0 +1,35 @@
+{
+    "puzzle": "CULTIVATION_TONIC",
+    "score": {
+        "cost": 70,
+        "instructions": 162,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 966,
+        "area": 49,
+        "height": 8,
+        "width": 5.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 162.0,
+        "areaINF": {
+            "level": 0,
+            "value": 49.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/HYDROPONIC_SOLUTION/70g-966c-49a-162i-201cb5f5.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/486e1de2/P249/70g-162i-966c-49a-8h-5.5w-7b-162r-49a-8h-5.5w-7b-L",
+    "dataPath": "JOURNAL_X/CULTIVATION_TONIC/CULTIVATION_TONIC_70g-162i-966c-49a-8h-5.5w-7b-162r-49a-8h-5.5w-7b-L.solution"
+}

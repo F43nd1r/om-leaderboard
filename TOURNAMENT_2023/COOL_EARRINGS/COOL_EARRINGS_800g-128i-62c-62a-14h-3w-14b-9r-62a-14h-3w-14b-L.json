@@ -1,0 +1,35 @@
+{
+    "puzzle": "COOL_EARRINGS",
+    "score": {
+        "cost": 800,
+        "instructions": 128,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 62,
+        "area": 62,
+        "height": 14,
+        "width": 3.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 62.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/DOABPYl.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/fdc350ea/w2946693353/800g-128i-62c-62a-14h-3w-14b-9r-62a-14h-3w-14b-L",
+    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_800g-128i-62c-62a-14h-3w-14b-9r-62a-14h-3w-14b-L.solution"
+}

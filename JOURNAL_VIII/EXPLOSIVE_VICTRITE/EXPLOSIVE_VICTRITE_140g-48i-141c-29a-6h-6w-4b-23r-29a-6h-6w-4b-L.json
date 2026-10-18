@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPLOSIVE_VICTRITE",
+    "score": {
+        "cost": 140,
+        "instructions": 48,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 141,
+        "area": 29,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 23.0,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/uUlxreY.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/f3e977e1/P100/140g-48i-141c-29a-6h-6w-4b-23r-29a-6h-6w-4b-L",
+    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/EXPLOSIVE_VICTRITE_140g-48i-141c-29a-6h-6w-4b-23r-29a-6h-6w-4b-L.solution"
+}

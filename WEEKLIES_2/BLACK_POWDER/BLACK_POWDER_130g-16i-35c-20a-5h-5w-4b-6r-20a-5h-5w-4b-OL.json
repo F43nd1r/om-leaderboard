@@ -1,0 +1,35 @@
+{
+    "puzzle": "BLACK_POWDER",
+    "score": {
+        "cost": 130,
+        "instructions": 16,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 35,
+        "area": 20,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BLACK_POWDER/130g-35c-20a-16i-O-2b818e7e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b4b08713/w3088257476/130g-16i-35c-20a-5h-5w-4b-6r-20a-5h-5w-4b-OL",
+    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_130g-16i-35c-20a-5h-5w-4b-6r-20a-5h-5w-4b-OL.solution"
+}

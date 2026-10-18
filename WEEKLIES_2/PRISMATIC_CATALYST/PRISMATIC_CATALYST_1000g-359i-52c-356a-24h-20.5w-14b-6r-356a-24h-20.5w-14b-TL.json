@@ -1,0 +1,35 @@
+{
+    "puzzle": "PRISMATIC_CATALYST",
+    "score": {
+        "cost": 1000,
+        "instructions": 359,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 52,
+        "area": 356,
+        "height": 24,
+        "width": 20.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 356.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 24.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 20.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PRISMATIC_CATALYST/1000g-52c-356a-359i-T-e070263f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a2e068ec/w3817955190/1000g-359i-52c-356a-24h-20.5w-14b-6r-356a-24h-20.5w-14b-TL",
+    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_1000g-359i-52c-356a-24h-20.5w-14b-6r-356a-24h-20.5w-14b-TL.solution"
+}

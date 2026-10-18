@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 55,
+        "instructions": 55,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 326,
+        "area": 20,
+        "height": 3,
+        "width": 6.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 55.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UNWINDING/55g-326c-20a-55i-d20cc0d3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5e264a2e/w1611998067/55g-55i-326c-20a-3h-6w-6b-55r-20a-3h-6w-6b-L",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_55g-55i-326c-20a-3h-6w-6b-55r-20a-3h-6w-6b-L.solution"
+}

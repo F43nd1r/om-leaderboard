@@ -1,0 +1,35 @@
+{
+    "puzzle": "NIGHTMARE_FUEL",
+    "score": {
+        "cost": 3940,
+        "instructions": 295,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 76,
+        "area": 1533,
+        "height": 55,
+        "width": 46.0,
+        "boundingHex": 30,
+        "looping": false,
+        "rate": 3.2,
+        "areaINF": {
+            "level": 1,
+            "value": 0.8
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 55.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.1
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.1
+        }
+    },
+    "displayLink": "https://files.mors.technology/NIGHTMARE_FUEL/3940g-76c-1533a-295i-964080a8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/928c126d/w2829050875/3940g-295i-76c-1533a-55h-46w-30b-3.2r-0.8a1-55h-0.1w1-0.1b1",
+    "dataPath": "WEEKLIES_1/NIGHTMARE_FUEL/NIGHTMARE_FUEL_3940g-295i-76c-1533a-55h-46w-30b-3.2r-0.8a1-55h-0.1w1-0.1b1.solution"
+}

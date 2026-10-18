@@ -1,0 +1,35 @@
+{
+    "puzzle": "REACTIVE_CINNABAR",
+    "score": {
+        "cost": 50,
+        "instructions": 90,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 536,
+        "area": 15,
+        "height": 5,
+        "width": 4.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 90.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/REACTIVE_CINNABAR/50g-536c-15a-90i-T-2e80285a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b4755162/P056/50g-90i-536c-15a-5h-4w-3b-90r-15a-5h-4w-3b-TL",
+    "dataPath": "JOURNAL_I/REACTIVE_CINNABAR/REACTIVE_CINNABAR_50g-90i-536c-15a-5h-4w-3b-90r-15a-5h-4w-3b-TL.solution"
+}

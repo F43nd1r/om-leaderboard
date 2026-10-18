@@ -1,0 +1,35 @@
+{
+    "puzzle": "SAVERIO_S_TEST",
+    "score": {
+        "cost": 160,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 26,
+        "area": 23,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SAVERIO_S_TEST/160g-26c-23a-20i-T-3376cda0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bf9af6da/P201/160g-20i-26c-23a-5h-4.5w-4b-4r-23a-5h-4.5w-4b-TL",
+    "dataPath": "DRM_CHAPTER_1/SAVERIO_S_TEST/SAVERIO_S_TEST_160g-20i-26c-23a-5h-4.5w-4b-4r-23a-5h-4.5w-4b-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "VIA_QUICKSILVER",
+    "score": {
+        "cost": 110,
+        "instructions": 17,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 83,
+        "area": 24,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 0,
+            "value": 24.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.catbox.moe/1jkr0c.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/cd7e6fc6/P216/110g-17i-83c-24a-5h-4.5w-5b-14r-24a-5h-4.5w-5b-OL",
+    "dataPath": "DRM_CHAPTER_3/VIA_QUICKSILVER/VIA_QUICKSILVER_110g-17i-83c-24a-5h-4.5w-5b-14r-24a-5h-4.5w-5b-OL.solution"
+}

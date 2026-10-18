@@ -1,0 +1,35 @@
+{
+    "puzzle": "EVIL_ORE",
+    "score": {
+        "cost": 3530,
+        "instructions": 580,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 33,
+        "area": 872,
+        "height": 39,
+        "width": 34.5,
+        "boundingHex": 25,
+        "looping": false,
+        "rate": 1.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.16666666666666666
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.16666666666666666
+        }
+    },
+    "displayLink": "https://files.mors.technology/EVIL_ORE/3530g-33c-872a-580i-f698dda1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/88f36b95/w1698788220/3530g-580i-33c-872a-39h-34.5w-25b-1r-1a1-48h-0.167w1-0.167b1",
+    "dataPath": "TOURNAMENT_2019/EVIL_ORE/EVIL_ORE_3530g-580i-33c-872a-39h-34.5w-25b-1r-1a1-48h-0.167w1-0.167b1.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 335,
+        "instructions": 2,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 278,
+        "area": 85,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 50.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/335g-278c-85a-2i-O-a141fb58.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ca1a01e4/P209/335g-2i-278c-85a-8h-50r-8a1-8h-OL",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_335g-2i-278c-85a-8h-50r-8a1-8h-OL.solution"
+}

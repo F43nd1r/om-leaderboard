@@ -1,0 +1,35 @@
+{
+    "puzzle": "BLUE_VITRIOL",
+    "score": {
+        "cost": 1100,
+        "instructions": 984,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 26,
+        "area": 119,
+        "height": 13,
+        "width": 10.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 3.34,
+        "areaINF": {
+            "level": 0,
+            "value": 119.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BLUE_VITRIOL/1100g-26c-119a-984i-c9d82f0c.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a23507c3/P241/1100g-984i-26c-119a-13h-10w-10b-3.34r-119a-13h-10w-10b-L",
+    "dataPath": "JOURNAL_XI/BLUE_VITRIOL/BLUE_VITRIOL_1100g-984i-26c-119a-13h-10w-10b-3.34r-119a-13h-10w-10b-L.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 130,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 72,
+        "area": 47,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/130g-72c-47a-36i-edb38812.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8468ac2f/P209/130g-36i-72c-47a-5h-10r-4a1-5h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_130g-36i-72c-47a-5h-10r-4a1-5h-L.solution"
+}

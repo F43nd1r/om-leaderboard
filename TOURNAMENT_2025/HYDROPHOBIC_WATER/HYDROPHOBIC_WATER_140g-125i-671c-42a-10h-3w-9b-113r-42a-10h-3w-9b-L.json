@@ -1,0 +1,35 @@
+{
+    "puzzle": "HYDROPHOBIC_WATER",
+    "score": {
+        "cost": 140,
+        "instructions": 125,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 671,
+        "area": 42,
+        "height": 10,
+        "width": 3.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 113.0,
+        "areaINF": {
+            "level": 0,
+            "value": 42.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/HYDROPHOBIC_WATER/140g-671c-42a-125i-f772c020.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1a30c8a8/w3446275126/140g-125i-671c-42a-10h-3w-9b-113r-42a-10h-3w-9b-L",
+    "dataPath": "TOURNAMENT_2025/HYDROPHOBIC_WATER/HYDROPHOBIC_WATER_140g-125i-671c-42a-10h-3w-9b-113r-42a-10h-3w-9b-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "GREEN_VITRIOL",
+    "score": {
+        "cost": 575,
+        "instructions": 86,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 43,
+        "area": 82,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 82.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/CG2joS4.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/bef213bc/P240/575g-86i-43c-82a-10h-9.5w-8b-6r-82a-10h-9.5w-8b-L",
+    "dataPath": "JOURNAL_XI/GREEN_VITRIOL/GREEN_VITRIOL_575g-86i-43c-82a-10h-9.5w-8b-6r-82a-10h-9.5w-8b-L.solution"
+}

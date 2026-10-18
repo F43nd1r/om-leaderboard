@@ -1,0 +1,35 @@
+{
+    "puzzle": "QUINTESSENTIAL_MEDIUM",
+    "score": {
+        "cost": 490,
+        "instructions": 1046,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 142,
+        "area": 109,
+        "height": 3,
+        "width": 32.0,
+        "boundingHex": 34,
+        "looping": true,
+        "rate": 26.67,
+        "areaINF": {
+            "level": 1,
+            "value": 10.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/QUINTESSENTIAL_MEDIUM/490g-142c-109a-1046i-c2f4545f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b23c9ffe/P107/490g-1046i-142c-109a-3h-32w-34b-26.67r-10a1-3h-5w1-5b1-L",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_490g-1046i-142c-109a-3h-32w-34b-26.67r-10a1-3h-5w1-5b1-L.solution"
+}

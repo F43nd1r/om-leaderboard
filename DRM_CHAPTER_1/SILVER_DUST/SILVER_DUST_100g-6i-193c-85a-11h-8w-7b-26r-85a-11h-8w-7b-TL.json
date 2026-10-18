@@ -1,0 +1,35 @@
+{
+    "puzzle": "SILVER_DUST",
+    "score": {
+        "cost": 100,
+        "instructions": 6,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 193,
+        "area": 85,
+        "height": 11,
+        "width": 8.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/qbpq3fG.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/4d8e7474/P203/100g-6i-193c-85a-11h-8w-7b-26r-85a-11h-8w-7b-TL",
+    "dataPath": "DRM_CHAPTER_1/SILVER_DUST/SILVER_DUST_100g-6i-193c-85a-11h-8w-7b-26r-85a-11h-8w-7b-TL.solution"
+}

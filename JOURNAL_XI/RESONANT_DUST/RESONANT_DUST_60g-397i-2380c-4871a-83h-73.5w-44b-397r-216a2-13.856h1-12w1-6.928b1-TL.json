@@ -1,0 +1,35 @@
+{
+    "puzzle": "RESONANT_DUST",
+    "score": {
+        "cost": 60,
+        "instructions": 397,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 2380,
+        "area": 4871,
+        "height": 83,
+        "width": 73.5,
+        "boundingHex": 44,
+        "looping": true,
+        "rate": 397.0,
+        "areaINF": {
+            "level": 2,
+            "value": 216.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 13.85640646055102
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 6.92820323027551
+        }
+    },
+    "displayLink": "https://files.mors.technology/RESONANT_DUST/60g-2380c-4871a-397i-T-75bb49cb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc066886/P243/60g-397i-2380c-4871a-83h-73.5w-44b-397r-216a2-13.856h1-12w1-6.928b1-TL",
+    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_60g-397i-2380c-4871a-83h-73.5w-44b-397r-216a2-13.856h1-12w1-6.928b1-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "FACE_POWDER",
+    "score": {
+        "cost": 70,
+        "instructions": 7,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 164,
+        "area": 12,
+        "height": 2,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Face-Powder-70g-164c-12a-7i-2h-4w-28r-ea35d5.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/6fc1105a/P009/70g-7i-164c-12a-2h-4w-4b-28r-12a-2h-4w-4b-L",
+    "dataPath": "CHAPTER_1/FACE_POWDER/FACE_POWDER_70g-7i-164c-12a-2h-4w-4b-28r-12a-2h-4w-4b-L.solution"
+}

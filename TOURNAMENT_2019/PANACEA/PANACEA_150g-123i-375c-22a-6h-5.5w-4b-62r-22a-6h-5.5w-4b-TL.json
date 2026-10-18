@@ -1,0 +1,35 @@
+{
+    "puzzle": "PANACEA",
+    "score": {
+        "cost": 150,
+        "instructions": 123,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 375,
+        "area": 22,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 62.0,
+        "areaINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/dn4naEk.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/10aecd7d/w1698789743/150g-123i-375c-22a-6h-5.5w-4b-62r-22a-6h-5.5w-4b-TL",
+    "dataPath": "TOURNAMENT_2019/PANACEA/PANACEA_150g-123i-375c-22a-6h-5.5w-4b-62r-22a-6h-5.5w-4b-TL.solution"
+}

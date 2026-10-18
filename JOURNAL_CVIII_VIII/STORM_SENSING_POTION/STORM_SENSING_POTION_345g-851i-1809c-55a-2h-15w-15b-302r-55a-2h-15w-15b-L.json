@@ -1,0 +1,35 @@
+{
+    "puzzle": "STORM_SENSING_POTION",
+    "score": {
+        "cost": 345,
+        "instructions": 851,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1809,
+        "area": 55,
+        "height": 2,
+        "width": 15.0,
+        "boundingHex": 15,
+        "looping": true,
+        "rate": 302.0,
+        "areaINF": {
+            "level": 0,
+            "value": 55.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 15.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/STORM_SENSING_POTION/345g-1809c-55a-851i-e44178ad.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e7811d9b/P294/345g-851i-1809c-55a-2h-15w-15b-302r-55a-2h-15w-15b-L",
+    "dataPath": "JOURNAL_CVIII_VIII/STORM_SENSING_POTION/STORM_SENSING_POTION_345g-851i-1809c-55a-2h-15w-15b-302r-55a-2h-15w-15b-L.solution"
+}

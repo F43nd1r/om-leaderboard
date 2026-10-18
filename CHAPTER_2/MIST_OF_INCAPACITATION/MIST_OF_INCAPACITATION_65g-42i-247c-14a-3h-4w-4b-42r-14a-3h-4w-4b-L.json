@@ -1,0 +1,35 @@
+{
+    "puzzle": "MIST_OF_INCAPACITATION",
+    "score": {
+        "cost": 65,
+        "instructions": 42,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 247,
+        "area": 14,
+        "height": 3,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MIST_OF_INCAPACITATION/65g-247c-14a-42i-777d2bb6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/45ec7510/P018/65g-42i-247c-14a-3h-4w-4b-42r-14a-3h-4w-4b-L",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_65g-42i-247c-14a-3h-4w-4b-42r-14a-3h-4w-4b-L.solution"
+}

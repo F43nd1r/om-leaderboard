@@ -1,0 +1,35 @@
+{
+    "puzzle": "RAVARI_S_WHEEL",
+    "score": {
+        "cost": 120,
+        "instructions": 93,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 192,
+        "area": 29,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/RAVARI_S_WHEEL/120g-192c-29a-93i-T-a485f60a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/52076ad9/P064/120g-93i-192c-29a-6h-6w-4b-32r-29a-6h-6w-4b-TL",
+    "dataPath": "JOURNAL_III/RAVARI_S_WHEEL/RAVARI_S_WHEEL_120g-93i-192c-29a-6h-6w-4b-32r-29a-6h-6w-4b-TL.solution"
+}

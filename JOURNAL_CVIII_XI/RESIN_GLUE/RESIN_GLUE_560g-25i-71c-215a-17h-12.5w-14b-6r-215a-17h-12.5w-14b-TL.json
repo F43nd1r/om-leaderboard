@@ -1,0 +1,35 @@
+{
+    "puzzle": "RESIN_GLUE",
+    "score": {
+        "cost": 560,
+        "instructions": 25,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 71,
+        "area": 215,
+        "height": 17,
+        "width": 12.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 215.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/RESIN_GLUE/560g-71c-215a-25i-T-87e69a31.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/19387a15/P309/560g-25i-71c-215a-17h-12.5w-14b-6r-215a-17h-12.5w-14b-TL",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_560g-25i-71c-215a-17h-12.5w-14b-6r-215a-17h-12.5w-14b-TL.solution"
+}

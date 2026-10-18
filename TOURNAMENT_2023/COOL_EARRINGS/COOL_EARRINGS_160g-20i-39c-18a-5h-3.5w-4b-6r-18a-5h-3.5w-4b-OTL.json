@@ -1,0 +1,35 @@
+{
+    "puzzle": "COOL_EARRINGS",
+    "score": {
+        "cost": 160,
+        "instructions": 20,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 39,
+        "area": 18,
+        "height": 5,
+        "width": 3.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/COOL_EARRINGS/160g-39c-18a-20i-O-T-d9845877.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8b12726c/w2946693353/160g-20i-39c-18a-5h-3.5w-4b-6r-18a-5h-3.5w-4b-OTL",
+    "dataPath": "TOURNAMENT_2023/COOL_EARRINGS/COOL_EARRINGS_160g-20i-39c-18a-5h-3.5w-4b-6r-18a-5h-3.5w-4b-OTL.solution"
+}

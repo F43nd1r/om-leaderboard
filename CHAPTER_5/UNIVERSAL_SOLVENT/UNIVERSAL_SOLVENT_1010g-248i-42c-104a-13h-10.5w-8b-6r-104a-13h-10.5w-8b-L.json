@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNIVERSAL_SOLVENT",
+    "score": {
+        "cost": 1010,
+        "instructions": 248,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 42,
+        "area": 104,
+        "height": 13,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 104.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/Ddc4fHZ.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b887c78e/P043/1010g-248i-42c-104a-13h-10.5w-8b-6r-104a-13h-10.5w-8b-L",
+    "dataPath": "CHAPTER_5/UNIVERSAL_SOLVENT/UNIVERSAL_SOLVENT_1010g-248i-42c-104a-13h-10.5w-8b-6r-104a-13h-10.5w-8b-L.solution"
+}

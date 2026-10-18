@@ -1,0 +1,26 @@
+{
+    "puzzle": "VISCOUS_SLUDGE",
+    "score": {
+        "cost": 90,
+        "instructions": 68,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 125,
+        "area": 51,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 51.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/rHIVIbx.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/23b537e0/P080/90g-68i-125c-51a-21r-51a-TL",
+    "dataPath": "CHAPTER_PRODUCTION/VISCOUS_SLUDGE/VISCOUS_SLUDGE_90g-68i-125c-51a-21r-51a-TL.solution"
+}

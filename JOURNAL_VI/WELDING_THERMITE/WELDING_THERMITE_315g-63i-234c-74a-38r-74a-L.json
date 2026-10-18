@@ -1,0 +1,26 @@
+{
+    "puzzle": "WELDING_THERMITE",
+    "score": {
+        "cost": 315,
+        "instructions": 63,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 234,
+        "area": 74,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 38.0,
+        "areaINF": {
+            "level": 0,
+            "value": 74.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Welding-Thermite-315g-234c-74a-63i-7h-12w-38r-d3f006.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/4f63b20c/P094/315g-63i-234c-74a-38r-74a-L",
+    "dataPath": "JOURNAL_VI/WELDING_THERMITE/WELDING_THERMITE_315g-63i-234c-74a-38r-74a-L.solution"
+}

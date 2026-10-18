@@ -1,0 +1,29 @@
+{
+    "puzzle": "ELECTRUM_SEPARATION",
+    "score": {
+        "cost": 130,
+        "instructions": 82,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 342,
+        "area": 100,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ELECTRUM_SEPARATION/130g-342c-100a-82i-3f5749fd.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4305f61d/P103/130g-82i-342c-100a-10h-18r-2a1-10h-L",
+    "dataPath": "JOURNAL_VIII/ELECTRUM_SEPARATION/ELECTRUM_SEPARATION_130g-82i-342c-100a-10h-18r-2a1-10h-L.solution"
+}

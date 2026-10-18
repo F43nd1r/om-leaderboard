@@ -1,0 +1,35 @@
+{
+    "puzzle": "POTENT_POTABLES",
+    "score": {
+        "cost": 165,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 67,
+        "area": 51,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 11.0,
+        "areaINF": {
+            "level": 0,
+            "value": 51.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Potent-Potables-165g-67c-51a-36i-7h-7w-11r-9b0f8b.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/3b4e28d9/w2501727721/165g-36i-67c-51a-7h-7w-7b-11r-51a-7h-7w-7b-L",
+    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/POTENT_POTABLES_165g-36i-67c-51a-7h-7w-7b-11r-51a-7h-7w-7b-L.solution"
+}

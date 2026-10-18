@@ -1,0 +1,35 @@
+{
+    "puzzle": "VOLATILITY_AND_TRANQUILITY",
+    "score": {
+        "cost": 1180,
+        "instructions": 179,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 40,
+        "area": 373,
+        "height": 21,
+        "width": 22.5,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/VOLATILITY_AND_TRANQUILITY/1180g-40c-373a-179i-e07ff590.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fea1decf/w2501727977/1180g-179i-40c-373a-21h-22.5w-18b-4r-1a1-21h-0.5w1-0.5b1-L",
+    "dataPath": "TOURNAMENT_2020/VOLATILITY_AND_TRANQUILITY/VOLATILITY_AND_TRANQUILITY_1180g-179i-40c-373a-21h-22.5w-18b-4r-1a1-21h-0.5w1-0.5b1-L.solution"
+}

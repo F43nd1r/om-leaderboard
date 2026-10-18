@@ -1,0 +1,35 @@
+{
+    "puzzle": "SIMULACRUM",
+    "score": {
+        "cost": 185,
+        "instructions": 262,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1532,
+        "area": 44,
+        "height": 10,
+        "width": 3.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 256.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SIMULACRUM/185g-1532c-44a-262i-36d48847.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1a1be803/w3210138102/185g-262i-1532c-44a-10h-3w-10b-256r-44a-10h-3w-10b-L",
+    "dataPath": "TOURNAMENT_2024/SIMULACRUM/SIMULACRUM_185g-262i-1532c-44a-10h-3w-10b-256r-44a-10h-3w-10b-L.solution"
+}

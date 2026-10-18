@@ -1,0 +1,35 @@
+{
+    "puzzle": "BLUE_VITRIOL",
+    "score": {
+        "cost": 750,
+        "instructions": 289,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 35,
+        "area": 250,
+        "height": 17,
+        "width": 13.0,
+        "boundingHex": 15,
+        "looping": false,
+        "rate": 3.34,
+        "areaINF": {
+            "level": 0,
+            "value": 250.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 15.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BLUE_VITRIOL/750g-35c-250a-289i-cab81cad.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/88c5b06f/P241/750g-289i-35c-250a-17h-13w-15b-3.34r-250a-17h-13w-15b",
+    "dataPath": "JOURNAL_XI/BLUE_VITRIOL/BLUE_VITRIOL_750g-289i-35c-250a-17h-13w-15b-3.34r-250a-17h-13w-15b.solution"
+}

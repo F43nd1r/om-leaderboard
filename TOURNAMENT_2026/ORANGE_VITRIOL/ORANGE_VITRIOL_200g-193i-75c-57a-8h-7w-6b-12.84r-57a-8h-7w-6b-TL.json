@@ -1,0 +1,35 @@
+{
+    "puzzle": "ORANGE_VITRIOL",
+    "score": {
+        "cost": 200,
+        "instructions": 193,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 75,
+        "area": 57,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 12.84,
+        "areaINF": {
+            "level": 0,
+            "value": 57.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/c72258d7/w3728200375/200g-193i-75c-57a-8h-7w-6b-12.84r-57a-8h-7w-6b-TL",
+    "dataPath": "TOURNAMENT_2026/ORANGE_VITRIOL/ORANGE_VITRIOL_200g-193i-75c-57a-8h-7w-6b-12.84r-57a-8h-7w-6b-TL.solution"
+}

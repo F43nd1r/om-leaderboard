@@ -1,0 +1,35 @@
+{
+    "puzzle": "BEAUTY_SALVE",
+    "score": {
+        "cost": 800,
+        "instructions": 249,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 58,
+        "area": 90,
+        "height": 4,
+        "width": 14.0,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 90.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/PehOHYM.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/894b058d/P246/800g-249i-58c-90a-4h-14w-13b-4r-90a-4h-14w-13b-L",
+    "dataPath": "JOURNAL_X/BEAUTY_SALVE/BEAUTY_SALVE_800g-249i-58c-90a-4h-14w-13b-4r-90a-4h-14w-13b-L.solution"
+}

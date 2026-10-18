@@ -1,0 +1,35 @@
+{
+    "puzzle": "METAL_DIVISION",
+    "score": {
+        "cost": 430,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 17,
+        "area": 44,
+        "height": 7,
+        "width": 7.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/Ql6tIKN.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/8186fda3/P208/430g-62i-17c-44a-7h-7.5w-6b-2r-44a-7h-7.5w-6b-L",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_430g-62i-17c-44a-7h-7.5w-6b-2r-44a-7h-7.5w-6b-L.solution"
+}

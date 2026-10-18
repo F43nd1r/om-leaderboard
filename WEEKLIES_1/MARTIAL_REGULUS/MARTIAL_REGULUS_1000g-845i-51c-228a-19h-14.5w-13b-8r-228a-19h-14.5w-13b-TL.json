@@ -1,0 +1,35 @@
+{
+    "puzzle": "MARTIAL_REGULUS",
+    "score": {
+        "cost": 1000,
+        "instructions": 845,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 51,
+        "area": 228,
+        "height": 19,
+        "width": 14.5,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 228.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MARTIAL_REGULUS/1000g-51c-228a-845i-T-0ecd5f00.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f53f7044/w2827119474/1000g-845i-51c-228a-19h-14.5w-13b-8r-228a-19h-14.5w-13b-TL",
+    "dataPath": "WEEKLIES_1/MARTIAL_REGULUS/MARTIAL_REGULUS_1000g-845i-51c-228a-19h-14.5w-13b-8r-228a-19h-14.5w-13b-TL.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "XYLEM_SUBSTITUTE",
+    "score": {
+        "cost": 100,
+        "instructions": 122,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1389,
+        "area": 872,
+        "height": null,
+        "width": 29.0,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 232.0,
+        "areaINF": {
+            "level": 2,
+            "value": 24.0
+        },
+        "heightINF": null,
+        "widthINF": {
+            "level": 1,
+            "value": 3.4641016151377544
+        },
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/XYLEM_SUBSTITUTE/100g-1389c-872a-122i-T-984c5aed.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/728f3c6a/P297/100g-122i-1389c-872a-29w-232r-24a2-3.464w1-TL",
+    "dataPath": "JOURNAL_CVIII_IX/XYLEM_SUBSTITUTE/XYLEM_SUBSTITUTE_100g-122i-1389c-872a-29w-232r-24a2-3.464w1-TL.solution"
+}

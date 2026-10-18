@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 400,
+        "instructions": 92,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 34,
+        "area": 58,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/400g-34c-58a-92i-678690c2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1a9f7f38/P209/400g-92i-34c-58a-8h-4r-4a1-8h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_400g-92i-34c-58a-8h-4r-4a1-8h-L.solution"
+}

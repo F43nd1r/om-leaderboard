@@ -1,0 +1,26 @@
+{
+    "puzzle": "PARADE_ROCKET_FUEL",
+    "score": {
+        "cost": 140,
+        "instructions": 48,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 76,
+        "area": 69,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.5,
+        "areaINF": {
+            "level": 0,
+            "value": 69.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Parade-Rocket-Fuel-140g-76c-69a-48i-8h-10.5w-12.5r-T-891854.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/ea3788a4/P082/140g-48i-76c-69a-12.5r-69a-TL",
+    "dataPath": "CHAPTER_PRODUCTION/PARADE_ROCKET_FUEL/PARADE_ROCKET_FUEL_140g-48i-76c-69a-12.5r-69a-TL.solution"
+}

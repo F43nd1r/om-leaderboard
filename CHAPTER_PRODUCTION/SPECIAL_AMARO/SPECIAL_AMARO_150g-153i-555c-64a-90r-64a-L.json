@@ -1,0 +1,26 @@
+{
+    "puzzle": "SPECIAL_AMARO",
+    "score": {
+        "cost": 150,
+        "instructions": 153,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 555,
+        "area": 64,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 90.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SPECIAL_AMARO/150g-555c-64a-153i-cddf448d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6852f792/P083/150g-153i-555c-64a-90r-64a-L",
+    "dataPath": "CHAPTER_PRODUCTION/SPECIAL_AMARO/SPECIAL_AMARO_150g-153i-555c-64a-90r-64a-L.solution"
+}

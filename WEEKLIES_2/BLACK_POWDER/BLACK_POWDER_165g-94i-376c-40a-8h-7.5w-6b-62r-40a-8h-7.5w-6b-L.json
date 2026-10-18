@@ -1,0 +1,35 @@
+{
+    "puzzle": "BLACK_POWDER",
+    "score": {
+        "cost": 165,
+        "instructions": 94,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 376,
+        "area": 40,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 62.0,
+        "areaINF": {
+            "level": 0,
+            "value": 40.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/f6c0842f/w3088257476/165g-94i-376c-40a-8h-7.5w-6b-62r-40a-8h-7.5w-6b-L",
+    "dataPath": "WEEKLIES_2/BLACK_POWDER/BLACK_POWDER_165g-94i-376c-40a-8h-7.5w-6b-62r-40a-8h-7.5w-6b-L.solution"
+}

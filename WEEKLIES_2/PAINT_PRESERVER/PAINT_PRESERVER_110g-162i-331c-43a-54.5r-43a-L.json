@@ -1,0 +1,26 @@
+{
+    "puzzle": "PAINT_PRESERVER",
+    "score": {
+        "cost": 110,
+        "instructions": 162,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 331,
+        "area": 43,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 54.5,
+        "areaINF": {
+            "level": 0,
+            "value": 43.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/fa008927/w3817955175/110g-162i-331c-43a-54.5r-43a-L",
+    "dataPath": "WEEKLIES_2/PAINT_PRESERVER/PAINT_PRESERVER_110g-162i-331c-43a-54.5r-43a-L.solution"
+}

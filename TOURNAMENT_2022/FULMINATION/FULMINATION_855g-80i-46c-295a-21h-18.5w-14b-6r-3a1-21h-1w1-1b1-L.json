@@ -1,0 +1,35 @@
+{
+    "puzzle": "FULMINATION",
+    "score": {
+        "cost": 855,
+        "instructions": 80,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 46,
+        "area": 295,
+        "height": 21,
+        "width": 18.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/Lk4Tf5O.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/1be7af1b/w2788067677/855g-80i-46c-295a-21h-18.5w-14b-6r-3a1-21h-1w1-1b1-L",
+    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_855g-80i-46c-295a-21h-18.5w-14b-6r-3a1-21h-1w1-1b1-L.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 275,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 32,
+        "area": 76,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/275g-32c-76a-62i-dfac313d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/26e23b98/P209/275g-62i-32c-76a-10h-4r-4a1-10h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_275g-62i-32c-76a-10h-4r-4a1-10h-L.solution"
+}

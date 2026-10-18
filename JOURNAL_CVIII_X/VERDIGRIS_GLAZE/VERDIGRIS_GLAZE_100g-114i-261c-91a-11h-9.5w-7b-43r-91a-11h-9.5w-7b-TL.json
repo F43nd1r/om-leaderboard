@@ -1,0 +1,35 @@
+{
+    "puzzle": "VERDIGRIS_GLAZE",
+    "score": {
+        "cost": 100,
+        "instructions": 114,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 261,
+        "area": 91,
+        "height": 11,
+        "width": 9.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 43.0,
+        "areaINF": {
+            "level": 0,
+            "value": 91.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VERDIGRIS_GLAZE/100g-261c-91a-114i-T-0b5d5185.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/de40138d/P302/100g-114i-261c-91a-11h-9.5w-7b-43r-91a-11h-9.5w-7b-TL",
+    "dataPath": "JOURNAL_CVIII_X/VERDIGRIS_GLAZE/VERDIGRIS_GLAZE_100g-114i-261c-91a-11h-9.5w-7b-43r-91a-11h-9.5w-7b-TL.solution"
+}

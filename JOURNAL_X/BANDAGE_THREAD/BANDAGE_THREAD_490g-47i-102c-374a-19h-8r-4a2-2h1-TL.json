@@ -1,0 +1,29 @@
+{
+    "puzzle": "BANDAGE_THREAD",
+    "score": {
+        "cost": 490,
+        "instructions": 47,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 102,
+        "area": 374,
+        "height": 19,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BANDAGE_THREAD/490g-102c-374a-47i-T-fcb8a1a6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4247dce0/P248/490g-47i-102c-374a-19h-8r-4a2-2h1-TL",
+    "dataPath": "JOURNAL_X/BANDAGE_THREAD/BANDAGE_THREAD_490g-47i-102c-374a-19h-8r-4a2-2h1-TL.solution"
+}

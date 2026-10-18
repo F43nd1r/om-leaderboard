@@ -1,0 +1,29 @@
+{
+    "puzzle": "REFINED_BRONZE",
+    "score": {
+        "cost": 1300,
+        "instructions": 100,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 124,
+        "area": 4021,
+        "height": 81,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 17.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/REFINED_BRONZE/1300g-124c-4021a-100i-T-287d8173.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8ec16d9b/P067/1300g-100i-124c-4021a-81h-4r-17a2-3h1-TL",
+    "dataPath": "JOURNAL_III/REFINED_BRONZE/REFINED_BRONZE_1300g-100i-124c-4021a-81h-4r-17a2-3h1-TL.solution"
+}

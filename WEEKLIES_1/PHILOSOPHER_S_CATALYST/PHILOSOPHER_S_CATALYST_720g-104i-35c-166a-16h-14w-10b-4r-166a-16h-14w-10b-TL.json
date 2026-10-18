@@ -1,0 +1,35 @@
+{
+    "puzzle": "PHILOSOPHER_S_CATALYST",
+    "score": {
+        "cost": 720,
+        "instructions": 104,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 35,
+        "area": 166,
+        "height": 16,
+        "width": 14.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 166.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PHILOSOPHER_S_CATALYST/720g-35c-166a-104i-T-41dcb7b6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fd51517a/w2868339730/720g-104i-35c-166a-16h-14w-10b-4r-166a-16h-14w-10b-TL",
+    "dataPath": "WEEKLIES_1/PHILOSOPHER_S_CATALYST/PHILOSOPHER_S_CATALYST_720g-104i-35c-166a-16h-14w-10b-4r-166a-16h-14w-10b-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "PANACEA_TO_POISON",
+    "score": {
+        "cost": 1060,
+        "instructions": 81,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 61,
+        "area": 874,
+        "height": 42,
+        "width": 36.0,
+        "boundingHex": 27,
+        "looping": true,
+        "rate": 4.67,
+        "areaINF": {
+            "level": 2,
+            "value": 6.805555555555555
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.3333333333333335
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.3333333333333335
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.9444444444444444
+        }
+    },
+    "displayLink": "https://files.mors.technology/PANACEA_TO_POISON/1060g-61c-874a-81i-bac7e689.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/17e04bab/w2450511665/1060g-81i-61c-874a-42h-36w-27b-4.67r-6.806a2-3.333h1-2.333w1-1.944b1-L",
+    "dataPath": "TOURNAMENT_2021/PANACEA_TO_POISON/PANACEA_TO_POISON_1060g-81i-61c-874a-42h-36w-27b-4.67r-6.806a2-3.333h1-2.333w1-1.944b1-L.solution"
+}

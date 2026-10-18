@@ -1,0 +1,35 @@
+{
+    "puzzle": "PANACEA",
+    "score": {
+        "cost": 950,
+        "instructions": 164,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 99,
+        "area": 89,
+        "height": 3,
+        "width": 16.5,
+        "boundingHex": 17,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 89.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 16.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 17.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PANACEA/950g-99c-89a-164i-T-be4d45d3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b0472bd3/w1698789743/950g-164i-99c-89a-3h-16.5w-17b-8r-89a-3h-16.5w-17b-TL",
+    "dataPath": "TOURNAMENT_2019/PANACEA/PANACEA_950g-164i-99c-89a-3h-16.5w-17b-8r-89a-3h-16.5w-17b-TL.solution"
+}

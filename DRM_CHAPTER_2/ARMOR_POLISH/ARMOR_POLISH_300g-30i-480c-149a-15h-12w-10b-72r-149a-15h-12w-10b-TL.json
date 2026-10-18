@@ -1,0 +1,35 @@
+{
+    "puzzle": "ARMOR_POLISH",
+    "score": {
+        "cost": 300,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 480,
+        "area": 149,
+        "height": 15,
+        "width": 12.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 72.0,
+        "areaINF": {
+            "level": 0,
+            "value": 149.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/ULAnCnF.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b656f1a1/P213/300g-30i-480c-149a-15h-12w-10b-72r-149a-15h-12w-10b-TL",
+    "dataPath": "DRM_CHAPTER_2/ARMOR_POLISH/ARMOR_POLISH_300g-30i-480c-149a-15h-12w-10b-72r-149a-15h-12w-10b-TL.solution"
+}

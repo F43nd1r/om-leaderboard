@@ -1,0 +1,35 @@
+{
+    "puzzle": "HANGOVER_CURE",
+    "score": {
+        "cost": 80,
+        "instructions": 28,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 144,
+        "area": 10,
+        "height": 3,
+        "width": 2.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Hangover-Cure-80g-144c-10a-28i-3h-2.5w-24r-T-624005.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/8bf57ee6/P013/80g-28i-144c-10a-3h-2.5w-4b-24r-10a-3h-2.5w-4b-TL",
+    "dataPath": "CHAPTER_1/HANGOVER_CURE/HANGOVER_CURE_80g-28i-144c-10a-3h-2.5w-4b-24r-10a-3h-2.5w-4b-TL.solution"
+}

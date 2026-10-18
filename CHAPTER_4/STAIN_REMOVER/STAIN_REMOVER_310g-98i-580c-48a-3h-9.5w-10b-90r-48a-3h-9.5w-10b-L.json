@@ -1,0 +1,35 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 310,
+        "instructions": 98,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 580,
+        "area": 48,
+        "height": 3,
+        "width": 9.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 90.0,
+        "areaINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/STAIN_REMOVER/310g-580c-48a-98i-e58295ae.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b0ea52e3/P034/310g-98i-580c-48a-3h-9.5w-10b-90r-48a-3h-9.5w-10b-L",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_310g-98i-580c-48a-3h-9.5w-10b-90r-48a-3h-9.5w-10b-L.solution"
+}

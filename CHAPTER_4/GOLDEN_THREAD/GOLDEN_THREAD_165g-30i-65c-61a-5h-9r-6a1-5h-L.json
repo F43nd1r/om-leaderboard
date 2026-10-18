@@ -1,0 +1,29 @@
+{
+    "puzzle": "GOLDEN_THREAD",
+    "score": {
+        "cost": 165,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 61,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/lGI4eQG.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/ca101911/P037/165g-30i-65c-61a-5h-9r-6a1-5h-L",
+    "dataPath": "CHAPTER_4/GOLDEN_THREAD/GOLDEN_THREAD_165g-30i-65c-61a-5h-9r-6a1-5h-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "LUBRICATING_SOLVENTS",
+    "score": {
+        "cost": 190,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 33,
+        "area": 75,
+        "height": 10,
+        "width": 9.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 75.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Lubricating-Solvents-190g-33c-75a-19i-10h-9.5w-5r-T-aef8ef.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b37bf311/w2788066950/190g-19i-33c-75a-10h-9.5w-7b-5r-75a-10h-9.5w-7b-TL",
+    "dataPath": "TOURNAMENT_2022/LUBRICATING_SOLVENTS/LUBRICATING_SOLVENTS_190g-19i-33c-75a-10h-9.5w-7b-5r-75a-10h-9.5w-7b-TL.solution"
+}

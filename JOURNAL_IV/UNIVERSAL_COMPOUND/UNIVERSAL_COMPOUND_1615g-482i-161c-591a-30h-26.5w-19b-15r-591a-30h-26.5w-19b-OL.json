@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNIVERSAL_COMPOUND",
+    "score": {
+        "cost": 1615,
+        "instructions": 482,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 161,
+        "area": 591,
+        "height": 30,
+        "width": 26.5,
+        "boundingHex": 19,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 591.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 26.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 19.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UNIVERSAL_COMPOUND/1615g-161c-591a-482i-O-f9f903f3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/60f4e3f7/P072/1615g-482i-161c-591a-30h-26.5w-19b-15r-591a-30h-26.5w-19b-OL",
+    "dataPath": "JOURNAL_IV/UNIVERSAL_COMPOUND/UNIVERSAL_COMPOUND_1615g-482i-161c-591a-30h-26.5w-19b-15r-591a-30h-26.5w-19b-OL.solution"
+}

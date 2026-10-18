@@ -1,0 +1,35 @@
+{
+    "puzzle": "GRENADE_PELLET",
+    "score": {
+        "cost": 140,
+        "instructions": 76,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 454,
+        "area": 47,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 76.0,
+        "areaINF": {
+            "level": 0,
+            "value": 47.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/GRENADE_PELLET/140g-454c-47a-76i-6cdc65f5.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8b03ad0d/P259/140g-76i-454c-47a-8h-7.5w-5b-76r-47a-8h-7.5w-5b-L",
+    "dataPath": "JOURNAL_CVIII_I/GRENADE_PELLET/GRENADE_PELLET_140g-76i-454c-47a-8h-7.5w-5b-76r-47a-8h-7.5w-5b-L.solution"
+}

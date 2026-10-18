@@ -1,0 +1,35 @@
+{
+    "puzzle": "VAN_BERLO_S_PIVOTS",
+    "score": {
+        "cost": 210,
+        "instructions": 42,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 495,
+        "area": 54,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 84.0,
+        "areaINF": {
+            "level": 0,
+            "value": 54.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_PIVOTS/210g-495c-54a-42i-beb011db.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/89ceff3a/P096/210g-42i-495c-54a-9h-8.5w-5b-84r-54a-9h-8.5w-5b-L",
+    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/VAN_BERLO_S_PIVOTS_210g-42i-495c-54a-9h-8.5w-5b-84r-54a-9h-8.5w-5b-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "PATTERN_METAL",
+    "score": {
+        "cost": 150,
+        "instructions": 263,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1440,
+        "area": 63,
+        "height": 5,
+        "width": 9.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 241.0,
+        "areaINF": {
+            "level": 0,
+            "value": 63.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PATTERN_METAL/150g-1440c-63a-263i-cd49e4c0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0a7cb040/P221/150g-263i-1440c-63a-5h-9.5w-8b-241r-63a-5h-9.5w-8b-L",
+    "dataPath": "DRM_CHAPTER_3/PATTERN_METAL/PATTERN_METAL_150g-263i-1440c-63a-5h-9.5w-8b-241r-63a-5h-9.5w-8b-L.solution"
+}

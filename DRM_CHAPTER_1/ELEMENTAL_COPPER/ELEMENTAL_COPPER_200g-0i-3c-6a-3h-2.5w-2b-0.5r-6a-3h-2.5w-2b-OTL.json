@@ -1,0 +1,35 @@
+{
+    "puzzle": "ELEMENTAL_COPPER",
+    "score": {
+        "cost": 200,
+        "instructions": 0,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 3,
+        "area": 6,
+        "height": 3,
+        "width": 2.5,
+        "boundingHex": 2,
+        "looping": true,
+        "rate": 0.5,
+        "areaINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.catbox.moe/slrz36.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/67a63c38/P202/200g-0i-3c-6a-3h-2.5w-2b-0.5r-6a-3h-2.5w-2b-OTL",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_200g-0i-3c-6a-3h-2.5w-2b-0.5r-6a-3h-2.5w-2b-OTL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "SAVERIO_S_TEST",
+    "score": {
+        "cost": 145,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 26,
+        "area": 21,
+        "height": 4,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://imgur.com/a/lbr4Z3X",
+    "dataLink": "https://zlbb.faendir.com/l/om/5b1fcbe3/P201/145g-30i-26c-21a-4h-5w-4b-4r-21a-4h-5w-4b-L",
+    "dataPath": "DRM_CHAPTER_1/SAVERIO_S_TEST/SAVERIO_S_TEST_145g-30i-26c-21a-4h-5w-4b-4r-21a-4h-5w-4b-L.solution"
+}

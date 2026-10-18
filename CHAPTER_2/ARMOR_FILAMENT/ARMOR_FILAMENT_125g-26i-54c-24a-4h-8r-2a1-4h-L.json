@@ -1,0 +1,29 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 125,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 54,
+        "area": 24,
+        "height": 4,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Armor-Filament-125g-54c-24a-26i-4h-9w-8r-476248.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b4b0c084/P020/125g-26i-54c-24a-4h-8r-2a1-4h-L",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_125g-26i-54c-24a-4h-8r-2a1-4h-L.solution"
+}

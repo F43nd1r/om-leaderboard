@@ -1,0 +1,35 @@
+{
+    "puzzle": "RESONANT_CRYSTAL",
+    "score": {
+        "cost": 645,
+        "instructions": 159,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 42,
+        "area": 76,
+        "height": 12,
+        "width": 10.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 76.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/RESONANT_CRYSTAL/645g-42c-76a-159i-O-16c81494.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/eaa00d9b/P066/645g-159i-42c-76a-12h-10.5w-7b-7r-76a-12h-10.5w-7b-OL",
+    "dataPath": "JOURNAL_III/RESONANT_CRYSTAL/RESONANT_CRYSTAL_645g-159i-42c-76a-12h-10.5w-7b-7r-76a-12h-10.5w-7b-OL.solution"
+}

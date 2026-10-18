@@ -1,0 +1,29 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 140,
+        "instructions": 56,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 178,
+        "area": 72,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.catbox.moe/9t2ogs.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/14234113/P039/140g-56i-178c-72a-8h-28r-8a1-8h-TL",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_140g-56i-178c-72a-8h-28r-8a1-8h-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "RECLAIMED_GOLD",
+    "score": {
+        "cost": 80,
+        "instructions": 5,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 60,
+        "area": 7,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 2,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/RECLAIMED_GOLD/80g-60c-7a-5i-O-T-9a33c07f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/44c49ba5/P254/80g-5i-60c-7a-3h-3w-2b-5r-7a-3h-3w-2b-OTL",
+    "dataPath": "JOURNAL_XII/RECLAIMED_GOLD/RECLAIMED_GOLD_80g-5i-60c-7a-3h-3w-2b-5r-7a-3h-3w-2b-OTL.solution"
+}

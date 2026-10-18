@@ -1,0 +1,35 @@
+{
+    "puzzle": "ROSEWATER",
+    "score": {
+        "cost": 960,
+        "instructions": 2,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 1088,
+        "area": 301,
+        "height": 21,
+        "width": 21.0,
+        "boundingHex": 15,
+        "looping": true,
+        "rate": 188.0,
+        "areaINF": {
+            "level": 0,
+            "value": 301.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 15.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ROSEWATER/960g-1088c-301a-2i-O-737c1d61.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fcfd85a9/P285/960g-2i-1088c-301a-21h-21w-15b-188r-301a-21h-21w-15b-OL",
+    "dataPath": "JOURNAL_CVIII_VII/ROSEWATER/ROSEWATER_960g-2i-1088c-301a-21h-21w-15b-188r-301a-21h-21w-15b-OL.solution"
+}

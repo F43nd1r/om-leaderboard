@@ -1,0 +1,29 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 65,
+        "instructions": 262,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 244,
+        "area": 22,
+        "height": 2,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 40.31,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/OpGiC7I.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/ca2e6f37/P020/65g-262i-244c-22a-2h-40.31r-2a1-2h-L",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_65g-262i-244c-22a-2h-40.31r-2a1-2h-L.solution"
+}

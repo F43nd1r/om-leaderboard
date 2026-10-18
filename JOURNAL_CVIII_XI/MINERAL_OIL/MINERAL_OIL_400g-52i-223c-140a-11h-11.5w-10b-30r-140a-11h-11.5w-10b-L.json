@@ -1,0 +1,35 @@
+{
+    "puzzle": "MINERAL_OIL",
+    "score": {
+        "cost": 400,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 223,
+        "area": 140,
+        "height": 11,
+        "width": 11.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 140.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MINERAL_OIL/400g-223c-140a-52i-0d4a88b0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ac9905a4/P307/400g-52i-223c-140a-11h-11.5w-10b-30r-140a-11h-11.5w-10b-L",
+    "dataPath": "JOURNAL_CVIII_XI/MINERAL_OIL/MINERAL_OIL_400g-52i-223c-140a-11h-11.5w-10b-30r-140a-11h-11.5w-10b-L.solution"
+}

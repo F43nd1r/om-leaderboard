@@ -1,0 +1,29 @@
+{
+    "puzzle": "LUBRICATING_FILAMENT",
+    "score": {
+        "cost": 290,
+        "instructions": 27,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 297,
+        "area": 660,
+        "height": 40,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 40.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Lubricating-Filament-290g-297c-660a-27i-40h-25.5w-40r-T-5199bc.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/113961bf/P065/290g-27i-297c-660a-40h-40r-16a2-4h1-TL",
+    "dataPath": "JOURNAL_III/LUBRICATING_FILAMENT/LUBRICATING_FILAMENT_290g-27i-297c-660a-40h-40r-16a2-4h1-TL.solution"
+}

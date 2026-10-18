@@ -1,0 +1,35 @@
+{
+    "puzzle": "DO_YOU_REMEMBER",
+    "score": {
+        "cost": 100,
+        "instructions": 213,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1277,
+        "area": 798,
+        "height": 33,
+        "width": 29.5,
+        "boundingHex": 25,
+        "looping": true,
+        "rate": 213.0,
+        "areaINF": {
+            "level": 2,
+            "value": 32.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 4.618802153517006
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/DO_YOU_REMEMBER/100g-1277c-798a-213i-b542021a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/97803970/w1698787731/100g-213i-1277c-798a-33h-29.5w-25b-213r-32a2-4.619h1-4w1-4b1-L",
+    "dataPath": "TOURNAMENT_2019/DO_YOU_REMEMBER/DO_YOU_REMEMBER_100g-213i-1277c-798a-33h-29.5w-25b-213r-32a2-4.619h1-4w1-4b1-L.solution"
+}

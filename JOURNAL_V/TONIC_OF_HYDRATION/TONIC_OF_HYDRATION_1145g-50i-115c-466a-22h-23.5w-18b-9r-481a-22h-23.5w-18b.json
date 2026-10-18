@@ -1,0 +1,35 @@
+{
+    "puzzle": "TONIC_OF_HYDRATION",
+    "score": {
+        "cost": 1145,
+        "instructions": 50,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 115,
+        "area": 466,
+        "height": 22,
+        "width": 23.5,
+        "boundingHex": 18,
+        "looping": false,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 481.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 23.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 18.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/d9udd3U.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/5ca61f96/P089/1145g-50i-115c-466a-22h-23.5w-18b-9r-481a-22h-23.5w-18b",
+    "dataPath": "JOURNAL_V/TONIC_OF_HYDRATION/TONIC_OF_HYDRATION_1145g-50i-115c-466a-22h-23.5w-18b-9r-481a-22h-23.5w-18b.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "ONE_LAST_FAVOR",
+    "score": {
+        "cost": 215,
+        "instructions": 46,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 224,
+        "area": 21,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 38.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/16053251/w3728200519/215g-46i-224c-21a-6h-5w-4b-38r-21a-6h-5w-4b-OL",
+    "dataPath": "TOURNAMENT_2026/ONE_LAST_FAVOR/ONE_LAST_FAVOR_215g-46i-224c-21a-6h-5w-4b-38r-21a-6h-5w-4b-OL.solution"
+}

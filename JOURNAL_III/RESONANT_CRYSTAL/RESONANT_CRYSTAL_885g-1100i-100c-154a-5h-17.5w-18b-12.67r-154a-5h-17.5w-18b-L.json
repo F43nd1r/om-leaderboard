@@ -1,0 +1,35 @@
+{
+    "puzzle": "RESONANT_CRYSTAL",
+    "score": {
+        "cost": 885,
+        "instructions": 1100,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 100,
+        "area": 154,
+        "height": 5,
+        "width": 17.5,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 12.67,
+        "areaINF": {
+            "level": 0,
+            "value": 154.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 18.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/481ad750/P066/885g-1100i-100c-154a-5h-17.5w-18b-12.67r-154a-5h-17.5w-18b-L",
+    "dataPath": "JOURNAL_III/RESONANT_CRYSTAL/RESONANT_CRYSTAL_885g-1100i-100c-154a-5h-17.5w-18b-12.67r-154a-5h-17.5w-18b-L.solution"
+}

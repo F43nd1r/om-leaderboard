@@ -1,0 +1,26 @@
+{
+    "puzzle": "ALCHEMIST_S_CLAY",
+    "score": {
+        "cost": 210,
+        "instructions": 75,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 121,
+        "area": 80,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 19.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/b6a46e70/w3728200093/210g-75i-121c-80a-19r-80a-L",
+    "dataPath": "TOURNAMENT_2026/ALCHEMIST_S_CLAY/ALCHEMIST_S_CLAY_210g-75i-121c-80a-19r-80a-L.solution"
+}

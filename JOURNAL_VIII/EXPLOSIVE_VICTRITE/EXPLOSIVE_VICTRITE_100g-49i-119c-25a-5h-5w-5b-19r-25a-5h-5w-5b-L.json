@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPLOSIVE_VICTRITE",
+    "score": {
+        "cost": 100,
+        "instructions": 49,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 119,
+        "area": 25,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 19.0,
+        "areaINF": {
+            "level": 0,
+            "value": 25.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Explosive-Victrite-100g-119c-25a-49i-5h-5w-19r-d905cd.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/9c097595/P100/100g-49i-119c-25a-5h-5w-5b-19r-25a-5h-5w-5b-L",
+    "dataPath": "JOURNAL_VIII/EXPLOSIVE_VICTRITE/EXPLOSIVE_VICTRITE_100g-49i-119c-25a-5h-5w-5b-19r-25a-5h-5w-5b-L.solution"
+}

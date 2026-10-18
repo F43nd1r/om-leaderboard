@@ -1,0 +1,35 @@
+{
+    "puzzle": "LIGHTHOUSE_MIRROR",
+    "score": {
+        "cost": 290,
+        "instructions": 72,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 122,
+        "area": 68,
+        "height": 10,
+        "width": 9.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 68.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LIGHTHOUSE_MIRROR/290g-122c-68a-72i-fec4a752.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/edce62bc/P258/290g-72i-122c-68a-10h-9w-6b-20r-68a-10h-9w-6b-L",
+    "dataPath": "JOURNAL_CVIII_I/LIGHTHOUSE_MIRROR/LIGHTHOUSE_MIRROR_290g-72i-122c-68a-10h-9w-6b-20r-68a-10h-9w-6b-L.solution"
+}

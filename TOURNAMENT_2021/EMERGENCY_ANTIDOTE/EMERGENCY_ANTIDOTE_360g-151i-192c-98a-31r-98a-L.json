@@ -1,0 +1,26 @@
+{
+    "puzzle": "EMERGENCY_ANTIDOTE",
+    "score": {
+        "cost": 360,
+        "instructions": 151,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 192,
+        "area": 98,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 31.0,
+        "areaINF": {
+            "level": 0,
+            "value": 98.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Emergency-Antidote-360g-192c-98a-151i-9h-12w-31r-1104e1.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/76ba75b7/w2450512232/360g-151i-192c-98a-31r-98a-L",
+    "dataPath": "TOURNAMENT_2021/EMERGENCY_ANTIDOTE/EMERGENCY_ANTIDOTE_360g-151i-192c-98a-31r-98a-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "WATERPROOF_SEALANT",
+    "score": {
+        "cost": 80,
+        "instructions": 11,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 38,
+        "area": 11,
+        "height": 4,
+        "width": 3.5,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Waterproof-Sealant-80g-38c-11a-11i-4h-3.5w-6r-T-815ce8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/9f156e8a/P011/80g-11i-38c-11a-4h-3.5w-3b-6r-11a-4h-3.5w-3b-TL",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_80g-11i-38c-11a-4h-3.5w-3b-6r-11a-4h-3.5w-3b-TL.solution"
+}

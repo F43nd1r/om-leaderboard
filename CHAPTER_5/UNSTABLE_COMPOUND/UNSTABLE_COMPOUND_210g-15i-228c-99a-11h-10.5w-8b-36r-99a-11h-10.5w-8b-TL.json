@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNSTABLE_COMPOUND",
+    "score": {
+        "cost": 210,
+        "instructions": 15,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 228,
+        "area": 99,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 99.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/P1vji6M.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/240bddec/P040/210g-15i-228c-99a-11h-10.5w-8b-36r-99a-11h-10.5w-8b-TL",
+    "dataPath": "CHAPTER_5/UNSTABLE_COMPOUND/UNSTABLE_COMPOUND_210g-15i-228c-99a-11h-10.5w-8b-36r-99a-11h-10.5w-8b-TL.solution"
+}

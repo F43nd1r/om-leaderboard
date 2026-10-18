@@ -1,0 +1,35 @@
+{
+    "puzzle": "RESONANT_DUST",
+    "score": {
+        "cost": 460,
+        "instructions": 43,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 173,
+        "area": 163,
+        "height": 17,
+        "width": 14.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/Radio-Receivers-460g-173c-163a-43i-17h-14w-24r-T-6720ec.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/c7c1020f/P243/460g-43i-173c-163a-17h-14w-11b-24r-1a1-19h-0.5w1-0.5b1-TL",
+    "dataPath": "JOURNAL_XI/RESONANT_DUST/RESONANT_DUST_460g-43i-173c-163a-17h-14w-11b-24r-1a1-19h-0.5w1-0.5b1-TL.solution"
+}

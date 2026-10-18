@@ -1,0 +1,35 @@
+{
+    "puzzle": "ELEMENTAL_JEWEL_SETTING",
+    "score": {
+        "cost": 165,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 394,
+        "area": 81,
+        "height": 14,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 66.0,
+        "areaINF": {
+            "level": 0,
+            "value": 81.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Elemental-Jewel-Setting-165g-394c-81a-22i-14h-10.5w-66r-1c4754.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/0e52b232/w2450512809/165g-22i-394c-81a-14h-10.5w-8b-66r-81a-14h-10.5w-8b-L",
+    "dataPath": "TOURNAMENT_2021/ELEMENTAL_JEWEL_SETTING/ELEMENTAL_JEWEL_SETTING_165g-22i-394c-81a-14h-10.5w-8b-66r-81a-14h-10.5w-8b-L.solution"
+}

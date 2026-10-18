@@ -1,0 +1,29 @@
+{
+    "puzzle": "BIOSTEEL_FILAMENT",
+    "score": {
+        "cost": 260,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 273,
+        "area": 548,
+        "height": 31,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/kEbp2l5.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/de13d0d0/w2946684529/260g-24i-273c-548a-31h-36r-16a2-4h1-TL",
+    "dataPath": "TOURNAMENT_2023/BIOSTEEL_FILAMENT/BIOSTEEL_FILAMENT_260g-24i-273c-548a-31h-36r-16a2-4h1-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "RAVARI_S_ROAD",
+    "score": {
+        "cost": 225,
+        "instructions": 3,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 7902,
+        "area": 44,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 1368.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/rvQlWWK.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/3cdff54b/w3584639567/225g-3i-7902c-44a-7h-7w-5b-1368r-44a-7h-7w-5b-L",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_225g-3i-7902c-44a-7h-7w-5b-1368r-44a-7h-7w-5b-L.solution"
+}

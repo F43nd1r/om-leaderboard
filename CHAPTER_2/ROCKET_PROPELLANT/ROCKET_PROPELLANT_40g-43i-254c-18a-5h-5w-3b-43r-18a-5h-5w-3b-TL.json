@@ -1,0 +1,35 @@
+{
+    "puzzle": "ROCKET_PROPELLANT",
+    "score": {
+        "cost": 40,
+        "instructions": 43,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 254,
+        "area": 18,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 43.0,
+        "areaINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Rocket-Propellant-40g-254c-18a-43i-5h-5w-43r-T-86e3c2.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b59c66dd/P019/40g-43i-254c-18a-5h-5w-3b-43r-18a-5h-5w-3b-TL",
+    "dataPath": "CHAPTER_2/ROCKET_PROPELLANT/ROCKET_PROPELLANT_40g-43i-254c-18a-5h-5w-3b-43r-18a-5h-5w-3b-TL.solution"
+}

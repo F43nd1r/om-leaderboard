@@ -1,0 +1,26 @@
+{
+    "puzzle": "LUSTRE",
+    "score": {
+        "cost": 245,
+        "instructions": 107,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 232,
+        "area": 83,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 83.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Lustre-245g-232c-83a-107i-7h-12w-36r-89d2b2.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/cc776d58/P090/245g-107i-232c-83a-36r-83a-L",
+    "dataPath": "JOURNAL_VI/LUSTRE/LUSTRE_245g-107i-232c-83a-36r-83a-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "MATERIAL_SALVAGE",
+    "score": {
+        "cost": 230,
+        "instructions": 3,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 180,
+        "area": 165,
+        "height": 18,
+        "width": 16.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 1,
+            "value": 14.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/MATERIAL_SALVAGE/230g-180c-165a-3i-ed358063.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8877103c/w3446276940/230g-3i-180c-165a-18h-16.5w-14b-30r-14a1-2h1-2w1-2.5b1-L",
+    "dataPath": "TOURNAMENT_2025/MATERIAL_SALVAGE/MATERIAL_SALVAGE_230g-3i-180c-165a-18h-16.5w-14b-30r-14a1-2h1-2w1-2.5b1-L.solution"
+}

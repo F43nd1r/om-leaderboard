@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 290,
+        "instructions": 40,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 33,
+        "area": 77,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/290g-33c-77a-40i-52bf8d35.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8b772916/P209/290g-40i-33c-77a-8h-4r-4a1-8h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_290g-40i-33c-77a-8h-4r-4a1-8h-L.solution"
+}

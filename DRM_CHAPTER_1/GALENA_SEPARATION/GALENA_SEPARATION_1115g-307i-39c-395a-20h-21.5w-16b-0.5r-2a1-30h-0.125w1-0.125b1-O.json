@@ -1,0 +1,35 @@
+{
+    "puzzle": "GALENA_SEPARATION",
+    "score": {
+        "cost": 1115,
+        "instructions": 307,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 39,
+        "area": 395,
+        "height": 20,
+        "width": 21.5,
+        "boundingHex": 16,
+        "looping": false,
+        "rate": 0.5,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.125
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.125
+        }
+    },
+    "displayLink": "https://files.mors.technology/GALENA_SEPARATION/1115g-39c-395a-307i-O-4dc2d44d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2727362d/P207/1115g-307i-39c-395a-20h-21.5w-16b-0.5r-2a1-30h-0.125w1-0.125b1-O",
+    "dataPath": "DRM_CHAPTER_1/GALENA_SEPARATION/GALENA_SEPARATION_1115g-307i-39c-395a-20h-21.5w-16b-0.5r-2a1-30h-0.125w1-0.125b1-O.solution"
+}

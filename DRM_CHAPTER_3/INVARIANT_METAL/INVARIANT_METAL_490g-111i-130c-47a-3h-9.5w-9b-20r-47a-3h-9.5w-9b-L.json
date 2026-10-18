@@ -1,0 +1,35 @@
+{
+    "puzzle": "INVARIANT_METAL",
+    "score": {
+        "cost": 490,
+        "instructions": 111,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 130,
+        "area": 47,
+        "height": 3,
+        "width": 9.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 47.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/INVARIANT_METAL/490g-130c-47a-111i-e4479921.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a5de7ae4/P215/490g-111i-130c-47a-3h-9.5w-9b-20r-47a-3h-9.5w-9b-L",
+    "dataPath": "DRM_CHAPTER_3/INVARIANT_METAL/INVARIANT_METAL_490g-111i-130c-47a-3h-9.5w-9b-20r-47a-3h-9.5w-9b-L.solution"
+}

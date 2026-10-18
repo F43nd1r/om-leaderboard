@@ -1,0 +1,35 @@
+{
+    "puzzle": "INVIGORATING_TONIC",
+    "score": {
+        "cost": 360,
+        "instructions": 111,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 197,
+        "area": 90,
+        "height": 12,
+        "width": 7.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 0,
+            "value": 90.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/INVIGORATING_TONIC/360g-197c-90a-111i-6f649044.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fddf9af6/P291/360g-111i-197c-90a-12h-7.5w-11b-32r-90a-12h-7.5w-11b-L",
+    "dataPath": "JOURNAL_CVIII_VIII/INVIGORATING_TONIC/INVIGORATING_TONIC_360g-111i-197c-90a-12h-7.5w-11b-32r-90a-12h-7.5w-11b-L.solution"
+}

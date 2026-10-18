@@ -1,0 +1,35 @@
+{
+    "puzzle": "ALCHEMICAL_JEWEL",
+    "score": {
+        "cost": 80,
+        "instructions": 128,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 764,
+        "area": 27,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 128.0,
+        "areaINF": {
+            "level": 0,
+            "value": 27.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ALCHEMICAL_JEWEL/80g-764c-27a-128i-T-196ce9d4.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b19d2405/P035/80g-128i-764c-27a-5h-5.5w-5b-128r-27a-5h-5.5w-5b-TL",
+    "dataPath": "CHAPTER_4/ALCHEMICAL_JEWEL/ALCHEMICAL_JEWEL_80g-128i-764c-27a-5h-5.5w-5b-128r-27a-5h-5.5w-5b-TL.solution"
+}

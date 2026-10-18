@@ -1,0 +1,26 @@
+{
+    "puzzle": "VAPOR_OF_LEVITY",
+    "score": {
+        "cost": 150,
+        "instructions": 16,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 42,
+        "area": 52,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 52.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VAPOR_OF_LEVITY/150g-42c-52a-16i-O-d81c445e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/340d0d7f/P078/150g-16i-42c-52a-7r-52a-OL",
+    "dataPath": "CHAPTER_PRODUCTION/VAPOR_OF_LEVITY/VAPOR_OF_LEVITY_150g-16i-42c-52a-7r-52a-OL.solution"
+}

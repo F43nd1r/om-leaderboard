@@ -1,0 +1,35 @@
+{
+    "puzzle": "AMALGAMATED_GOLD_RING",
+    "score": {
+        "cost": 200,
+        "instructions": 14,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 309,
+        "area": 110,
+        "height": 13,
+        "width": 9.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 110.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/pOTTej8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/aed78663/w2501727808/200g-14i-309c-110a-13h-9w-9b-48r-110a-13h-9w-9b-TL",
+    "dataPath": "TOURNAMENT_2020/AMALGAMATED_GOLD_RING/AMALGAMATED_GOLD_RING_200g-14i-309c-110a-13h-9w-9b-48r-110a-13h-9w-9b-TL.solution"
+}

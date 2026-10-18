@@ -1,0 +1,35 @@
+{
+    "puzzle": "WARP_FUEL",
+    "score": {
+        "cost": 155,
+        "instructions": 181,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1076,
+        "area": 96,
+        "height": 12,
+        "width": 11.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 181.0,
+        "areaINF": {
+            "level": 0,
+            "value": 96.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/WARP_FUEL/155g-1076c-96a-181i-f4bd71a9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/561c8bd2/w2946687209/155g-181i-1076c-96a-12h-11w-8b-181r-96a-12h-11w-8b-L",
+    "dataPath": "TOURNAMENT_2023/WARP_FUEL/WARP_FUEL_155g-181i-1076c-96a-12h-11w-8b-181r-96a-12h-11w-8b-L.solution"
+}

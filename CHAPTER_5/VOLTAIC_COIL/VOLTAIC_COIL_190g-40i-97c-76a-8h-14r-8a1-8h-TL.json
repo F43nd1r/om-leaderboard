@@ -1,0 +1,29 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 190,
+        "instructions": 40,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 97,
+        "area": 76,
+        "height": 8,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 14.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Voltaic-Coil-190g-97c-76a-40i-8h-11w-14r-T-3c972a.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/2c1dd79d/P039/190g-40i-97c-76a-8h-14r-8a1-8h-TL",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_190g-40i-97c-76a-8h-14r-8a1-8h-TL.solution"
+}

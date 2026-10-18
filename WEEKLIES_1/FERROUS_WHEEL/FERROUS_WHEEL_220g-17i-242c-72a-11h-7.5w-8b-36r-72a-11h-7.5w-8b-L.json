@@ -1,0 +1,35 @@
+{
+    "puzzle": "FERROUS_WHEEL",
+    "score": {
+        "cost": 220,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 242,
+        "area": 72,
+        "height": 11,
+        "width": 7.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 72.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/2QzHopT.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/9316c41d/w2565611826/220g-17i-242c-72a-11h-7.5w-8b-36r-72a-11h-7.5w-8b-L",
+    "dataPath": "WEEKLIES_1/FERROUS_WHEEL/FERROUS_WHEEL_220g-17i-242c-72a-11h-7.5w-8b-36r-72a-11h-7.5w-8b-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "SPARKING_PYRITE",
+    "score": {
+        "cost": 500,
+        "instructions": 36,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 48,
+        "area": 23,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SPARKING_PYRITE/500g-48c-23a-36i-O-eba3d361.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/78919f05/P274/500g-36i-48c-23a-6h-5w-4b-8r-23a-6h-5w-4b-OL",
+    "dataPath": "JOURNAL_CVIII_IV/SPARKING_PYRITE/SPARKING_PYRITE_500g-36i-48c-23a-6h-5w-4b-8r-23a-6h-5w-4b-OL.solution"
+}

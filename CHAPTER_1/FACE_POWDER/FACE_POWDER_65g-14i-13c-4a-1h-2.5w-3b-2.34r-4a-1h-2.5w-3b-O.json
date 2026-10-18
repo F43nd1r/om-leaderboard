@@ -1,0 +1,35 @@
+{
+    "puzzle": "FACE_POWDER",
+    "score": {
+        "cost": 65,
+        "instructions": 14,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 13,
+        "area": 4,
+        "height": 1,
+        "width": 2.5,
+        "boundingHex": 3,
+        "looping": false,
+        "rate": 2.34,
+        "areaINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/fHQE3ji.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/aa256028/P009/65g-14i-13c-4a-1h-2.5w-3b-2.34r-4a-1h-2.5w-3b-O",
+    "dataPath": "CHAPTER_1/FACE_POWDER/FACE_POWDER_65g-14i-13c-4a-1h-2.5w-3b-2.34r-4a-1h-2.5w-3b-O.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 115,
+        "instructions": 45,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 159,
+        "area": 106,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Buoyant-Cable-115g-159c-106a-45i-5h-17w-24r-528ac5.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/c65655cc/P062/115g-45i-159c-106a-5h-24r-12a1-5h-L",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/BUOYANT_CABLE_115g-45i-159c-106a-5h-24r-12a1-5h-L.solution"
+}

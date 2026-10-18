@@ -1,0 +1,35 @@
+{
+    "puzzle": "VERMILION_PIGMENT",
+    "score": {
+        "cost": 700,
+        "instructions": 178,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 45,
+        "area": 112,
+        "height": 12,
+        "width": 10.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 112.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VERMILION_PIGMENT/700g-45c-112a-178i-54b97220.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5bc4abc2/P276/700g-178i-45c-112a-12h-10.5w-8b-6r-112a-12h-10.5w-8b-L",
+    "dataPath": "JOURNAL_CVIII_V/VERMILION_PIGMENT/VERMILION_PIGMENT_700g-178i-45c-112a-12h-10.5w-8b-6r-112a-12h-10.5w-8b-L.solution"
+}

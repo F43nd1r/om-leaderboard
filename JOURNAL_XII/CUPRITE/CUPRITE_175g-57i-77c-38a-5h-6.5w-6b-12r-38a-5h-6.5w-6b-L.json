@@ -1,0 +1,35 @@
+{
+    "puzzle": "CUPRITE",
+    "score": {
+        "cost": 175,
+        "instructions": 57,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 77,
+        "area": 38,
+        "height": 5,
+        "width": 6.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/CUPRITE/175g-77c-38a-57i-e30a66b6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/14562835/P253/175g-57i-77c-38a-5h-6.5w-6b-12r-38a-5h-6.5w-6b-L",
+    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_175g-57i-77c-38a-5h-6.5w-6b-12r-38a-5h-6.5w-6b-L.solution"
+}

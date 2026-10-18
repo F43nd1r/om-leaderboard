@@ -1,0 +1,35 @@
+{
+    "puzzle": "SNOW_AMPUTATION",
+    "score": {
+        "cost": 65,
+        "instructions": 113,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 677,
+        "area": 25,
+        "height": 6,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 56.5,
+        "areaINF": {
+            "level": 0,
+            "value": 25.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SNOW_AMPUTATION/65g-677c-25a-113i-fbc5f1f8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8bbe2cc8/w3728198961/65g-113i-677c-25a-6h-5w-5b-56.5r-25a-6h-5w-5b-L",
+    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_65g-113i-677c-25a-6h-5w-5b-56.5r-25a-6h-5w-5b-L.solution"
+}

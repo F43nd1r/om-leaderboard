@@ -1,0 +1,35 @@
+{
+    "puzzle": "ROSHAMBONITE",
+    "score": {
+        "cost": 130,
+        "instructions": 52,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 157,
+        "area": 47,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 47.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/4d5304ee/w3728200145/130g-52i-157c-47a-8h-7.5w-5b-26r-47a-8h-7.5w-5b-L",
+    "dataPath": "TOURNAMENT_2026/ROSHAMBONITE/ROSHAMBONITE_130g-52i-157c-47a-8h-7.5w-5b-26r-47a-8h-7.5w-5b-L.solution"
+}

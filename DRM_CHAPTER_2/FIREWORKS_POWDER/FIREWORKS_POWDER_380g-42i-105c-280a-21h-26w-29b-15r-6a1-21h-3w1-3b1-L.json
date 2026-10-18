@@ -1,0 +1,35 @@
+{
+    "puzzle": "FIREWORKS_POWDER",
+    "score": {
+        "cost": 380,
+        "instructions": 42,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 105,
+        "area": 280,
+        "height": 21,
+        "width": 26.0,
+        "boundingHex": 29,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/FIREWORKS_POWDER/380g-105c-280a-42i-e0246359.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/127a9607/P211/380g-42i-105c-280a-21h-26w-29b-15r-6a1-21h-3w1-3b1-L",
+    "dataPath": "DRM_CHAPTER_2/FIREWORKS_POWDER/FIREWORKS_POWDER_380g-42i-105c-280a-21h-26w-29b-15r-6a1-21h-3w1-3b1-L.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "LAPIDARY_SAW",
+    "score": {
+        "cost": 800,
+        "instructions": 61,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 97,
+        "area": 494,
+        "height": 30,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LAPIDARY_SAW/800g-97c-494a-61i-T-ce96d70a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3daefb90/P278/800g-61i-97c-494a-30h-10r-4a2-2h1-TL",
+    "dataPath": "JOURNAL_CVIII_V/LAPIDARY_SAW/LAPIDARY_SAW_800g-61i-97c-494a-30h-10r-4a2-2h1-TL.solution"
+}

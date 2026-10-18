@@ -1,0 +1,35 @@
+{
+    "puzzle": "LATCH_HOOK_FIREWORKS",
+    "score": {
+        "cost": 850,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 80,
+        "area": 241,
+        "height": 19,
+        "width": 18.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 241.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/Y8xe7wP.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/edeeae4b/w3210177679/850g-36i-80c-241a-19h-18w-12b-4r-241a-19h-18w-12b-L",
+    "dataPath": "TOURNAMENT_2024/LATCH_HOOK_FIREWORKS/LATCH_HOOK_FIREWORKS_850g-36i-80c-241a-19h-18w-12b-4r-241a-19h-18w-12b-L.solution"
+}

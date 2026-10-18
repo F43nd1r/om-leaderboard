@@ -1,0 +1,35 @@
+{
+    "puzzle": "SPYGLASS_CRYSTAL",
+    "score": {
+        "cost": 1005,
+        "instructions": 104,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 95,
+        "area": 378,
+        "height": 23,
+        "width": 21.0,
+        "boundingHex": 16,
+        "looping": true,
+        "rate": 13.0,
+        "areaINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 0.25
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.125
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.25
+        }
+    },
+    "displayLink": "https://files.mors.technology/SPYGLASS_CRYSTAL/1005g-95c-378a-104i-ff54e6fa.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/07173764/P063/1005g-104i-95c-378a-23h-21w-16b-13r-0.5a1-0.25h1-0.125w1-0.25b1-L",
+    "dataPath": "JOURNAL_II/SPYGLASS_CRYSTAL/SPYGLASS_CRYSTAL_1005g-104i-95c-378a-23h-21w-16b-13r-0.5a1-0.25h1-0.125w1-0.25b1-L.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "LUBRICATING_FILAMENT",
+    "score": {
+        "cost": 40,
+        "instructions": 184,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1171,
+        "area": 1965,
+        "height": 55,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 184.0,
+        "areaINF": {
+            "level": 2,
+            "value": 80.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 8.618802153517006
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/IMhkbVj.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc0a947c/P065/40g-184i-1171c-1965a-55h-184r-80a2-8.619h1-TL",
+    "dataPath": "JOURNAL_III/LUBRICATING_FILAMENT/LUBRICATING_FILAMENT_40g-184i-1171c-1965a-55h-184r-80a2-8.619h1-TL.solution"
+}

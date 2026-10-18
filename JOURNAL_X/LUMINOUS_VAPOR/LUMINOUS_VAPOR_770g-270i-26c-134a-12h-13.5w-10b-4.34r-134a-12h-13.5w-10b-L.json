@@ -1,0 +1,35 @@
+{
+    "puzzle": "LUMINOUS_VAPOR",
+    "score": {
+        "cost": 770,
+        "instructions": 270,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 26,
+        "area": 134,
+        "height": 12,
+        "width": 13.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 4.34,
+        "areaINF": {
+            "level": 0,
+            "value": 134.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/4ddeedff/P247/770g-270i-26c-134a-12h-13.5w-10b-4.34r-134a-12h-13.5w-10b-L",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_770g-270i-26c-134a-12h-13.5w-10b-4.34r-134a-12h-13.5w-10b-L.solution"
+}

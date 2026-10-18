@@ -1,0 +1,29 @@
+{
+    "puzzle": "WIRE_FORMING_AND_UNFORMING",
+    "score": {
+        "cost": 465,
+        "instructions": 106,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 44,
+        "area": 164,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 1.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/WIRE_FORMING_AND_UNFORMING/465g-44c-164a-106i-O-2957aacb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2e13f79f/w1698784331/465g-106i-44c-164a-15h-4r-1a2-1h1-O",
+    "dataPath": "TOURNAMENT_2019/WIRE_FORMING_AND_UNFORMING/WIRE_FORMING_AND_UNFORMING_465g-106i-44c-164a-15h-4r-1a2-1h1-O.solution"
+}

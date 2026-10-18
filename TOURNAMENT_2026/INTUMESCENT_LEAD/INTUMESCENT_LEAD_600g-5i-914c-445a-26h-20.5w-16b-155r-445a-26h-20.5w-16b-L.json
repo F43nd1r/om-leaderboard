@@ -1,0 +1,35 @@
+{
+    "puzzle": "INTUMESCENT_LEAD",
+    "score": {
+        "cost": 600,
+        "instructions": 5,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 914,
+        "area": 445,
+        "height": 26,
+        "width": 20.5,
+        "boundingHex": 16,
+        "looping": true,
+        "rate": 155.0,
+        "areaINF": {
+            "level": 0,
+            "value": 445.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 26.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 20.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 16.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/c1d714ab/w3728200437/600g-5i-914c-445a-26h-20.5w-16b-155r-445a-26h-20.5w-16b-L",
+    "dataPath": "TOURNAMENT_2026/INTUMESCENT_LEAD/INTUMESCENT_LEAD_600g-5i-914c-445a-26h-20.5w-16b-155r-445a-26h-20.5w-16b-L.solution"
+}

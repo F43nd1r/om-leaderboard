@@ -1,0 +1,35 @@
+{
+    "puzzle": "FERROUS_WHEEL",
+    "score": {
+        "cost": 120,
+        "instructions": 12,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 669,
+        "area": 95,
+        "height": 12,
+        "width": 10.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 108.0,
+        "areaINF": {
+            "level": 0,
+            "value": 95.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/FERROUS_WHEEL/120g-669c-95a-12i-T-097fe6a3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/76476191/w2565611826/120g-12i-669c-95a-12h-10w-8b-108r-95a-12h-10w-8b-TL",
+    "dataPath": "WEEKLIES_1/FERROUS_WHEEL/FERROUS_WHEEL_120g-12i-669c-95a-12h-10w-8b-108r-95a-12h-10w-8b-TL.solution"
+}

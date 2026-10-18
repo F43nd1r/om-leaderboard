@@ -1,0 +1,35 @@
+{
+    "puzzle": "AMELIA_S_CATALYST",
+    "score": {
+        "cost": 1320,
+        "instructions": 388,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 23,
+        "area": 176,
+        "height": 17,
+        "width": 12.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 2.34,
+        "areaINF": {
+            "level": 0,
+            "value": 176.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/04b9316a/w3728200264/1320g-388i-23c-176a-17h-12.5w-10b-2.34r-176a-17h-12.5w-10b-L",
+    "dataPath": "TOURNAMENT_2026/AMELIA_S_CATALYST/AMELIA_S_CATALYST_1320g-388i-23c-176a-17h-12.5w-10b-2.34r-176a-17h-12.5w-10b-L.solution"
+}

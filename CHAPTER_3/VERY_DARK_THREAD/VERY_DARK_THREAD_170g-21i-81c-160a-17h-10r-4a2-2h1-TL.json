@@ -1,0 +1,29 @@
+{
+    "puzzle": "VERY_DARK_THREAD",
+    "score": {
+        "cost": 170,
+        "instructions": 21,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 81,
+        "area": 160,
+        "height": 17,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VERY_DARK_THREAD/170g-81c-160a-21i-T-04404d2d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3aa85dc7/P029/170g-21i-81c-160a-17h-10r-4a2-2h1-TL",
+    "dataPath": "CHAPTER_3/VERY_DARK_THREAD/VERY_DARK_THREAD_170g-21i-81c-160a-17h-10r-4a2-2h1-TL.solution"
+}

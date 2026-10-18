@@ -1,0 +1,35 @@
+{
+    "puzzle": "MIRROR_POLISH",
+    "score": {
+        "cost": 120,
+        "instructions": 232,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1389,
+        "area": 35,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 232.0,
+        "areaINF": {
+            "level": 0,
+            "value": 35.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MIRROR_POLISH/120g-1389c-35a-232i-295d32c7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/74a0db5d/P269/120g-232i-1389c-35a-7h-7w-4b-232r-35a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_III/MIRROR_POLISH/MIRROR_POLISH_120g-232i-1389c-35a-7h-7w-4b-232r-35a-7h-7w-4b-L.solution"
+}

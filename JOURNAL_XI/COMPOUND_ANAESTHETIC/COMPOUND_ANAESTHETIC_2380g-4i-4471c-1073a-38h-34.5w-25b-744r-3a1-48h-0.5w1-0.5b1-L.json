@@ -1,0 +1,35 @@
+{
+    "puzzle": "COMPOUND_ANAESTHETIC",
+    "score": {
+        "cost": 2380,
+        "instructions": 4,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 4471,
+        "area": 1073,
+        "height": 38,
+        "width": 34.5,
+        "boundingHex": 25,
+        "looping": true,
+        "rate": 744.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 48.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/COMPOUND_ANAESTHETIC/2380g-4471c-1073a-4i-c4cb5e0d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/53708e8e/P244/2380g-4i-4471c-1073a-38h-34.5w-25b-744r-3a1-48h-0.5w1-0.5b1-L",
+    "dataPath": "JOURNAL_XI/COMPOUND_ANAESTHETIC/COMPOUND_ANAESTHETIC_2380g-4i-4471c-1073a-38h-34.5w-25b-744r-3a1-48h-0.5w1-0.5b1-L.solution"
+}

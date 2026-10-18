@@ -1,0 +1,35 @@
+{
+    "puzzle": "QUINTESSENTIAL_STABILIZER",
+    "score": {
+        "cost": 150,
+        "instructions": 1969,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1011,
+        "area": 30,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 170.67,
+        "areaINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/aZu2SmD.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/4615961a/w2450512626/150g-1969i-1011c-30a-6h-6w-5b-170.67r-30a-6h-6w-5b-TL",
+    "dataPath": "TOURNAMENT_2021/QUINTESSENTIAL_STABILIZER/QUINTESSENTIAL_STABILIZER_150g-1969i-1011c-30a-6h-6w-5b-170.67r-30a-6h-6w-5b-TL.solution"
+}

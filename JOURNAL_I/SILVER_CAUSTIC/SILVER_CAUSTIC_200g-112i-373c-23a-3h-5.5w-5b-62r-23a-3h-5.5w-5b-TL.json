@@ -1,0 +1,35 @@
+{
+    "puzzle": "SILVER_CAUSTIC",
+    "score": {
+        "cost": 200,
+        "instructions": 112,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 373,
+        "area": 23,
+        "height": 3,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 62.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SILVER_CAUSTIC/200g-373c-23a-112i-T-67f4c019.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/88d6cf12/P057/200g-112i-373c-23a-3h-5.5w-5b-62r-23a-3h-5.5w-5b-TL",
+    "dataPath": "JOURNAL_I/SILVER_CAUSTIC/SILVER_CAUSTIC_200g-112i-373c-23a-3h-5.5w-5b-62r-23a-3h-5.5w-5b-TL.solution"
+}

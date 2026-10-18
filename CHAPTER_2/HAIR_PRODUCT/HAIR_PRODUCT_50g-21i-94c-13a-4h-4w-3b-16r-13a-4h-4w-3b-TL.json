@@ -1,0 +1,35 @@
+{
+    "puzzle": "HAIR_PRODUCT",
+    "score": {
+        "cost": 50,
+        "instructions": 21,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 94,
+        "area": 13,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/HAIR_PRODUCT/50g-94c-13a-21i-T-82d74e22.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7b0cbbae/P016/50g-21i-94c-13a-4h-4w-3b-16r-13a-4h-4w-3b-TL",
+    "dataPath": "CHAPTER_2/HAIR_PRODUCT/HAIR_PRODUCT_50g-21i-94c-13a-4h-4w-3b-16r-13a-4h-4w-3b-TL.solution"
+}

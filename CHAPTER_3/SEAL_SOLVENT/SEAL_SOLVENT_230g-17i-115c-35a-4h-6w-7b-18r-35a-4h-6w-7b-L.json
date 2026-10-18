@@ -1,0 +1,35 @@
+{
+    "puzzle": "SEAL_SOLVENT",
+    "score": {
+        "cost": 230,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 115,
+        "area": 35,
+        "height": 4,
+        "width": 6.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 35.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SEAL_SOLVENT/230g-115c-35a-17i-92e040a1.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f38d2948/P026/230g-17i-115c-35a-4h-6w-7b-18r-35a-4h-6w-7b-L",
+    "dataPath": "CHAPTER_3/SEAL_SOLVENT/SEAL_SOLVENT_230g-17i-115c-35a-4h-6w-7b-18r-35a-4h-6w-7b-L.solution"
+}

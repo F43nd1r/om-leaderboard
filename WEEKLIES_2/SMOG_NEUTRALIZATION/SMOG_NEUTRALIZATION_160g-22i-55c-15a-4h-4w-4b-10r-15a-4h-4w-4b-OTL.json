@@ -1,0 +1,35 @@
+{
+    "puzzle": "SMOG_NEUTRALIZATION",
+    "score": {
+        "cost": 160,
+        "instructions": 22,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 55,
+        "area": 15,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SMOG_NEUTRALIZATION/160g-55c-15a-22i-O-T-6fa8e1d9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/99e102c4/w3584644954/160g-22i-55c-15a-4h-4w-4b-10r-15a-4h-4w-4b-OTL",
+    "dataPath": "WEEKLIES_2/SMOG_NEUTRALIZATION/SMOG_NEUTRALIZATION_160g-22i-55c-15a-4h-4w-4b-10r-15a-4h-4w-4b-OTL.solution"
+}

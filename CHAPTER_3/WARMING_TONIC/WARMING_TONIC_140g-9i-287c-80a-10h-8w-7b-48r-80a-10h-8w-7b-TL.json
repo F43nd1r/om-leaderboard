@@ -1,0 +1,35 @@
+{
+    "puzzle": "WARMING_TONIC",
+    "score": {
+        "cost": 140,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 287,
+        "area": 80,
+        "height": 10,
+        "width": 8.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 80.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Warming-Tonic-140g-287c-80a-9i-10h-8w-48r-T-8af4b2.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/8c2a59be/P028/140g-9i-287c-80a-10h-8w-7b-48r-80a-10h-8w-7b-TL",
+    "dataPath": "CHAPTER_3/WARMING_TONIC/WARMING_TONIC_140g-9i-287c-80a-10h-8w-7b-48r-80a-10h-8w-7b-TL.solution"
+}

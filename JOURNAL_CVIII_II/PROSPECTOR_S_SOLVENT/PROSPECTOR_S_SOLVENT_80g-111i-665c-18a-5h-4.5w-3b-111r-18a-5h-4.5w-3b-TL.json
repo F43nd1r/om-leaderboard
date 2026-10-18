@@ -1,0 +1,35 @@
+{
+    "puzzle": "PROSPECTOR_S_SOLVENT",
+    "score": {
+        "cost": 80,
+        "instructions": 111,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 665,
+        "area": 18,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 111.0,
+        "areaINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PROSPECTOR_S_SOLVENT/80g-665c-18a-111i-T-749c8819.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2d21ef61/P261/80g-111i-665c-18a-5h-4.5w-3b-111r-18a-5h-4.5w-3b-TL",
+    "dataPath": "JOURNAL_CVIII_II/PROSPECTOR_S_SOLVENT/PROSPECTOR_S_SOLVENT_80g-111i-665c-18a-5h-4.5w-3b-111r-18a-5h-4.5w-3b-TL.solution"
+}

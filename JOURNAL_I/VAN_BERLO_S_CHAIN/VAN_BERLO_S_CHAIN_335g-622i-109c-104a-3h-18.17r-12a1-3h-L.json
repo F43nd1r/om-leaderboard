@@ -1,0 +1,29 @@
+{
+    "puzzle": "VAN_BERLO_S_CHAIN",
+    "score": {
+        "cost": 335,
+        "instructions": 622,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 109,
+        "area": 104,
+        "height": 3,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.17,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_CHAIN/335g-109c-104a-622i-c395849f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5d645ab6/P055/335g-622i-109c-104a-3h-18.17r-12a1-3h-L",
+    "dataPath": "JOURNAL_I/VAN_BERLO_S_CHAIN/VAN_BERLO_S_CHAIN_335g-622i-109c-104a-3h-18.17r-12a1-3h-L.solution"
+}

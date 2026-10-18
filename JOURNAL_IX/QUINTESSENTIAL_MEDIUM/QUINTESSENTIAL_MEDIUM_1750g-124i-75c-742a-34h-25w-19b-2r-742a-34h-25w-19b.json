@@ -1,0 +1,35 @@
+{
+    "puzzle": "QUINTESSENTIAL_MEDIUM",
+    "score": {
+        "cost": 1750,
+        "instructions": 124,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 75,
+        "area": 742,
+        "height": 34,
+        "width": 25.0,
+        "boundingHex": 19,
+        "looping": false,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 742.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 34.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 25.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 19.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/gS1ScNC.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/766ca264/P107/1750g-124i-75c-742a-34h-25w-19b-2r-742a-34h-25w-19b",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_1750g-124i-75c-742a-34h-25w-19b-2r-742a-34h-25w-19b.solution"
+}

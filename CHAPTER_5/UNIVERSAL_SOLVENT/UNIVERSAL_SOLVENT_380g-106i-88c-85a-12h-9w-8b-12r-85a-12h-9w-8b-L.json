@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNIVERSAL_SOLVENT",
+    "score": {
+        "cost": 380,
+        "instructions": 106,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 88,
+        "area": 85,
+        "height": 12,
+        "width": 9.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 85.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UNIVERSAL_SOLVENT/380g-88c-85a-106i-ad2af532.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5e23e3c7/P043/380g-106i-88c-85a-12h-9w-8b-12r-85a-12h-9w-8b-L",
+    "dataPath": "CHAPTER_5/UNIVERSAL_SOLVENT/UNIVERSAL_SOLVENT_380g-106i-88c-85a-12h-9w-8b-12r-85a-12h-9w-8b-L.solution"
+}

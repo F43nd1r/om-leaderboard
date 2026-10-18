@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 405,
+        "instructions": 37,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 15,
+        "area": 109,
+        "height": 11,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 2.34,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/405g-15c-109a-37i-O-ee88082d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4e775aab/P209/405g-37i-15c-109a-11h-2.34r-4a2-2h1-OL",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_405g-37i-15c-109a-11h-2.34r-4a2-2h1-OL.solution"
+}

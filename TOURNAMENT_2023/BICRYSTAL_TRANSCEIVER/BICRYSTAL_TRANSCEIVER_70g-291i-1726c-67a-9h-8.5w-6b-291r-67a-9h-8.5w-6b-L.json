@@ -1,0 +1,35 @@
+{
+    "puzzle": "BICRYSTAL_TRANSCEIVER",
+    "score": {
+        "cost": 70,
+        "instructions": 291,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1726,
+        "area": 67,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 291.0,
+        "areaINF": {
+            "level": 0,
+            "value": 67.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BICRYSTAL_TRANSCEIVER/70g-1726c-67a-291i-190767b4.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4787864d/w2946687073/70g-291i-1726c-67a-9h-8.5w-6b-291r-67a-9h-8.5w-6b-L",
+    "dataPath": "TOURNAMENT_2023/BICRYSTAL_TRANSCEIVER/BICRYSTAL_TRANSCEIVER_70g-291i-1726c-67a-9h-8.5w-6b-291r-67a-9h-8.5w-6b-L.solution"
+}

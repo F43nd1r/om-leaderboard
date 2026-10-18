@@ -1,0 +1,35 @@
+{
+    "puzzle": "CONNECT_THE_DOTS",
+    "score": {
+        "cost": 320,
+        "instructions": 120,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 15,
+        "area": 38,
+        "height": 8,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/CONNECT_THE_DOTS/320g-15c-38a-120i-T-c461f1f0.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cbbf1326/w3101135731/320g-120i-15c-38a-8h-7w-5b-2r-38a-8h-7w-5b-TL",
+    "dataPath": "TOURNAMENT_2020/CONNECT_THE_DOTS/CONNECT_THE_DOTS_320g-120i-15c-38a-8h-7w-5b-2r-38a-8h-7w-5b-TL.solution"
+}

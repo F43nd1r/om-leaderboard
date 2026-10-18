@@ -1,0 +1,35 @@
+{
+    "puzzle": "FLAKE_SALT",
+    "score": {
+        "cost": 160,
+        "instructions": 106,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 230,
+        "area": 38,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 38.0,
+        "areaINF": {
+            "level": 0,
+            "value": 38.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/FLAKE_SALT/160g-230c-38a-106i-02ffbb51.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bc40e2c9/w2788066123/160g-106i-230c-38a-7h-7w-5b-38r-38a-7h-7w-5b-L",
+    "dataPath": "TOURNAMENT_2022/FLAKE_SALT/FLAKE_SALT_160g-106i-230c-38a-7h-7w-5b-38r-38a-7h-7w-5b-L.solution"
+}

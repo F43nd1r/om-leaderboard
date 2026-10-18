@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPERIMENTAL_CATALYST",
+    "score": {
+        "cost": 215,
+        "instructions": 29,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 128,
+        "area": 49,
+        "height": 9,
+        "width": 7.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 22.0,
+        "areaINF": {
+            "level": 0,
+            "value": 49.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/EXPERIMENTAL_CATALYST/215g-128c-49a-29i-O-4f081a54.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/685c2cb7/P220/215g-29i-128c-49a-9h-7w-6b-22r-49a-9h-7w-6b-OL",
+    "dataPath": "DRM_CHAPTER_3/EXPERIMENTAL_CATALYST/EXPERIMENTAL_CATALYST_215g-29i-128c-49a-9h-7w-6b-22r-49a-9h-7w-6b-OL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "METAL_DIVISION",
+    "score": {
+        "cost": 80,
+        "instructions": 6,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 35,
+        "area": 6,
+        "height": 1,
+        "width": 3.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/METAL_DIVISION/80g-35c-6a-6i-O-T-911dd52b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f16299f4/P208/80g-6i-35c-6a-1h-3.5w-4b-6r-6a-1h-3.5w-4b-OTL",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_80g-6i-35c-6a-1h-3.5w-4b-6r-6a-1h-3.5w-4b-OTL.solution"
+}

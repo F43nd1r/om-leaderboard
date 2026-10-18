@@ -1,0 +1,35 @@
+{
+    "puzzle": "LUSTROUS_SYRUP",
+    "score": {
+        "cost": 110,
+        "instructions": 35,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 209,
+        "area": 7,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 2,
+        "looping": true,
+        "rate": 35.0,
+        "areaINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/xjT6pFS.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/5fe0fedb/w2868331650/110g-35i-209c-7a-3h-3w-2b-35r-7a-3h-3w-2b-OL",
+    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_110g-35i-209c-7a-3h-3w-2b-35r-7a-3h-3w-2b-OL.solution"
+}

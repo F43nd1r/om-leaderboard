@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 330,
+        "instructions": 57,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 253,
+        "area": 101,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 101.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/rs9skyp.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/da7cb449/w2818265313/330g-57i-253c-101a-30r-101a-TL",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_330g-57i-253c-101a-30r-101a-TL.solution"
+}

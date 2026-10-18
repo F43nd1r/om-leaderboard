@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 260,
+        "instructions": 60,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 28,
+        "area": 117,
+        "height": 15,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/260g-28c-117a-60i-T-03e68573.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/5171bff2/P209/260g-60i-28c-117a-15h-4r-4a2-2h1-TL",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_260g-60i-28c-117a-15h-4r-4a2-2h1-TL.solution"
+}

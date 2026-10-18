@@ -1,0 +1,35 @@
+{
+    "puzzle": "COMPOUND_ANAESTHETIC",
+    "score": {
+        "cost": 230,
+        "instructions": 137,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 149,
+        "area": 72,
+        "height": 10,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 72.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Potent-Painkillers-230g-149c-72a-137i-10h-8.5w-24r-7b2639.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/04b8d958/P244/230g-137i-149c-72a-10h-8.5w-7b-24r-72a-10h-8.5w-7b-L",
+    "dataPath": "JOURNAL_XI/COMPOUND_ANAESTHETIC/COMPOUND_ANAESTHETIC_230g-137i-149c-72a-10h-8.5w-7b-24r-72a-10h-8.5w-7b-L.solution"
+}

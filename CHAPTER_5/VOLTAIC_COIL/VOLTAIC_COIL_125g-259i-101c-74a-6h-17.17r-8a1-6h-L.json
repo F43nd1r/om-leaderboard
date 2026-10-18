@@ -1,0 +1,29 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 125,
+        "instructions": 259,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 101,
+        "area": 74,
+        "height": 6,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 17.17,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/125g-101c-74a-259i-b137c7d3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f8666e23/P039/125g-259i-101c-74a-6h-17.17r-8a1-6h-L",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_125g-259i-101c-74a-6h-17.17r-8a1-6h-L.solution"
+}

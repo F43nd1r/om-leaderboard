@@ -1,0 +1,35 @@
+{
+    "puzzle": "CURIOUS_LIPSTICK",
+    "score": {
+        "cost": 230,
+        "instructions": 119,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 208,
+        "area": 84,
+        "height": 11,
+        "width": 10.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 33.0,
+        "areaINF": {
+            "level": 0,
+            "value": 84.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/CURIOUS_LIPSTICK/230g-208c-84a-119i-T-8c5fd1f2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f6ca757c/P041/230g-119i-208c-84a-11h-10.5w-7b-33r-84a-11h-10.5w-7b-TL",
+    "dataPath": "CHAPTER_5/CURIOUS_LIPSTICK/CURIOUS_LIPSTICK_230g-119i-208c-84a-11h-10.5w-7b-33r-84a-11h-10.5w-7b-TL.solution"
+}

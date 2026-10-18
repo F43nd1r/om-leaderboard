@@ -1,0 +1,29 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 590,
+        "instructions": 88,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 63,
+        "area": 796,
+        "height": 36,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 32.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 4.618802153517006
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BUOYANT_CABLE/590g-63c-796a-88i-aefcdda6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ee9909f2/P062/590g-88i-63c-796a-36h-10r-32a2-4.619h1-L",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/BUOYANT_CABLE_590g-88i-63c-796a-36h-10r-32a2-4.619h1-L.solution"
+}

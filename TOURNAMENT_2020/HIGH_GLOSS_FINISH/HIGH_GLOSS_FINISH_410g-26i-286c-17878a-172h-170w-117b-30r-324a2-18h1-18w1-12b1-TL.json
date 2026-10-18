@@ -1,0 +1,35 @@
+{
+    "puzzle": "HIGH_GLOSS_FINISH",
+    "score": {
+        "cost": 410,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 286,
+        "area": 17878,
+        "height": 172,
+        "width": 170.0,
+        "boundingHex": 117,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 2,
+            "value": 324.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 18.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/High-Gloss-Finish-410g-286c-17878a-26i-172h-170w-30r-T-cc17d6.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/56716d9f/w2501728349/410g-26i-286c-17878a-172h-170w-117b-30r-324a2-18h1-18w1-12b1-TL",
+    "dataPath": "TOURNAMENT_2020/HIGH_GLOSS_FINISH/HIGH_GLOSS_FINISH_410g-26i-286c-17878a-172h-170w-117b-30r-324a2-18h1-18w1-12b1-TL.solution"
+}

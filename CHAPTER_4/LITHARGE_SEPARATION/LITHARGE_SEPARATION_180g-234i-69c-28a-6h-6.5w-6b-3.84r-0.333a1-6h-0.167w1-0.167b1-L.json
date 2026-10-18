@@ -1,0 +1,35 @@
+{
+    "puzzle": "LITHARGE_SEPARATION",
+    "score": {
+        "cost": 180,
+        "instructions": 234,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 69,
+        "area": 28,
+        "height": 6,
+        "width": 6.5,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 3.84,
+        "areaINF": {
+            "level": 1,
+            "value": 0.3333333333333333
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.16666666666666666
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.16666666666666666
+        }
+    },
+    "displayLink": "https://files.mors.technology/LITHARGE_SEPARATION/180g-69c-28a-234i-1a14354b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9c2cfd9a/P031b/180g-234i-69c-28a-6h-6.5w-6b-3.84r-0.333a1-6h-0.167w1-0.167b1-L",
+    "dataPath": "CHAPTER_4/LITHARGE_SEPARATION/LITHARGE_SEPARATION_180g-234i-69c-28a-6h-6.5w-6b-3.84r-0.333a1-6h-0.167w1-0.167b1-L.solution"
+}

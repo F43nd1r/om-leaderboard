@@ -1,0 +1,29 @@
+{
+    "puzzle": "IGNITION_CORD",
+    "score": {
+        "cost": 50,
+        "instructions": 61,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 391,
+        "area": 1029,
+        "height": 40,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 61.0,
+        "areaINF": {
+            "level": 2,
+            "value": 45.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 6.464101615137754
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/uA9LGwL.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/3a8d703c/w2839120106/50g-61i-391c-1029a-40h-61r-45a2-6.464h1-TL",
+    "dataPath": "WEEKLIES_1/IGNITION_CORD/IGNITION_CORD_50g-61i-391c-1029a-40h-61r-45a2-6.464h1-TL.solution"
+}

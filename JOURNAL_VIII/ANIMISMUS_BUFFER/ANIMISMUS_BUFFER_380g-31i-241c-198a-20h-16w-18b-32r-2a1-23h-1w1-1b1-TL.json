@@ -1,0 +1,35 @@
+{
+    "puzzle": "ANIMISMUS_BUFFER",
+    "score": {
+        "cost": 380,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 241,
+        "area": 198,
+        "height": 20,
+        "width": 16.0,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/MkWVWTR.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b7fde676/P104/380g-31i-241c-198a-20h-16w-18b-32r-2a1-23h-1w1-1b1-TL",
+    "dataPath": "JOURNAL_VIII/ANIMISMUS_BUFFER/ANIMISMUS_BUFFER_380g-31i-241c-198a-20h-16w-18b-32r-2a1-23h-1w1-1b1-TL.solution"
+}

@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 240,
+        "instructions": 132,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 293,
+        "area": 96,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 47.0,
+        "areaINF": {
+            "level": 0,
+            "value": 96.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/B1TAuQN.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/a0988c25/w2818265313/240g-132i-293c-96a-47r-96a-TL",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_240g-132i-293c-96a-47r-96a-TL.solution"
+}

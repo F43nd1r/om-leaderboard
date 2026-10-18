@@ -1,0 +1,35 @@
+{
+    "puzzle": "PLASTIC",
+    "score": {
+        "cost": 245,
+        "instructions": 72,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 30,
+        "area": 606,
+        "height": 36,
+        "width": 27.5,
+        "boundingHex": 23,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.6666666666666665
+        }
+    },
+    "displayLink": "https://files.mors.technology/PLASTIC/245g-30c-606a-72i-92c1fd5e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c6768b3f/w3210182753/245g-72i-30c-606a-36h-27.5w-23b-4r-16a2-4h1-4w1-2.667b1-L",
+    "dataPath": "TOURNAMENT_2024/PLASTIC/PLASTIC_245g-72i-30c-606a-36h-27.5w-23b-4r-16a2-4h1-4w1-2.667b1-L.solution"
+}

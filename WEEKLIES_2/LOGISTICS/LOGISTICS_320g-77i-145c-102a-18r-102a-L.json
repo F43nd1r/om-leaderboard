@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 320,
+        "instructions": 77,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 145,
+        "area": 102,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 102.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/605f398c/w2818265313/320g-77i-145c-102a-18r-102a-L",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_320g-77i-145c-102a-18r-102a-L.solution"
+}

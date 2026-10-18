@@ -1,0 +1,35 @@
+{
+    "puzzle": "ORANGE_VITRIOL",
+    "score": {
+        "cost": 100,
+        "instructions": 10,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 59,
+        "area": 13,
+        "height": 4,
+        "width": 3.5,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ORANGE_VITRIOL/100g-59c-13a-10i-O-T-803815d6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/44958a41/w3728200375/100g-10i-59c-13a-4h-3.5w-3b-10r-13a-4h-3.5w-3b-OTL",
+    "dataPath": "TOURNAMENT_2026/ORANGE_VITRIOL/ORANGE_VITRIOL_100g-10i-59c-13a-4h-3.5w-3b-10r-13a-4h-3.5w-3b-OTL.solution"
+}

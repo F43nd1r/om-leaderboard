@@ -1,0 +1,35 @@
+{
+    "puzzle": "METAL_DIVISION",
+    "score": {
+        "cost": 180,
+        "instructions": 20,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 29,
+        "area": 15,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/fJ6qw4E.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/52b7b25c/P208/180g-20i-29c-15a-4h-4w-3b-4r-15a-4h-4w-3b-TL",
+    "dataPath": "DRM_CHAPTER_2/METAL_DIVISION/METAL_DIVISION_180g-20i-29c-15a-4h-4w-3b-4r-15a-4h-4w-3b-TL.solution"
+}

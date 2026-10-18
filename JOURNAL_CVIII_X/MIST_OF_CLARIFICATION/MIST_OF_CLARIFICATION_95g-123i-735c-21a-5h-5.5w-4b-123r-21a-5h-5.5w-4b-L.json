@@ -1,0 +1,35 @@
+{
+    "puzzle": "MIST_OF_CLARIFICATION",
+    "score": {
+        "cost": 95,
+        "instructions": 123,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 735,
+        "area": 21,
+        "height": 5,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 123.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MIST_OF_CLARIFICATION/95g-735c-21a-123i-98ee9fae.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/152e8ab1/P300/95g-123i-735c-21a-5h-5.5w-4b-123r-21a-5h-5.5w-4b-L",
+    "dataPath": "JOURNAL_CVIII_X/MIST_OF_CLARIFICATION/MIST_OF_CLARIFICATION_95g-123i-735c-21a-5h-5.5w-4b-123r-21a-5h-5.5w-4b-L.solution"
+}

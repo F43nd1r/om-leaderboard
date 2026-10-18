@@ -1,0 +1,35 @@
+{
+    "puzzle": "VIA_QUICKSILVER",
+    "score": {
+        "cost": 170,
+        "instructions": 127,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 69,
+        "area": 22,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 5,
+        "looping": false,
+        "rate": 13.0,
+        "areaINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VIA_QUICKSILVER/170g-69c-22a-127i-O-90c41703.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0961c24e/P216/170g-127i-69c-22a-5h-5w-5b-13r-22a-5h-5w-5b-O",
+    "dataPath": "DRM_CHAPTER_3/VIA_QUICKSILVER/VIA_QUICKSILVER_170g-127i-69c-22a-5h-5w-5b-13r-22a-5h-5w-5b-O.solution"
+}

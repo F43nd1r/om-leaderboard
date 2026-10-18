@@ -1,0 +1,29 @@
+{
+    "puzzle": "FAERO_FILAMENT",
+    "score": {
+        "cost": 410,
+        "instructions": 43,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 153,
+        "area": 176,
+        "height": 13,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 19.5,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/46ba500b/w3817956797/410g-43i-153c-176a-13h-19.5r-6a1-13h-L",
+    "dataPath": "WEEKLIES_2/FAERO_FILAMENT/FAERO_FILAMENT_410g-43i-153c-176a-13h-19.5r-6a1-13h-L.solution"
+}

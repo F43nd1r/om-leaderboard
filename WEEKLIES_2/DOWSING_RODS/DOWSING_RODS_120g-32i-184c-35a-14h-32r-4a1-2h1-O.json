@@ -1,0 +1,29 @@
+{
+    "puzzle": "DOWSING_RODS",
+    "score": {
+        "cost": 120,
+        "instructions": 32,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 184,
+        "area": 35,
+        "height": 14,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/DOWSING_RODS/120g-184c-35a-32i-O-4d1246eb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/60fcfdee/w3817954313/120g-32i-184c-35a-14h-32r-4a1-2h1-O",
+    "dataPath": "WEEKLIES_2/DOWSING_RODS/DOWSING_RODS_120g-32i-184c-35a-14h-32r-4a1-2h1-O.solution"
+}

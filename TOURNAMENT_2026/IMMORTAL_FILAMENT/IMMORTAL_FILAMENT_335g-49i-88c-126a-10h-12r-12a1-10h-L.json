@@ -1,0 +1,29 @@
+{
+    "puzzle": "IMMORTAL_FILAMENT",
+    "score": {
+        "cost": 335,
+        "instructions": 49,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 88,
+        "area": 126,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/faff1560/w3728200326/335g-49i-88c-126a-10h-12r-12a1-10h-L",
+    "dataPath": "TOURNAMENT_2026/IMMORTAL_FILAMENT/IMMORTAL_FILAMENT_335g-49i-88c-126a-10h-12r-12a1-10h-L.solution"
+}

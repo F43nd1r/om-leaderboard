@@ -1,0 +1,35 @@
+{
+    "puzzle": "INVARIANT_METAL",
+    "score": {
+        "cost": 50,
+        "instructions": 378,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 2227,
+        "area": 18700,
+        "height": 162,
+        "width": 141.0,
+        "boundingHex": 87,
+        "looping": true,
+        "rate": 378.0,
+        "areaINF": {
+            "level": 2,
+            "value": 1050.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 30.55050463303893
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 26.457513110645905
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 15.275252316519465
+        }
+    },
+    "displayLink": "https://files.catbox.moe/84sfus.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e628e342/P215/50g-378i-2227c-18700a-162h-141w-87b-378r-1050a2-30.551h1-26.458w1-15.275b1-TL",
+    "dataPath": "DRM_CHAPTER_3/INVARIANT_METAL/INVARIANT_METAL_50g-378i-2227c-18700a-162h-141w-87b-378r-1050a2-30.551h1-26.458w1-15.275b1-TL.solution"
+}

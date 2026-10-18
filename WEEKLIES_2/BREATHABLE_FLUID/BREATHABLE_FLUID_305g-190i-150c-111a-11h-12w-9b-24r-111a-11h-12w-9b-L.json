@@ -1,0 +1,35 @@
+{
+    "puzzle": "BREATHABLE_FLUID",
+    "score": {
+        "cost": 305,
+        "instructions": 190,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 150,
+        "area": 111,
+        "height": 11,
+        "width": 12.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 111.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/a971398a/w3303849741/305g-190i-150c-111a-11h-12w-9b-24r-111a-11h-12w-9b-L",
+    "dataPath": "WEEKLIES_2/BREATHABLE_FLUID/BREATHABLE_FLUID_305g-190i-150c-111a-11h-12w-9b-24r-111a-11h-12w-9b-L.solution"
+}

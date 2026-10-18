@@ -1,0 +1,26 @@
+{
+    "puzzle": "PARADE_ROCKET_FUEL",
+    "score": {
+        "cost": 140,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 118,
+        "area": 68,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 68.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/PARADE_ROCKET_FUEL/140g-118c-68a-31i-T-10e6918f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/56a737db/P082/140g-31i-118c-68a-20r-68a-TL",
+    "dataPath": "CHAPTER_PRODUCTION/PARADE_ROCKET_FUEL/PARADE_ROCKET_FUEL_140g-31i-118c-68a-20r-68a-TL.solution"
+}

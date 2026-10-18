@@ -1,0 +1,35 @@
+{
+    "puzzle": "BREATHABLE_FLUID",
+    "score": {
+        "cost": 420,
+        "instructions": 384,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 132,
+        "area": 105,
+        "height": 11,
+        "width": 11.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 105.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BREATHABLE_FLUID/420g-132c-105a-384i-b9dfd59a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e94abf92/w3303849741/420g-384i-132c-105a-11h-11w-9b-20r-105a-11h-11w-9b-L",
+    "dataPath": "WEEKLIES_2/BREATHABLE_FLUID/BREATHABLE_FLUID_420g-384i-132c-105a-11h-11w-9b-20r-105a-11h-11w-9b-L.solution"
+}

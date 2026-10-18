@@ -1,0 +1,29 @@
+{
+    "puzzle": "BALING_FIBER",
+    "score": {
+        "cost": 130,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 127,
+        "area": 90,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 1,
+            "value": 9.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BALING_FIBER/130g-127c-90a-38i-5fc4bac6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fb6d586f/P286/130g-38i-127c-90a-7h-18r-9a1-7h-L",
+    "dataPath": "JOURNAL_CVIII_VII/BALING_FIBER/BALING_FIBER_130g-38i-127c-90a-7h-18r-9a1-7h-L.solution"
+}

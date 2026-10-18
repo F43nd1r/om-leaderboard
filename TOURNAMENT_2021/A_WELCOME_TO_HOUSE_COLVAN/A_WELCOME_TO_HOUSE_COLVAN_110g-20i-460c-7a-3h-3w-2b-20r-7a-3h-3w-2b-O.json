@@ -1,0 +1,35 @@
+{
+    "puzzle": "A_WELCOME_TO_HOUSE_COLVAN",
+    "score": {
+        "cost": 110,
+        "instructions": 20,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 460,
+        "area": 7,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 2,
+        "looping": false,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/A-Welcome-to-House-Colvan-110g-460c-7a-20i-3h-3w-20r-O-2f85a4.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/4509d051/w2450560971/110g-20i-460c-7a-3h-3w-2b-20r-7a-3h-3w-2b-O",
+    "dataPath": "TOURNAMENT_2021/A_WELCOME_TO_HOUSE_COLVAN/A_WELCOME_TO_HOUSE_COLVAN_110g-20i-460c-7a-3h-3w-2b-20r-7a-3h-3w-2b-O.solution"
+}

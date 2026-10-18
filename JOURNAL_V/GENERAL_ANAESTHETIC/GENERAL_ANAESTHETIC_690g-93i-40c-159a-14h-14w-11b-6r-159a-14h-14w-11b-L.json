@@ -1,0 +1,35 @@
+{
+    "puzzle": "GENERAL_ANAESTHETIC",
+    "score": {
+        "cost": 690,
+        "instructions": 93,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 40,
+        "area": 159,
+        "height": 14,
+        "width": 14.0,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 159.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/GENERAL_ANAESTHETIC/690g-40c-159a-93i-9901f263.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/04011991/P086/690g-93i-40c-159a-14h-14w-11b-6r-159a-14h-14w-11b-L",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_690g-93i-40c-159a-14h-14w-11b-6r-159a-14h-14w-11b-L.solution"
+}

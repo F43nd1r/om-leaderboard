@@ -1,0 +1,35 @@
+{
+    "puzzle": "SLEEPING_TONIC",
+    "score": {
+        "cost": 100,
+        "instructions": 124,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 492,
+        "area": 52,
+        "height": 8,
+        "width": 7.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 82.0,
+        "areaINF": {
+            "level": 0,
+            "value": 52.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SLEEPING_TONIC/100g-492c-52a-124i-T-44d1b436.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1f20aeba/P242/100g-124i-492c-52a-8h-7.5w-5b-82r-52a-8h-7.5w-5b-TL",
+    "dataPath": "JOURNAL_XI/SLEEPING_TONIC/SLEEPING_TONIC_100g-124i-492c-52a-8h-7.5w-5b-82r-52a-8h-7.5w-5b-TL.solution"
+}

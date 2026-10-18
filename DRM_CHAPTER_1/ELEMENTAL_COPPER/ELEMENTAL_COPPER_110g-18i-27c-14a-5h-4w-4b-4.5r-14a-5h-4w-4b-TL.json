@@ -1,0 +1,35 @@
+{
+    "puzzle": "ELEMENTAL_COPPER",
+    "score": {
+        "cost": 110,
+        "instructions": 18,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 27,
+        "area": 14,
+        "height": 5,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 4.5,
+        "areaINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ELEMENTAL_COPPER/110g-27c-14a-18i-T-995179bf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b68f50dc/P202/110g-18i-27c-14a-5h-4w-4b-4.5r-14a-5h-4w-4b-TL",
+    "dataPath": "DRM_CHAPTER_1/ELEMENTAL_COPPER/ELEMENTAL_COPPER_110g-18i-27c-14a-5h-4w-4b-4.5r-14a-5h-4w-4b-TL.solution"
+}

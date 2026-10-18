@@ -1,0 +1,35 @@
+{
+    "puzzle": "REACTIVE_LEAD",
+    "score": {
+        "cost": 350,
+        "instructions": 112,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 184,
+        "area": 34,
+        "height": 12,
+        "width": 2.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 29.0,
+        "areaINF": {
+            "level": 0,
+            "value": 34.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/350g-184c-34a-112i-797a51a9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e12f647e/P210/350g-112i-184c-34a-12h-2w-12b-29r-34a-12h-2w-12b-L",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_350g-112i-184c-34a-12h-2w-12b-29r-34a-12h-2w-12b-L.solution"
+}

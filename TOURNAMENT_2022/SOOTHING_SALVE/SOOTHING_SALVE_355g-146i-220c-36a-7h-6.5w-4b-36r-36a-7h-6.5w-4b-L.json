@@ -1,0 +1,35 @@
+{
+    "puzzle": "SOOTHING_SALVE",
+    "score": {
+        "cost": 355,
+        "instructions": 146,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 220,
+        "area": 36,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 36.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SOOTHING_SALVE/355g-220c-36a-146i-94bfd5b6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b80d5567/w2788066865/355g-146i-220c-36a-7h-6.5w-4b-36r-36a-7h-6.5w-4b-L",
+    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_355g-146i-220c-36a-7h-6.5w-4b-36r-36a-7h-6.5w-4b-L.solution"
+}

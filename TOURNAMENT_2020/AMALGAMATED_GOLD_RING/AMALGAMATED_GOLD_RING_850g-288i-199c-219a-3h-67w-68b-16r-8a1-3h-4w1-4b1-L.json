@@ -1,0 +1,35 @@
+{
+    "puzzle": "AMALGAMATED_GOLD_RING",
+    "score": {
+        "cost": 850,
+        "instructions": 288,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 199,
+        "area": 219,
+        "height": 3,
+        "width": 67.0,
+        "boundingHex": 68,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/AMALGAMATED_GOLD_RING/850g-199c-219a-288i-c4cb9725.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4c7a61b3/w2501727808/850g-288i-199c-219a-3h-67w-68b-16r-8a1-3h-4w1-4b1-L",
+    "dataPath": "TOURNAMENT_2020/AMALGAMATED_GOLD_RING/AMALGAMATED_GOLD_RING_850g-288i-199c-219a-3h-67w-68b-16r-8a1-3h-4w1-4b1-L.solution"
+}

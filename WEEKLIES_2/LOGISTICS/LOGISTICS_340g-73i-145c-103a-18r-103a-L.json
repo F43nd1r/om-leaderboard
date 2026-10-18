@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 340,
+        "instructions": 73,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 145,
+        "area": 103,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 103.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/8b876751/w2818265313/340g-73i-145c-103a-18r-103a-L",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_340g-73i-145c-103a-18r-103a-L.solution"
+}

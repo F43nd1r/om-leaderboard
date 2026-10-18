@@ -1,0 +1,26 @@
+{
+    "puzzle": "DWARVEN_FIRE_WINE",
+    "score": {
+        "cost": 120,
+        "instructions": 131,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 771,
+        "area": 70,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 129.0,
+        "areaINF": {
+            "level": 0,
+            "value": 70.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/DWARVEN_FIRE_WINE/120g-771c-70a-131i-a97e8dc4.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/7afec299/w1698786588/120g-131i-771c-70a-129r-70a-L",
+    "dataPath": "TOURNAMENT_2019/DWARVEN_FIRE_WINE/DWARVEN_FIRE_WINE_120g-131i-771c-70a-129r-70a-L.solution"
+}

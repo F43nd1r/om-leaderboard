@@ -1,0 +1,29 @@
+{
+    "puzzle": "VOLTAIC_COIL",
+    "score": {
+        "cost": 170,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 81,
+        "area": 282,
+        "height": 21,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VOLTAIC_COIL/170g-81c-282a-38i-T-abd6b662.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/877fa67f/P039/170g-38i-81c-282a-21h-8r-4a2-2h1-TL",
+    "dataPath": "CHAPTER_5/VOLTAIC_COIL/VOLTAIC_COIL_170g-38i-81c-282a-21h-8r-4a2-2h1-TL.solution"
+}

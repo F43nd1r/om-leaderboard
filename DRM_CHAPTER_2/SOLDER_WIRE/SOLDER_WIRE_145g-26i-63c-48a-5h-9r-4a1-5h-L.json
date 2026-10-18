@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 145,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 63,
+        "area": 48,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/145g-63c-48a-26i-22a975a9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2e4db686/P209/145g-26i-63c-48a-5h-9r-4a1-5h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_145g-26i-63c-48a-5h-9r-4a1-5h-L.solution"
+}

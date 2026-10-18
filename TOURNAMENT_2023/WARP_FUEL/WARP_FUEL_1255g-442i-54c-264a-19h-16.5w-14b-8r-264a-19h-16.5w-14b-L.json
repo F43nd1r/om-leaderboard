@@ -1,0 +1,35 @@
+{
+    "puzzle": "WARP_FUEL",
+    "score": {
+        "cost": 1255,
+        "instructions": 442,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 54,
+        "area": 264,
+        "height": 19,
+        "width": 16.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 264.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 16.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/jd1jeF8.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/9d7054e3/w2946687209/1255g-442i-54c-264a-19h-16.5w-14b-8r-264a-19h-16.5w-14b-L",
+    "dataPath": "TOURNAMENT_2023/WARP_FUEL/WARP_FUEL_1255g-442i-54c-264a-19h-16.5w-14b-8r-264a-19h-16.5w-14b-L.solution"
+}

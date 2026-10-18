@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPLORER_S_SALVE",
+    "score": {
+        "cost": 410,
+        "instructions": 128,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 72,
+        "area": 211,
+        "height": 13,
+        "width": 17.5,
+        "boundingHex": 15,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 211.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 15.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/Eg1cK7X.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/70cd6e5f/P059/410g-128i-72c-211a-13h-17.5w-15b-9r-211a-13h-17.5w-15b-TL",
+    "dataPath": "JOURNAL_II/EXPLORER_S_SALVE/EXPLORER_S_SALVE_410g-128i-72c-211a-13h-17.5w-15b-9r-211a-13h-17.5w-15b-TL.solution"
+}

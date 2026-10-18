@@ -1,0 +1,35 @@
+{
+    "puzzle": "DO_YOU_REMEMBER",
+    "score": {
+        "cost": 895,
+        "instructions": 385,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 218,
+        "area": 79,
+        "height": 2,
+        "width": 21.0,
+        "boundingHex": 21,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 0,
+            "value": 79.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 21.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/Ps6BjU6.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/97cef9a9/w1698787731/895g-385i-218c-79a-2h-21w-21b-32r-79a-2h-21w-21b-L",
+    "dataPath": "TOURNAMENT_2019/DO_YOU_REMEMBER/DO_YOU_REMEMBER_895g-385i-218c-79a-2h-21w-21b-32r-79a-2h-21w-21b-L.solution"
+}

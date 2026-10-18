@@ -1,0 +1,35 @@
+{
+    "puzzle": "SURRENDER_FLARE",
+    "score": {
+        "cost": 100,
+        "instructions": 17,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 41,
+        "area": 57,
+        "height": 8,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 7.0,
+        "areaINF": {
+            "level": 0,
+            "value": 57.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SURRENDER_FLARE/100g-41c-57a-17i-T-918f8029.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2178123c/P022/100g-17i-41c-57a-8h-8w-6b-7r-57a-8h-8w-6b-TL",
+    "dataPath": "CHAPTER_2/SURRENDER_FLARE/SURRENDER_FLARE_100g-17i-41c-57a-8h-8w-6b-7r-57a-8h-8w-6b-TL.solution"
+}

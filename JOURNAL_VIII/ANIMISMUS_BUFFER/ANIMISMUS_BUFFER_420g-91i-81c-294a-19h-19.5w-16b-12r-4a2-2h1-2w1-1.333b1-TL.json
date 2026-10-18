@@ -1,0 +1,35 @@
+{
+    "puzzle": "ANIMISMUS_BUFFER",
+    "score": {
+        "cost": 420,
+        "instructions": 91,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 81,
+        "area": 294,
+        "height": 19,
+        "width": 19.5,
+        "boundingHex": 16,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 1.3333333333333333
+        }
+    },
+    "displayLink": "https://files.mors.technology/ANIMISMUS_BUFFER/420g-81c-294a-91i-T-f5376621.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4a601d4e/P104/420g-91i-81c-294a-19h-19.5w-16b-12r-4a2-2h1-2w1-1.333b1-TL",
+    "dataPath": "JOURNAL_VIII/ANIMISMUS_BUFFER/ANIMISMUS_BUFFER_420g-91i-81c-294a-19h-19.5w-16b-12r-4a2-2h1-2w1-1.333b1-TL.solution"
+}

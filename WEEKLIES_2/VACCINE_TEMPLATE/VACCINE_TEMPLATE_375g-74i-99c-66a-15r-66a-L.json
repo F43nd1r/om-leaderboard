@@ -1,0 +1,26 @@
+{
+    "puzzle": "VACCINE_TEMPLATE",
+    "score": {
+        "cost": 375,
+        "instructions": 74,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 99,
+        "area": 66,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 66.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/VACCINE_TEMPLATE/375g-99c-66a-74i-00a22181.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/33fa2ddb/w3033141056/375g-74i-99c-66a-15r-66a-L",
+    "dataPath": "WEEKLIES_2/VACCINE_TEMPLATE/VACCINE_TEMPLATE_375g-74i-99c-66a-15r-66a-L.solution"
+}

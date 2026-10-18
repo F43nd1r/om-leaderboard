@@ -1,0 +1,35 @@
+{
+    "puzzle": "BLOOD_STANCHING_POWDER",
+    "score": {
+        "cost": 370,
+        "instructions": 140,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 289,
+        "area": 60,
+        "height": 9,
+        "width": 8.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 60.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/BLOOD_STANCHING_POWDER/370g-289c-60a-140i-72862119.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/87419057/P087/370g-140i-289c-60a-9h-8.5w-5b-48r-60a-9h-8.5w-5b-L",
+    "dataPath": "JOURNAL_V/BLOOD_STANCHING_POWDER/BLOOD_STANCHING_POWDER_370g-140i-289c-60a-9h-8.5w-5b-48r-60a-9h-8.5w-5b-L.solution"
+}

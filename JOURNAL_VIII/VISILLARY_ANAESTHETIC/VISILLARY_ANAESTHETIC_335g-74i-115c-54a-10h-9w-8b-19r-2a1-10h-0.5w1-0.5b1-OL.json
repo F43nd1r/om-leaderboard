@@ -1,0 +1,35 @@
+{
+    "puzzle": "VISILLARY_ANAESTHETIC",
+    "score": {
+        "cost": 335,
+        "instructions": 74,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 115,
+        "area": 54,
+        "height": 10,
+        "width": 9.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 19.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/VISILLARY_ANAESTHETIC/335g-115c-54a-74i-O-e80bc863.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3520b2e3/P102/335g-74i-115c-54a-10h-9w-8b-19r-2a1-10h-0.5w1-0.5b1-OL",
+    "dataPath": "JOURNAL_VIII/VISILLARY_ANAESTHETIC/VISILLARY_ANAESTHETIC_335g-74i-115c-54a-10h-9w-8b-19r-2a1-10h-0.5w1-0.5b1-OL.solution"
+}

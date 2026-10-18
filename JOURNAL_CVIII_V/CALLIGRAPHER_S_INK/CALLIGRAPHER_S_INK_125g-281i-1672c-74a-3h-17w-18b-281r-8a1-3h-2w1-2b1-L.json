@@ -1,0 +1,35 @@
+{
+    "puzzle": "CALLIGRAPHER_S_INK",
+    "score": {
+        "cost": 125,
+        "instructions": 281,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1672,
+        "area": 74,
+        "height": 3,
+        "width": 17.0,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 281.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/CALLIGRAPHER_S_INK/125g-1672c-74a-281i-ece9daa8.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/792cc12a/P277/125g-281i-1672c-74a-3h-17w-18b-281r-8a1-3h-2w1-2b1-L",
+    "dataPath": "JOURNAL_CVIII_V/CALLIGRAPHER_S_INK/CALLIGRAPHER_S_INK_125g-281i-1672c-74a-3h-17w-18b-281r-8a1-3h-2w1-2b1-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "SNOW_AMPUTATION",
+    "score": {
+        "cost": 280,
+        "instructions": 38,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 66,
+        "area": 147,
+        "height": 12,
+        "width": 11.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 147.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/8bdf6c62/w3728198961/280g-38i-66c-147a-12h-11w-10b-5r-147a-12h-11w-10b-TL",
+    "dataPath": "TOURNAMENT_2026/SNOW_AMPUTATION/SNOW_AMPUTATION_280g-38i-66c-147a-12h-11w-10b-5r-147a-12h-11w-10b-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNIVERSAL_COMPOUND",
+    "score": {
+        "cost": 360,
+        "instructions": 160,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 233,
+        "area": 109,
+        "height": 12,
+        "width": 10.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 32.0,
+        "areaINF": {
+            "level": 0,
+            "value": 109.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/CVnTIJZ.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/0a94a110/P072/360g-160i-233c-109a-12h-10w-9b-32r-109a-12h-10w-9b-L",
+    "dataPath": "JOURNAL_IV/UNIVERSAL_COMPOUND/UNIVERSAL_COMPOUND_360g-160i-233c-109a-12h-10w-9b-32r-109a-12h-10w-9b-L.solution"
+}

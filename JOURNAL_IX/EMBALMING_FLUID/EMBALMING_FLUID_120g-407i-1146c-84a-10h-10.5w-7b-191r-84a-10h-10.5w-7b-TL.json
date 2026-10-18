@@ -1,0 +1,35 @@
+{
+    "puzzle": "EMBALMING_FLUID",
+    "score": {
+        "cost": 120,
+        "instructions": 407,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1146,
+        "area": 84,
+        "height": 10,
+        "width": 10.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 191.0,
+        "areaINF": {
+            "level": 0,
+            "value": 84.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/sxHhgaV.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/409addc3/P108/120g-407i-1146c-84a-10h-10.5w-7b-191r-84a-10h-10.5w-7b-TL",
+    "dataPath": "JOURNAL_IX/EMBALMING_FLUID/EMBALMING_FLUID_120g-407i-1146c-84a-10h-10.5w-7b-191r-84a-10h-10.5w-7b-TL.solution"
+}

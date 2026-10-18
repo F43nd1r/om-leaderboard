@@ -1,0 +1,35 @@
+{
+    "puzzle": "FILM_CRYSTAL",
+    "score": {
+        "cost": 100,
+        "instructions": 5254,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 5245,
+        "area": 32,
+        "height": 6,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 875.67,
+        "areaINF": {
+            "level": 0,
+            "value": 32.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/TOiZIsv.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/98f02e06/w2788067038/100g-5254i-5245c-32a-6h-6w-5b-875.67r-32a-6h-6w-5b-L",
+    "dataPath": "TOURNAMENT_2022/FILM_CRYSTAL/FILM_CRYSTAL_100g-5254i-5245c-32a-6h-6w-5b-875.67r-32a-6h-6w-5b-L.solution"
+}

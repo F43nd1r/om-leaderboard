@@ -1,0 +1,35 @@
+{
+    "puzzle": "STABILIZED_WATER",
+    "score": {
+        "cost": 220,
+        "instructions": 72,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 17,
+        "area": 16,
+        "height": 5,
+        "width": 3.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 8.5,
+        "areaINF": {
+            "level": 0,
+            "value": 29.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/4e9c5924/P007/220g-72i-17c-16a-5h-3w-4b-8.5r-29a-7h-4w-6b-TL",
+    "dataPath": "CHAPTER_1/STABILIZED_WATER/STABILIZED_WATER_220g-72i-17c-16a-5h-3w-4b-8.5r-29a-7h-4w-6b-TL.solution"
+}

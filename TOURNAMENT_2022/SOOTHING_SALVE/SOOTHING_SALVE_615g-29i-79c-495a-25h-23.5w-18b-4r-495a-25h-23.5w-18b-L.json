@@ -1,0 +1,35 @@
+{
+    "puzzle": "SOOTHING_SALVE",
+    "score": {
+        "cost": 615,
+        "instructions": 29,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 79,
+        "area": 495,
+        "height": 25,
+        "width": 23.5,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 495.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 25.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 23.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 18.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/njHs3tf.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/85d841e8/w2788066865/615g-29i-79c-495a-25h-23.5w-18b-4r-495a-25h-23.5w-18b-L",
+    "dataPath": "TOURNAMENT_2022/SOOTHING_SALVE/SOOTHING_SALVE_615g-29i-79c-495a-25h-23.5w-18b-4r-495a-25h-23.5w-18b-L.solution"
+}

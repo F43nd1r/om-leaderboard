@@ -1,0 +1,26 @@
+{
+    "puzzle": "RAT_POISON",
+    "score": {
+        "cost": 310,
+        "instructions": 62,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 53,
+        "area": 78,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 78.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Rat-Poison-310g-53c-78a-62i-9h-9w-8r-39d40f.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/8d4404cd/P074/310g-62i-53c-78a-8r-78a-L",
+    "dataPath": "CHAPTER_PRODUCTION/RAT_POISON/RAT_POISON_310g-62i-53c-78a-8r-78a-L.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "QUIET_HOURS",
+    "score": {
+        "cost": 910,
+        "instructions": 2,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 377,
+        "area": 346,
+        "height": 11,
+        "width": 46.0,
+        "boundingHex": 53,
+        "looping": true,
+        "rate": 62.0,
+        "areaINF": {
+            "level": 1,
+            "value": 40.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/QUIET_HOURS/910g-377c-346a-2i-O-3072b988.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/52ac7e5c/w3728199426/910g-2i-377c-346a-11h-46w-53b-62r-40a1-1h1-6w1-7b1-OL",
+    "dataPath": "TOURNAMENT_2026/QUIET_HOURS/QUIET_HOURS_910g-2i-377c-346a-11h-46w-53b-62r-40a1-1h1-6w1-7b1-OL.solution"
+}

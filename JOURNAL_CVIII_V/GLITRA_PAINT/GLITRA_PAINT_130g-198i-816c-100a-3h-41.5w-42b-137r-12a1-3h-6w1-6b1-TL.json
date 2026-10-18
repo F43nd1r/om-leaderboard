@@ -1,0 +1,35 @@
+{
+    "puzzle": "GLITRA_PAINT",
+    "score": {
+        "cost": 130,
+        "instructions": 198,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 816,
+        "area": 100,
+        "height": 3,
+        "width": 41.5,
+        "boundingHex": 42,
+        "looping": true,
+        "rate": 137.0,
+        "areaINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/GLITRA_PAINT/130g-816c-100a-198i-T-62d19a69.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8424f39d/P275/130g-198i-816c-100a-3h-41.5w-42b-137r-12a1-3h-6w1-6b1-TL",
+    "dataPath": "JOURNAL_CVIII_V/GLITRA_PAINT/GLITRA_PAINT_130g-198i-816c-100a-3h-41.5w-42b-137r-12a1-3h-6w1-6b1-TL.solution"
+}

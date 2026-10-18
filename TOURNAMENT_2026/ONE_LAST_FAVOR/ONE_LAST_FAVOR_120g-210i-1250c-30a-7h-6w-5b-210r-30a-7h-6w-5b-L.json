@@ -1,0 +1,35 @@
+{
+    "puzzle": "ONE_LAST_FAVOR",
+    "score": {
+        "cost": 120,
+        "instructions": 210,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 1250,
+        "area": 30,
+        "height": 7,
+        "width": 6.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 210.0,
+        "areaINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ONE_LAST_FAVOR/120g-1250c-30a-210i-6ef713e7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3e029702/w3728200519/120g-210i-1250c-30a-7h-6w-5b-210r-30a-7h-6w-5b-L",
+    "dataPath": "TOURNAMENT_2026/ONE_LAST_FAVOR/ONE_LAST_FAVOR_120g-210i-1250c-30a-7h-6w-5b-210r-30a-7h-6w-5b-L.solution"
+}

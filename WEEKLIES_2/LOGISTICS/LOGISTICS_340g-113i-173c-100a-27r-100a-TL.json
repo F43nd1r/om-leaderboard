@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 340,
+        "instructions": 113,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 173,
+        "area": 100,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 27.0,
+        "areaINF": {
+            "level": 0,
+            "value": 100.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/LOGISTICS/340g-173c-100a-113i-T-45d632e6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/211e82e9/w2818265313/340g-113i-173c-100a-27r-100a-TL",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_340g-113i-173c-100a-27r-100a-TL.solution"
+}

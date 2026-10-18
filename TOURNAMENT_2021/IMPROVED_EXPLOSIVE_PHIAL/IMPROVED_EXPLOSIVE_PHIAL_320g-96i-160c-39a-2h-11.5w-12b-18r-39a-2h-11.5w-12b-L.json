@@ -1,0 +1,35 @@
+{
+    "puzzle": "IMPROVED_EXPLOSIVE_PHIAL",
+    "score": {
+        "cost": 320,
+        "instructions": 96,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 160,
+        "area": 39,
+        "height": 2,
+        "width": 11.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 39.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Improved-Explosive-Phial-320g-160c-39a-96i-2h-11.5w-18r-4f7be2.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/369e2314/w2450508212/320g-96i-160c-39a-2h-11.5w-12b-18r-39a-2h-11.5w-12b-L",
+    "dataPath": "TOURNAMENT_2021/IMPROVED_EXPLOSIVE_PHIAL/IMPROVED_EXPLOSIVE_PHIAL_320g-96i-160c-39a-2h-11.5w-12b-18r-39a-2h-11.5w-12b-L.solution"
+}

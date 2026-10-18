@@ -1,0 +1,35 @@
+{
+    "puzzle": "RIBBED_FLETCHING",
+    "score": {
+        "cost": 1065,
+        "instructions": 80,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 30,
+        "area": 176,
+        "height": 15,
+        "width": 12.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 176.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/RIBBED_FLETCHING/1065g-30c-176a-80i-O-950ea9af.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3f4b3c67/P273/1065g-80i-30c-176a-15h-12.5w-11b-6r-176a-15h-12.5w-11b-OL",
+    "dataPath": "JOURNAL_CVIII_IV/RIBBED_FLETCHING/RIBBED_FLETCHING_1065g-80i-30c-176a-15h-12.5w-11b-6r-176a-15h-12.5w-11b-OL.solution"
+}

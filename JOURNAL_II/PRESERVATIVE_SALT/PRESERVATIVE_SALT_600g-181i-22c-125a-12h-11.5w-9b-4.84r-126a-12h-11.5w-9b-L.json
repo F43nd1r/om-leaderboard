@@ -1,0 +1,35 @@
+{
+    "puzzle": "PRESERVATIVE_SALT",
+    "score": {
+        "cost": 600,
+        "instructions": 181,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 22,
+        "area": 125,
+        "height": 12,
+        "width": 11.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 4.84,
+        "areaINF": {
+            "level": 0,
+            "value": 126.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PRESERVATIVE_SALT/600g-22c-125a-181i-6c22f341.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cafcb5e8/P060/600g-181i-22c-125a-12h-11.5w-9b-4.84r-126a-12h-11.5w-9b-L",
+    "dataPath": "JOURNAL_II/PRESERVATIVE_SALT/PRESERVATIVE_SALT_600g-181i-22c-125a-12h-11.5w-9b-4.84r-126a-12h-11.5w-9b-L.solution"
+}

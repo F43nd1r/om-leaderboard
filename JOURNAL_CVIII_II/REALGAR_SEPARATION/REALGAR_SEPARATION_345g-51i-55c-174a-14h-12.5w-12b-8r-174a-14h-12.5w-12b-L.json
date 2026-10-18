@@ -1,0 +1,35 @@
+{
+    "puzzle": "REALGAR_SEPARATION",
+    "score": {
+        "cost": 345,
+        "instructions": 51,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 55,
+        "area": 174,
+        "height": 14,
+        "width": 12.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 174.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/REALGAR_SEPARATION/345g-55c-174a-51i-0a1c9d71.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8ea30e1a/P264/345g-51i-55c-174a-14h-12.5w-12b-8r-174a-14h-12.5w-12b-L",
+    "dataPath": "JOURNAL_CVIII_II/REALGAR_SEPARATION/REALGAR_SEPARATION_345g-51i-55c-174a-14h-12.5w-12b-8r-174a-14h-12.5w-12b-L.solution"
+}

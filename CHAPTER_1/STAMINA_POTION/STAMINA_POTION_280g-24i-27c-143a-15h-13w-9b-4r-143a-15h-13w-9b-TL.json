@@ -1,0 +1,35 @@
+{
+    "puzzle": "STAMINA_POTION",
+    "score": {
+        "cost": 280,
+        "instructions": 24,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 27,
+        "area": 143,
+        "height": 15,
+        "width": 13.0,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 143.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Stamina-Potion-280g-27c-143a-24i-15h-13w-4r-T-191a39.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/9cf88af0/P015/280g-24i-27c-143a-15h-13w-9b-4r-143a-15h-13w-9b-TL",
+    "dataPath": "CHAPTER_1/STAMINA_POTION/STAMINA_POTION_280g-24i-27c-143a-15h-13w-9b-4r-143a-15h-13w-9b-TL.solution"
+}

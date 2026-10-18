@@ -1,0 +1,29 @@
+{
+    "puzzle": "RUST_REMOVAL",
+    "score": {
+        "cost": 210,
+        "instructions": 18,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 33,
+        "area": 302,
+        "height": 22,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 7.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/RUST_REMOVAL/210g-33c-302a-18i-T-a2039112.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8aa70821/w2788066771/210g-18i-33c-302a-22h-4r-7a2-2h1-TL",
+    "dataPath": "TOURNAMENT_2022/RUST_REMOVAL/RUST_REMOVAL_210g-18i-33c-302a-22h-4r-7a2-2h1-TL.solution"
+}

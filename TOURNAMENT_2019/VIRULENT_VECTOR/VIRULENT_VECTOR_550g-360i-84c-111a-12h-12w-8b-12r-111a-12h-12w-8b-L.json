@@ -1,0 +1,35 @@
+{
+    "puzzle": "VIRULENT_VECTOR",
+    "score": {
+        "cost": 550,
+        "instructions": 360,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 84,
+        "area": 111,
+        "height": 12,
+        "width": 12.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 111.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Virulent-Vector-550g-84c-111a-360i-12h-12w-12r-92492d.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/252c945f/w1698785238/550g-360i-84c-111a-12h-12w-8b-12r-111a-12h-12w-8b-L",
+    "dataPath": "TOURNAMENT_2019/VIRULENT_VECTOR/VIRULENT_VECTOR_550g-360i-84c-111a-12h-12w-8b-12r-111a-12h-12w-8b-L.solution"
+}

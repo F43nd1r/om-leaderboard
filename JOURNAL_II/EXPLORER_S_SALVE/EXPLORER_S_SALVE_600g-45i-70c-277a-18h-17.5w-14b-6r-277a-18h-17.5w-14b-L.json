@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPLORER_S_SALVE",
+    "score": {
+        "cost": 600,
+        "instructions": 45,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 70,
+        "area": 277,
+        "height": 18,
+        "width": 17.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 277.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 18.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 17.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Explorers-Salve-600g-70c-277a-45i-18h-17.5w-6r-ec1a17.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/00cd2838/P059/600g-45i-70c-277a-18h-17.5w-14b-6r-277a-18h-17.5w-14b-L",
+    "dataPath": "JOURNAL_II/EXPLORER_S_SALVE/EXPLORER_S_SALVE_600g-45i-70c-277a-18h-17.5w-14b-6r-277a-18h-17.5w-14b-L.solution"
+}

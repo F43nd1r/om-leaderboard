@@ -1,0 +1,35 @@
+{
+    "puzzle": "LUSTROUS_SYRUP",
+    "score": {
+        "cost": 320,
+        "instructions": 3,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 600,
+        "area": 123,
+        "height": 15,
+        "width": 14.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 102.0,
+        "areaINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.5
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/LUSTROUS_SYRUP/320g-600c-123a-3i-1f1382e3.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/737b19f9/w2868331650/320g-3i-600c-123a-15h-14w-10b-102r-3a1-15h-0.5w1-0.5b1-L",
+    "dataPath": "WEEKLIES_1/LUSTROUS_SYRUP/LUSTROUS_SYRUP_320g-3i-600c-123a-15h-14w-10b-102r-3a1-15h-0.5w1-0.5b1-L.solution"
+}

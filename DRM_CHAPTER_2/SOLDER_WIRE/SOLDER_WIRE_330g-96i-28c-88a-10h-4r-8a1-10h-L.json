@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 330,
+        "instructions": 96,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 88,
+        "height": 10,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/330g-28c-88a-96i-f745433a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/8083baea/P209/330g-96i-28c-88a-10h-4r-8a1-10h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_330g-96i-28c-88a-10h-4r-8a1-10h-L.solution"
+}

@@ -1,0 +1,26 @@
+{
+    "puzzle": "ALCHEMIST_S_CLAY",
+    "score": {
+        "cost": 160,
+        "instructions": 10,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 47,
+        "area": 62,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 62.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ALCHEMIST_S_CLAY/160g-47c-62a-10i-O-T-7d052128.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/6d738e64/w3728200093/160g-10i-47c-62a-8r-62a-OTL",
+    "dataPath": "TOURNAMENT_2026/ALCHEMIST_S_CLAY/ALCHEMIST_S_CLAY_160g-10i-47c-62a-8r-62a-OTL.solution"
+}

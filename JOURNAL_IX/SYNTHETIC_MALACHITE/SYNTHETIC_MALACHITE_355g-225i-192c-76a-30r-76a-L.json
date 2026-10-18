@@ -1,0 +1,26 @@
+{
+    "puzzle": "SYNTHETIC_MALACHITE",
+    "score": {
+        "cost": 355,
+        "instructions": 225,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 192,
+        "area": 76,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 76.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SYNTHETIC_MALACHITE/355g-192c-76a-225i-8cea9c7e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4ea6f029/P109/355g-225i-192c-76a-30r-76a-L",
+    "dataPath": "JOURNAL_IX/SYNTHETIC_MALACHITE/SYNTHETIC_MALACHITE_355g-225i-192c-76a-30r-76a-L.solution"
+}

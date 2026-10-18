@@ -1,0 +1,35 @@
+{
+    "puzzle": "SURRENDER_FLARE",
+    "score": {
+        "cost": 120,
+        "instructions": 77,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 289,
+        "area": 23,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 48.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Surrender-Flare-120g-289c-23a-77i-6h-5.5w-48r-T-57b92d.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/bdfa1f83/P022/120g-77i-289c-23a-6h-5.5w-4b-48r-23a-6h-5.5w-4b-TL",
+    "dataPath": "CHAPTER_2/SURRENDER_FLARE/SURRENDER_FLARE_120g-77i-289c-23a-6h-5.5w-4b-48r-23a-6h-5.5w-4b-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "COURAGE_POTION",
+    "score": {
+        "cost": 40,
+        "instructions": 22,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 131,
+        "area": 8,
+        "height": 3,
+        "width": 3.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 22.0,
+        "areaINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/COURAGE_POTION/40g-131c-8a-22i-O-T-fdaeb856.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/976c7445/P021/40g-22i-131c-8a-3h-3w-3b-22r-8a-3h-3w-3b-OTL",
+    "dataPath": "CHAPTER_2/COURAGE_POTION/COURAGE_POTION_40g-22i-131c-8a-3h-3w-3b-22r-8a-3h-3w-3b-OTL.solution"
+}

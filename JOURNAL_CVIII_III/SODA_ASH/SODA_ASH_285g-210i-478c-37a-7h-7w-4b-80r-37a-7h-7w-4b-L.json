@@ -1,0 +1,35 @@
+{
+    "puzzle": "SODA_ASH",
+    "score": {
+        "cost": 285,
+        "instructions": 210,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 478,
+        "area": 37,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 80.0,
+        "areaINF": {
+            "level": 0,
+            "value": 37.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SODA_ASH/285g-478c-37a-210i-b61a426e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b6269232/P265/285g-210i-478c-37a-7h-7w-4b-80r-37a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_III/SODA_ASH/SODA_ASH_285g-210i-478c-37a-7h-7w-4b-80r-37a-7h-7w-4b-L.solution"
+}

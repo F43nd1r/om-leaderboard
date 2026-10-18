@@ -1,0 +1,35 @@
+{
+    "puzzle": "NIGHTMARE_FUEL",
+    "score": {
+        "cost": 2200,
+        "instructions": 926,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 282,
+        "height": 23,
+        "width": 19.0,
+        "boundingHex": 13,
+        "looping": true,
+        "rate": 9.17,
+        "areaINF": {
+            "level": 0,
+            "value": 282.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 13.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/db1d0e13/w2829050875/2200g-926i-28c-282a-23h-19w-13b-9.17r-282a-23h-19w-13b-L",
+    "dataPath": "WEEKLIES_1/NIGHTMARE_FUEL/NIGHTMARE_FUEL_2200g-926i-28c-282a-23h-19w-13b-9.17r-282a-23h-19w-13b-L.solution"
+}

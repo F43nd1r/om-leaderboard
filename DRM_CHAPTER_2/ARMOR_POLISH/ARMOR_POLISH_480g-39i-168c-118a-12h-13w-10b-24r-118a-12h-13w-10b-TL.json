@@ -1,0 +1,35 @@
+{
+    "puzzle": "ARMOR_POLISH",
+    "score": {
+        "cost": 480,
+        "instructions": 39,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 168,
+        "area": 118,
+        "height": 12,
+        "width": 13.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 118.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ARMOR_POLISH/480g-168c-118a-39i-T-a006f9a7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/03472cf2/P213/480g-39i-168c-118a-12h-13w-10b-24r-118a-12h-13w-10b-TL",
+    "dataPath": "DRM_CHAPTER_2/ARMOR_POLISH/ARMOR_POLISH_480g-39i-168c-118a-12h-13w-10b-24r-118a-12h-13w-10b-TL.solution"
+}

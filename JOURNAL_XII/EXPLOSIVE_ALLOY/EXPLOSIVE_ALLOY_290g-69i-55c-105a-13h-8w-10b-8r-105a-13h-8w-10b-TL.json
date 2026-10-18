@@ -1,0 +1,35 @@
+{
+    "puzzle": "EXPLOSIVE_ALLOY",
+    "score": {
+        "cost": 290,
+        "instructions": 69,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 55,
+        "area": 105,
+        "height": 13,
+        "width": 8.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 105.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/EXPLOSIVE_ALLOY/290g-55c-105a-69i-T-7c7ba098.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/597a1255/P251/290g-69i-55c-105a-13h-8w-10b-8r-105a-13h-8w-10b-TL",
+    "dataPath": "JOURNAL_XII/EXPLOSIVE_ALLOY/EXPLOSIVE_ALLOY_290g-69i-55c-105a-13h-8w-10b-8r-105a-13h-8w-10b-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "GENERAL_ANAESTHETIC",
+    "score": {
+        "cost": 1065,
+        "instructions": 247,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 39,
+        "area": 185,
+        "height": 16,
+        "width": 15.0,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 185.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/0Jw0vFS.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/94f0ef40/P086/1065g-247i-39c-185a-16h-15w-12b-6r-185a-16h-15w-12b-L",
+    "dataPath": "JOURNAL_V/GENERAL_ANAESTHETIC/GENERAL_ANAESTHETIC_1065g-247i-39c-185a-16h-15w-12b-6r-185a-16h-15w-12b-L.solution"
+}

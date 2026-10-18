@@ -1,0 +1,35 @@
+{
+    "puzzle": "CRYSTALLIZED_AIR",
+    "score": {
+        "cost": 240,
+        "instructions": 124,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 741,
+        "area": 185,
+        "height": 17,
+        "width": 13.5,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 124.0,
+        "areaINF": {
+            "level": 0,
+            "value": 185.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/CRYSTALLIZED_AIR/240g-741c-185a-124i-T-6349a7eb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fe7ee243/w3446278612/240g-124i-741c-185a-17h-13.5w-10b-124r-185a-17h-13.5w-10b-TL",
+    "dataPath": "TOURNAMENT_2025/CRYSTALLIZED_AIR/CRYSTALLIZED_AIR_240g-124i-741c-185a-17h-13.5w-10b-124r-185a-17h-13.5w-10b-TL.solution"
+}

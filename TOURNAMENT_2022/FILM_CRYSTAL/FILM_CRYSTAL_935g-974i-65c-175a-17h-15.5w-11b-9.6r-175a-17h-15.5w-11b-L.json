@@ -1,0 +1,35 @@
+{
+    "puzzle": "FILM_CRYSTAL",
+    "score": {
+        "cost": 935,
+        "instructions": 974,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 65,
+        "area": 175,
+        "height": 17,
+        "width": 15.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 9.6,
+        "areaINF": {
+            "level": 0,
+            "value": 175.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 17.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/FILM_CRYSTAL/935g-65c-175a-974i-4131afb2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d805be64/w2788067038/935g-974i-65c-175a-17h-15.5w-11b-9.6r-175a-17h-15.5w-11b-L",
+    "dataPath": "TOURNAMENT_2022/FILM_CRYSTAL/FILM_CRYSTAL_935g-974i-65c-175a-17h-15.5w-11b-9.6r-175a-17h-15.5w-11b-L.solution"
+}

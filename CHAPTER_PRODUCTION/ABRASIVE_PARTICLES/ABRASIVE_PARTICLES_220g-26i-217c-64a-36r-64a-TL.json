@@ -1,0 +1,26 @@
+{
+    "puzzle": "ABRASIVE_PARTICLES",
+    "score": {
+        "cost": 220,
+        "instructions": 26,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 217,
+        "area": 64,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 36.0,
+        "areaINF": {
+            "level": 0,
+            "value": 64.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/ABRASIVE_PARTICLES/220g-217c-64a-26i-T-f81b390b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f6b7e360/P079/220g-26i-217c-64a-36r-64a-TL",
+    "dataPath": "CHAPTER_PRODUCTION/ABRASIVE_PARTICLES/ABRASIVE_PARTICLES_220g-26i-217c-64a-36r-64a-TL.solution"
+}

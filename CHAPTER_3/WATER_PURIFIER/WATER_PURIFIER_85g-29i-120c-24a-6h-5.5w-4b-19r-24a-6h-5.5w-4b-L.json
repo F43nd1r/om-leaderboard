@@ -1,0 +1,35 @@
+{
+    "puzzle": "WATER_PURIFIER",
+    "score": {
+        "cost": 85,
+        "instructions": 29,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 120,
+        "area": 24,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 19.0,
+        "areaINF": {
+            "level": 0,
+            "value": 24.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/WATER_PURIFIER/85g-120c-24a-29i-2e422672.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bca562b0/P025/85g-29i-120c-24a-6h-5.5w-4b-19r-24a-6h-5.5w-4b-L",
+    "dataPath": "CHAPTER_3/WATER_PURIFIER/WATER_PURIFIER_85g-29i-120c-24a-6h-5.5w-4b-19r-24a-6h-5.5w-4b-L.solution"
+}

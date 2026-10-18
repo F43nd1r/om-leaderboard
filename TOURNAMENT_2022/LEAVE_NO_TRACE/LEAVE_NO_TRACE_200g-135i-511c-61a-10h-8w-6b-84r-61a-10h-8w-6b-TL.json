@@ -1,0 +1,35 @@
+{
+    "puzzle": "LEAVE_NO_TRACE",
+    "score": {
+        "cost": 200,
+        "instructions": 135,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 511,
+        "area": 61,
+        "height": 10,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 84.0,
+        "areaINF": {
+            "level": 0,
+            "value": 61.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/0ile7CD.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/be7bd252/w2788066279/200g-135i-511c-61a-10h-8w-6b-84r-61a-10h-8w-6b-TL",
+    "dataPath": "TOURNAMENT_2022/LEAVE_NO_TRACE/LEAVE_NO_TRACE_200g-135i-511c-61a-10h-8w-6b-84r-61a-10h-8w-6b-TL.solution"
+}

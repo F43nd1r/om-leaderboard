@@ -1,0 +1,35 @@
+{
+    "puzzle": "MIST_OF_INCAPACITATION",
+    "score": {
+        "cost": 110,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 138,
+        "area": 20,
+        "height": 5,
+        "width": 4.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 24.0,
+        "areaINF": {
+            "level": 0,
+            "value": 20.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/jJlS1F0.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/d12d950c/P018/110g-9i-138c-20a-5h-4.5w-4b-24r-20a-5h-4.5w-4b-TL",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_110g-9i-138c-20a-5h-4.5w-4b-24r-20a-5h-4.5w-4b-TL.solution"
+}

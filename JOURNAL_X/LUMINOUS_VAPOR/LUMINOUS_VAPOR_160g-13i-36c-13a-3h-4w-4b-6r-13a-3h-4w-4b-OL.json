@@ -1,0 +1,35 @@
+{
+    "puzzle": "LUMINOUS_VAPOR",
+    "score": {
+        "cost": 160,
+        "instructions": 13,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 36,
+        "area": 13,
+        "height": 3,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LUMINOUS_VAPOR/160g-36c-13a-13i-O-a5c39e39.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a8a00d99/P247/160g-13i-36c-13a-3h-4w-4b-6r-13a-3h-4w-4b-OL",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_160g-13i-36c-13a-3h-4w-4b-6r-13a-3h-4w-4b-OL.solution"
+}

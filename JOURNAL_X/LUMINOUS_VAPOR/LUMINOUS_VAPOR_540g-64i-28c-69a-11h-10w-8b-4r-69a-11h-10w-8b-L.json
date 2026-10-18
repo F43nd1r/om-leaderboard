@@ -1,0 +1,35 @@
+{
+    "puzzle": "LUMINOUS_VAPOR",
+    "score": {
+        "cost": 540,
+        "instructions": 64,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 69,
+        "height": 11,
+        "width": 10.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 0,
+            "value": 69.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/SELF_PRESSURIZING_GAS/540g-28c-69a-64i-581ae8b6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/895dc03a/P247/540g-64i-28c-69a-11h-10w-8b-4r-69a-11h-10w-8b-L",
+    "dataPath": "JOURNAL_X/LUMINOUS_VAPOR/LUMINOUS_VAPOR_540g-64i-28c-69a-11h-10w-8b-4r-69a-11h-10w-8b-L.solution"
+}

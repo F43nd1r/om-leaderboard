@@ -1,0 +1,35 @@
+{
+    "puzzle": "LIFE_SENSING_POTION",
+    "score": {
+        "cost": 440,
+        "instructions": 4,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 763,
+        "area": 181,
+        "height": 16,
+        "width": 13.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 112.0,
+        "areaINF": {
+            "level": 0,
+            "value": 181.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 13.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LIFE_SENSING_POTION/440g-763c-181a-4i-57ff010b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e4828ba1/P030b/440g-4i-763c-181a-16h-13.5w-11b-112r-181a-16h-13.5w-11b-L",
+    "dataPath": "CHAPTER_3/LIFE_SENSING_POTION/LIFE_SENSING_POTION_440g-4i-763c-181a-16h-13.5w-11b-112r-181a-16h-13.5w-11b-L.solution"
+}

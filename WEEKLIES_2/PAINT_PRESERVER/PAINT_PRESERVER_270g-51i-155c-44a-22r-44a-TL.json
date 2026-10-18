@@ -1,0 +1,26 @@
+{
+    "puzzle": "PAINT_PRESERVER",
+    "score": {
+        "cost": 270,
+        "instructions": 51,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 155,
+        "area": 44,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 22.0,
+        "areaINF": {
+            "level": 0,
+            "value": 44.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/PAINT_PRESERVER/270g-155c-44a-51i-T-ac93e920.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/409ed6c8/w3817955175/270g-51i-155c-44a-22r-44a-TL",
+    "dataPath": "WEEKLIES_2/PAINT_PRESERVER/PAINT_PRESERVER_270g-51i-155c-44a-22r-44a-TL.solution"
+}

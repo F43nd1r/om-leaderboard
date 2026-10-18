@@ -1,0 +1,35 @@
+{
+    "puzzle": "HIGH_GLOSS_FINISH",
+    "score": {
+        "cost": 3030,
+        "instructions": 1900,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 40,
+        "area": 477,
+        "height": 29,
+        "width": 24.0,
+        "boundingHex": 18,
+        "looping": true,
+        "rate": 6.67,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 1.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.75
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.5
+        }
+    },
+    "displayLink": "https://files.mors.technology/HIGH_GLOSS_FINISH/3030g-40c-477a-1900i-53a80ca9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f19e2ea1/w2501728349/3030g-1900i-40c-477a-29h-24w-18b-6.67r-4a1-1h1-0.75w1-0.5b1-L",
+    "dataPath": "TOURNAMENT_2020/HIGH_GLOSS_FINISH/HIGH_GLOSS_FINISH_3030g-1900i-40c-477a-29h-24w-18b-6.67r-4a1-1h1-0.75w1-0.5b1-L.solution"
+}

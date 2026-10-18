@@ -1,0 +1,26 @@
+{
+    "puzzle": "BALANCED_GOLD",
+    "score": {
+        "cost": 180,
+        "instructions": 30,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 252,
+        "area": 51,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 51.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/BALANCED_GOLD/180g-252c-51a-30i-T-ad0e63e9.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/f655e5b5/P282/180g-30i-252c-51a-20r-51a-TL",
+    "dataPath": "JOURNAL_CVIII_VI/BALANCED_GOLD/BALANCED_GOLD_180g-30i-252c-51a-20r-51a-TL.solution"
+}

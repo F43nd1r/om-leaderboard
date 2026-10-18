@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNWINDING",
+    "score": {
+        "cost": 250,
+        "instructions": 31,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 20,
+        "area": 130,
+        "height": 13,
+        "width": 11.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 2.0,
+        "areaINF": {
+            "level": 0,
+            "value": 130.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/68jWVN2.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/ba24bdf1/w1611998067/250g-31i-20c-130a-13h-11w-10b-2r-130a-13h-11w-10b-TL",
+    "dataPath": "TOURNAMENT_2019/UNWINDING/UNWINDING_250g-31i-20c-130a-13h-11w-10b-2r-130a-13h-11w-10b-TL.solution"
+}

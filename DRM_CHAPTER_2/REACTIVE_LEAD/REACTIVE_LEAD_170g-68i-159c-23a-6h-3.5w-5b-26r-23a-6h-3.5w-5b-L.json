@@ -1,0 +1,35 @@
+{
+    "puzzle": "REACTIVE_LEAD",
+    "score": {
+        "cost": 170,
+        "instructions": 68,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 159,
+        "area": 23,
+        "height": 6,
+        "width": 3.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 23.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 3.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.catbox.moe/yjglta.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/a112e9a3/P210/170g-68i-159c-23a-6h-3.5w-5b-26r-23a-6h-3.5w-5b-L",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_170g-68i-159c-23a-6h-3.5w-5b-26r-23a-6h-3.5w-5b-L.solution"
+}

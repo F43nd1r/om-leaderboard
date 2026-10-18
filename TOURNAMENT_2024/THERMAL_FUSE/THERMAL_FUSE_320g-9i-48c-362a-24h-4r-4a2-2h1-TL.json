@@ -1,0 +1,29 @@
+{
+    "puzzle": "THERMAL_FUSE",
+    "score": {
+        "cost": 320,
+        "instructions": 9,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 48,
+        "area": 362,
+        "height": 24,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 2,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/THERMAL_FUSE/320g-48c-362a-9i-T-ccaf3241.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/037b33fc/w3210188410/320g-9i-48c-362a-24h-4r-4a2-2h1-TL",
+    "dataPath": "TOURNAMENT_2024/THERMAL_FUSE/THERMAL_FUSE_320g-9i-48c-362a-24h-4r-4a2-2h1-TL.solution"
+}

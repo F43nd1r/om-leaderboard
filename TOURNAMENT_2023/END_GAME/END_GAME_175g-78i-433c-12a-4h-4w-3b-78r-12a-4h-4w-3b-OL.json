@@ -1,0 +1,35 @@
+{
+    "puzzle": "END_GAME",
+    "score": {
+        "cost": 175,
+        "instructions": 78,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 433,
+        "area": 12,
+        "height": 4,
+        "width": 4.0,
+        "boundingHex": 3,
+        "looping": true,
+        "rate": 78.0,
+        "areaINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/END_GAME/175g-433c-12a-78i-O-6d56b23b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a55c2c5c/w2946682691/175g-78i-433c-12a-4h-4w-3b-78r-12a-4h-4w-3b-OL",
+    "dataPath": "TOURNAMENT_2023/END_GAME/END_GAME_175g-78i-433c-12a-4h-4w-3b-78r-12a-4h-4w-3b-OL.solution"
+}

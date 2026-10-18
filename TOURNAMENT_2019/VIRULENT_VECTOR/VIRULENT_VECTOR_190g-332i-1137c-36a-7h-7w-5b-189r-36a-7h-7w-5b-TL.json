@@ -1,0 +1,35 @@
+{
+    "puzzle": "VIRULENT_VECTOR",
+    "score": {
+        "cost": 190,
+        "instructions": 332,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 1137,
+        "area": 36,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 189.0,
+        "areaINF": {
+            "level": 0,
+            "value": 36.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/ELOnPst.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/5ee29040/w1698785238/190g-332i-1137c-36a-7h-7w-5b-189r-36a-7h-7w-5b-TL",
+    "dataPath": "TOURNAMENT_2019/VIRULENT_VECTOR/VIRULENT_VECTOR_190g-332i-1137c-36a-7h-7w-5b-189r-36a-7h-7w-5b-TL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "LAPIS_SOLARIS",
+    "score": {
+        "cost": 945,
+        "instructions": 185,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 106,
+        "area": 195,
+        "height": 16,
+        "width": 15.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 16.0,
+        "areaINF": {
+            "level": 0,
+            "value": 195.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 15.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LAPIS_SOLARIS/945g-106c-195a-185i-d10b1523.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/cedb476a/P313/945g-185i-106c-195a-16h-15.5w-11b-16r-195a-16h-15.5w-11b-L",
+    "dataPath": "JOURNAL_CVIII_XII/LAPIS_SOLARIS/LAPIS_SOLARIS_945g-185i-106c-195a-16h-15.5w-11b-16r-195a-16h-15.5w-11b-L.solution"
+}

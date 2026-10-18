@@ -1,0 +1,35 @@
+{
+    "puzzle": "UNSTABLE_COMPOUND",
+    "score": {
+        "cost": 70,
+        "instructions": 126,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 752,
+        "area": 32,
+        "height": 7,
+        "width": 6.5,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 126.0,
+        "areaINF": {
+            "level": 0,
+            "value": 32.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 6.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/UNSTABLE_COMPOUND/70g-752c-32a-126i-8716ba35.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/79f34484/P040/70g-126i-752c-32a-7h-6.5w-4b-126r-32a-7h-6.5w-4b-L",
+    "dataPath": "CHAPTER_5/UNSTABLE_COMPOUND/UNSTABLE_COMPOUND_70g-126i-752c-32a-7h-6.5w-4b-126r-32a-7h-6.5w-4b-L.solution"
+}

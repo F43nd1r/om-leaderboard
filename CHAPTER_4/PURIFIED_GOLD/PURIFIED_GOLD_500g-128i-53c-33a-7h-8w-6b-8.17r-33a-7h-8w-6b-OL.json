@@ -1,0 +1,35 @@
+{
+    "puzzle": "PURIFIED_GOLD",
+    "score": {
+        "cost": 500,
+        "instructions": 128,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 53,
+        "area": 33,
+        "height": 7,
+        "width": 8.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 8.17,
+        "areaINF": {
+            "level": 0,
+            "value": 33.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PURIFIED_GOLD/500g-53c-33a-128i-O-e7838348.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/ddc2e674/P036/500g-128i-53c-33a-7h-8w-6b-8.17r-33a-7h-8w-6b-OL",
+    "dataPath": "CHAPTER_4/PURIFIED_GOLD/PURIFIED_GOLD_500g-128i-53c-33a-7h-8w-6b-8.17r-33a-7h-8w-6b-OL.solution"
+}

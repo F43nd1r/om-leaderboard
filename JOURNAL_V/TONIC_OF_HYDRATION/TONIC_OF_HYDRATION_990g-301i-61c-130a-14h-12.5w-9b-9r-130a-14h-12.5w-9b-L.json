@@ -1,0 +1,35 @@
+{
+    "puzzle": "TONIC_OF_HYDRATION",
+    "score": {
+        "cost": 990,
+        "instructions": 301,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 61,
+        "area": 130,
+        "height": 14,
+        "width": 12.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 9.0,
+        "areaINF": {
+            "level": 0,
+            "value": 130.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/TONIC_OF_HYDRATION/990g-61c-130a-301i-f3a066fc.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/9a452ae7/P089/990g-301i-61c-130a-14h-12.5w-9b-9r-130a-14h-12.5w-9b-L",
+    "dataPath": "JOURNAL_V/TONIC_OF_HYDRATION/TONIC_OF_HYDRATION_990g-301i-61c-130a-14h-12.5w-9b-9r-130a-14h-12.5w-9b-L.solution"
+}

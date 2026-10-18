@@ -1,0 +1,35 @@
+{
+    "puzzle": "ALCOHOL_SEPARATION",
+    "score": {
+        "cost": 100,
+        "instructions": 41,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 125,
+        "area": 22,
+        "height": 3,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 21.0,
+        "areaINF": {
+            "level": 0,
+            "value": 22.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ALCOHOL_SEPARATION/100g-125c-22a-41i-T-a9924083.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/2ae58e42/P024/100g-41i-125c-22a-3h-5.5w-5b-21r-22a-3h-5.5w-5b-TL",
+    "dataPath": "CHAPTER_3/ALCOHOL_SEPARATION/ALCOHOL_SEPARATION_100g-41i-125c-22a-3h-5.5w-5b-21r-22a-3h-5.5w-5b-TL.solution"
+}

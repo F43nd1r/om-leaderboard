@@ -1,0 +1,35 @@
+{
+    "puzzle": "WATERPROOF_SEALANT",
+    "score": {
+        "cost": 45,
+        "instructions": 22,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 128,
+        "area": 11,
+        "height": 2,
+        "width": 4.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 22.0,
+        "areaINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 4.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Waterproof-Sealant-45g-128c-11a-22i-2h-4w-22r-2d963b.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/18d9d663/P011/45g-22i-128c-11a-2h-4w-4b-22r-11a-2h-4w-4b-L",
+    "dataPath": "CHAPTER_1/WATERPROOF_SEALANT/WATERPROOF_SEALANT_45g-22i-128c-11a-2h-4w-4b-22r-11a-2h-4w-4b-L.solution"
+}

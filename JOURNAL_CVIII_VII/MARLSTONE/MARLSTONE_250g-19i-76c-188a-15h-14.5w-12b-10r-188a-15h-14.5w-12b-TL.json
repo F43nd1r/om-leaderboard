@@ -1,0 +1,35 @@
+{
+    "puzzle": "MARLSTONE",
+    "score": {
+        "cost": 250,
+        "instructions": 19,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 76,
+        "area": 188,
+        "height": 15,
+        "width": 14.5,
+        "boundingHex": 12,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 0,
+            "value": 188.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 15.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 12.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MARLSTONE/250g-76c-188a-19i-T-e856aae7.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/07fd11d2/P288/250g-19i-76c-188a-15h-14.5w-12b-10r-188a-15h-14.5w-12b-TL",
+    "dataPath": "JOURNAL_CVIII_VII/MARLSTONE/MARLSTONE_250g-19i-76c-188a-15h-14.5w-12b-10r-188a-15h-14.5w-12b-TL.solution"
+}

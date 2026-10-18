@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 325,
+        "instructions": 80,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 29,
+        "area": 92,
+        "height": 13,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 6.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/325g-29c-92a-80i-2879b2cf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/4f2e9a20/P209/325g-80i-29c-92a-13h-4r-6a1-13h-L",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_325g-80i-29c-92a-13h-4r-6a1-13h-L.solution"
+}

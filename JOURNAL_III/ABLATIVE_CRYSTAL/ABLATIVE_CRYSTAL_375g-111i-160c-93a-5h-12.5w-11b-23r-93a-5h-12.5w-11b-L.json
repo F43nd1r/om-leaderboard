@@ -1,0 +1,35 @@
+{
+    "puzzle": "ABLATIVE_CRYSTAL",
+    "score": {
+        "cost": 375,
+        "instructions": 111,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 160,
+        "area": 93,
+        "height": 5,
+        "width": 12.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 23.0,
+        "areaINF": {
+            "level": 0,
+            "value": 93.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ABLATIVE_CRYSTAL/375g-160c-93a-111i-3e33e2ff.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0ed58b08/P068/375g-111i-160c-93a-5h-12.5w-11b-23r-93a-5h-12.5w-11b-L",
+    "dataPath": "JOURNAL_III/ABLATIVE_CRYSTAL/ABLATIVE_CRYSTAL_375g-111i-160c-93a-5h-12.5w-11b-23r-93a-5h-12.5w-11b-L.solution"
+}

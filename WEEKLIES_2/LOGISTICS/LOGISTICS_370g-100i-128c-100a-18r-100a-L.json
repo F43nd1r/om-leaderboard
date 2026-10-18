@@ -1,0 +1,26 @@
+{
+    "puzzle": "LOGISTICS",
+    "score": {
+        "cost": 370,
+        "instructions": 100,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 128,
+        "area": 100,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 18.0,
+        "areaINF": {
+            "level": 0,
+            "value": 100.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/2d642554/w2818265313/370g-100i-128c-100a-18r-100a-L",
+    "dataPath": "WEEKLIES_2/LOGISTICS/LOGISTICS_370g-100i-128c-100a-18r-100a-L.solution"
+}

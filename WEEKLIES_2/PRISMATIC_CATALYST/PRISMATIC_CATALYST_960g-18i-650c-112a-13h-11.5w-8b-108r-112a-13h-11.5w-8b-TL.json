@@ -1,0 +1,35 @@
+{
+    "puzzle": "PRISMATIC_CATALYST",
+    "score": {
+        "cost": 960,
+        "instructions": 18,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 650,
+        "area": 112,
+        "height": 13,
+        "width": 11.5,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 108.0,
+        "areaINF": {
+            "level": 0,
+            "value": 112.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/cadba9ba/w3817955190/960g-18i-650c-112a-13h-11.5w-8b-108r-112a-13h-11.5w-8b-TL",
+    "dataPath": "WEEKLIES_2/PRISMATIC_CATALYST/PRISMATIC_CATALYST_960g-18i-650c-112a-13h-11.5w-8b-108r-112a-13h-11.5w-8b-TL.solution"
+}

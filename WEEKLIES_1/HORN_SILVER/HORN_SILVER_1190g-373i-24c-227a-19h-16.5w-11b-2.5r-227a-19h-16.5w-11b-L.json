@@ -1,0 +1,35 @@
+{
+    "puzzle": "HORN_SILVER",
+    "score": {
+        "cost": 1190,
+        "instructions": 373,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 24,
+        "area": 227,
+        "height": 19,
+        "width": 16.5,
+        "boundingHex": 11,
+        "looping": true,
+        "rate": 2.5,
+        "areaINF": {
+            "level": 0,
+            "value": 227.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 19.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 16.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/90efb91d/w2513871683/1190g-373i-24c-227a-19h-16.5w-11b-2.5r-227a-19h-16.5w-11b-L",
+    "dataPath": "WEEKLIES_1/HORN_SILVER/HORN_SILVER_1190g-373i-24c-227a-19h-16.5w-11b-2.5r-227a-19h-16.5w-11b-L.solution"
+}

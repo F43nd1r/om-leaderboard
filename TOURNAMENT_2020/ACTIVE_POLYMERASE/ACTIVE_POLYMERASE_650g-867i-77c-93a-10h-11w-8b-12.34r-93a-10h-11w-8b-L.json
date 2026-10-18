@@ -1,0 +1,35 @@
+{
+    "puzzle": "ACTIVE_POLYMERASE",
+    "score": {
+        "cost": 650,
+        "instructions": 867,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 77,
+        "area": 93,
+        "height": 10,
+        "width": 11.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 12.34,
+        "areaINF": {
+            "level": 0,
+            "value": 93.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 10.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/Active-Polymerase-650g-77c-93a-867i-10h-11w-12.34r-69f534.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/bb025b7d/w2501728219/650g-867i-77c-93a-10h-11w-8b-12.34r-93a-10h-11w-8b-L",
+    "dataPath": "TOURNAMENT_2020/ACTIVE_POLYMERASE/ACTIVE_POLYMERASE_650g-867i-77c-93a-10h-11w-8b-12.34r-93a-10h-11w-8b-L.solution"
+}

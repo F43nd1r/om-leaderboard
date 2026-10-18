@@ -1,0 +1,29 @@
+{
+    "puzzle": "ARMOR_FILAMENT",
+    "score": {
+        "cost": 155,
+        "instructions": 2,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 163,
+        "area": 25,
+        "height": 5,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 28.0,
+        "areaINF": {
+            "level": 1,
+            "value": 2.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Armor-Filament-155g-163c-25a-2i-5h-7.5w-28r-O-af2afd.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/b82dee4d/P020/155g-2i-163c-25a-5h-28r-2a1-5h-OL",
+    "dataPath": "CHAPTER_2/ARMOR_FILAMENT/ARMOR_FILAMENT_155g-2i-163c-25a-5h-28r-2a1-5h-OL.solution"
+}

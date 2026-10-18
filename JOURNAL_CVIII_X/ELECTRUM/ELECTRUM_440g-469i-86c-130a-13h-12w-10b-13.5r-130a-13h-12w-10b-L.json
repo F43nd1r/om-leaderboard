@@ -1,0 +1,35 @@
+{
+    "puzzle": "ELECTRUM",
+    "score": {
+        "cost": 440,
+        "instructions": 469,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 86,
+        "area": 130,
+        "height": 13,
+        "width": 12.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 13.5,
+        "areaINF": {
+            "level": 0,
+            "value": 130.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 10.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/ELECTRUM/440g-86c-130a-469i-2089a487.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/a498eda8/P303/440g-469i-86c-130a-13h-12w-10b-13.5r-130a-13h-12w-10b-L",
+    "dataPath": "JOURNAL_CVIII_X/ELECTRUM/ELECTRUM_440g-469i-86c-130a-13h-12w-10b-13.5r-130a-13h-12w-10b-L.solution"
+}

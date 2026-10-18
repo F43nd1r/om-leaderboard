@@ -1,0 +1,29 @@
+{
+    "puzzle": "SWAMP_FIBER",
+    "score": {
+        "cost": 100,
+        "instructions": 144,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 382,
+        "area": 1407,
+        "height": 47,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 63.0,
+        "areaINF": {
+            "level": 2,
+            "value": 64.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 8.618802153517006
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://i.imgur.com/8Aih3rR.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/6138d9c1/w2501727889/100g-144i-382c-1407a-47h-63r-64a2-8.619h1-TL",
+    "dataPath": "TOURNAMENT_2020/SWAMP_FIBER/SWAMP_FIBER_100g-144i-382c-1407a-47h-63r-64a2-8.619h1-TL.solution"
+}

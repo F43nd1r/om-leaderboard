@@ -1,0 +1,29 @@
+{
+    "puzzle": "DOWSING_RODS",
+    "score": {
+        "cost": 400,
+        "instructions": 56,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 34,
+        "area": 64,
+        "height": 7,
+        "width": null,
+        "boundingHex": null,
+        "looping": false,
+        "rate": 4.0,
+        "areaINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/af368f0d/w3817954313/400g-56i-34c-64a-7h-4r-4a1-7h",
+    "dataPath": "WEEKLIES_2/DOWSING_RODS/DOWSING_RODS_400g-56i-34c-64a-7h-4r-4a1-7h.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "MILD_STEEL",
+    "score": {
+        "cost": 150,
+        "instructions": 46,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 120,
+        "area": 21,
+        "height": 5,
+        "width": 5.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/MILD_STEEL/150g-120c-21a-46i-O-30557deb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/31ab64be/P308/150g-46i-120c-21a-5h-5w-4b-20r-21a-5h-5w-4b-OL",
+    "dataPath": "JOURNAL_CVIII_XI/MILD_STEEL/MILD_STEEL_150g-46i-120c-21a-5h-5w-4b-20r-21a-5h-5w-4b-OL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "VISILLARY_ANAESTHETIC",
+    "score": {
+        "cost": 100,
+        "instructions": 246,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 666,
+        "area": 267,
+        "height": 23,
+        "width": 19.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 112.0,
+        "areaINF": {
+            "level": 2,
+            "value": 9.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 2.0
+        }
+    },
+    "displayLink": "https://i.imgur.com/AqIudsm.gif",
+    "dataLink": "https://zlbb.faendir.com/l/om/1afd5d83/P102/100g-246i-666c-267a-23h-19w-14b-112r-9a2-3h1-3w1-2b1-TL",
+    "dataPath": "JOURNAL_VIII/VISILLARY_ANAESTHETIC/VISILLARY_ANAESTHETIC_100g-246i-666c-267a-23h-19w-14b-112r-9a2-3h1-3w1-2b1-TL.solution"
+}

@@ -1,0 +1,29 @@
+{
+    "puzzle": "SOLDER_WIRE",
+    "score": {
+        "cost": 70,
+        "instructions": 293,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 180,
+        "area": 235,
+        "height": 17,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 31.17,
+        "areaINF": {
+            "level": 2,
+            "value": 8.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 2.3094010767585034
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/SOLDER_WIRE/70g-180c-235a-293i-T-881f6241.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/3d052ab2/P209/70g-293i-180c-235a-17h-31.17r-8a2-2.309h1-TL",
+    "dataPath": "DRM_CHAPTER_2/SOLDER_WIRE/SOLDER_WIRE_70g-293i-180c-235a-17h-31.17r-8a2-2.309h1-TL.solution"
+}

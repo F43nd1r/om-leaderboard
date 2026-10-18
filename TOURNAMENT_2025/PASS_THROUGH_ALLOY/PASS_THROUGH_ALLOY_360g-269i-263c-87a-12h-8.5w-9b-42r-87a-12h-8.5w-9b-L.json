@@ -1,0 +1,35 @@
+{
+    "puzzle": "PASS_THROUGH_ALLOY",
+    "score": {
+        "cost": 360,
+        "instructions": 269,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 263,
+        "area": 87,
+        "height": 12,
+        "width": 8.5,
+        "boundingHex": 9,
+        "looping": true,
+        "rate": 42.0,
+        "areaINF": {
+            "level": 0,
+            "value": 87.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 9.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/PASS_THROUGH_ALLOY/360g-263c-87a-269i-c28f90b2.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0cef832d/w3446279881/360g-269i-263c-87a-12h-8.5w-9b-42r-87a-12h-8.5w-9b-L",
+    "dataPath": "TOURNAMENT_2025/PASS_THROUGH_ALLOY/PASS_THROUGH_ALLOY_360g-269i-263c-87a-12h-8.5w-9b-42r-87a-12h-8.5w-9b-L.solution"
+}

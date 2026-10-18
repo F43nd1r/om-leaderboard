@@ -1,0 +1,35 @@
+{
+    "puzzle": "VAPOROUS_SOLVENT",
+    "score": {
+        "cost": 1115,
+        "instructions": 150,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 104,
+        "area": 584,
+        "height": 30,
+        "width": 23.5,
+        "boundingHex": 19,
+        "looping": true,
+        "rate": 5.0,
+        "areaINF": {
+            "level": 0,
+            "value": 584.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 23.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 19.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VAPOROUS_SOLVENT/1115g-104c-584a-150i-O-4e9f0401.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/d95b957f/P098/1115g-150i-104c-584a-30h-23.5w-19b-5r-584a-30h-23.5w-19b-OL",
+    "dataPath": "JOURNAL_VII/VAPOROUS_SOLVENT/VAPOROUS_SOLVENT_1115g-150i-104c-584a-30h-23.5w-19b-5r-584a-30h-23.5w-19b-OL.solution"
+}

@@ -1,0 +1,35 @@
+{
+    "puzzle": "LAMBENT_II_IX",
+    "score": {
+        "cost": 295,
+        "instructions": 28,
+        "overlap": true,
+        "trackless": false,
+        "cycles": 87,
+        "area": 54,
+        "height": 6,
+        "width": 8.0,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 15.0,
+        "areaINF": {
+            "level": 0,
+            "value": 54.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/LAMBENT_II_IX/295g-87c-54a-28i-O-ed904ce6.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/e57d6506/P058/295g-28i-87c-54a-6h-8w-7b-15r-54a-6h-8w-7b-OL",
+    "dataPath": "JOURNAL_I/LAMBENT_II_IX/LAMBENT_II_IX_295g-28i-87c-54a-6h-8w-7b-15r-54a-6h-8w-7b-OL.solution"
+}

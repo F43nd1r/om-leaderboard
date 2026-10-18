@@ -1,0 +1,35 @@
+{
+    "puzzle": "VIA_MEDIA",
+    "score": {
+        "cost": 380,
+        "instructions": 149,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 235,
+        "area": 37,
+        "height": 7,
+        "width": 7.0,
+        "boundingHex": 4,
+        "looping": true,
+        "rate": 38.0,
+        "areaINF": {
+            "level": 0,
+            "value": 37.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 7.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 4.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/VIA_MEDIA/380g-235c-37a-149i-3620368b.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/60288e87/P284/380g-149i-235c-37a-7h-7w-4b-38r-37a-7h-7w-4b-L",
+    "dataPath": "JOURNAL_CVIII_VI/VIA_MEDIA/VIA_MEDIA_380g-149i-235c-37a-7h-7w-4b-38r-37a-7h-7w-4b-L.solution"
+}

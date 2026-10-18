@@ -1,0 +1,29 @@
+{
+    "puzzle": "BUOYANT_CABLE",
+    "score": {
+        "cost": 420,
+        "instructions": 63,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 71,
+        "area": 424,
+        "height": 25,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 10.0,
+        "areaINF": {
+            "level": 2,
+            "value": 16.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 4.0
+        },
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://files.mors.technology/Buoyant-Cable-420g-71c-424a-63i-25h-21w-10r-f0e59d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/66b8919e/P062/420g-63i-71c-424a-25h-10r-16a2-4h1-L",
+    "dataPath": "JOURNAL_II/BUOYANT_CABLE/BUOYANT_CABLE_420g-63i-71c-424a-25h-10r-16a2-4h1-L.solution"
+}
