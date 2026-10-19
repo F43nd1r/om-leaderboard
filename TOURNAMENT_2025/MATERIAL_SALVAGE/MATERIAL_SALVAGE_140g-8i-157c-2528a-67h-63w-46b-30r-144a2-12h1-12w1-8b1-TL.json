@@ -1,0 +1,36 @@
+{
+    "puzzle": "MATERIAL_SALVAGE",
+    "score": {
+        "cost": 140,
+        "instructions": 8,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 157,
+        "area": 2528,
+        "height": 67,
+        "width": 63.0,
+        "boundingHex": 46,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 2,
+            "value": 144.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 12.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/00631867/w3446276940/140g-8i-157c-2528a-67h-63w-46b-30r-144a2-12h1-12w1-8b1-TL",
+    "dataPath": "TOURNAMENT_2025/MATERIAL_SALVAGE/MATERIAL_SALVAGE_140g-8i-157c-2528a-67h-63w-46b-30r-144a2-12h1-12w1-8b1-TL.solution",
+    "lastModified": "2026-10-19T01:05:02.189471694Z"
+}
