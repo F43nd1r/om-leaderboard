@@ -1,0 +1,27 @@
+{
+    "puzzle": "PARADE_ROCKET_FUEL",
+    "score": {
+        "cost": 140,
+        "instructions": 31,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 118,
+        "area": 67,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 20.0,
+        "areaINF": {
+            "level": 0,
+            "value": 67.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/8aa0b556/P082/140g-31i-118c-67a-20r-67a-OTL",
+    "dataPath": "CHAPTER_PRODUCTION/PARADE_ROCKET_FUEL/PARADE_ROCKET_FUEL_140g-31i-118c-67a-20r-67a-OTL.solution",
+    "lastModified": "2026-10-19T01:04:56.745429618Z"
+}
