@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIST_OF_HALLUCINATION",
+    "score": {
+        "cost": 230,
+        "instructions": 34,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 64,
+        "area": 69,
+        "height": 9,
+        "width": 9.0,
+        "boundingHex": 6,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 69.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 9.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 6.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/5d2217e2/P038/230g-34i-64c-69a-9h-9w-6b-8r-69a-9h-9w-6b-TL",
+    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_230g-34i-64c-69a-9h-9w-6b-8r-69a-9h-9w-6b-TL.solution",
+    "lastModified": "2026-10-19T01:05:08.103324758Z"
+}
