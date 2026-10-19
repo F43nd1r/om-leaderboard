@@ -1,0 +1,27 @@
+{
+    "puzzle": "AETHER_REACTOR",
+    "score": {
+        "cost": 420,
+        "instructions": 59,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 337,
+        "area": 103,
+        "height": null,
+        "width": null,
+        "boundingHex": null,
+        "looping": true,
+        "rate": 30.0,
+        "areaINF": {
+            "level": 0,
+            "value": 103.0
+        },
+        "heightINF": null,
+        "widthINF": null,
+        "boundingHexINF": null
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/b356fb98/w2788067624/420g-59i-337c-103a-30r-103a-L",
+    "dataPath": "TOURNAMENT_2022/AETHER_REACTOR/AETHER_REACTOR_420g-59i-337c-103a-30r-103a-L.solution",
+    "lastModified": "2026-10-19T01:05:15.439506295Z"
+}
