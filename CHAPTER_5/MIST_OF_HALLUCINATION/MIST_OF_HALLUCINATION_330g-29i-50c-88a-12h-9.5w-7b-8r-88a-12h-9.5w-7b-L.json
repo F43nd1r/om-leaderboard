@@ -1,12 +1,12 @@
 {
     "puzzle": "MIST_OF_HALLUCINATION",
     "score": {
-        "cost": 340,
-        "instructions": 31,
+        "cost": 330,
+        "instructions": 29,
         "overlap": false,
         "trackless": false,
         "cycles": 50,
-        "area": 94,
+        "area": 88,
         "height": 12,
         "width": 9.5,
         "boundingHex": 7,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 94.0
+            "value": 88.0
         },
         "heightINF": {
             "level": 0,
@@ -29,7 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/MIST_OF_HALLUCINATION/340g-50c-94a-31i-ae4f671a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P038/340g-31i-50c-94a-12h-9.5w-7b-8r-94a-12h-9.5w-7b-L",
-    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_340g-31i-50c-94a-12h-9.5w-7b-8r-94a-12h-9.5w-7b-L.solution"
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/c88d6773/P038/330g-29i-50c-88a-12h-9.5w-7b-8r-88a-12h-9.5w-7b-L",
+    "dataPath": "CHAPTER_5/MIST_OF_HALLUCINATION/MIST_OF_HALLUCINATION_330g-29i-50c-88a-12h-9.5w-7b-8r-88a-12h-9.5w-7b-L.solution",
+    "lastModified": "2026-10-19T01:05:12.170799302Z"
 }
