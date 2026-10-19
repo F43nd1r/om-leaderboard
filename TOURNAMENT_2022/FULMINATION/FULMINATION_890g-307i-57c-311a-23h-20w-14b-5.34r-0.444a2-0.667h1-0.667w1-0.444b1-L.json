@@ -1,0 +1,36 @@
+{
+    "puzzle": "FULMINATION",
+    "score": {
+        "cost": 890,
+        "instructions": 307,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 57,
+        "area": 311,
+        "height": 23,
+        "width": 20.0,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 5.34,
+        "areaINF": {
+            "level": 2,
+            "value": 0.4444444444444444
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 0.6666666666666666
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 0.6666666666666666
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 0.4444444444444444
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/81e18073/w2788067677/890g-307i-57c-311a-23h-20w-14b-5.34r-0.444a2-0.667h1-0.667w1-0.444b1-L",
+    "dataPath": "TOURNAMENT_2022/FULMINATION/FULMINATION_890g-307i-57c-311a-23h-20w-14b-5.34r-0.444a2-0.667h1-0.667w1-0.444b1-L.solution",
+    "lastModified": "2026-10-19T01:06:02.794626475Z"
+}
