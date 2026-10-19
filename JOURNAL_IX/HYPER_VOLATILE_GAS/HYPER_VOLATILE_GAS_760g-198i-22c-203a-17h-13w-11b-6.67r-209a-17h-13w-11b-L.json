@@ -2,7 +2,7 @@
     "puzzle": "HYPER_VOLATILE_GAS",
     "score": {
         "cost": 760,
-        "instructions": 203,
+        "instructions": 198,
         "overlap": false,
         "trackless": false,
         "cycles": 22,
@@ -10,8 +10,8 @@
         "height": 17,
         "width": 13.0,
         "boundingHex": 11,
-        "looping": false,
-        "rate": 9.67,
+        "looping": true,
+        "rate": 6.67,
         "areaINF": {
             "level": 0,
             "value": 209.0
@@ -29,7 +29,8 @@
             "value": 11.0
         }
     },
-    "displayLink": "https://files.mors.technology/HYPER_VOLATILE_GAS/760g-22c-203a-203i-c864b5bb.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P106/760g-203i-22c-203a-17h-13w-11b-9.67r-209a-17h-13w-11b",
-    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_760g-203i-22c-203a-17h-13w-11b-9.67r-209a-17h-13w-11b.solution"
+    "displayLink": "https://files.mors.technology/HYPER_VOLATILE_GAS/760g-22c-203a-198i-a6420ebc.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/99e5eb21/P106/760g-198i-22c-203a-17h-13w-11b-6.67r-209a-17h-13w-11b-L",
+    "dataPath": "JOURNAL_IX/HYPER_VOLATILE_GAS/HYPER_VOLATILE_GAS_760g-198i-22c-203a-17h-13w-11b-6.67r-209a-17h-13w-11b-L.solution",
+    "lastModified": "2026-10-19T04:07:44.246995639Z"
 }
