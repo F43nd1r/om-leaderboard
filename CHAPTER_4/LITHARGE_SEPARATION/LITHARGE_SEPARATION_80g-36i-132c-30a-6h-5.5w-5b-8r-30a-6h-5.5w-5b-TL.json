@@ -1,0 +1,36 @@
+{
+    "puzzle": "LITHARGE_SEPARATION",
+    "score": {
+        "cost": 80,
+        "instructions": 36,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 132,
+        "area": 30,
+        "height": 6,
+        "width": 5.5,
+        "boundingHex": 5,
+        "looping": true,
+        "rate": 8.0,
+        "areaINF": {
+            "level": 0,
+            "value": 30.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 6.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 5.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 5.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/696819b9/P031b/80g-36i-132c-30a-6h-5.5w-5b-8r-30a-6h-5.5w-5b-TL",
+    "dataPath": "CHAPTER_4/LITHARGE_SEPARATION/LITHARGE_SEPARATION_80g-36i-132c-30a-6h-5.5w-5b-8r-30a-6h-5.5w-5b-TL.solution",
+    "lastModified": "2026-10-19T01:06:00.110884306Z"
+}
