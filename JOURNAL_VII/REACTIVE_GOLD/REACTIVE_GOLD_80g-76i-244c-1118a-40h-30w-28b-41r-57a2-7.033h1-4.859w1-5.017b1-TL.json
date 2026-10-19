@@ -1,0 +1,36 @@
+{
+    "puzzle": "REACTIVE_GOLD",
+    "score": {
+        "cost": 80,
+        "instructions": 76,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 244,
+        "area": 1118,
+        "height": 40,
+        "width": 30.0,
+        "boundingHex": 28,
+        "looping": true,
+        "rate": 41.0,
+        "areaINF": {
+            "level": 2,
+            "value": 57.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 7.033222956847166
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 4.858898943540674
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 5.016611478423584
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/174f1301/P095/80g-76i-244c-1118a-40h-30w-28b-41r-57a2-7.033h1-4.859w1-5.017b1-TL",
+    "dataPath": "JOURNAL_VII/REACTIVE_GOLD/REACTIVE_GOLD_80g-76i-244c-1118a-40h-30w-28b-41r-57a2-7.033h1-4.859w1-5.017b1-TL.solution",
+    "lastModified": "2026-10-19T01:06:02.250415753Z"
+}
