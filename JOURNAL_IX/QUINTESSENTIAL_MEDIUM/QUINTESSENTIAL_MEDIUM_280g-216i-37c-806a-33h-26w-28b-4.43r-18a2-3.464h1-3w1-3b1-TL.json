@@ -1,0 +1,36 @@
+{
+    "puzzle": "QUINTESSENTIAL_MEDIUM",
+    "score": {
+        "cost": 280,
+        "instructions": 216,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 37,
+        "area": 806,
+        "height": 33,
+        "width": 26.0,
+        "boundingHex": 28,
+        "looping": true,
+        "rate": 4.43,
+        "areaINF": {
+            "level": 2,
+            "value": 18.0
+        },
+        "heightINF": {
+            "level": 1,
+            "value": 3.4641016151377544
+        },
+        "widthINF": {
+            "level": 1,
+            "value": 3.0
+        },
+        "boundingHexINF": {
+            "level": 1,
+            "value": 3.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/0b2b5055/P107/280g-216i-37c-806a-33h-26w-28b-4.43r-18a2-3.464h1-3w1-3b1-TL",
+    "dataPath": "JOURNAL_IX/QUINTESSENTIAL_MEDIUM/QUINTESSENTIAL_MEDIUM_280g-216i-37c-806a-33h-26w-28b-4.43r-18a2-3.464h1-3w1-3b1-TL.solution",
+    "lastModified": "2026-10-19T01:05:11.016639834Z"
+}
