@@ -1,0 +1,36 @@
+{
+    "puzzle": "MIST_OF_INCAPACITATION",
+    "score": {
+        "cost": 150,
+        "instructions": 6,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 39,
+        "area": 63,
+        "height": 8,
+        "width": 8.5,
+        "boundingHex": 7,
+        "looping": true,
+        "rate": 6.0,
+        "areaINF": {
+            "level": 0,
+            "value": 63.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 8.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 7.0
+        }
+    },
+    "displayLink": "https://solution.media.missing",
+    "dataLink": "https://zlbb.faendir.com/l/om/c7592b04/P018/150g-6i-39c-63a-8h-8.5w-7b-6r-63a-8h-8.5w-7b-OTL",
+    "dataPath": "CHAPTER_2/MIST_OF_INCAPACITATION/MIST_OF_INCAPACITATION_150g-6i-39c-63a-8h-8.5w-7b-6r-63a-8h-8.5w-7b-OTL.solution",
+    "lastModified": "2026-10-19T01:05:02.910490082Z"
+}
