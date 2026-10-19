@@ -1,0 +1,36 @@
+{
+    "puzzle": "POTENT_POTABLES",
+    "score": {
+        "cost": 425,
+        "instructions": 273,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 28,
+        "area": 113,
+        "height": 12,
+        "width": 11.0,
+        "boundingHex": 10,
+        "looping": true,
+        "rate": 26.0,
+        "areaINF": {
+            "level": 0,
+            "value": 176.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 14.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 11.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/POTENT_POTABLES/425g-28c-113a-273i-eff6ac11.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/60f514a5/w2501727721/425g-273i-28c-113a-12h-11w-10b-26r-176a-13h-14w-11b-L",
+    "dataPath": "TOURNAMENT_2020/POTENT_POTABLES/POTENT_POTABLES_425g-273i-28c-113a-12h-11w-10b-26r-176a-13h-14w-11b-L.solution",
+    "lastModified": "2026-10-19T03:49:17.796489750Z"
+}
