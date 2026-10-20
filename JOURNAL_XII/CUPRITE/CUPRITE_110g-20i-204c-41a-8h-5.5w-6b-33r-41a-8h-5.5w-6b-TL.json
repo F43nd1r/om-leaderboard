@@ -2,11 +2,11 @@
     "puzzle": "CUPRITE",
     "score": {
         "cost": 110,
-        "instructions": 22,
+        "instructions": 20,
         "overlap": false,
         "trackless": true,
-        "cycles": 206,
-        "area": 42,
+        "cycles": 204,
+        "area": 41,
         "height": 8,
         "width": 5.5,
         "boundingHex": 6,
@@ -14,7 +14,7 @@
         "rate": 33.0,
         "areaINF": {
             "level": 0,
-            "value": 42.0
+            "value": 41.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 6.0
         }
     },
-    "displayLink": "https://files.mors.technology/CUPRITE/110g-206c-42a-22i-T-86a5773b.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/f38b8885/P253/110g-22i-206c-42a-8h-5.5w-6b-33r-42a-8h-5.5w-6b-TL",
-    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_110g-22i-206c-42a-8h-5.5w-6b-33r-42a-8h-5.5w-6b-TL.solution",
-    "lastModified": "2026-10-20T07:47:41.984269325Z"
+    "displayLink": "https://files.mors.technology/CUPRITE/110g-204c-41a-20i-T-ccb5404d.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/b01e618e/P253/110g-20i-204c-41a-8h-5.5w-6b-33r-41a-8h-5.5w-6b-TL",
+    "dataPath": "JOURNAL_XII/CUPRITE/CUPRITE_110g-20i-204c-41a-8h-5.5w-6b-33r-41a-8h-5.5w-6b-TL.solution",
+    "lastModified": "2026-10-20T07:48:50.273424229Z"
 }
