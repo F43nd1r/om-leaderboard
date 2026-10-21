@@ -2,16 +2,16 @@
     "puzzle": "FACE_POWDER",
     "score": {
         "cost": 95,
-        "instructions": 142,
+        "instructions": 24,
         "overlap": false,
         "trackless": false,
-        "cycles": 73,
+        "cycles": 65,
         "area": 10,
         "height": 4,
         "width": 2.0,
         "boundingHex": 4,
         "looping": true,
-        "rate": 12.17,
+        "rate": 10.0,
         "areaINF": {
             "level": 0,
             "value": 10.0
@@ -29,7 +29,8 @@
             "value": 4.0
         }
     },
-    "displayLink": "https://files.mors.technology/FACE_POWDER/95g-73c-10a-142i-1e98ce0d.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/5565748b/P009/95g-142i-73c-10a-4h-2w-4b-12.17r-10a-4h-2w-4b-L",
-    "dataPath": "CHAPTER_1/FACE_POWDER/FACE_POWDER_95g-142i-73c-10a-4h-2w-4b-12.17r-10a-4h-2w-4b-L.solution"
+    "displayLink": "https://files.mors.technology/FACE_POWDER/95g-65c-10a-24i-fa01100e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/0c937f16/P009/95g-24i-65c-10a-4h-2w-4b-10r-10a-4h-2w-4b-L",
+    "dataPath": "CHAPTER_1/FACE_POWDER/FACE_POWDER_95g-24i-65c-10a-4h-2w-4b-10r-10a-4h-2w-4b-L.solution",
+    "lastModified": "2026-10-21T10:55:23.865045351Z"
 }
