@@ -1,13 +1,13 @@
 {
     "puzzle": "REACTIVE_LEAD",
     "score": {
-        "cost": 170,
+        "cost": 160,
         "instructions": 8,
         "overlap": true,
-        "trackless": false,
+        "trackless": true,
         "cycles": 32,
         "area": 6,
-        "height": 3,
+        "height": 2,
         "width": 2.5,
         "boundingHex": 3,
         "looping": true,
@@ -18,7 +18,7 @@
         },
         "heightINF": {
             "level": 0,
-            "value": 3.0
+            "value": 2.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/170g-32c-6a-8i-O-1bbd7c06.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/4104a87b/P210/170g-8i-32c-6a-3h-2.5w-3b-5r-6a-3h-2.5w-3b-OL",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_170g-8i-32c-6a-3h-2.5w-3b-5r-6a-3h-2.5w-3b-OL.solution",
-    "lastModified": "2026-10-21T08:22:40.783923398Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/160g-32c-6a-8i-OT-b2913492.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/1e140c94/P210/160g-8i-32c-6a-2h-2.5w-3b-5r-6a-2h-2.5w-3b-OTL",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_160g-8i-32c-6a-2h-2.5w-3b-5r-6a-2h-2.5w-3b-OTL.solution",
+    "lastModified": "2026-10-21T08:23:29.087087222Z"
 }
