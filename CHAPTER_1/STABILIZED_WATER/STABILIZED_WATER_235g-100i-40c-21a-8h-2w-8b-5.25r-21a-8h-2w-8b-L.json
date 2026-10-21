@@ -1,0 +1,36 @@
+{
+    "puzzle": "STABILIZED_WATER",
+    "score": {
+        "cost": 235,
+        "instructions": 100,
+        "overlap": false,
+        "trackless": false,
+        "cycles": 40,
+        "area": 21,
+        "height": 8,
+        "width": 2.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 5.25,
+        "areaINF": {
+            "level": 0,
+            "value": 21.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 8.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 2.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/STABILIZED_WATER/235g-40c-21a-100i-53e7c9e5.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fc1a2f47/P007/235g-100i-40c-21a-8h-2w-8b-5.25r-21a-8h-2w-8b-L",
+    "dataPath": "CHAPTER_1/STABILIZED_WATER/STABILIZED_WATER_235g-100i-40c-21a-8h-2w-8b-5.25r-21a-8h-2w-8b-L.solution",
+    "lastModified": "2026-10-21T09:28:47.888321009Z"
+}
