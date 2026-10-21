@@ -1,12 +1,12 @@
 {
     "puzzle": "VAN_BERLO_S_ROTOR",
     "score": {
-        "cost": 620,
-        "instructions": 249,
+        "cost": 605,
+        "instructions": 246,
         "overlap": false,
         "trackless": false,
         "cycles": 101,
-        "area": 317,
+        "area": 312,
         "height": 23,
         "width": 20.5,
         "boundingHex": 14,
@@ -14,7 +14,7 @@
         "rate": 8.0,
         "areaINF": {
             "level": 0,
-            "value": 317.0
+            "value": 312.0
         },
         "heightINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 14.0
         }
     },
-    "displayLink": "https://files.mors.technology/VAN_BERLO_S_ROTOR/620g-101c-317a-249i-e96c003a.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/41b97bdc/w3817954043/620g-249i-101c-317a-23h-20.5w-14b-8r-317a-23h-20.5w-14b-L",
-    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_620g-249i-101c-317a-23h-20.5w-14b-8r-317a-23h-20.5w-14b-L.solution",
-    "lastModified": "2026-10-21T00:26:46.352417966Z"
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_ROTOR/605g-101c-312a-246i-0b117f0a.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/74085cf0/w3817954043/605g-246i-101c-312a-23h-20.5w-14b-8r-312a-23h-20.5w-14b-L",
+    "dataPath": "WEEKLIES_2/VAN_BERLO_S_ROTOR/VAN_BERLO_S_ROTOR_605g-246i-101c-312a-23h-20.5w-14b-8r-312a-23h-20.5w-14b-L.solution",
+    "lastModified": "2026-10-21T00:32:44.619238212Z"
 }
