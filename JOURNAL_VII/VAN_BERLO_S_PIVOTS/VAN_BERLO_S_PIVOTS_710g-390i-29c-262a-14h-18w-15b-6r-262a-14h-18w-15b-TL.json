@@ -2,7 +2,7 @@
     "puzzle": "VAN_BERLO_S_PIVOTS",
     "score": {
         "cost": 710,
-        "instructions": 396,
+        "instructions": 390,
         "overlap": false,
         "trackless": true,
         "cycles": 29,
@@ -11,7 +11,7 @@
         "width": 18.0,
         "boundingHex": 15,
         "looping": true,
-        "rate": 5.84,
+        "rate": 6.0,
         "areaINF": {
             "level": 0,
             "value": 262.0
@@ -29,8 +29,8 @@
             "value": 15.0
         }
     },
-    "displayLink": "https://solution.media.missing",
-    "dataLink": "https://zlbb.faendir.com/l/om/fdebf12f/P096/710g-396i-29c-262a-14h-18w-15b-5.84r-262a-14h-18w-15b-TL",
-    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/VAN_BERLO_S_PIVOTS_710g-396i-29c-262a-14h-18w-15b-5.84r-262a-14h-18w-15b-TL.solution",
-    "lastModified": "2026-10-19T01:05:20.590854827Z"
+    "displayLink": "https://files.mors.technology/VAN_BERLO_S_PIVOTS/710g-29c-262a-390i-T-fbe40c09.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/29691e23/P096/710g-390i-29c-262a-14h-18w-15b-6r-262a-14h-18w-15b-TL",
+    "dataPath": "JOURNAL_VII/VAN_BERLO_S_PIVOTS/VAN_BERLO_S_PIVOTS_710g-390i-29c-262a-14h-18w-15b-6r-262a-14h-18w-15b-TL.solution",
+    "lastModified": "2026-10-21T02:08:42.061445819Z"
 }
