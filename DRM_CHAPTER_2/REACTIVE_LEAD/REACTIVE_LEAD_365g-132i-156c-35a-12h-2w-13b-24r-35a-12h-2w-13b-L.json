@@ -1,24 +1,24 @@
 {
     "puzzle": "REACTIVE_LEAD",
     "score": {
-        "cost": 395,
+        "cost": 365,
         "instructions": 132,
         "overlap": false,
         "trackless": false,
         "cycles": 156,
-        "area": 37,
-        "height": 13,
+        "area": 35,
+        "height": 12,
         "width": 2.0,
         "boundingHex": 13,
         "looping": true,
         "rate": 24.0,
         "areaINF": {
             "level": 0,
-            "value": 37.0
+            "value": 35.0
         },
         "heightINF": {
             "level": 0,
-            "value": 13.0
+            "value": 12.0
         },
         "widthINF": {
             "level": 0,
@@ -29,8 +29,8 @@
             "value": 13.0
         }
     },
-    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/395g-156c-37a-132i-185b39ca.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/76f1b50a/P210/395g-132i-156c-37a-13h-2w-13b-24r-37a-13h-2w-13b-L",
-    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_395g-132i-156c-37a-13h-2w-13b-24r-37a-13h-2w-13b-L.solution",
-    "lastModified": "2026-10-21T06:52:46.482183539Z"
+    "displayLink": "https://files.mors.technology/REACTIVE_LEAD/365g-156c-35a-132i-c28c4fbb.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/eea6adef/P210/365g-132i-156c-35a-12h-2w-13b-24r-35a-12h-2w-13b-L",
+    "dataPath": "DRM_CHAPTER_2/REACTIVE_LEAD/REACTIVE_LEAD_365g-132i-156c-35a-12h-2w-13b-24r-35a-12h-2w-13b-L.solution",
+    "lastModified": "2026-10-22T00:44:34.746312051Z"
 }
