@@ -5,13 +5,13 @@
         "instructions": 6,
         "overlap": true,
         "trackless": true,
-        "cycles": 88,
+        "cycles": 60,
         "area": 81,
         "height": 9,
         "width": 9.5,
         "boundingHex": 7,
         "looping": true,
-        "rate": 15.0,
+        "rate": 10.0,
         "areaINF": {
             "level": 0,
             "value": 81.0
@@ -29,8 +29,8 @@
             "value": 7.0
         }
     },
-    "displayLink": "https://files.mors.technology/RESIN_GLUE/160g-88c-81a-6i-OT-17b81a6c.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/c8f27cc9/P309/160g-6i-88c-81a-9h-9.5w-7b-15r-81a-9h-9.5w-7b-OTL",
-    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_160g-6i-88c-81a-9h-9.5w-7b-15r-81a-9h-9.5w-7b-OTL.solution",
-    "lastModified": "2026-10-23T08:12:19.340286818Z"
+    "displayLink": "https://files.mors.technology/RESIN_GLUE/160g-60c-81a-6i-OT-2cb93b31.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c31daf55/P309/160g-6i-60c-81a-9h-9.5w-7b-10r-81a-9h-9.5w-7b-OTL",
+    "dataPath": "JOURNAL_CVIII_XI/RESIN_GLUE/RESIN_GLUE_160g-6i-60c-81a-9h-9.5w-7b-10r-81a-9h-9.5w-7b-OTL.solution",
+    "lastModified": "2026-10-23T08:15:15.957306375Z"
 }
