@@ -1,17 +1,17 @@
 {
     "puzzle": "RAVARI_S_ROAD",
     "score": {
-        "cost": 190,
-        "instructions": 127,
+        "cost": 170,
+        "instructions": 119,
         "overlap": false,
         "trackless": true,
-        "cycles": 205,
+        "cycles": 172,
         "area": 19,
         "height": 5,
         "width": 5.0,
         "boundingHex": 3,
         "looping": true,
-        "rate": 33.0,
+        "rate": 28.0,
         "areaINF": {
             "level": 0,
             "value": 19.0
@@ -29,8 +29,8 @@
             "value": 3.0
         }
     },
-    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/190g-205c-19a-127i-T-7c67ce44.mp4",
-    "dataLink": "https://zlbb.faendir.com/l/om/30425ca7/w3584639567/190g-127i-205c-19a-5h-5w-3b-33r-19a-5h-5w-3b-TL",
-    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_190g-127i-205c-19a-5h-5w-3b-33r-19a-5h-5w-3b-TL.solution",
-    "lastModified": "2026-10-23T11:58:05.184540519Z"
+    "displayLink": "https://files.mors.technology/RAVARI_S_ROAD/170g-172c-19a-119i-T-e940191e.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/c66653f0/w3584639567/170g-119i-172c-19a-5h-5w-3b-28r-19a-5h-5w-3b-TL",
+    "dataPath": "WEEKLIES_2/RAVARI_S_ROAD/RAVARI_S_ROAD_170g-119i-172c-19a-5h-5w-3b-28r-19a-5h-5w-3b-TL.solution",
+    "lastModified": "2026-10-23T16:57:50.038280289Z"
 }
