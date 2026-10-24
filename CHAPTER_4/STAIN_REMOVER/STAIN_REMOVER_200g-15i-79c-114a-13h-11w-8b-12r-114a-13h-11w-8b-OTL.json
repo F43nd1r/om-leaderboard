@@ -1,0 +1,36 @@
+{
+    "puzzle": "STAIN_REMOVER",
+    "score": {
+        "cost": 200,
+        "instructions": 15,
+        "overlap": true,
+        "trackless": true,
+        "cycles": 79,
+        "area": 114,
+        "height": 13,
+        "width": 11.0,
+        "boundingHex": 8,
+        "looping": true,
+        "rate": 12.0,
+        "areaINF": {
+            "level": 0,
+            "value": 114.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 13.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 11.0
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 8.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/STAIN_REMOVER/200g-79c-114a-15i-OT-0a95219f.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/fb4a45c6/P034/200g-15i-79c-114a-13h-11w-8b-12r-114a-13h-11w-8b-OTL",
+    "dataPath": "CHAPTER_4/STAIN_REMOVER/STAIN_REMOVER_200g-15i-79c-114a-13h-11w-8b-12r-114a-13h-11w-8b-OTL.solution",
+    "lastModified": "2026-10-24T05:48:22.469799288Z"
+}
