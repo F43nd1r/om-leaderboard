@@ -1,0 +1,36 @@
+{
+    "puzzle": "END_GAME",
+    "score": {
+        "cost": 510,
+        "instructions": 68,
+        "overlap": false,
+        "trackless": true,
+        "cycles": 421,
+        "area": 209,
+        "height": 16,
+        "width": 12.5,
+        "boundingHex": 14,
+        "looping": true,
+        "rate": 72.0,
+        "areaINF": {
+            "level": 0,
+            "value": 209.0
+        },
+        "heightINF": {
+            "level": 0,
+            "value": 16.0
+        },
+        "widthINF": {
+            "level": 0,
+            "value": 12.5
+        },
+        "boundingHexINF": {
+            "level": 0,
+            "value": 14.0
+        }
+    },
+    "displayLink": "https://files.mors.technology/END_GAME/510g-421c-209a-68i-T-3356aabf.mp4",
+    "dataLink": "https://zlbb.faendir.com/l/om/712392c3/w2946682691/510g-68i-421c-209a-16h-12.5w-14b-72r-209a-16h-12.5w-14b-TL",
+    "dataPath": "TOURNAMENT_2023/END_GAME/END_GAME_510g-68i-421c-209a-16h-12.5w-14b-72r-209a-16h-12.5w-14b-TL.solution",
+    "lastModified": "2026-10-24T05:14:47.626323162Z"
+}
